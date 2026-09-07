@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "date": "2026-09-07",
+    "updatedAt": "2026-09-07T03:40:42.136Z",
+    "mode": "live"
+  },
+  "domestic": [
+    {
+      "id": "it之家-1788748457000",
+      "region": "domestic",
+      "title": "全球首款 AI 智能体手机：努比亚 NaviX Ultra 开启预约，下周三登场",
+      "url": "https://www.ithome.com/0/999/147.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"f2a7\">IT之家 9 月 7 日消息，努比亚今天宣布，全球首款 AI 智能体手机 NaviX Ultra 现已在京东开启预约，<strong>新品将在下周三（9 月 16 日）登场</strong>。</p><p style=\"text-align: center;\" data-vmark=\"c883\"><img src=\"…",
+      "pubDate": "2026-09-07T02:34:17.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "it之家-1788747526000",
+      "region": "domestic",
+      "title": "全球首款 AI 智能体手机努比亚 NaviX Ultra 定档 9 月 16 日发布",
+      "url": "https://www.ithome.com/0/999/140.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"4767\">IT之家 9 月 7 日消息，努比亚手机官方今日宣布，全球首款 AI 智能体手机 —— <strong>努比亚 NaviX Ultra 定档 9 月 16 日 14:00 发布</strong>。</p><p style=\"text-align: center;\" data-vmark=\"874f\"><img src…",
+      "pubDate": "2026-09-07T02:18:46.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "少数派-1788740441000",
+      "region": "domestic",
+      "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
+      "url": "https://sspai.com/post/114250",
+      "source": "少数派",
+      "summary": "美国 CD 销量大幅反弹，公安部上线反诈智能助手「国家反诈 AI」等。<a href=\"https://sspai.com/post/114250\" target=\"_blank\">查看全文</a>",
+      "pubDate": "2026-09-07T00:20:41.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1788695061000",
+      "region": "domestic",
+      "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
+      "url": "https://www.qbitai.com/2026/09/484897.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-09-06T11:44:21.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1788669615000",
+      "region": "domestic",
+      "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
+      "url": "https://www.qbitai.com/2026/09/484890.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-09-06T04:40:15.000Z",
+      "isFallback": false
+    }
+  ],
+  "abroad": [
+    {
+      "id": "techcrunch-ai-1788727657000",
+      "region": "abroad",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-09-06T20:47:37.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1788713100000",
+      "region": "abroad",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-09-06T16:45:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1788690600000",
+      "region": "abroad",
+      "title": "My Brief Summer Fling With Siri AI",
+      "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+      "source": "Wired AI",
+      "summary": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
+      "pubDate": "2026-09-06T10:30:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1788688800000",
+      "region": "abroad",
+      "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
+      "url": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
+      "source": "Wired AI",
+      "summary": "Polls show that overwhelming majorities of Americans hate data centers. China makes a perfect scapegoat for tech leaders and their allies—the only problem is a lack of evidence.",
+      "pubDate": "2026-09-06T10:00:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "mit-tech-review-ai-1788547159000",
+      "region": "abroad",
+      "title": "Architecting memory and storage in the AI era",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source": "MIT Tech Review AI",
+      "summary": "",
+      "pubDate": "2026-09-04T18:39:19.000Z",
+      "isFallback": false
+    }
+  ]
+}

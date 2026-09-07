@@ -1,0 +1,211 @@
+{
+  "meta": {
+    "date": "2026-08-10",
+    "updatedAt": "2026-08-10T00:00:00Z",
+    "mode": "mock-only"
+  },
+  "domestic": [
+    {
+      "id": "mock-domestic-01",
+      "region": "domestic",
+      "title": "国内多家人工智能实验室发布新一代开源大模型，推理成本下降超六成",
+      "url": "https://www.jiqizhixin.com/",
+      "source": "机器之心",
+      "summary": "多家国内 AI 实验室联合发布新一代开源大模型系列，在多项基准测试中表现接近闭源旗舰模型，同时通过混合专家架构与推理优化，将单次推理成本降低超过 60%，引发开源社区广泛关注。",
+      "pubDate": "2026-08-10T06:00:00Z",
+      "isFallback": true
+    },
+    {
+      "id": "mock-domestic-02",
+      "region": "domestic",
+      "title": "智能体（Agent）加速落地：多家企业将 AI 助手接入核心业务流程",
+      "url": "https://www.qbitai.com/",
+      "source": "量子位",
+      "summary": "随着多模态与工具调用能力成熟，AI 智能体正在从演示走向生产环境。多家大型企业已将其接入客服、研发与供应链环节，报告显示自动化处理率平均提升超过 40%。",
+      "pubDate": "2026-08-09T08:30:00Z",
+      "isFallback": true
+    },
+    {
+      "id": "mock-domestic-03",
+      "region": "domestic",
+      "title": "国家人工智能产业政策加码：算力基础设施与数据要素市场同步推进",
+      "url": "https://www.ithome.com/",
+      "source": "IT之家",
+      "summary": "相关部门发布新一轮人工智能产业支持政策，重点覆盖算力基础设施建设、高质量数据集开放与行业大模型应用示范，多个城市同步出台配套补贴与人才引进措施。",
+      "pubDate": "2026-08-08T10:00:00Z",
+      "isFallback": true
+    },
+    {
+      "id": "mock-domestic-04",
+      "region": "domestic",
+      "title": "AI 编程助手渗透率创新高：国内开发者人均节省工时报告发布",
+      "url": "https://www.ithome.com/",
+      "source": "IT之家",
+      "summary": "最新开发者生态报告显示，国内开发者 AI 编程助手使用率突破新高，人均每周节省编码时间超过 5 小时，代码审查与测试环节的自动化程度显著提升。",
+      "pubDate": "2026-08-07T09:00:00Z",
+      "isFallback": true
+    },
+    {
+      "id": "mock-domestic-05",
+      "region": "domestic",
+      "title": "多模态视频生成模型迎来新突破：分钟级长视频生成进入产品化阶段",
+      "url": "https://www.qbitai.com/",
+      "source": "量子位",
+      "summary": "国内视频生成赛道密集发布新品，多款模型支持分钟级连贯长视频生成，物理一致性与角色一致性大幅改善，创作者工具与影视制作流程开始批量接入。",
+      "pubDate": "2026-08-06T07:00:00Z",
+      "isFallback": true
+    },
+    {
+      "id": "mock-domestic-06",
+      "region": "domestic",
+      "title": "AI 芯片国产化进程加快：多款推理芯片完成量产验证",
+      "url": "https://www.ithome.com/",
+      "source": "IT之家",
+      "summary": "多家芯片企业宣布推理芯片完成量产验证并开始规模出货，在主流大模型推理场景中能效比表现出色，为国内大模型部署成本下降提供硬件支撑。",
+      "pubDate": "2026-08-05T05:00:00Z",
+      "isFallback": true
+    },
+    {
+      "id": "mock-domestic-07",
+      "region": "domestic",
+      "title": "大模型进入教育场景：多省中小学开展 AI 辅助教学试点",
+      "url": "https://www.jiqizhixin.com/",
+      "source": "机器之心",
+      "summary": "教育部门推进 AI 辅助教学试点，覆盖个性化作业辅导、教师备课辅助与学情分析等场景，试点学校反馈学生自主学习效率与教师备课效率均有提升。",
+      "pubDate": "2026-08-04T06:30:00Z",
+      "isFallback": true
+    },
+    {
+      "id": "mock-domestic-08",
+      "region": "domestic",
+      "title": "开源社区热议：国产推理框架新版本性能提升明显",
+      "url": "https://www.jiqizhixin.com/",
+      "source": "机器之心",
+      "summary": "国产大模型推理框架发布新版本，通过算子融合与动态批处理优化，在消费级显卡上的推理吞吐提升显著，社区贡献者数量持续增长。",
+      "pubDate": "2026-08-03T08:00:00Z",
+      "isFallback": true
+    },
+    {
+      "id": "mock-domestic-09",
+      "region": "domestic",
+      "title": "AI 安全治理受重视：国内首个大模型安全评估标准落地",
+      "url": "https://www.ithome.com/",
+      "source": "IT之家",
+      "summary": "国内首个大模型安全评估团体标准正式实施，覆盖内容安全、隐私保护与对抗鲁棒性等维度，头部大模型厂商已开始按标准开展自评估。",
+      "pubDate": "2026-08-02T09:30:00Z",
+      "isFallback": true
+    },
+    {
+      "id": "mock-domestic-10",
+      "region": "domestic",
+      "title": "具身智能热度持续：多家人形机器人企业公布量产计划",
+      "url": "https://www.qbitai.com/",
+      "source": "量子位",
+      "summary": "具身智能赛道融资与量产消息密集，多家企业公布人形机器人小批量产时间表，核心零部件与具身大模型成为竞争焦点。",
+      "pubDate": "2026-08-01T07:00:00Z",
+      "isFallback": true
+    }
+  ],
+  "abroad": [
+    {
+      "id": "mock-abroad-01",
+      "region": "abroad",
+      "title": "Frontier AI labs race to extend context windows as enterprise demand grows",
+      "url": "https://techcrunch.com/",
+      "source": "TechCrunch",
+      "summary": "Major AI labs are competing to extend context windows into the millions of tokens, driven by enterprise demand for document-level reasoning and codebase-scale analysis in production workloads.",
+      "pubDate": "2026-08-10T12:00:00Z",
+      "isFallback": true
+    },
+    {
+      "id": "mock-abroad-02",
+      "region": "abroad",
+      "title": "EU AI Act enforcement begins: what developers need to know",
+      "url": "https://www.theverge.com/",
+      "source": "The Verge",
+      "summary": "The first wave of EU AI Act obligations took effect this month, requiring transparency disclosures and risk assessments for general-purpose AI systems, with significant implications for developers worldwide.",
+      "pubDate": "2026-08-09T14:00:00Z",
+      "isFallback": true
+    },
+    {
+      "id": "mock-abroad-03",
+      "region": "abroad",
+      "title": "Venture funding in AI infrastructure hits record quarter",
+      "url": "https://venturebeat.com/",
+      "source": "VentureBeat",
+      "summary": "AI infrastructure startups raised record funding this quarter, with data center networking, inference optimization and synthetic data companies leading the surge, according to new market data.",
+      "pubDate": "2026-08-08T15:00:00Z",
+      "isFallback": true
+    },
+    {
+      "id": "mock-abroad-04",
+      "region": "abroad",
+      "title": "Open-source models close the gap on proprietary benchmarks",
+      "url": "https://techcrunch.com/",
+      "source": "TechCrunch",
+      "summary": "New evaluation results show top open-weight models now trail the best closed models by single-digit percentage points across major benchmarks, intensifying the open vs. closed debate.",
+      "pubDate": "2026-08-07T13:00:00Z",
+      "isFallback": true
+    },
+    {
+      "id": "mock-abroad-05",
+      "region": "abroad",
+      "title": "AI agents move into enterprise workflows at scale",
+      "url": "https://venturebeat.com/",
+      "source": "VentureBeat",
+      "summary": "Enterprise adoption of autonomous AI agents accelerated this quarter, with major software vendors shipping agentic features for finance, support and operations, and CIOs reporting measurable productivity gains.",
+      "pubDate": "2026-08-06T16:00:00Z",
+      "isFallback": true
+    },
+    {
+      "id": "mock-abroad-06",
+      "region": "abroad",
+      "title": "Researchers propose new technique to cut LLM inference energy use",
+      "url": "https://www.technologyreview.com/",
+      "source": "MIT Tech Review",
+      "summary": "A research team demonstrated a token-pruning technique that cuts inference energy consumption by up to half with minimal accuracy loss, addressing growing concerns about data center power demand.",
+      "pubDate": "2026-08-05T11:00:00Z",
+      "isFallback": true
+    },
+    {
+      "id": "mock-abroad-07",
+      "region": "abroad",
+      "title": "Chipmakers unveil next-gen AI accelerators targeting inference workloads",
+      "url": "https://www.theverge.com/",
+      "source": "The Verge",
+      "summary": "Leading chipmakers announced next-generation accelerators optimized for large-scale inference, promising significant gains in tokens-per-dollar as model serving costs become the industry's core economic challenge.",
+      "pubDate": "2026-08-04T17:00:00Z",
+      "isFallback": true
+    },
+    {
+      "id": "mock-abroad-08",
+      "region": "abroad",
+      "title": "AI-generated content labeling standard gains cross-platform support",
+      "url": "https://www.theverge.com/",
+      "source": "The Verge",
+      "summary": "A coalition of platforms and model providers adopted a common metadata standard for labeling AI-generated media, aiming to curb deepfakes and improve content provenance transparency.",
+      "pubDate": "2026-08-03T12:30:00Z",
+      "isFallback": true
+    },
+    {
+      "id": "mock-abroad-09",
+      "region": "abroad",
+      "title": "Synthetic data startups attract attention as real-world data hits limits",
+      "url": "https://venturebeat.com/",
+      "source": "VentureBeat",
+      "summary": "As high-quality human-generated training data becomes scarce and expensive, synthetic data generation is emerging as a key bottleneck-solving technology, drawing significant investment and debate over quality control.",
+      "pubDate": "2026-08-02T14:30:00Z",
+      "isFallback": true
+    },
+    {
+      "id": "mock-abroad-10",
+      "region": "abroad",
+      "title": "Multimodal benchmarks show dramatic gains in visual reasoning",
+      "url": "https://www.technologyreview.com/",
+      "source": "MIT Tech Review",
+      "summary": "Latest multimodal evaluation rounds show large improvements in visual reasoning and spatial understanding, with several models now outperforming human baselines on curated benchmark suites.",
+      "pubDate": "2026-08-01T15:00:00Z",
+      "isFallback": true
+    }
+  ]
+}

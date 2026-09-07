@@ -1,0 +1,77 @@
+# 每日 AI 新闻：抓取 → 提交 → 构建 → GitHub Pages 部署
+#
+# 重要：GITHUB_TOKEN 的 commit 不会触发任何 on:push 工作流（GitHub 防递归机制），
+# 因此「定时抓取」与「构建部署」必须合并在本文件内顺序执行（fetch → build → deploy）。
+#
+# 触发时机：
+#   - 每天 23:25 UTC（北京时间 07:25）与 11:25 UTC（北京时间 19:25）自动抓取
+#   - push 到 main（普通代码提交后自动部署）
+#   - 手动 workflow_dispatch（调试/补跑）
+name: daily-news
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '25 23 * * *' # 北京 07:25
+    - cron: '25 11 * * *' # 北京 19:25
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  # 第 1 步：抓取新闻并提交（数据无变化则跳过提交）
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - name: 抓取国内外 AI 新闻
+        run: node scripts/fetch-news.mjs # 零依赖，无需 npm install
+        env:
+          SCRAPER_TIMEOUT_MS: '20000'
+          RSSHUB_BASE_URL: 'https://rsshub.app'
+      - name: 提交数据变更
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/news.json
+          git diff --cached --quiet || git commit -m "chore(data): 每日新闻自动更新 $(date -u +%F)"
+          git push
+
+  # 第 2 步：构建（依赖 package-lock.json）
+  build:
+    needs: fetch
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  # 第 3 步：部署到 GitHub Pages
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
