@@ -171,7 +171,7 @@ export async function request(cfg = {}) {
     }
   }
 
-  // ---- 降级② 本地静态 Mock 数据（离线演示模式） ----
+  // ---- 降级② 本地静态 Mock 文件（离线演示模式） ----
   if (mockUrl) {
     try {
       const res = await fetch(mockUrl, { cache: 'no-cache' })
@@ -182,8 +182,18 @@ export async function request(cfg = {}) {
         }
       }
     } catch {
-      // Mock 也失败，进入最终失败分支
+      // 文件也读不到，进入内置 mock 分支
     }
+  }
+
+  // ---- 降级③ 内置 Mock（打包进 JS bundle，完全离线也可用） ----
+  try {
+    const { MOCK_NEWS } = await import('../mock/mockNews.js')
+    if (MOCK_NEWS) {
+      return { ok: true, data: MOCK_NEWS, source: 'mock' }
+    }
+  } catch {
+    // 内置 mock 导入异常，进入最终失败分支
   }
 
   return { ok: false, code: 'ALL_FAILED', error: lastError }

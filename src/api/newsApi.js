@@ -35,7 +35,7 @@ export async function getNews(onRetry = null) {
       }
     }
 
-    // 强制来源：mock（直接读 mock，演示离线模式）
+    // 强制来源：mock（直接读 mock 文件，失败时用内置 mock，演示离线模式）
     if (forced === 'mock') {
       try {
         const res = await fetch(MOCK_NEWS_URL, { cache: 'no-cache' })
@@ -43,6 +43,12 @@ export async function getNews(onRetry = null) {
           const data = await res.json()
           return { ok: true, data, source: 'mock' }
         }
+      } catch {
+        // 文件读不到时用内置 mock
+      }
+      try {
+        const { MOCK_NEWS } = await import('../mock/mockNews.js')
+        if (MOCK_NEWS) return { ok: true, data: MOCK_NEWS, source: 'mock' }
       } catch {
         // 落入最终兜底
       }
