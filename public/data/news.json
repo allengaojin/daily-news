@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-09-07",
-    "updatedAt": "2026-09-07T07:50:18.892Z",
+    "updatedAt": "2026-09-07T08:13:52.463Z",
     "mode": "live"
   },
   "domestic": [
@@ -26,23 +26,23 @@
       "isFallback": false
     },
     {
-      "id": "量子位-1788757484000",
+      "id": "量子位-1788764006000",
       "region": "domestic",
-      "title": "业内首个！“千问办公”推出“多人工作台”",
-      "url": "https://www.qbitai.com/2026/09/485046.html",
+      "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
+      "url": "https://www.qbitai.com/2026/09/485064.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-09-07T05:04:44.000Z",
+      "pubDate": "2026-09-07T06:53:26.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1788753669000",
+      "id": "量子位-1788761014000",
       "region": "domestic",
-      "title": "产业龙头领投！中科类脑完成数亿元B+轮战略融资",
-      "url": "https://www.qbitai.com/2026/09/485039.html",
+      "title": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
+      "url": "https://www.qbitai.com/2026/09/485056.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-09-07T04:01:09.000Z",
+      "pubDate": "2026-09-07T06:03:34.000Z",
       "isFallback": false
     },
     {
@@ -58,23 +58,23 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1788767195000",
+      "id": "google-news-ai-1788768711000",
       "region": "abroad",
-      "title": "GPT-6 Astra: A new generation of intelligence - openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+      "title": "‘Did you use AI?’ is the wrong question. Ask ‘What did you use AI for?’ - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQV9VWlZ1a25pbG5mQU81UzkyRWtkdzh5NEVzcXRCRjFJNVZoOURLb2swUUhKWVRFS1RwcFNSb0lBOHRuMVc2X1U5emtKM08wamRNYXFydlhKNk9xcGVub3Q5V2Q4YUkwX1E3SG1CbWFPTXBhMEMxalNwUFA0MndEU05obmhVV2NQNEU1UjNtTnppblF5VTEzNll1cHF4TVF4aFFB?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5\" target=\"_blank\">G…",
-      "pubDate": "2026-09-07T07:46:35.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNQV9VWlZ1a25pbG5mQU81UzkyRWtkdzh5NEVzcXRCRjFJNVZoOURLb2swUUhKWVRFS1RwcFNSb0lBOHRuMVc2X1U5emtKM08wamRNYXFydlhKNk9xcGVub3…",
+      "pubDate": "2026-09-07T08:11:51.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1788766200000",
+      "id": "google-news-ai-1788768676000",
       "region": "abroad",
-      "title": "Sharjah Opens Communication Award Submissions, Steps Up Focus on AI - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU0g2LTUwcUNVY29HS3RqM2xUb1JkYjRuR3gyNE8wdE50cEgwNHhEWmppT3NzR0VQdGV1ZmVXZGoxRFBSMHRKNXdwcFNrcGdUY0xvVVkyZVUxbTBmWlZtMGlwNV9mQmV3alpDdEo0WlVWcUd2Um43WHdzTnotMkg2Rmt5Y0JKR2R0SDl3MmYzNkhUemM5MXVkNFJnbmNReHJLTTFEaGhINFJOdDBiV3c?oc=5",
+      "title": "GPT-6 Astra: A new generation of intelligence - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQU0g2LTUwcUNVY29HS3RqM2xUb1JkYjRuR3gyNE8wdE50cEgwNHhEWmppT3NzR0VQdGV1ZmVXZGoxRFBSMHRKNXdwcFNrcGdUY0xvVVkyZVUxbTBmWlZtMG…",
-      "pubDate": "2026-09-07T07:30:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5\" target=\"_blank\">G…",
+      "pubDate": "2026-09-07T08:11:16.000Z",
       "isFallback": false
     },
     {
