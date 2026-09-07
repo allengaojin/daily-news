@@ -16,7 +16,7 @@ import { readFile, writeFile, rename, mkdir } from 'node:fs/promises'
 import { existsSync } from 'node:fs'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
-import sources, { AI_KEYWORD_PATTERN } from './sources.mjs'
+import sources from './sources.mjs'
 
 // ------------------------------------------------------------
 // 路径与环境
@@ -265,7 +265,6 @@ function dedupe(items) {
         if (!a || !b) return false
         const min = Math.min(a.length, b.length)
         if (min < 10) return false
-        const common = a.slice(0, min)
         return a.slice(0, Math.floor(min * 0.8)) === b.slice(0, Math.floor(min * 0.8))
       })
       if (!hit) seen.push(item)

@@ -2,6 +2,8 @@
 // 核心原则：绝不向调用方 throw —— 全部失败返回 { ok:false }，由 UI 层兜底渲染
 import storage from '../utils/storage.js'
 import { isAuthExpired, clearAuth } from '../utils/auth.js'
+// 静态导入 mock 数据（打进主 bundle）：完全离线时无需任何网络请求即可渲染演示数据
+import { MOCK_NEWS } from '../mock/mockNews.js'
 
 const CACHE_PREFIX = 'httpCache:'
 
@@ -186,14 +188,13 @@ export async function request(cfg = {}) {
     }
   }
 
-  // ---- 降级③ 内置 Mock（打包进 JS bundle，完全离线也可用） ----
+  // ---- 降级③ 内置 Mock（随主 bundle 加载，完全离线也可用） ----
   try {
-    const { MOCK_NEWS } = await import('../mock/mockNews.js')
     if (MOCK_NEWS) {
       return { ok: true, data: MOCK_NEWS, source: 'mock' }
     }
   } catch {
-    // 内置 mock 导入异常，进入最终失败分支
+    // 进入最终失败分支
   }
 
   return { ok: false, code: 'ALL_FAILED', error: lastError }

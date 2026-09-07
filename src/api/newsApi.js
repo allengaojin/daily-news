@@ -2,6 +2,7 @@
 import { request } from './http.js'
 import { NEWS_URL, MOCK_NEWS_URL, resolveForcedSource } from '../constants/config.js'
 import storage from '../utils/storage.js'
+import { MOCK_NEWS } from '../mock/mockNews.js'
 
 const NEWS_CACHE_KEY = 'newsCache'
 
@@ -47,7 +48,6 @@ export async function getNews(onRetry = null) {
         // 文件读不到时用内置 mock
       }
       try {
-        const { MOCK_NEWS } = await import('../mock/mockNews.js')
         if (MOCK_NEWS) return { ok: true, data: MOCK_NEWS, source: 'mock' }
       } catch {
         // 落入最终兜底
