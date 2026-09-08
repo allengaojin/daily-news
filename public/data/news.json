@@ -1,48 +1,48 @@
 {
   "meta": {
     "date": "2026-09-08",
-    "updatedAt": "2026-09-08T01:15:13.279Z",
+    "updatedAt": "2026-09-08T15:10:36.067Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1788792044000",
+      "id": "it之家-1788878114000",
       "region": "domestic",
-      "title": "OpenAI GPT-6 Astra 模型自主通关 3D 解谜游戏《传送门》：耗时 24 小时，成本 571 美元",
-      "url": "https://www.ithome.com/0/999/488.htm",
+      "title": "吉利银河战舰 700 将于 9 月 15 日开启预售，首发搭载 AI 新能源越野技术",
+      "url": "https://www.ithome.com/0/999/939.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"991f\">IT之家 9 月 7 日消息，一名 AI 和大语言模型爱好者近日进行了一项实验，让 OpenAI 的新模型 GPT-6 Astra 自主通关了 Valve 旗下 3D 解谜游戏《传送门》。</p><p style=\"text-align: center;\" data-vmark=\"4b70\"><img src=\"ht…",
-      "pubDate": "2026-09-07T14:40:44.000Z",
+      "summary": "<p data-vmark=\"654a\">IT之家 9 月 8 日消息，吉利汽车传播策略部长、吉利银河公关部长 @单爱富William 今天（8 日）晚间宣布，吉利银河战舰 700 将于 <strong>9 月 15 日</strong>开启全球预售。</p><p style=\"text-align: center;\" data-vmark=\"b349\"><…",
+      "pubDate": "2026-09-08T14:35:14.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1788788244000",
+      "id": "it之家-1788873693000",
       "region": "domestic",
-      "title": "驰为 UniBox AI495 Pro 迷你主机亮相，X 型金属框架设计",
-      "url": "https://www.ithome.com/0/999/473.htm",
+      "title": "“傻瓜式”剪片：Adobe Premiere 更新 AI 功能，时间线上能直接生成音视频素材",
+      "url": "https://www.ithome.com/0/999/926.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"e0ce\">IT之家 9 月 7 日消息，驰为 (CHUWI) 在 IFA 2026 上公布了 2 款 AI 工作站迷你主机，分别是 UniBox AI495 Pro 和 UniBox AI395，<strong>搭载对应型号的 AMD 锐龙 AI Max+ 处理器</strong>。</p><p data-vmark=\"246…",
-      "pubDate": "2026-09-07T13:37:24.000Z",
+      "summary": "<p class=\"isSelectedEnd\" data-vmark=\"554d\">IT之家 9 月 8 日消息，Adobe 今天（8 日）宣布重新设计专业视频剪辑软件 Premiere 中的 AI 交互方式，新的“生成式媒体”工具支持直接在项目时间线中生成视频、音效、音乐和声景，<strong>无需中断当前工作流程</strong>。所使用的生成模型并非…",
+      "pubDate": "2026-09-08T13:21:33.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1788773646000",
+      "id": "量子位-1788847530000",
       "region": "domestic",
-      "title": "3秒变身！会合体的机器人，卖到全球50国",
-      "url": "https://www.qbitai.com/2026/09/485525.html",
+      "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
+      "url": "https://www.qbitai.com/2026/09/485854.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-09-07T09:34:06.000Z",
+      "pubDate": "2026-09-08T06:05:30.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1788771846000",
+      "id": "量子位-1788843903000",
       "region": "domestic",
-      "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
-      "url": "https://www.qbitai.com/2026/09/485431.html",
+      "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
+      "url": "https://www.qbitai.com/2026/09/485794.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-09-07T09:04:06.000Z",
+      "pubDate": "2026-09-08T05:05:03.000Z",
       "isFallback": false
     },
     {
@@ -58,23 +58,43 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1788830064000",
+      "id": "google-news-ai-1788879828000",
       "region": "abroad",
-      "title": "“AI recommendations stay the same even after data is deleted”: DGIST develops smart AI that protects the “right to be forgotten” - Asia Research News |",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdnNIOHpoVVgzaW9USG83WDJpQzlqZVdnVzFqR2R5bi1jSndnR0Mza3J3eDdRNmpCblIzcnQ2TWw0VG9pRFJ0MlZUeWJzd1ZHYTBDbDNrTl9oYS1OUDJMTHlXcWFXN3h0T2VrcHNvcHlGUm5Hc2hYdExGQUdQODN0XzhOZnZsZmgzM1VNUzBGaVpIOERudGp1X2tpUnRRVTdoT2cwNVZJVjZRb2ZscGwycTRPRzhiMm9SNUZGb2hsQ0stT0hMNFFWUlpVams4YWhOalRMRzFSX09CZjB2N2c?oc=5",
+      "title": "Quality of Earnings & Due Diligence in an AI World - Forvis Mazars US",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT2FSVnpiVG9aLXNyM2c1QW5GZ1U1dDhsTUtkbU5TY0VpdkE5Z2ZBNERpVjZNZGRIZXJlSGotVGFsYWtTMnE3bDlhLXd0c1hNS2JEMHFjejZ0cllpY3ZzOWxpcnNQWVQ4WDJOSW96N3VFZlJyS2JqYVZqemlERkhrbFJVNlRlWmFBTHlaN0xLSEZJMkNOLVFpUVBn?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdnNIOHpoVVgzaW9USG83WDJpQzlqZVdnVzFqR2R5bi1jSndnR0Mza3J3eDdRNmpCblIzcnQ2TWw0VG9pRFJ0MlZUeWJzd1ZHYTBDbDNrTl9oYS1OUDJMTH…",
-      "pubDate": "2026-09-08T01:14:24.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOT2FSVnpiVG9aLXNyM2c1QW5GZ1U1dDhsTUtkbU5TY0VpdkE5Z2ZBNERpVjZNZGRIZXJlSGotVGFsYWtTMnE3bDlhLXd0c1hNS2JEMHFjejZ0cllpY3ZzOW…",
+      "pubDate": "2026-09-08T15:03:48.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1788829914000",
+      "id": "google-news-ai-1788879630000",
       "region": "abroad",
-      "title": "GPT-6 Astra: A new generation of intelligence - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+      "title": "Who Will Win the AI Arms Race? - SECURITY.COM",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54bS1VN3JzM3V5SnQ4SjQ1TGUydFRjWm9CZDE4QWRmNTl4R0pScXFkQnNxZ2hQMFBSd0ZEblVTbEp0b3pRWjJrMlM2U25MVUNFNUYwRWpsd2ZuNTJ5QUJuZVhIcmE2QUlCWE8zaQ?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5\" target=\"_blank\">G…",
-      "pubDate": "2026-09-08T01:11:54.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE54bS1VN3JzM3V5SnQ4SjQ1TGUydFRjWm9CZDE4QWRmNTl4R0pScXFkQnNxZ2hQMFBSd0ZEblVTbEp0b3pRWjJrMlM2U25MVUNFNUYwRWpsd2ZuNTJ5QUJuZV…",
+      "pubDate": "2026-09-08T15:00:30.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1788877068000",
+      "region": "abroad",
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-09-08T14:17:48.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "mit-tech-review-ai-1788863640000",
+      "region": "abroad",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "source": "MIT Tech Review AI",
+      "summary": "",
+      "pubDate": "2026-09-08T10:34:00.000Z",
       "isFallback": false
     },
     {
@@ -85,26 +105,6 @@
       "source": "TechCrunch AI",
       "summary": "",
       "pubDate": "2026-09-07T19:24:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1788777000000",
-      "region": "abroad",
-      "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
-      "url": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
-      "source": "Wired AI",
-      "summary": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
-      "pubDate": "2026-09-07T10:30:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1788727657000",
-      "region": "abroad",
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-09-06T20:47:37.000Z",
       "isFallback": false
     }
   ]
