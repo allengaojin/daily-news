@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-09-08",
-    "updatedAt": "2026-09-07T16:31:48.301Z",
+    "updatedAt": "2026-09-08T01:15:13.279Z",
     "mode": "live"
   },
   "domestic": [
@@ -58,23 +58,33 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1788798607000",
+      "id": "google-news-ai-1788830064000",
+      "region": "abroad",
+      "title": "“AI recommendations stay the same even after data is deleted”: DGIST develops smart AI that protects the “right to be forgotten” - Asia Research News |",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdnNIOHpoVVgzaW9USG83WDJpQzlqZVdnVzFqR2R5bi1jSndnR0Mza3J3eDdRNmpCblIzcnQ2TWw0VG9pRFJ0MlZUeWJzd1ZHYTBDbDNrTl9oYS1OUDJMTHlXcWFXN3h0T2VrcHNvcHlGUm5Hc2hYdExGQUdQODN0XzhOZnZsZmgzM1VNUzBGaVpIOERudGp1X2tpUnRRVTdoT2cwNVZJVjZRb2ZscGwycTRPRzhiMm9SNUZGb2hsQ0stT0hMNFFWUlpVams4YWhOalRMRzFSX09CZjB2N2c?oc=5",
+      "source": "Google News AI",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdnNIOHpoVVgzaW9USG83WDJpQzlqZVdnVzFqR2R5bi1jSndnR0Mza3J3eDdRNmpCblIzcnQ2TWw0VG9pRFJ0MlZUeWJzd1ZHYTBDbDNrTl9oYS1OUDJMTH…",
+      "pubDate": "2026-09-08T01:14:24.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "google-news-ai-1788829914000",
       "region": "abroad",
       "title": "GPT-6 Astra: A new generation of intelligence - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
       "source": "Google News AI",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5\" target=\"_blank\">G…",
-      "pubDate": "2026-09-07T16:30:07.000Z",
+      "pubDate": "2026-09-08T01:11:54.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1788797973000",
+      "id": "techcrunch-ai-1788809040000",
       "region": "abroad",
-      "title": "Opinion | The AI boom isn’t like other bubbles - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLURGZFdua1psczRwd2ZWa2xMdUNmY0ZmbkNoUVRhVDRMZnN4cHpsZUQxMXZSaEFyZTVZci1peGk3RjNpWV9MRlJQT3hMUUdzczdkeG1XTzAxWmNRWExFMTh5c3QzM1E1VXNBVlk1TVMxQXdhUDhCTEc1aU9Dcmh2LWJoR0poNkhEeVVv?oc=5",
-      "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLURGZFdua1psczRwd2ZWa2xMdUNmY0ZmbkNoUVRhVDRMZnN4cHpsZUQxMXZSaEFyZTVZci1peGk3RjNpWV9MRlJQT3hMUUdzczdkeG1XTzAxWmNRWExFMT…",
-      "pubDate": "2026-09-07T16:19:33.000Z",
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-09-07T19:24:00.000Z",
       "isFallback": false
     },
     {
@@ -95,16 +105,6 @@
       "source": "TechCrunch AI",
       "summary": "",
       "pubDate": "2026-09-06T20:47:37.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1788713100000",
-      "region": "abroad",
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-09-06T16:45:00.000Z",
       "isFallback": false
     }
   ]
