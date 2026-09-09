@@ -1,28 +1,28 @@
 {
   "meta": {
-    "date": "2026-09-08",
-    "updatedAt": "2026-09-08T15:10:36.067Z",
-    "mode": "live"
+    "date": "2026-09-09",
+    "updatedAt": "2026-09-09T01:17:18.029Z",
+    "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1788878114000",
+      "id": "it之家-1788915659000",
       "region": "domestic",
-      "title": "吉利银河战舰 700 将于 9 月 15 日开启预售，首发搭载 AI 新能源越野技术",
-      "url": "https://www.ithome.com/0/999/939.htm",
+      "title": "“国家反诈 AI”App 正式上线，总台中国之声手把手教你怎么用",
+      "url": "https://www.ithome.com/0/999/988.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"654a\">IT之家 9 月 8 日消息，吉利汽车传播策略部长、吉利银河公关部长 @单爱富William 今天（8 日）晚间宣布，吉利银河战舰 700 将于 <strong>9 月 15 日</strong>开启全球预售。</p><p style=\"text-align: center;\" data-vmark=\"b349\"><…",
-      "pubDate": "2026-09-08T14:35:14.000Z",
+      "summary": "<p data-vmark=\"ac56\">IT之家 9 月 9 日消息，由公安部刑事侦查局指导、上海市公安局自主研发的“国家反诈 AI”App 已于上周正式上线。</p><p data-vmark=\"cdd0\">该应用依托 AI 大模型智能问答系统，旨在为用户提供实时的诈骗手法拆解与风险判断服务。中央广播电视总台中国之声官方今日发文，为大家提供了一份“手把手…",
+      "pubDate": "2026-09-09T01:00:59.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1788873693000",
+      "id": "it之家-1788915656000",
       "region": "domestic",
-      "title": "“傻瓜式”剪片：Adobe Premiere 更新 AI 功能，时间线上能直接生成音视频素材",
-      "url": "https://www.ithome.com/0/999/926.htm",
+      "title": "三星电子与 Mistral AI 达成战略合作，联手打造半导体专用人工智能模型",
+      "url": "https://www.ithome.com/0/999/987.htm",
       "source": "IT之家",
-      "summary": "<p class=\"isSelectedEnd\" data-vmark=\"554d\">IT之家 9 月 8 日消息，Adobe 今天（8 日）宣布重新设计专业视频剪辑软件 Premiere 中的 AI 交互方式，新的“生成式媒体”工具支持直接在项目时间线中生成视频、音效、音乐和声景，<strong>无需中断当前工作流程</strong>。所使用的生成模型并非…",
-      "pubDate": "2026-09-08T13:21:33.000Z",
+      "summary": "<p data-vmark=\"293e\">IT之家 9 月 9 日消息，三星电子 (Samsung Electronics) 与法国人工智能初创企业 Mistral AI 当地时间 8 日签署一份战略合作协议。三星电子也是 <a href=\"https://www.ithome.com/0/999/657.htm\" target=\"_blank\">Mistr…",
+      "pubDate": "2026-09-09T01:00:56.000Z",
       "isFallback": false
     },
     {
@@ -46,65 +46,65 @@
       "isFallback": false
     },
     {
-      "id": "少数派-1788740441000",
+      "id": "mock-domestic-01",
       "region": "domestic",
-      "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
-      "url": "https://sspai.com/post/114250",
-      "source": "少数派",
-      "summary": "美国 CD 销量大幅反弹，公安部上线反诈智能助手「国家反诈 AI」等。<a href=\"https://sspai.com/post/114250\" target=\"_blank\">查看全文</a>",
-      "pubDate": "2026-09-07T00:20:41.000Z",
-      "isFallback": false
+      "title": "国内多家人工智能实验室发布新一代开源大模型，推理成本下降超六成",
+      "url": "https://www.jiqizhixin.com/",
+      "source": "机器之心",
+      "summary": "多家国内 AI 实验室联合发布新一代开源大模型系列，在多项基准测试中表现接近闭源旗舰模型，同时通过混合专家架构与推理优化，将单次推理成本降低超过 60%，引发开源社区广泛关注。",
+      "pubDate": "2026-08-10T06:00:00Z",
+      "isFallback": true
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1788879828000",
+      "id": "google-news-ai-1788915442000",
       "region": "abroad",
-      "title": "Quality of Earnings & Due Diligence in an AI World - Forvis Mazars US",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT2FSVnpiVG9aLXNyM2c1QW5GZ1U1dDhsTUtkbU5TY0VpdkE5Z2ZBNERpVjZNZGRIZXJlSGotVGFsYWtTMnE3bDlhLXd0c1hNS2JEMHFjejZ0cllpY3ZzOWxpcnNQWVQ4WDJOSW96N3VFZlJyS2JqYVZqemlERkhrbFJVNlRlWmFBTHlaN0xLSEZJMkNOLVFpUVBn?oc=5",
+      "title": "AI and the future of human decision-making - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQXhIbDVVOXk5MmtYalRGMmhNdDc2Tkh2TjE3LXdOTVk4Yi0yUG05MVdjZnFhc3g4TXRxN2x6V0pMWFdnUmhVZHFodldibHJMVTg1Y2hRc2JDRnJldU80aE4zNkpKMFZtcU8wSTJfZXVxenNjNmZramFVdVdDcG93Vk80ekpXNGRuSVgxSm9IZEF6ZDljWTlFVGN3aV9uYWtINlprLXVyRzhRbk13blFiWFFR?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOT2FSVnpiVG9aLXNyM2c1QW5GZ1U1dDhsTUtkbU5TY0VpdkE5Z2ZBNERpVjZNZGRIZXJlSGotVGFsYWtTMnE3bDlhLXd0c1hNS2JEMHFjejZ0cllpY3ZzOW…",
-      "pubDate": "2026-09-08T15:03:48.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPQXhIbDVVOXk5MmtYalRGMmhNdDc2Tkh2TjE3LXdOTVk4Yi0yUG05MVdjZnFhc3g4TXRxN2x6V0pMWFdnUmhVZHFodldibHJMVTg1Y2hRc2JDRnJldU80aE…",
+      "pubDate": "2026-09-09T00:57:22.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1788879630000",
+      "id": "google-news-ai-1788915441000",
       "region": "abroad",
-      "title": "Who Will Win the AI Arms Race? - SECURITY.COM",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54bS1VN3JzM3V5SnQ4SjQ1TGUydFRjWm9CZDE4QWRmNTl4R0pScXFkQnNxZ2hQMFBSd0ZEblVTbEp0b3pRWjJrMlM2U25MVUNFNUYwRWpsd2ZuNTJ5QUJuZVhIcmE2QUlCWE8zaQ?oc=5",
+      "title": "Bridging the AI value gap: Are team dynamics the missing link? - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSkotQ3FUVnViT0pseGp1RmZIZ0RmRXpjNTgxMzZBTmNPQmozcEhFWU4zWVFNVTBNUmFwaXpIdHA1QVBaMlF6cC1XbmtIeVlKQ2FNb3k2MlBzMHBWSkhLakUxSVFLc3dlV2VybkZxelpESkV0YzM1RUltbjd6eGwxZEs2RlotZjlZSFN1NDJabnQwUQ?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE54bS1VN3JzM3V5SnQ4SjQ1TGUydFRjWm9CZDE4QWRmNTl4R0pScXFkQnNxZ2hQMFBSd0ZEblVTbEp0b3pRWjJrMlM2U25MVUNFNUYwRWpsd2ZuNTJ5QUJuZV…",
-      "pubDate": "2026-09-08T15:00:30.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQSkotQ3FUVnViT0pseGp1RmZIZ0RmRXpjNTgxMzZBTmNPQmozcEhFWU4zWVFNVTBNUmFwaXpIdHA1QVBaMlF6cC1XbmtIeVlKQ2FNb3k2MlBzMHBWSkhLak…",
+      "pubDate": "2026-09-09T00:57:21.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1788877068000",
+      "id": "techcrunch-ai-1788901827000",
       "region": "abroad",
-      "title": "Mistral raises €3B as sovereign AI becomes big business",
-      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-08T14:17:48.000Z",
+      "pubDate": "2026-09-08T21:10:27.000Z",
       "isFallback": false
     },
     {
-      "id": "mit-tech-review-ai-1788863640000",
+      "id": "techcrunch-ai-1788901446000",
       "region": "abroad",
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "source": "MIT Tech Review AI",
-      "summary": "",
-      "pubDate": "2026-09-08T10:34:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1788809040000",
-      "region": "abroad",
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-07T19:24:00.000Z",
+      "pubDate": "2026-09-08T21:04:06.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1788898371000",
+      "region": "abroad",
+      "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
+      "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+      "source": "Wired AI",
+      "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
+      "pubDate": "2026-09-08T20:12:51.000Z",
       "isFallback": false
     }
   ]
