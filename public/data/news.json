@@ -1,48 +1,48 @@
 {
   "meta": {
     "date": "2026-09-09",
-    "updatedAt": "2026-09-09T01:17:18.029Z",
+    "updatedAt": "2026-09-09T15:09:25.891Z",
     "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1788915659000",
+      "id": "it之家-1788962422000",
       "region": "domestic",
-      "title": "“国家反诈 AI”App 正式上线，总台中国之声手把手教你怎么用",
-      "url": "https://www.ithome.com/0/999/988.htm",
+      "title": "商务部回应美方所谓 AI 蒸馏指控：于事无凭于法无据，典型双重标准",
+      "url": "https://www.ithome.com/1/000/456.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"ac56\">IT之家 9 月 9 日消息，由公安部刑事侦查局指导、上海市公安局自主研发的“国家反诈 AI”App 已于上周正式上线。</p><p data-vmark=\"cdd0\">该应用依托 AI 大模型智能问答系统，旨在为用户提供实时的诈骗手法拆解与风险判断服务。中央广播电视总台中国之声官方今日发文，为大家提供了一份“手把手…",
-      "pubDate": "2026-09-09T01:00:59.000Z",
+      "summary": "<p data-vmark=\"6f98\">IT之家 9 月 9 日消息，昨天，美国国安局等三机构发布联合声明，指控六家中国人工智能（AI）企业未经授权蒸馏美国模型提取专有知识，他们称此举会窃取美国的人工智能战略。</p><p data-vmark=\"bb2d\">据商务部官网消息，商务部新闻发言人就美发布中国人工智能企业对美蒸馏活动相关网络安全公告答记者问。<…",
+      "pubDate": "2026-09-09T14:00:22.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1788915656000",
+      "id": "it之家-1788961819000",
       "region": "domestic",
-      "title": "三星电子与 Mistral AI 达成战略合作，联手打造半导体专用人工智能模型",
-      "url": "https://www.ithome.com/0/999/987.htm",
+      "title": "腾讯 WorkBuddy 调整混元 Hy4 preview AI 模型限免权益",
+      "url": "https://www.ithome.com/1/000/454.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"293e\">IT之家 9 月 9 日消息，三星电子 (Samsung Electronics) 与法国人工智能初创企业 Mistral AI 当地时间 8 日签署一份战略合作协议。三星电子也是 <a href=\"https://www.ithome.com/0/999/657.htm\" target=\"_blank\">Mistr…",
-      "pubDate": "2026-09-09T01:00:56.000Z",
+      "summary": "<p data-vmark=\"8694\">IT之家 9 月 9 日消息，腾讯 WorkBuddy 今日宣布，Hy4 preview 限免临近尾声，将于 2026 年 9 月 10 日 23:59 结束后，在 9 月 11 日至 10 月 10 日作出调整。</p><ul class=\" list-paddingleft-2\"><li><p data-vmar…",
+      "pubDate": "2026-09-09T13:50:19.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1788847530000",
+      "id": "量子位-1788948174000",
       "region": "domestic",
-      "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
-      "url": "https://www.qbitai.com/2026/09/485854.html",
+      "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还揪出了我的Bug",
+      "url": "https://www.qbitai.com/2026/09/486374.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-09-08T06:05:30.000Z",
+      "pubDate": "2026-09-09T10:02:54.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1788843903000",
+      "id": "量子位-1788947874000",
       "region": "domestic",
-      "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
-      "url": "https://www.qbitai.com/2026/09/485794.html",
+      "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+      "url": "https://www.qbitai.com/2026/09/486370.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-09-08T05:05:03.000Z",
+      "pubDate": "2026-09-09T09:57:54.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1788915442000",
+      "id": "techcrunch-ai-1788966167000",
       "region": "abroad",
-      "title": "AI and the future of human decision-making - Deloitte",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQXhIbDVVOXk5MmtYalRGMmhNdDc2Tkh2TjE3LXdOTVk4Yi0yUG05MVdjZnFhc3g4TXRxN2x6V0pMWFdnUmhVZHFodldibHJMVTg1Y2hRc2JDRnJldU80aE4zNkpKMFZtcU8wSTJfZXVxenNjNmZramFVdVdDcG93Vk80ekpXNGRuSVgxSm9IZEF6ZDljWTlFVGN3aV9uYWtINlprLXVyRzhRbk13blFiWFFR?oc=5",
-      "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPQXhIbDVVOXk5MmtYalRGMmhNdDc2Tkh2TjE3LXdOTVk4Yi0yUG05MVdjZnFhc3g4TXRxN2x6V0pMWFdnUmhVZHFodldibHJMVTg1Y2hRc2JDRnJldU80aE…",
-      "pubDate": "2026-09-09T00:57:22.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "google-news-ai-1788915441000",
-      "region": "abroad",
-      "title": "Bridging the AI value gap: Are team dynamics the missing link? - Deloitte",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSkotQ3FUVnViT0pseGp1RmZIZ0RmRXpjNTgxMzZBTmNPQmozcEhFWU4zWVFNVTBNUmFwaXpIdHA1QVBaMlF6cC1XbmtIeVlKQ2FNb3k2MlBzMHBWSkhLakUxSVFLc3dlV2VybkZxelpESkV0YzM1RUltbjd6eGwxZEs2RlotZjlZSFN1NDJabnQwUQ?oc=5",
-      "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQSkotQ3FUVnViT0pseGp1RmZIZ0RmRXpjNTgxMzZBTmNPQmozcEhFWU4zWVFNVTBNUmFwaXpIdHA1QVBaMlF6cC1XbmtIeVlKQ2FNb3k2MlBzMHBWSkhLak…",
-      "pubDate": "2026-09-09T00:57:21.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1788901827000",
-      "region": "abroad",
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-08T21:10:27.000Z",
+      "pubDate": "2026-09-09T15:02:47.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1788901446000",
+      "id": "google-news-ai-1788966129000",
       "region": "abroad",
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "title": "Can AI fix the emergency room? - STAT",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZzlkWjg2b2d4MXE5ZnZyQVRLNTcxeXdGLXdxcFYwVFdhMEc5cW11djIwT1pLRFZRTW9Db0pfVUY5ZHNjbktVMlROY2pvY0hjUFdrOVpMNjJSTGxpWENuMmc3enBRVHRfUnRNc2RVZlZqOTg3NDlzRHZlak5pNzMtcFI2dmVpS1lvUzVKNmFyU0M?oc=5",
+      "source": "Google News AI",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNZzlkWjg2b2d4MXE5ZnZyQVRLNTcxeXdGLXdxcFYwVFdhMEc5cW11djIwT1pLRFZRTW9Db0pfVUY5ZHNjbktVMlROY2pvY0hjUFdrOVpMNjJSTGxpWENuMm…",
+      "pubDate": "2026-09-09T15:02:09.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "google-news-ai-1788966037000",
+      "region": "abroad",
+      "title": "New AI model for DNA learns from evolution to unlock secrets of the human genome - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLSXRzbEl4RVZzeE8xNzd6NER6aVVVbGF0MkoyZ2kzMl9Ba3BwT1N6TXlXb1ZZMzJtVHNNTzh2enJHWS1yMUs0V1JpRWRjbnZaQU90V0lhQUpKYVlyQ0pTRHVDN08yVzdwOExKcXd3YUxKaUU?oc=5",
+      "source": "Google News AI",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBLSXRzbEl4RVZzeE8xNzd6NER6aVVVbGF0MkoyZ2kzMl9Ba3BwT1N6TXlXb1ZZMzJtVHNNTzh2enJHWS1yMUs0V1JpRWRjbnZaQU90V0lhQUpKYVlyQ0pTRH…",
+      "pubDate": "2026-09-09T15:00:37.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1788965505000",
+      "region": "abroad",
+      "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+      "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-08T21:04:06.000Z",
+      "pubDate": "2026-09-09T14:51:45.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1788898371000",
+      "id": "wired-ai-1788958800000",
       "region": "abroad",
-      "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
-      "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+      "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
+      "url": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
       "source": "Wired AI",
-      "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
-      "pubDate": "2026-09-08T20:12:51.000Z",
+      "summary": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
+      "pubDate": "2026-09-09T13:00:00.000Z",
       "isFallback": false
     }
   ]
