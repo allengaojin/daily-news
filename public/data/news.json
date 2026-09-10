@@ -1,48 +1,48 @@
 {
   "meta": {
-    "date": "2026-09-09",
-    "updatedAt": "2026-09-09T15:09:25.891Z",
+    "date": "2026-09-10",
+    "updatedAt": "2026-09-10T01:10:18.019Z",
     "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1788962422000",
+      "id": "it之家-1789001032000",
       "region": "domestic",
-      "title": "商务部回应美方所谓 AI 蒸馏指控：于事无凭于法无据，典型双重标准",
-      "url": "https://www.ithome.com/1/000/456.htm",
+      "title": "曾获扎克伯格 15 亿美元 offer，Meta 明星 AI 研究员安德鲁 · 塔洛克宣布离职",
+      "url": "https://www.ithome.com/1/000/574.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"6f98\">IT之家 9 月 9 日消息，昨天，美国国安局等三机构发布联合声明，指控六家中国人工智能（AI）企业未经授权蒸馏美国模型提取专有知识，他们称此举会窃取美国的人工智能战略。</p><p data-vmark=\"bb2d\">据商务部官网消息，商务部新闻发言人就美发布中国人工智能企业对美蒸馏活动相关网络安全公告答记者问。<…",
-      "pubDate": "2026-09-09T14:00:22.000Z",
+      "summary": "<p data-vmark=\"a374\">北京时间 9 月 10 日，据《华尔街日报》报道，知情人士透露，明星 AI 研究员安德鲁 · 塔洛克 (Andrew Tulloch) 即将从 Meta 离职。去年，Meta 为了招募他曾提供价值超过 10 亿美元的薪酬方案。</p><p style=\"text-align: center;\" data-vmark=…",
+      "pubDate": "2026-09-10T00:43:52.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1788961819000",
+      "id": "it之家-1789000935000",
       "region": "domestic",
-      "title": "腾讯 WorkBuddy 调整混元 Hy4 preview AI 模型限免权益",
-      "url": "https://www.ithome.com/1/000/454.htm",
+      "title": "米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判",
+      "url": "https://www.ithome.com/1/000/573.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"8694\">IT之家 9 月 9 日消息，腾讯 WorkBuddy 今日宣布，Hy4 preview 限免临近尾声，将于 2026 年 9 月 10 日 23:59 结束后，在 9 月 11 日至 10 月 10 日作出调整。</p><ul class=\" list-paddingleft-2\"><li><p data-vmar…",
-      "pubDate": "2026-09-09T13:50:19.000Z",
+      "summary": "<p data-vmark=\"1678\">IT之家 9 月 10 日消息，据《案件聚焦》节目公众号，近日，上海市浦东新区人民法院宣判了上海市首例涉 AI 声音仿冒不正当竞争纠纷案。</p><p data-vmark=\"b5f3\">米哈游公司于 2025 年发现，一款 AI 变声软件提供了《原神》63 款角色的声音资源包，<strong>供用户付费变声使用</…",
+      "pubDate": "2026-09-10T00:42:15.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1788948174000",
+      "id": "量子位-1789000926000",
       "region": "domestic",
-      "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还揪出了我的Bug",
-      "url": "https://www.qbitai.com/2026/09/486374.html",
+      "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
+      "url": "https://www.qbitai.com/2026/09/486350.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-09-09T10:02:54.000Z",
+      "pubDate": "2026-09-10T00:42:06.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1788947874000",
+      "id": "量子位-1788981862000",
       "region": "domestic",
-      "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
-      "url": "https://www.qbitai.com/2026/09/486370.html",
+      "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+      "url": "https://www.qbitai.com/2026/09/486450.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-09-09T09:57:54.000Z",
+      "pubDate": "2026-09-09T19:24:22.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "techcrunch-ai-1788966167000",
+      "id": "google-news-ai-1789001994000",
       "region": "abroad",
-      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
-      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "title": "AI researcher says companies are ignoring catastrophic risks - THIRTEEN - New York Public Media",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYOTUxd1ZzakoxczB0Z0hoY255bHo4eTVmbmFfaUlrRlFJcnBhU19PVGZucVFUNVVXWnFGd3FFc2l1dVlvTTJIOTlZaFE3RXhlM2ZuVklUUGtIQVM4b0h0RUxQNFZyRWRJVHNmTEVRTm9nb3NfMGc?oc=5",
+      "source": "Google News AI",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBYOTUxd1ZzakoxczB0Z0hoY255bHo4eTVmbmFfaUlrRlFJcnBhU19PVGZucVFUNVVXWnFGd3FFc2l1dVlvTTJIOTlZaFE3RXhlM2ZuVklUUGtIQVM4b0h0RU…",
+      "pubDate": "2026-09-10T00:59:54.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "google-news-ai-1789000560000",
+      "region": "abroad",
+      "title": "Political world erupts as AI researchers warn of ‘extinction’ threat - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONE16cFNXWkVTdG1xM1dRTUxYLTVtdms1elBUVEJrT3BpT2RMS3pwaUlUVWVSQnFlM0RYYmNab2dUZ0hJRW9GRVYtTHRjLWk2SThLQzJ3ZG1iNjhQU1pEWXVLRnQyclBOOGd1WGNHYUlfdEZUdUVHRW5nYmgwZTkyT2FyTUg3TENQUENmVENmNXA4bmtNc08yaUdUOVBWaGRXQm1QVXFaR25VMW9Pa2FUVktKQldOcG80WVBaOXRuRmxDNml5WlkyUg?oc=5",
+      "source": "Google News AI",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxONE16cFNXWkVTdG1xM1dRTUxYLTVtdms1elBUVEJrT3BpT2RMS3pwaUlUVWVSQnFlM0RYYmNab2dUZ0hJRW9GRVYtTHRjLWk2SThLQzJ3ZG1iNjhQU1pEWX…",
+      "pubDate": "2026-09-10T00:36:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1788998437000",
+      "region": "abroad",
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-09T15:02:47.000Z",
+      "pubDate": "2026-09-10T00:00:37.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1788966129000",
+      "id": "techcrunch-ai-1788992722000",
       "region": "abroad",
-      "title": "Can AI fix the emergency room? - STAT",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZzlkWjg2b2d4MXE5ZnZyQVRLNTcxeXdGLXdxcFYwVFdhMEc5cW11djIwT1pLRFZRTW9Db0pfVUY5ZHNjbktVMlROY2pvY0hjUFdrOVpMNjJSTGxpWENuMmc3enBRVHRfUnRNc2RVZlZqOTg3NDlzRHZlak5pNzMtcFI2dmVpS1lvUzVKNmFyU0M?oc=5",
-      "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNZzlkWjg2b2d4MXE5ZnZyQVRLNTcxeXdGLXdxcFYwVFdhMEc5cW11djIwT1pLRFZRTW9Db0pfVUY5ZHNjbktVMlROY2pvY0hjUFdrOVpMNjJSTGxpWENuMm…",
-      "pubDate": "2026-09-09T15:02:09.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "google-news-ai-1788966037000",
-      "region": "abroad",
-      "title": "New AI model for DNA learns from evolution to unlock secrets of the human genome - Phys.org",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLSXRzbEl4RVZzeE8xNzd6NER6aVVVbGF0MkoyZ2kzMl9Ba3BwT1N6TXlXb1ZZMzJtVHNNTzh2enJHWS1yMUs0V1JpRWRjbnZaQU90V0lhQUpKYVlyQ0pTRHVDN08yVzdwOExKcXd3YUxKaUU?oc=5",
-      "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBLSXRzbEl4RVZzeE8xNzd6NER6aVVVbGF0MkoyZ2kzMl9Ba3BwT1N6TXlXb1ZZMzJtVHNNTzh2enJHWS1yMUs0V1JpRWRjbnZaQU90V0lhQUpKYVlyQ0pTRH…",
-      "pubDate": "2026-09-09T15:00:37.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1788965505000",
-      "region": "abroad",
-      "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
-      "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-09T14:51:45.000Z",
+      "pubDate": "2026-09-09T22:25:22.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1788958800000",
+      "id": "wired-ai-1788991915000",
       "region": "abroad",
-      "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
-      "url": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
+      "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
+      "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
       "source": "Wired AI",
-      "summary": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
-      "pubDate": "2026-09-09T13:00:00.000Z",
+      "summary": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.",
+      "pubDate": "2026-09-09T22:11:55.000Z",
       "isFallback": false
     }
   ]
