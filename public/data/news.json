@@ -1,48 +1,48 @@
 {
   "meta": {
     "date": "2026-09-10",
-    "updatedAt": "2026-09-10T01:10:18.019Z",
+    "updatedAt": "2026-09-10T15:01:53.895Z",
     "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1789001032000",
+      "id": "it之家-1789050354000",
       "region": "domestic",
-      "title": "曾获扎克伯格 15 亿美元 offer，Meta 明星 AI 研究员安德鲁 · 塔洛克宣布离职",
-      "url": "https://www.ithome.com/1/000/574.htm",
+      "title": "OpenAI 将为美国政府机构提供 AI 模型五折优惠，终止每年 1 美元试点项目",
+      "url": "https://www.ithome.com/1/001/015.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"a374\">北京时间 9 月 10 日，据《华尔街日报》报道，知情人士透露，明星 AI 研究员安德鲁 · 塔洛克 (Andrew Tulloch) 即将从 Meta 离职。去年，Meta 为了招募他曾提供价值超过 10 亿美元的薪酬方案。</p><p style=\"text-align: center;\" data-vmark=…",
-      "pubDate": "2026-09-10T00:43:52.000Z",
+      "summary": "<p data-vmark=\"7be3\">IT之家 9 月 10 日消息，据彭博社报道，美国总务管理局（GSA）发布声明称，OpenAI 将终止一项政府机构试点项目。该项目允许政府机构每年仅花 1 美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 6.7 元人民币）</span>使用其模型；新方案改为按用量计费，联…",
+      "pubDate": "2026-09-10T14:25:54.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1789000935000",
+      "id": "it之家-1789046507000",
       "region": "domestic",
-      "title": "米哈游《原神》角色声音被“偷”获赔 75 万元，上海首例涉 AI 声音仿冒不正当竞争案宣判",
-      "url": "https://www.ithome.com/1/000/573.htm",
+      "title": "吉利银河 TT 正式上市：定位 C 级 AI 纯电运动轿车，12.99 万-18.59 万元",
+      "url": "https://www.ithome.com/1/001/003.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"1678\">IT之家 9 月 10 日消息，据《案件聚焦》节目公众号，近日，上海市浦东新区人民法院宣判了上海市首例涉 AI 声音仿冒不正当竞争纠纷案。</p><p data-vmark=\"b5f3\">米哈游公司于 2025 年发现，一款 AI 变声软件提供了《原神》63 款角色的声音资源包，<strong>供用户付费变声使用</…",
-      "pubDate": "2026-09-10T00:42:15.000Z",
+      "summary": "<p data-vmark=\"5d0c\">IT之家 9 月 10 日消息，吉利银河旗下全新 C 级 AI 纯电运动轿车 —— 吉利银河 TT 今天（10 日）晚间正式上市，共推出五大版型，上市限时先享价为 12.99 万元-18.59 万元。</p><p data-vmark=\"7be1\" style=\"text-align: center;\"><img s…",
+      "pubDate": "2026-09-10T13:21:47.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1789000926000",
+      "id": "量子位-1789035466000",
       "region": "domestic",
-      "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
-      "url": "https://www.qbitai.com/2026/09/486350.html",
+      "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
+      "url": "https://www.qbitai.com/2026/09/486934.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-09-10T00:42:06.000Z",
+      "pubDate": "2026-09-10T10:17:46.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1788981862000",
+      "id": "量子位-1789028225000",
       "region": "domestic",
-      "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
-      "url": "https://www.qbitai.com/2026/09/486450.html",
+      "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
+      "url": "https://www.qbitai.com/2026/09/486900.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-09-09T19:24:22.000Z",
+      "pubDate": "2026-09-10T08:17:05.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1789001994000",
+      "id": "techcrunch-ai-1789052030000",
       "region": "abroad",
-      "title": "AI researcher says companies are ignoring catastrophic risks - THIRTEEN - New York Public Media",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYOTUxd1ZzakoxczB0Z0hoY255bHo4eTVmbmFfaUlrRlFJcnBhU19PVGZucVFUNVVXWnFGd3FFc2l1dVlvTTJIOTlZaFE3RXhlM2ZuVklUUGtIQVM4b0h0RUxQNFZyRWRJVHNmTEVRTm9nb3NfMGc?oc=5",
-      "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBYOTUxd1ZzakoxczB0Z0hoY255bHo4eTVmbmFfaUlrRlFJcnBhU19PVGZucVFUNVVXWnFGd3FFc2l1dVlvTTJIOTlZaFE3RXhlM2ZuVklUUGtIQVM4b0h0RU…",
-      "pubDate": "2026-09-10T00:59:54.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "google-news-ai-1789000560000",
-      "region": "abroad",
-      "title": "Political world erupts as AI researchers warn of ‘extinction’ threat - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONE16cFNXWkVTdG1xM1dRTUxYLTVtdms1elBUVEJrT3BpT2RMS3pwaUlUVWVSQnFlM0RYYmNab2dUZ0hJRW9GRVYtTHRjLWk2SThLQzJ3ZG1iNjhQU1pEWXVLRnQyclBOOGd1WGNHYUlfdEZUdUVHRW5nYmgwZTkyT2FyTUg3TENQUENmVENmNXA4bmtNc08yaUdUOVBWaGRXQm1QVXFaR25VMW9Pa2FUVktKQldOcG80WVBaOXRuRmxDNml5WlkyUg?oc=5",
-      "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxONE16cFNXWkVTdG1xM1dRTUxYLTVtdms1elBUVEJrT3BpT2RMS3pwaUlUVWVSQnFlM0RYYmNab2dUZ0hJRW9GRVYtTHRjLWk2SThLQzJ3ZG1iNjhQU1pEWX…",
-      "pubDate": "2026-09-10T00:36:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1788998437000",
-      "region": "abroad",
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "title": "AI agents are flooding public services with new requests",
+      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-10T00:00:37.000Z",
+      "pubDate": "2026-09-10T14:53:50.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1788992722000",
+      "id": "techcrunch-ai-1789049857000",
       "region": "abroad",
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "title": "Maven Robotics wants to steal your robot deployment deal",
+      "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-09T22:25:22.000Z",
+      "pubDate": "2026-09-10T14:17:37.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1788991915000",
+      "id": "mit-tech-review-ai-1789038000000",
       "region": "abroad",
-      "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
-      "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+      "title": "Powering AI is an architecture problem",
+      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "source": "MIT Tech Review AI",
+      "summary": "",
+      "pubDate": "2026-09-10T11:00:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1789036200000",
+      "region": "abroad",
+      "title": "Everything New You Can Do With Siri AI",
+      "url": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
       "source": "Wired AI",
-      "summary": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.",
-      "pubDate": "2026-09-09T22:11:55.000Z",
+      "summary": "When iOS 27 arrives, it will bring with it a fully revamped assistant for your iPhone.",
+      "pubDate": "2026-09-10T10:30:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1789034400000",
+      "region": "abroad",
+      "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
+      "url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
+      "source": "Wired AI",
+      "summary": "InquiryIQ, a previously unreported prototype, tested a model from xAI, maker of Grok, to surface associates, social accounts, and other information about people identified through …",
+      "pubDate": "2026-09-10T10:00:00.000Z",
       "isFallback": false
     }
   ]
