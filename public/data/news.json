@@ -1,28 +1,38 @@
 {
   "meta": {
-    "date": "2026-09-10",
-    "updatedAt": "2026-09-10T15:01:53.895Z",
-    "mode": "partial"
+    "date": "2026-09-11",
+    "updatedAt": "2026-09-11T01:11:42.853Z",
+    "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1789050354000",
+      "id": "it之家-1789088043000",
       "region": "domestic",
-      "title": "OpenAI 将为美国政府机构提供 AI 模型五折优惠，终止每年 1 美元试点项目",
-      "url": "https://www.ithome.com/1/001/015.htm",
+      "title": "工信部印发“AI + 软件”专项行动实施方案：支持软件企业与智能手机、智能家居、智能网联汽车等终端厂商联合创新",
+      "url": "https://www.ithome.com/1/001/103.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"7be3\">IT之家 9 月 10 日消息，据彭博社报道，美国总务管理局（GSA）发布声明称，OpenAI 将终止一项政府机构试点项目。该项目允许政府机构每年仅花 1 美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 6.7 元人民币）</span>使用其模型；新方案改为按用量计费，联…",
-      "pubDate": "2026-09-10T14:25:54.000Z",
+      "summary": "<p data-vmark=\"e66d\">IT之家 9 月 11 日消息，工业和信息化部近日印发《“人工智能 + 软件”专项行动实施方案》（下称《方案》）。</p><p data-vmark=\"c161\">《方案》提出，<strong>到 2028 年</strong>，软件和信息技术服务业智能化水平显著提升，培育一批高水平智能编程工具和智能开发平台，推广应…",
+      "pubDate": "2026-09-11T00:54:03.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1789046507000",
+      "id": "it之家-1789087881000",
       "region": "domestic",
-      "title": "吉利银河 TT 正式上市：定位 C 级 AI 纯电运动轿车，12.99 万-18.59 万元",
-      "url": "https://www.ithome.com/1/001/003.htm",
+      "title": "ChatGPT、Claude、Gemini 与 Grok 谈 AI 风险：滥用比主动攻击更现实，生物武器与网络攻击比《终结者》杀手机器人更迫近",
+      "url": "https://www.ithome.com/1/001/102.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"5d0c\">IT之家 9 月 10 日消息，吉利银河旗下全新 C 级 AI 纯电运动轿车 —— 吉利银河 TT 今天（10 日）晚间正式上市，共推出五大版型，上市限时先享价为 12.99 万元-18.59 万元。</p><p data-vmark=\"7be1\" style=\"text-align: center;\"><img s…",
-      "pubDate": "2026-09-10T13:21:47.000Z",
+      "summary": "<p data-vmark=\"701e\">9 月 11 日，《商业内幕》向 OpenAI 的 ChatGPT、谷歌 Gemini、Anthropic 的 Claude 以及 xAI 的 Grok 提出同一个问题，让它们分析 AI 可能如何导致人类灭绝，并按照可能性排序。</p><p style=\"text-align: center;\" data-vmark…",
+      "pubDate": "2026-09-11T00:51:21.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "少数派-1789081134000",
+      "region": "domestic",
+      "title": "派早报：商务部回应美国 AI 蒸馏指控",
+      "url": "https://sspai.com/post/114439",
+      "source": "少数派",
+      "summary": "<p>商务部回应美国 AI 蒸馏指控</p><p>谷歌声称为了合规将「降级」欧盟搜索服务</p><p>Apple 智能将有用量限制</p><p>OpenAI 将与三星合作开发芯片</p><p>小岛秀夫新游戏被索尼取消，转由微软发行</p><p>DeepSeek V4.1 发布</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的…",
+      "pubDate": "2026-09-10T22:58:54.000Z",
       "isFallback": false
     },
     {
@@ -44,67 +54,57 @@
       "summary": "",
       "pubDate": "2026-09-10T08:17:05.000Z",
       "isFallback": false
-    },
-    {
-      "id": "mock-domestic-01",
-      "region": "domestic",
-      "title": "国内多家人工智能实验室发布新一代开源大模型，推理成本下降超六成",
-      "url": "https://www.jiqizhixin.com/",
-      "source": "机器之心",
-      "summary": "多家国内 AI 实验室联合发布新一代开源大模型系列，在多项基准测试中表现接近闭源旗舰模型，同时通过混合专家架构与推理优化，将单次推理成本降低超过 60%，引发开源社区广泛关注。",
-      "pubDate": "2026-08-10T06:00:00Z",
-      "isFallback": true
     }
   ],
   "abroad": [
     {
-      "id": "techcrunch-ai-1789052030000",
+      "id": "google-news-ai-1789088889000",
       "region": "abroad",
-      "title": "AI agents are flooding public services with new requests",
-      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "title": "The AI safety vibe shift - Platformer",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11eURtTHc1bkV6SnUyZXlsQTZLVENhWTc4NG8tU2dJaFU5emFBU1hHUGZSSFJYUldVbEk2THJjN1c2bzhuZ19NUndWUktRMndVTVVuckdzSzVuRjlTX0FyRzVzdHdycUcxRzFjMnpndk1fOFU?oc=5",
+      "source": "Google News AI",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE11eURtTHc1bkV6SnUyZXlsQTZLVENhWTc4NG8tU2dJaFU5emFBU1hHUGZSSFJYUldVbEk2THJjN1c2bzhuZ19NUndWUktRMndVTVVuckdzSzVuRjlTX0FyRz…",
+      "pubDate": "2026-09-11T01:08:09.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "google-news-ai-1789088756000",
+      "region": "abroad",
+      "title": "AI researcher who warned of ‘disaster’ is now a target of the right - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdl9ZSnNVQlk0SGE3VzFDNGhlb1RCVENwOFkzSTBoS2I4UFBuYmVwVDlYQ08wM0lCRzBad0MtRUVLWllhSTQ5YTMzX3lhd29EZ2xXXzVwWVh5SUJGV1Q3T1VEdFFWdFF6NWlIa29SS09Kazh4Mk1WQXFhM1Z0NGFnaGZIMkdWSXRHaTdHYTRReE1pTE1neVBxTk9aSHFZNV9oNWtjU0RSdXhzQ3c?oc=5",
+      "source": "Google News AI",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdl9ZSnNVQlk0SGE3VzFDNGhlb1RCVENwOFkzSTBoS2I4UFBuYmVwVDlYQ08wM0lCRzBad0MtRUVLWllhSTQ5YTMzX3lhd29EZ2xXXzVwWVh5SUJGV1Q3T1…",
+      "pubDate": "2026-09-11T01:05:56.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1789082922000",
+      "region": "abroad",
+      "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+      "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+      "source": "Wired AI",
+      "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
+      "pubDate": "2026-09-10T23:28:42.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1789077119000",
+      "region": "abroad",
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-10T14:53:50.000Z",
+      "pubDate": "2026-09-10T21:51:59.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1789049857000",
+      "id": "techcrunch-ai-1789076100000",
       "region": "abroad",
-      "title": "Maven Robotics wants to steal your robot deployment deal",
-      "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-10T14:17:37.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "mit-tech-review-ai-1789038000000",
-      "region": "abroad",
-      "title": "Powering AI is an architecture problem",
-      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-      "source": "MIT Tech Review AI",
-      "summary": "",
-      "pubDate": "2026-09-10T11:00:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1789036200000",
-      "region": "abroad",
-      "title": "Everything New You Can Do With Siri AI",
-      "url": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
-      "source": "Wired AI",
-      "summary": "When iOS 27 arrives, it will bring with it a fully revamped assistant for your iPhone.",
-      "pubDate": "2026-09-10T10:30:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1789034400000",
-      "region": "abroad",
-      "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
-      "url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
-      "source": "Wired AI",
-      "summary": "InquiryIQ, a previously unreported prototype, tested a model from xAI, maker of Grok, to surface associates, social accounts, and other information about people identified through …",
-      "pubDate": "2026-09-10T10:00:00.000Z",
+      "pubDate": "2026-09-10T21:35:00.000Z",
       "isFallback": false
     }
   ]
