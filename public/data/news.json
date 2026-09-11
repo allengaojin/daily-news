@@ -1,28 +1,48 @@
 {
   "meta": {
     "date": "2026-09-11",
-    "updatedAt": "2026-09-11T01:11:42.853Z",
+    "updatedAt": "2026-09-11T15:04:31.296Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1789088043000",
+      "id": "量子位-1789135516000",
       "region": "domestic",
-      "title": "工信部印发“AI + 软件”专项行动实施方案：支持软件企业与智能手机、智能家居、智能网联汽车等终端厂商联合创新",
-      "url": "https://www.ithome.com/1/001/103.htm",
-      "source": "IT之家",
-      "summary": "<p data-vmark=\"e66d\">IT之家 9 月 11 日消息，工业和信息化部近日印发《“人工智能 + 软件”专项行动实施方案》（下称《方案》）。</p><p data-vmark=\"c161\">《方案》提出，<strong>到 2028 年</strong>，软件和信息技术服务业智能化水平显著提升，培育一批高水平智能编程工具和智能开发平台，推广应…",
-      "pubDate": "2026-09-11T00:54:03.000Z",
+      "title": "啊？Anthropic最高320万招销售，只为服务Meta",
+      "url": "https://www.qbitai.com/2026/09/487573.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-09-11T14:05:16.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1789087881000",
+      "id": "量子位-1789135149000",
       "region": "domestic",
-      "title": "ChatGPT、Claude、Gemini 与 Grok 谈 AI 风险：滥用比主动攻击更现实，生物武器与网络攻击比《终结者》杀手机器人更迫近",
-      "url": "https://www.ithome.com/1/001/102.htm",
+      "title": "百度秒哒再升级！让最懂业务的人，亲手造自己的系统",
+      "url": "https://www.qbitai.com/2026/09/487415.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-09-11T13:59:09.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "it之家-1789134919000",
+      "region": "domestic",
+      "title": "全球首款 AI 智能体手机，努比亚 NaviX Ultra 将搭载 2 亿像素主摄",
+      "url": "https://www.ithome.com/1/001/459.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"701e\">9 月 11 日，《商业内幕》向 OpenAI 的 ChatGPT、谷歌 Gemini、Anthropic 的 Claude 以及 xAI 的 Grok 提出同一个问题，让它们分析 AI 可能如何导致人类灭绝，并按照可能性排序。</p><p style=\"text-align: center;\" data-vmark…",
-      "pubDate": "2026-09-11T00:51:21.000Z",
+      "summary": "<p data-vmark=\"dd2d\">IT之家 9 月 11 日消息，全球首款 AI 智能体手机努比亚 NaviX Ultra 将于 9 月 16 日发布，现已在各大电商平台开启预约。</p><p data-vmark=\"98f4\">据官方预热，这款新品搭载 2 亿像素主摄，旗舰三摄系统；星河冷控散热系统，7100m㎡立体均热 VC；机身厚度仅 7.62…",
+      "pubDate": "2026-09-11T13:55:19.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "it之家-1789131994000",
+      "region": "domestic",
+      "title": "美国一律师用 ChatGPT 生成诉讼文书却出现伪造警察证词，被罚款 5000 美元",
+      "url": "https://www.ithome.com/1/001/451.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"d114\">IT之家 9 月 11 日消息，据路透社今天（11 日）报道，美国新墨西哥州最高法院宣布，辩护律师斯蒂芬 · 阿伦斯在为一名被判谋杀罪的当事人提出上诉时，提交的文书中出现了<strong>虚构证人和编造的警察证词</strong>。</p><p data-vmark=\"1d85\">然而，这些内容均由 OpenAI 的…",
+      "pubDate": "2026-09-11T13:06:34.000Z",
       "isFallback": false
     },
     {
@@ -34,57 +54,47 @@
       "summary": "<p>商务部回应美国 AI 蒸馏指控</p><p>谷歌声称为了合规将「降级」欧盟搜索服务</p><p>Apple 智能将有用量限制</p><p>OpenAI 将与三星合作开发芯片</p><p>小岛秀夫新游戏被索尼取消，转由微软发行</p><p>DeepSeek V4.1 发布</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的…",
       "pubDate": "2026-09-10T22:58:54.000Z",
       "isFallback": false
-    },
-    {
-      "id": "量子位-1789035466000",
-      "region": "domestic",
-      "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
-      "url": "https://www.qbitai.com/2026/09/486934.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-09-10T10:17:46.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1789028225000",
-      "region": "domestic",
-      "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
-      "url": "https://www.qbitai.com/2026/09/486900.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-09-10T08:17:05.000Z",
-      "isFallback": false
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1789088889000",
+      "id": "wired-ai-1789138800000",
       "region": "abroad",
-      "title": "The AI safety vibe shift - Platformer",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11eURtTHc1bkV6SnUyZXlsQTZLVENhWTc4NG8tU2dJaFU5emFBU1hHUGZSSFJYUldVbEk2THJjN1c2bzhuZ19NUndWUktRMndVTVVuckdzSzVuRjlTX0FyRzVzdHdycUcxRzFjMnpndk1fOFU?oc=5",
-      "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE11eURtTHc1bkV6SnUyZXlsQTZLVENhWTc4NG8tU2dJaFU5emFBU1hHUGZSSFJYUldVbEk2THJjN1c2bzhuZ19NUndWUktRMndVTVVuckdzSzVuRjlTX0FyRz…",
-      "pubDate": "2026-09-11T01:08:09.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "google-news-ai-1789088756000",
-      "region": "abroad",
-      "title": "AI researcher who warned of ‘disaster’ is now a target of the right - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdl9ZSnNVQlk0SGE3VzFDNGhlb1RCVENwOFkzSTBoS2I4UFBuYmVwVDlYQ08wM0lCRzBad0MtRUVLWllhSTQ5YTMzX3lhd29EZ2xXXzVwWVh5SUJGV1Q3T1VEdFFWdFF6NWlIa29SS09Kazh4Mk1WQXFhM1Z0NGFnaGZIMkdWSXRHaTdHYTRReE1pTE1neVBxTk9aSHFZNV9oNWtjU0RSdXhzQ3c?oc=5",
-      "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdl9ZSnNVQlk0SGE3VzFDNGhlb1RCVENwOFkzSTBoS2I4UFBuYmVwVDlYQ08wM0lCRzBad0MtRUVLWllhSTQ5YTMzX3lhd29EZ2xXXzVwWVh5SUJGV1Q3T1…",
-      "pubDate": "2026-09-11T01:05:56.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1789082922000",
-      "region": "abroad",
-      "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
-      "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+      "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
+      "url": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
       "source": "Wired AI",
-      "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
-      "pubDate": "2026-09-10T23:28:42.000Z",
+      "summary": "Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons.",
+      "pubDate": "2026-09-11T15:00:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "google-news-ai-1789138635000",
+      "region": "abroad",
+      "title": "California Starts Regulating the People Who Audit AI - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYVdVYTNLRkctYzVJTjREM05ISE42cUZfVzFULTJILXdjZWRvcTB2WXgwcV9pV2JzQllSbEdnSWc3a1FCZ2JrX29sY3A0VW5rZHdXQkpIenhqbllhdzA4aG9ONVVqT2pNeGdaWEM2aTliUGFzcXNJU0FvUTFucXJLX0ZsVThSWERjU3lYMEVURkc?oc=5",
+      "source": "Google News AI",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQYVdVYTNLRkctYzVJTjREM05ISE42cUZfVzFULTJILXdjZWRvcTB2WXgwcV9pV2JzQllSbEdnSWc3a1FCZ2JrX29sY3A0VW5rZHdXQkpIenhqbllhdzA4aG…",
+      "pubDate": "2026-09-11T14:57:15.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "google-news-ai-1789138392000",
+      "region": "abroad",
+      "title": "For Startups Facing the AI Safety Uproar, Cybersecurity Looms Larger than Existential Risk - newcomer.co",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5TnhEVGxOcFFYLW8wc3M2WWdWSHZoS1g2eWQ3bEVCMkdjeHVvdVQ2Yk44emx1MUgtaDhxRHo5REJtUVJHdmVRY0ZvM01LUk9rLW9KOHM5RjkwZGx5OGhvdk1BNWliNTBEUjVn?oc=5",
+      "source": "Google News AI",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFB5TnhEVGxOcFFYLW8wc3M2WWdWSHZoS1g2eWQ3bEVCMkdjeHVvdVQ2Yk44emx1MUgtaDhxRHo5REJtUVJHdmVRY0ZvM01LUk9rLW9KOHM5RjkwZGx5OGhvdk…",
+      "pubDate": "2026-09-11T14:53:12.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1789117200000",
+      "region": "abroad",
+      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+      "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+      "source": "Wired AI",
+      "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
+      "pubDate": "2026-09-11T09:00:00.000Z",
       "isFallback": false
     },
     {
@@ -95,16 +105,6 @@
       "source": "TechCrunch AI",
       "summary": "",
       "pubDate": "2026-09-10T21:51:59.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1789076100000",
-      "region": "abroad",
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-09-10T21:35:00.000Z",
       "isFallback": false
     }
   ]
