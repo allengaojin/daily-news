@@ -1,10 +1,40 @@
 {
   "meta": {
-    "date": "2026-09-11",
-    "updatedAt": "2026-09-11T15:04:31.296Z",
+    "date": "2026-09-12",
+    "updatedAt": "2026-09-12T01:13:16.415Z",
     "mode": "live"
   },
   "domestic": [
+    {
+      "id": "it之家-1789173949000",
+      "region": "domestic",
+      "title": "第三方公司基于三星 Galaxy Watch 8 打造 Bark Watch 儿童手表，内置 AI 风险监测功能",
+      "url": "https://www.ithome.com/1/001/505.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"c70e\">IT之家 9 月 12 日消息，美国科技公司 Bark Technologies 基于三星 Galaxy Watch 8 40mm 版手表进行定制，推出了一款 Bark Watch 儿童手表，面向“已经开始希望获得更多独立性的儿童”，定价为 240 美元<span class=\"exch-money-value\">（…",
+      "pubDate": "2026-09-12T00:45:49.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "it之家-1789173888000",
+      "region": "domestic",
+      "title": "国补后 3499 元起，全新一代华为 MatePad Air / 悦享款平板电脑今日开售",
+      "url": "https://www.ithome.com/1/001/503.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"61f4\">IT之家 9 月 12 日消息，全新一代华为 MatePad Air 平板电脑今日 10:08 正式开售，<strong>限时优惠叠加国补后到手价 4299 元起，悦享款 3499 元起</strong>。</p><p data-vmark=\"620a\" style=\"text-align: center;\"><im…",
+      "pubDate": "2026-09-12T00:44:48.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1789149756000",
+      "region": "domestic",
+      "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
+      "url": "https://www.qbitai.com/2026/09/487631.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-09-11T18:02:36.000Z",
+      "isFallback": false
+    },
     {
       "id": "量子位-1789135516000",
       "region": "domestic",
@@ -13,36 +43,6 @@
       "source": "量子位",
       "summary": "",
       "pubDate": "2026-09-11T14:05:16.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1789135149000",
-      "region": "domestic",
-      "title": "百度秒哒再升级！让最懂业务的人，亲手造自己的系统",
-      "url": "https://www.qbitai.com/2026/09/487415.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-09-11T13:59:09.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "it之家-1789134919000",
-      "region": "domestic",
-      "title": "全球首款 AI 智能体手机，努比亚 NaviX Ultra 将搭载 2 亿像素主摄",
-      "url": "https://www.ithome.com/1/001/459.htm",
-      "source": "IT之家",
-      "summary": "<p data-vmark=\"dd2d\">IT之家 9 月 11 日消息，全球首款 AI 智能体手机努比亚 NaviX Ultra 将于 9 月 16 日发布，现已在各大电商平台开启预约。</p><p data-vmark=\"98f4\">据官方预热，这款新品搭载 2 亿像素主摄，旗舰三摄系统；星河冷控散热系统，7100m㎡立体均热 VC；机身厚度仅 7.62…",
-      "pubDate": "2026-09-11T13:55:19.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "it之家-1789131994000",
-      "region": "domestic",
-      "title": "美国一律师用 ChatGPT 生成诉讼文书却出现伪造警察证词，被罚款 5000 美元",
-      "url": "https://www.ithome.com/1/001/451.htm",
-      "source": "IT之家",
-      "summary": "<p data-vmark=\"d114\">IT之家 9 月 11 日消息，据路透社今天（11 日）报道，美国新墨西哥州最高法院宣布，辩护律师斯蒂芬 · 阿伦斯在为一名被判谋杀罪的当事人提出上诉时，提交的文书中出现了<strong>虚构证人和编造的警察证词</strong>。</p><p data-vmark=\"1d85\">然而，这些内容均由 OpenAI 的…",
-      "pubDate": "2026-09-11T13:06:34.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "wired-ai-1789138800000",
+      "id": "google-news-ai-1789175040000",
       "region": "abroad",
-      "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
-      "url": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
-      "source": "Wired AI",
-      "summary": "Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons.",
-      "pubDate": "2026-09-11T15:00:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "google-news-ai-1789138635000",
-      "region": "abroad",
-      "title": "California Starts Regulating the People Who Audit AI - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYVdVYTNLRkctYzVJTjREM05ISE42cUZfVzFULTJILXdjZWRvcTB2WXgwcV9pV2JzQllSbEdnSWc3a1FCZ2JrX29sY3A0VW5rZHdXQkpIenhqbllhdzA4aG9ONVVqT2pNeGdaWEM2aTliUGFzcXNJU0FvUTFucXJLX0ZsVThSWERjU3lYMEVURkc?oc=5",
+      "title": "OpenAI reveals another rogue AI attack - Politico",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXZXNlk4VC1HcDRMVVZkUDBBcW5KQmJPZWpPWHFPdXZWV1d2MDlqeWNBcWRLUFZFN2dPWFZxV2xDSW55anpnM2RZcHVDeXVUeDZ0ZlBBdGtndVBrM3YyZkt1VUxTaVdLcHhtN1J2YVlqMno0TjI2blBhZTV0WE1QZlBaZkxiU19BSGdyLUsxN0ZNdw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQYVdVYTNLRkctYzVJTjREM05ISE42cUZfVzFULTJILXdjZWRvcTB2WXgwcV9pV2JzQllSbEdnSWc3a1FCZ2JrX29sY3A0VW5rZHdXQkpIenhqbllhdzA4aG…",
-      "pubDate": "2026-09-11T14:57:15.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXZXNlk4VC1HcDRMVVZkUDBBcW5KQmJPZWpPWHFPdXZWV1d2MDlqeWNBcWRLUFZFN2dPWFZxV2xDSW55anpnM2RZcHVDeXVUeDZ0ZlBBdGtndVBrM3YyZk…",
+      "pubDate": "2026-09-12T01:04:00.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1789138392000",
+      "id": "google-news-ai-1789174911000",
       "region": "abroad",
-      "title": "For Startups Facing the AI Safety Uproar, Cybersecurity Looms Larger than Existential Risk - newcomer.co",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5TnhEVGxOcFFYLW8wc3M2WWdWSHZoS1g2eWQ3bEVCMkdjeHVvdVQ2Yk44emx1MUgtaDhxRHo5REJtUVJHdmVRY0ZvM01LUk9rLW9KOHM5RjkwZGx5OGhvdk1BNWliNTBEUjVn?oc=5",
+      "title": "America’s Great AI Freakout Has Begun - wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Dek50el9YQ2xpYUNLMjhTa3RXdHJRNFdHbHFNSEwwQ1I3MnpwMnFwdzZZOGNaVDFWdmUxczhMRS1DNkw5U0dEa01TMjJ2X1ZpV0hVc3JXcENfSktGZF9OakNTYUR3MTltaHU5OE1UUjE4dWhMeE44NENGSVU2QQ?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFB5TnhEVGxOcFFYLW8wc3M2WWdWSHZoS1g2eWQ3bEVCMkdjeHVvdVQ2Yk44emx1MUgtaDhxRHo5REJtUVJHdmVRY0ZvM01LUk9rLW9KOHM5RjkwZGx5OGhvdk…",
-      "pubDate": "2026-09-11T14:53:12.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9Dek50el9YQ2xpYUNLMjhTa3RXdHJRNFdHbHFNSEwwQ1I3MnpwMnFwdzZZOGNaVDFWdmUxczhMRS1DNkw5U0dEa01TMjJ2X1ZpV0hVc3JXcENfSktGZF9Oak…",
+      "pubDate": "2026-09-12T01:01:51.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1789117200000",
+      "id": "techcrunch-ai-1789167497000",
       "region": "abroad",
-      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
-      "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
-      "source": "Wired AI",
-      "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
-      "pubDate": "2026-09-11T09:00:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1789077119000",
-      "region": "abroad",
-      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-10T21:51:59.000Z",
+      "pubDate": "2026-09-11T22:58:17.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1789160387000",
+      "region": "abroad",
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-09-11T20:59:47.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "mit-tech-review-ai-1789157106000",
+      "region": "abroad",
+      "title": "Roundtables: AI’s apocalypse crisis",
+      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Tech Review AI",
+      "summary": "",
+      "pubDate": "2026-09-11T20:05:06.000Z",
       "isFallback": false
     }
   ]
