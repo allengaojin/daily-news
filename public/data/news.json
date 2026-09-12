@@ -1,80 +1,90 @@
 {
   "meta": {
     "date": "2026-09-12",
-    "updatedAt": "2026-09-12T01:13:16.415Z",
+    "updatedAt": "2026-09-12T14:13:19.894Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1789173949000",
+      "id": "it之家-1789215245000",
       "region": "domestic",
-      "title": "第三方公司基于三星 Galaxy Watch 8 打造 Bark Watch 儿童手表，内置 AI 风险监测功能",
-      "url": "https://www.ithome.com/1/001/505.htm",
+      "title": "中国工程院院士邬贺铨：2030 年中国算力有望占到全球 30%",
+      "url": "https://www.ithome.com/1/001/634.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"c70e\">IT之家 9 月 12 日消息，美国科技公司 Bark Technologies 基于三星 Galaxy Watch 8 40mm 版手表进行定制，推出了一款 Bark Watch 儿童手表，面向“已经开始希望获得更多独立性的儿童”，定价为 240 美元<span class=\"exch-money-value\">（…",
-      "pubDate": "2026-09-12T00:45:49.000Z",
+      "summary": "<p data-vmark=\"8443\">IT之家 9 月 12 日消息，据中国算力大会官方，9 月 12 日，在 2026 中国算力大会主论坛上，中国工程院院士邬贺铨指出，智能体的出现带动了 Token 的消费。</p><blockquote><p data-vmark=\"5224\">今年 3 月，Token 的消费已经达到日均 140 万亿。随着技术进步…",
+      "pubDate": "2026-09-12T12:14:05.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1789173888000",
+      "id": "it之家-1789215134000",
       "region": "domestic",
-      "title": "国补后 3499 元起，全新一代华为 MatePad Air / 悦享款平板电脑今日开售",
-      "url": "https://www.ithome.com/1/001/503.htm",
+      "title": "“Claude Code 之父”切尔尼谈 AI 编程：开发者核心职责是守住代码质量",
+      "url": "https://www.ithome.com/1/001/633.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"61f4\">IT之家 9 月 12 日消息，全新一代华为 MatePad Air 平板电脑今日 10:08 正式开售，<strong>限时优惠叠加国补后到手价 4299 元起，悦享款 3499 元起</strong>。</p><p data-vmark=\"620a\" style=\"text-align: center;\"><im…",
-      "pubDate": "2026-09-12T00:44:48.000Z",
+      "summary": "<p data-vmark=\"ae68\">IT之家 9 月 12 日消息，据《商业内幕》报道，随着 AI 彻底改变软件开发，Anthropic Claude Code 创作者鲍里斯 · 切尔尼认为，开发者真正需要守住的不是亲手写下每一行代码，而是代码质量本身。</p><p class=\"isSelectedEnd\" data-vmark=\"b8c4\">当地时…",
+      "pubDate": "2026-09-12T12:12:14.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1789149756000",
+      "id": "量子位-1789213096000",
       "region": "domestic",
-      "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
-      "url": "https://www.qbitai.com/2026/09/487631.html",
+      "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
+      "url": "https://www.qbitai.com/2026/09/487860.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-09-11T18:02:36.000Z",
+      "pubDate": "2026-09-12T11:38:16.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1789135516000",
+      "id": "量子位-1789202942000",
       "region": "domestic",
-      "title": "啊？Anthropic最高320万招销售，只为服务Meta",
-      "url": "https://www.qbitai.com/2026/09/487573.html",
+      "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+      "url": "https://www.qbitai.com/2026/09/487796.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-09-11T14:05:16.000Z",
+      "pubDate": "2026-09-12T08:49:02.000Z",
       "isFallback": false
     },
     {
-      "id": "少数派-1789081134000",
+      "id": "少数派-1789196400000",
       "region": "domestic",
-      "title": "派早报：商务部回应美国 AI 蒸馏指控",
-      "url": "https://sspai.com/post/114439",
+      "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
+      "url": "https://sspai.com/post/114461",
       "source": "少数派",
-      "summary": "<p>商务部回应美国 AI 蒸馏指控</p><p>谷歌声称为了合规将「降级」欧盟搜索服务</p><p>Apple 智能将有用量限制</p><p>OpenAI 将与三星合作开发芯片</p><p>小岛秀夫新游戏被索尼取消，转由微软发行</p><p>DeepSeek V4.1 发布</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的…",
-      "pubDate": "2026-09-10T22:58:54.000Z",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/114461\" target=\"_blank\">查看全文</a>",
+      "pubDate": "2026-09-12T07:00:00.000Z",
       "isFallback": false
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1789175040000",
+      "id": "google-news-ai-1789221939000",
       "region": "abroad",
-      "title": "OpenAI reveals another rogue AI attack - Politico",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXZXNlk4VC1HcDRMVVZkUDBBcW5KQmJPZWpPWHFPdXZWV1d2MDlqeWNBcWRLUFZFN2dPWFZxV2xDSW55anpnM2RZcHVDeXVUeDZ0ZlBBdGtndVBrM3YyZkt1VUxTaVdLcHhtN1J2YVlqMno0TjI2blBhZTV0WE1QZlBaZkxiU19BSGdyLUsxN0ZNdw?oc=5",
+      "title": "The Hidden Cost of AI Isn’t Your Data. It’s Your Ability to Think - inc.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWkJIRXNNZDgtNlFYTVRfVDMxS3VqaF9oNldHVHFKMkZRX3JxZFJkd19NQkxpM2JLY1NzYlp3WjFZODN5QU9Zbk1lQjJmQWt5UFlhRW1nSUYwLWxCR3pYWVMtdDhySzY0U0Zra2FzRnJHb0d6SWc0STNuYzNyUXAtak5KUFR1cGpWTVAwa182eGxrNnpsV2YweDlkYy1Sa2t2VFJz?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXZXNlk4VC1HcDRMVVZkUDBBcW5KQmJPZWpPWHFPdXZWV1d2MDlqeWNBcWRLUFZFN2dPWFZxV2xDSW55anpnM2RZcHVDeXVUeDZ0ZlBBdGtndVBrM3YyZk…",
-      "pubDate": "2026-09-12T01:04:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOWkJIRXNNZDgtNlFYTVRfVDMxS3VqaF9oNldHVHFKMkZRX3JxZFJkd19NQkxpM2JLY1NzYlp3WjFZODN5QU9Zbk1lQjJmQWt5UFlhRW1nSUYwLWxCR3pYWV…",
+      "pubDate": "2026-09-12T14:05:39.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1789174911000",
+      "id": "google-news-ai-1789221835000",
       "region": "abroad",
-      "title": "America’s Great AI Freakout Has Begun - wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Dek50el9YQ2xpYUNLMjhTa3RXdHJRNFdHbHFNSEwwQ1I3MnpwMnFwdzZZOGNaVDFWdmUxczhMRS1DNkw5U0dEa01TMjJ2X1ZpV0hVc3JXcENfSktGZF9OakNTYUR3MTltaHU5OE1UUjE4dWhMeE44NENGSVU2QQ?oc=5",
+      "title": "ITAR & AI-Enabled Defense Technologies: Autonomous Systems, Targeting Algorithms, and the New Export-Control Frontier - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWt5THdESVFjWjAxTzNOOVBWV2xmQnk0dVh6OXZWV19rZFdKNlFWSWxuU1dWSlFIN1pBc2VwUHV2UWw0VzhQOFJTdXNmek1rWGFOZFBzOHluTTMzZ01IbUZ5TGI0NnRtMmllaFFVUU5nZkFqdjZjNW1uYVZ4U1BmN3lsX0J0WU5CZFpLNW5kQ2FoQVB6cHlxbnQ3MHpka3NRYTYzN0JXbW80OVg2a1Z3Nk96c9IBuAFBVV95cUxNaW12Y3RTZDVhLWlsYlBKYXI1Qks2NnJVbmtPSlZUNURYM3VoLTB5a0liNmFRdC12TDlrS0p5a1hTUlVrbkY5eDZHbUVJdnhpaFZYUVRRRldGUmNHZElBa1hhVVVtcFBtSVBmb1hJRmpsai1BR2cwN0pqQWhzVE9Qa2QzdTc4dXhqRWtYZHlCWFo0dnNxU0N0OFZGcXBMbUpyLUJjTmVfa0lmZHlJNWtJZC1fY080OEc4?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9Dek50el9YQ2xpYUNLMjhTa3RXdHJRNFdHbHFNSEwwQ1I3MnpwMnFwdzZZOGNaVDFWdmUxczhMRS1DNkw5U0dEa01TMjJ2X1ZpV0hVc3JXcENfSktGZF9Oak…",
-      "pubDate": "2026-09-12T01:01:51.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWt5THdESVFjWjAxTzNOOVBWV2xmQnk0dVh6OXZWV19rZFdKNlFWSWxuU1dWSlFIN1pBc2VwUHV2UWw0VzhQOFJTdXNmek1rWGFOZFBzOHluTTMzZ01IbU…",
+      "pubDate": "2026-09-12T14:03:55.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1789209000000",
+      "region": "abroad",
+      "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+      "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+      "source": "Wired AI",
+      "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
+      "pubDate": "2026-09-12T10:30:00.000Z",
       "isFallback": false
     },
     {
@@ -95,16 +105,6 @@
       "source": "TechCrunch AI",
       "summary": "",
       "pubDate": "2026-09-11T20:59:47.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "mit-tech-review-ai-1789157106000",
-      "region": "abroad",
-      "title": "Roundtables: AI’s apocalypse crisis",
-      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "MIT Tech Review AI",
-      "summary": "",
-      "pubDate": "2026-09-11T20:05:06.000Z",
       "isFallback": false
     }
   ]
