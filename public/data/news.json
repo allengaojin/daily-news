@@ -1,110 +1,110 @@
 {
   "meta": {
-    "date": "2026-09-14",
-    "updatedAt": "2026-09-14T01:13:18.877Z",
+    "date": "2026-09-15",
+    "updatedAt": "2026-09-14T16:58:47.007Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1789346162000",
+      "id": "it之家-1789398402000",
       "region": "domestic",
-      "title": "苹果新 CEO 特努斯谈 Meta“变态眼镜”风波：AI 智能设备需要让旁人安心",
-      "url": "https://www.ithome.com/1/001/906.htm",
+      "title": "英伟达：Perplexity 本地智能体 Portable Computer 已向 Windows RTX PC 开放",
+      "url": "https://www.ithome.com/1/002/315.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"73f5\">IT之家 9 月 14 日消息，据《商业内幕》前天报道，苹果新任首席执行官约翰 · 特努斯最近接受媒体采访，谈及 Meta 公司最近陷入的“变态眼镜”风波，以及苹果如何看待 AI 可穿戴设备的隐私问题。</p><p data-vmark=\"9aec\" style=\"text-align: center;\"><img …",
-      "pubDate": "2026-09-14T00:36:02.000Z",
+      "summary": "<p data-vmark=\"435c\">IT之家 9 月 14 日消息，英伟达宣布，Perplexity 的本地智能体平台“Portable Computer”现已面向 Windows RTX PC 用户开放。</p><p style=\"text-align: center;\" data-vmark=\"0ad5\"><img src=\"https://img…",
+      "pubDate": "2026-09-14T15:06:42.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1789345348000",
+      "id": "it之家-1789398359000",
       "region": "domestic",
-      "title": "法拉第未来预告北京时间 9 月 20 日举办 EAI 机器人“四核全智”新品发布会，将打造“美国最全机器人矩阵”",
-      "url": "https://www.ithome.com/1/001/904.htm",
+      "title": "马斯克旗下 X 公司与 SpaceXAI 撤回对苹果的反垄断诉讼，针对 OpenAI 继续追责",
+      "url": "https://www.ithome.com/1/002/314.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"9393\">IT之家 9 月 14 日消息，法拉第未来发文，宣布将于美西时间 9 月 19 日下午 5 点（北京时间 9 月 20 日早上 8 点）举办 EAI 机器人“四核全智”新品发布会，官方称将在发布会中推出“9 款机器人本体新品”，相应产品将在发布后直接上市。</p><p style=\"text-align: cente…",
-      "pubDate": "2026-09-14T00:22:28.000Z",
+      "summary": "<p data-vmark=\"78cf\">IT之家 9 月 14 日消息，据路透社报道，埃隆 · 马斯克（Elon Musk）旗下的 X 公司与 SpaceXAI 于周一宣布，已在得克萨斯州联邦法院撤回针对苹果公司的诉讼。该诉讼此前指控苹果合谋非法垄断智能手机以及生成式 AI 聊天机器人市场。</p><p style=\"text-align: center;…",
+      "pubDate": "2026-09-14T15:05:59.000Z",
       "isFallback": false
     },
     {
-      "id": "少数派-1789340134000",
+      "id": "量子位-1789379227000",
       "region": "domestic",
-      "title": "派早报：美国 AI 高管呼吁放缓研发，特朗普反对",
-      "url": "https://sspai.com/post/114539",
+      "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
+      "url": "https://www.qbitai.com/2026/09/489105.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-09-14T09:47:07.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1789379200000",
+      "region": "domestic",
+      "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
+      "url": "https://www.qbitai.com/2026/09/489106.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-09-14T09:46:40.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "少数派-1789374927000",
+      "region": "domestic",
+      "title": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？",
+      "url": "https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
       "source": "少数派",
-      "summary": "<p>美国 AI 高管呼吁放缓研发，特朗普反对</p><p>苹果解释 Apple Watch 不会持续录音</p><p>LG 否认智能电视监控用户</p><p>暴雪公布《魔兽世界》怀旧服</p><p>儿童贴身使用笔记本电脑导致皮肤灼伤</p><p>Android 开始支持密码管理器迁移</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你…",
-      "pubDate": "2026-09-13T22:55:34.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1789285100000",
-      "region": "domestic",
-      "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
-      "url": "https://www.qbitai.com/2026/09/488672.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-09-13T07:38:20.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1789284019000",
-      "region": "domestic",
-      "title": "GitHub三榜第一背后，一个“专升本”工程师的十年",
-      "url": "https://www.qbitai.com/2026/09/488519.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-09-13T07:20:19.000Z",
+      "summary": "用具体的测试数据和盲评结果，聊聊当下 AI 辅助制作 Excel 的真实水平，以及我使用 AI 辅助制作 Excel 的心得。<a href=\"https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a h…",
+      "pubDate": "2026-09-14T08:35:27.000Z",
       "isFallback": false
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1789347720000",
+      "id": "wired-ai-1789404600000",
       "region": "abroad",
-      "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTTgxYjBHZXNGVFRDVXdTdGJBQ3ZUaXB3Q2RvdFB5aHIydVdRLWdBUXRiSzJTZ3p5dVdnTi1zUlhLVEtJeVJpUEhWakw1d2FralNhdktDUEhQYWVhdC0wQzRrYkFjR1VxYkkwODFwTjBHelZDVzdxX2JzNnl0OUIzclVkY2JXQWl6TTF3TjJKZ1RYLUozTUZCTEZzVUJOMmEyRDJpNkpiNUs3STVVMEppZlVzQ1ZUb2xNN2o5VzNtcy1BbnljczFFb0dITHJtYUxnRm9nUTY2SVROZ0RXcTltNTdlOA?oc=5",
-      "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTTgxYjBHZXNGVFRDVXdTdGJBQ3ZUaXB3Q2RvdFB5aHIydVdRLWdBUXRiSzJTZ3p5dVdnTi1zUlhLVEtJeVJpUEhWakw1d2FralNhdktDUEhQYWVhdC0wQz…",
-      "pubDate": "2026-09-14T01:02:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "google-news-ai-1789347720000",
-      "region": "abroad",
-      "title": "The Greens new AI spokesman wants guardrails — and a ministry - Politico",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcHNFaHlwZllKUEkwVHFXZk5LamdJV3ViZm04MTNITzZkaVdyZGdzeFJ4VFZLbVhSUU90eTZ5YVk0SWxzYXNNYXIydm9rVm5ZemhNN1VjNWdKaDhselpjeUpOdmFrX3hfa0JBeTF4b2t5LWcxOUZCaWVEUmtxQkRJaENsT1psWlJ3Y2c5WVlQNFVLdm55RFVnUVdxTzY0YWpiX01Ld3RVamw4MjBrX3c?oc=5",
-      "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNcHNFaHlwZllKUEkwVHFXZk5LamdJV3ViZm04MTNITzZkaVdyZGdzeFJ4VFZLbVhSUU90eTZ5YVk0SWxzYXNNYXIydm9rVm5ZemhNN1VjNWdKaDhselpjeU…",
-      "pubDate": "2026-09-14T01:02:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1789328415000",
-      "region": "abroad",
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-09-13T19:40:15.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1789317000000",
-      "region": "abroad",
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-09-13T16:30:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1789293600000",
-      "region": "abroad",
-      "title": "AI Agents Are Thirsty for Power",
-      "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+      "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
+      "url": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
       "source": "Wired AI",
-      "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
-      "pubDate": "2026-09-13T10:00:00.000Z",
+      "summary": "In the biggest-ever legal action against harmful deepfake websites, the Manhattan District Attorney’s Office has seized 12 sites that collectively targeted around 1,200 victims.",
+      "pubDate": "2026-09-14T16:50:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "google-news-ai-1789404024000",
+      "region": "abroad",
+      "title": "San Francisco's OpenAI won't go public amid fears about AI safety and security - NBC Bay Area",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjMmQ0QXhUTW9zU3B5UTViVm9Ec1oxSnBvUHJwYzFnYl9oaFBGSENfYzZxeV8tOVdFN29Bb3F6bklLSmRaSzFwVTFyMkljR0FNLXZQQjZEWGc3Tzk1TkNLbjNRSDBQSjJDRGFtRmRpMlV4US13bnZr0gF_QVVfeXFMTXBYY1Y5NFJybGQxWVQ0bW5DNEpjbVlKdjk4UXBrdHdyWHFmQi1hbnYtTldWX3J1VWxqaGNZWXlteGVZVmFDUnNmdUtLLWpnU2ozclBNdTZ1NWo1Z2M0UGtXS0s4U1VOS3V1WVRSRUNCaENJTHU1QVA1cGxSR1VyNA?oc=5",
+      "source": "Google News AI",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBjMmQ0QXhUTW9zU3B5UTViVm9Ec1oxSnBvUHJwYzFnYl9oaFBGSENfYzZxeV8tOVdFN29Bb3F6bklLSmRaSzFwVTFyMkljR0FNLXZQQjZEWGc3Tzk1TkNLbj…",
+      "pubDate": "2026-09-14T16:40:24.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "google-news-ai-1789403952000",
+      "region": "abroad",
+      "title": "Student researchers join AI for Public Good initiative - SUNY Cortland",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HY2ZnZnlnVHE3Z05vWndYMTJmYWpPTlhsVEF3RlExdVd5UlJHbnUxSkVTaVNNLS14U1lSSzluOGo0bXUtN3JrQ3JiREdjSTlxWEc3UC10Q3JoUkROVktjckpPOUE?oc=5",
+      "source": "Google News AI",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HY2ZnZnlnVHE3Z05vWndYMTJmYWpPTlhsVEF3RlExdVd5UlJHbnUxSkVTaVNNLS14U1lSSzluOGo0bXUtN3JrQ3JiREdjSTlxWEc3UC10Q3JoUkROVktjck…",
+      "pubDate": "2026-09-14T16:39:12.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1789403273000",
+      "region": "abroad",
+      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-09-14T16:27:53.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "mit-tech-review-ai-1789401600000",
+      "region": "abroad",
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "source": "MIT Tech Review AI",
+      "summary": "",
+      "pubDate": "2026-09-14T16:00:00.000Z",
       "isFallback": false
     }
   ]
