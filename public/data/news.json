@@ -1,28 +1,28 @@
 {
   "meta": {
     "date": "2026-09-15",
-    "updatedAt": "2026-09-14T16:58:47.007Z",
+    "updatedAt": "2026-09-15T01:33:55.985Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1789398402000",
+      "id": "it之家-1789433246000",
       "region": "domestic",
-      "title": "英伟达：Perplexity 本地智能体 Portable Computer 已向 Windows RTX PC 开放",
-      "url": "https://www.ithome.com/1/002/315.htm",
+      "title": "AI-eSIM 团体标准编制启动，中国移动 / 联通 / 电信三大运营商参与",
+      "url": "https://www.ithome.com/1/002/375.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"435c\">IT之家 9 月 14 日消息，英伟达宣布，Perplexity 的本地智能体平台“Portable Computer”现已面向 Windows RTX PC 用户开放。</p><p style=\"text-align: center;\" data-vmark=\"0ad5\"><img src=\"https://img…",
-      "pubDate": "2026-09-14T15:06:42.000Z",
+      "summary": "<p data-vmark=\"604a\">IT之家 9 月 15 日消息，由中国通信企业协会主办的 2026 信息通信行业 6G+ 人工智能创新发展研讨会于上周末在雄安新区举办。会上举行了 <strong>AI-eSIM 团体标准编制启动仪式</strong>，AI-eSIM 领域将迎来规范化、标准化发展新阶段。</p><p data-vmark=\"4813…",
+      "pubDate": "2026-09-15T00:47:26.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1789398359000",
+      "id": "it之家-1789432748000",
       "region": "domestic",
-      "title": "马斯克旗下 X 公司与 SpaceXAI 撤回对苹果的反垄断诉讼，针对 OpenAI 继续追责",
-      "url": "https://www.ithome.com/1/002/314.htm",
+      "title": "联想来酷斗战者 AI NAS 900 系列私有云主机开售：飞牛 fnOS 系统，6999 元起",
+      "url": "https://www.ithome.com/1/002/373.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"78cf\">IT之家 9 月 14 日消息，据路透社报道，埃隆 · 马斯克（Elon Musk）旗下的 X 公司与 SpaceXAI 于周一宣布，已在得克萨斯州联邦法院撤回针对苹果公司的诉讼。该诉讼此前指控苹果合谋非法垄断智能手机以及生成式 AI 聊天机器人市场。</p><p style=\"text-align: center;…",
-      "pubDate": "2026-09-14T15:05:59.000Z",
+      "summary": "<p data-vmark=\"691c\">IT之家 9 月 15 日消息，联想来酷斗战者 AI 私有云主机今日 9:00 正式开售，<strong>售价 6999 元起</strong>：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"3d40\">AI NAS 900（Ult…",
+      "pubDate": "2026-09-15T00:39:08.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "wired-ai-1789404600000",
+      "id": "google-news-ai-1789434300000",
       "region": "abroad",
-      "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
-      "url": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
-      "source": "Wired AI",
-      "summary": "In the biggest-ever legal action against harmful deepfake websites, the Manhattan District Attorney’s Office has seized 12 sites that collectively targeted around 1,200 victims.",
-      "pubDate": "2026-09-14T16:50:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "google-news-ai-1789404024000",
-      "region": "abroad",
-      "title": "San Francisco's OpenAI won't go public amid fears about AI safety and security - NBC Bay Area",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjMmQ0QXhUTW9zU3B5UTViVm9Ec1oxSnBvUHJwYzFnYl9oaFBGSENfYzZxeV8tOVdFN29Bb3F6bklLSmRaSzFwVTFyMkljR0FNLXZQQjZEWGc3Tzk1TkNLbjNRSDBQSjJDRGFtRmRpMlV4US13bnZr0gF_QVVfeXFMTXBYY1Y5NFJybGQxWVQ0bW5DNEpjbVlKdjk4UXBrdHdyWHFmQi1hbnYtTldWX3J1VWxqaGNZWXlteGVZVmFDUnNmdUtLLWpnU2ozclBNdTZ1NWo1Z2M0UGtXS0s4U1VOS3V1WVRSRUNCaENJTHU1QVA1cGxSR1VyNA?oc=5",
+      "title": "Can artificial intelligence replace your handyman? - gulfcoastnewsnow.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQemRSU0NHR29nY0prczFibVFVSXBqTjY3SnFPbk10VE93Y3ZMUVJxeVBoTkFONFZ5TTZfNTJqNi1hZkxKMlhtemtJM0ZlZEM4WDROemttNlV1eXlTY0J3LTlNZmpldFJnMlkwWXpjZ1RCd3U2Z09iWUE0b2RtckVzZk5ablliV1YwV3B0R0dLUDJ0RGlHTmpDRElSbGdxel9q?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBjMmQ0QXhUTW9zU3B5UTViVm9Ec1oxSnBvUHJwYzFnYl9oaFBGSENfYzZxeV8tOVdFN29Bb3F6bklLSmRaSzFwVTFyMkljR0FNLXZQQjZEWGc3Tzk1TkNLbj…",
-      "pubDate": "2026-09-14T16:40:24.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQemRSU0NHR29nY0prczFibVFVSXBqTjY3SnFPbk10VE93Y3ZMUVJxeVBoTkFONFZ5TTZfNTJqNi1hZkxKMlhtemtJM0ZlZEM4WDROemttNlV1eXlTY0J3LT…",
+      "pubDate": "2026-09-15T01:05:00.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1789403952000",
+      "id": "google-news-ai-1789434000000",
       "region": "abroad",
-      "title": "Student researchers join AI for Public Good initiative - SUNY Cortland",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HY2ZnZnlnVHE3Z05vWndYMTJmYWpPTlhsVEF3RlExdVd5UlJHbnUxSkVTaVNNLS14U1lSSzluOGo0bXUtN3JrQ3JiREdjSTlxWEc3UC10Q3JoUkROVktjckpPOUE?oc=5",
+      "title": "AI Leaders Are Calling for a Slowdown, but Wall Street Keeps on Buying - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYi1fNGVsVTJ1M0RLb1hpdDhMVldaSlBzbGhzT0dKOXpwRDE1cmh1Y0dNLTBla09wRUxnbWFIdDIyakVzTEVZTWtHVkltT2FtX1VGcHZtSXg1MVYxbzlkSGl2cFNpRVZTWGNQcEZRRmFrdVFGU2NZV2tGQzRFQVJaMldBUFpNSzhicWlxTnFaVFNPb0k2MzlySU1zanVkdm9NMmxCc2RTMERHTjhGQ0pnbUd2WQ?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HY2ZnZnlnVHE3Z05vWndYMTJmYWpPTlhsVEF3RlExdVd5UlJHbnUxSkVTaVNNLS14U1lSSzluOGo0bXUtN3JrQ3JiREdjSTlxWEc3UC10Q3JoUkROVktjck…",
-      "pubDate": "2026-09-14T16:39:12.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNYi1fNGVsVTJ1M0RLb1hpdDhMVldaSlBzbGhzT0dKOXpwRDE1cmh1Y0dNLTBla09wRUxnbWFIdDIyakVzTEVZTWtHVkltT2FtX1VGcHZtSXg1MVYxbzlkSG…",
+      "pubDate": "2026-09-15T01:00:00.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1789403273000",
+      "id": "techcrunch-ai-1789422662000",
       "region": "abroad",
-      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-14T16:27:53.000Z",
+      "pubDate": "2026-09-14T21:51:02.000Z",
       "isFallback": false
     },
     {
-      "id": "mit-tech-review-ai-1789401600000",
+      "id": "techcrunch-ai-1789418654000",
       "region": "abroad",
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-09-14T20:44:14.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "mit-tech-review-ai-1789408462000",
+      "region": "abroad",
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
       "source": "MIT Tech Review AI",
       "summary": "",
-      "pubDate": "2026-09-14T16:00:00.000Z",
+      "pubDate": "2026-09-14T17:54:22.000Z",
       "isFallback": false
     }
   ]
