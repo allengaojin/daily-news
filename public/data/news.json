@@ -1,28 +1,28 @@
 {
   "meta": {
-    "date": "2026-09-15",
-    "updatedAt": "2026-09-15T15:36:10.745Z",
+    "date": "2026-09-16",
+    "updatedAt": "2026-09-16T01:28:44.419Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1789486389000",
+      "id": "it之家-1789521537000",
       "region": "domestic",
-      "title": "华为监事会主席郭平：虚心向苹果学习供应链，在 ICT 及计算领域的目标是成为英伟达",
-      "url": "https://www.ithome.com/1/002/810.htm",
+      "title": "小米 18 Pro 系列手机全新“百变背屏”亮相：AI 生成应用，煮蛋定时、喝水打卡、番茄时钟等",
+      "url": "https://www.ithome.com/1/002/868.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"f8a6\">9 月 15 日晚间消息，近日，华为心声社区对外披露了华为监事会主席郭平与新员工座谈纪要。在与新员工的沟通中，郭平回应了手机业务与苹果对比、车 BU 发展、大模型战略、半导体业务方向等话题。</p><h2 data-vmark=\"b91c\"><strong>谈超越苹果：专注做好自身，虚心向苹果学习</strong><…",
-      "pubDate": "2026-09-15T15:33:09.000Z",
+      "summary": "<p data-vmark=\"9269\">IT之家 9 月 16 日消息，小米 18 Pro 系列手机<strong>全新“百变背屏”功能</strong>今日正式亮相，相比上一代的背屏，新机迎来百变“应用”。</p><p data-vmark=\"a231\" style=\"text-align: center;\"><a href=\"https://weibo…",
+      "pubDate": "2026-09-16T01:18:57.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1789483749000",
+      "id": "it之家-1789521072000",
       "region": "domestic",
-      "title": "中文互联网基础语料 4.0 发布：数据量 120GB，为大模型训练和 AI 发展提供可信数据支撑",
-      "url": "https://www.ithome.com/1/002/795.htm",
+      "title": "AIDA64 v8.40 正式版发布，合并对 AMD \"Zen 7\" 服务器处理器初步支持",
+      "url": "https://www.ithome.com/1/002/866.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"d679\">IT之家 9 月 15 日消息，据中国网络空间安全协会官方公众号，9 月 15 日（今天）下午，在济南召开的 2026 年国家网络安全宣传周人工智能安全治理分论坛上，中文互联网基础语料 4.0 正式向社会发布，<strong>数据量 120GB</strong>，并在“中文互联网语料资源平台”上线。</p><p st…",
-      "pubDate": "2026-09-15T14:49:09.000Z",
+      "summary": "<p data-vmark=\"504d\">IT之家 9 月 16 日消息，匈牙利软件开发商 FinalWire 当地时间昨日宣布为硬件诊断和基准测试工具 AIDA64 推出 v8.40 正式版本。</p><p data-vmark=\"05d6\" style=\"text-align: center;\"><img src=\"https://img.ithome.…",
+      "pubDate": "2026-09-16T01:11:12.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1789485825000",
+      "id": "google-news-ai-1789521466000",
       "region": "abroad",
-      "title": "Seagate Technology (STX): The Primary Beneficiary of the AI Driven HDD Demand - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmc1MTdfTlBwYkFBTS1CU0xUdENIREhjT1ktdTBsbkIxclRLdW5FMVpHbWNnTlIwVGR1TFpKQmhaVGZrZjBIZU1uNHJFdlQ1RlZNRkQzY0R4b2tkOGI5T0ZzcW41VU1UUEF4UFVnYW1NeEZXaUhsem5KazBnNTJNb2h4M0RoWjBwdjZRbC1LcmUyRkswajlyRDVoOV96QmtpMUt3ek1odElIZw?oc=5",
+      "title": "Two-thirds of Coloradans have a negative view of AI - Colorado Public Radio",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSXV0TDJUTk16NS14T01qOXlzSWM3NVA4Y05WM2lrcjBNWGhxc1lBRmF3UWFXWmpjR2hpQmJCRTlzZ2kzZVBYVEV4eFY2TF91c2dXS0Z0MjVpei1SN0VRVjFxRm5KT3FKV3F4ck5udElUWnZWdlpTS1BuNHprREJaRDV0cTVyUEpPUGMzQjZFSXpEME9LSFc2RGVBWQ?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmc1MTdfTlBwYkFBTS1CU0xUdENIREhjT1ktdTBsbkIxclRLdW5FMVpHbWNnTlIwVGR1TFpKQmhaVGZrZjBIZU1uNHJFdlQ1RlZNRkQzY0R4b2tkOGI5T0…",
-      "pubDate": "2026-09-15T15:23:45.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQSXV0TDJUTk16NS14T01qOXlzSWM3NVA4Y05WM2lrcjBNWGhxc1lBRmF3UWFXWmpjR2hpQmJCRTlzZ2kzZVBYVEV4eFY2TF91c2dXS0Z0MjVpei1SN0VRVj…",
+      "pubDate": "2026-09-16T01:17:46.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1789485768000",
+      "id": "google-news-ai-1789520280000",
       "region": "abroad",
-      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-      "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "title": "Lawson State hosts free AI workshop as part of statewide Community Caravan - WVTM",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ2FmZ1BjNWpjbTlvUXlTQjZ3ZXpqTTBzTV9qa1FqT2F5Y3lPZ3JnQUl3czlZVFdPbHVCQzdQTmFpanVvaTRhemxQTGU5R1FMUklSSC1ocXdFNmNjX09XZjUzX2x4U2NJLU9KRTM2UjFpN2ttZzRtOE1ndHlpc2EyOEJZUHdoRmxUdXUzd0gybHpyWHYwbmEzUFlvWGg?oc=5",
+      "source": "Google News AI",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ2FmZ1BjNWpjbTlvUXlTQjZ3ZXpqTTBzTV9qa1FqT2F5Y3lPZ3JnQUl3czlZVFdPbHVCQzdQTmFpanVvaTRhemxQTGU5R1FMUklSSC1ocXdFNmNjX09XZj…",
+      "pubDate": "2026-09-16T00:58:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1789518039000",
+      "region": "abroad",
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-15T15:22:48.000Z",
+      "pubDate": "2026-09-16T00:20:39.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1789485750000",
+      "id": "techcrunch-ai-1789508858000",
       "region": "abroad",
-      "title": "Countering Chinese AI Distillation: The Case for Federal Action - Foundation for Defense of Democracies",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjZPZnRfYWJIbVhJc3hJaUw4YnVHYWZKM182SkQxWldLZnBHSUE0SEp0ZlhOOWZVaEhkSDBiWDlEbGdEYkhNVDAxTjhzakVlR1F1WWRiMVhabUs4SHhpSmRIeXBJX1c4UE9BMjg2cHNDNkhZdUVnSk91dTZHUWRpbkRNZGh2Ti1ROXJMSUxTSWRqelYwN3M5YzA0QUtaV2tIeEQwaGdR?oc=5",
-      "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjZPZnRfYWJIbVhJc3hJaUw4YnVHYWZKM182SkQxWldLZnBHSUE0SEp0ZlhOOWZVaEhkSDBiWDlEbGdEYkhNVDAxTjhzakVlR1F1WWRiMVhabUs4SHhpSm…",
-      "pubDate": "2026-09-15T15:22:30.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1789483357000",
-      "region": "abroad",
-      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-      "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-15T14:42:37.000Z",
+      "pubDate": "2026-09-15T21:47:38.000Z",
       "isFallback": false
     },
     {
-      "id": "mit-tech-review-ai-1789466400000",
+      "id": "wired-ai-1789495209000",
       "region": "abroad",
-      "title": "What’s at stake in AI’s trillion-dollar gamble",
-      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-      "source": "MIT Tech Review AI",
-      "summary": "",
-      "pubDate": "2026-09-15T10:00:00.000Z",
+      "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
+      "url": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
+      "source": "Wired AI",
+      "summary": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing.",
+      "pubDate": "2026-09-15T18:00:09.000Z",
       "isFallback": false
     }
   ]
