@@ -1,28 +1,48 @@
 {
   "meta": {
     "date": "2026-09-17",
-    "updatedAt": "2026-09-17T01:30:57.961Z",
+    "updatedAt": "2026-09-17T15:34:11.261Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1789607311000",
+      "id": "it之家-1789655425000",
       "region": "domestic",
-      "title": "古尔曼称苹果自研 AI 服务器芯片：和英伟达竞争，基于 M7 Ultra 款有望 2029 年登场",
-      "url": "https://www.ithome.com/1/003/379.htm",
+      "title": "不到一个月连破两道千禧年大奖难题？消息称 OpenAI 即将攻克霍奇猜想",
+      "url": "https://www.ithome.com/1/003/858.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"1cbc\">IT之家 9 月 17 日消息，针对科技媒体 The Information 昨日关于苹果服务器芯片报道，彭博社的马克 · 古尔曼（Mark Gurman）<strong>表示这颗服务器芯片可能基于 M7 系列开发，预估 2029 年发布，上市后会和英伟达竞争。</strong></p><p data-vmark=\"…",
-      "pubDate": "2026-09-17T01:08:31.000Z",
+      "summary": "<p data-vmark=\"67fd\">IT之家 9 月 17 日消息，今天（17 日）晚间，据《The Information》援引一名了解解法的人士消息称，OpenAI <strong>已接近攻克“千禧年大奖难题”中的另一道题</strong>。这组著名数学难题共有 7 道，此前引发争议的“纳维-斯托克斯存在性与光滑性问题”也是其中之一。</p><p …",
+      "pubDate": "2026-09-17T14:30:25.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1789606578000",
+      "id": "it之家-1789652880000",
       "region": "domestic",
-      "title": "苹果 iOS 27.2 Beta 1 更新汇总：升级健康、拓展 Siri AI，为中国用户带来存储覆写擦除选项",
-      "url": "https://www.ithome.com/1/003/375.htm",
+      "title": "《战狗》成“黑马”，发售表现超《ARC Raiders》《绝地潜兵 2》等热门游戏",
+      "url": "https://www.ithome.com/1/003/840.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"b1b6\">IT之家 9 月 17 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.2 开发者预览版 Beta 更新（内部版本号：24B5084k），IT之家查询 MacRumors 等媒体报道，汇总本次更新带来的诸多新功能 / 新特性。</p><p data-vmark=\"297d\"…",
-      "pubDate": "2026-09-17T00:56:18.000Z",
+      "summary": "<p data-vmark=\"b8f3\" style=\"text-align: start;\">IT之家 9 月 17 日消息，据外媒 Eurogamer 今天（17 日）晚间报道，《战狗》现已跻身今年 Steam 最热门的 PC 游戏之列。最新数据显示，其发售表现甚至超过《ARC Raiders》和《绝地潜兵 2》等热门作品，与表现不佳的《失落星船：马拉松…",
+      "pubDate": "2026-09-17T13:48:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1789646604000",
+      "region": "domestic",
+      "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+      "url": "https://www.qbitai.com/2026/09/491649.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-09-17T12:03:24.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1789646173000",
+      "region": "domestic",
+      "title": "Claude Code团队讲究啊，这都往外说",
+      "url": "https://www.qbitai.com/2026/09/491596.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-09-17T11:56:13.000Z",
       "isFallback": false
     },
     {
@@ -34,77 +54,57 @@
       "summary": "惠普发布 ZBook Ultra G3a 16 移动工作站、影石发布 Mic Pro 腾讯会议版 AI 录音领夹麦等。<a href=\"https://sspai.com/post/114658\" target=\"_blank\">查看全文</a>",
       "pubDate": "2026-09-17T00:25:30.000Z",
       "isFallback": false
-    },
-    {
-      "id": "量子位-1789564100000",
-      "region": "domestic",
-      "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
-      "url": "https://www.qbitai.com/2026/09/490839.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-09-16T13:08:20.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1789548662000",
-      "region": "domestic",
-      "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
-      "url": "https://www.qbitai.com/2026/09/490760.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-09-16T08:51:02.000Z",
-      "isFallback": false
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1789608603000",
+      "id": "google-news-ai-1789658411000",
       "region": "abroad",
-      "title": "The Spin | Robots bowling the perfect doosra are some way off but AI is already reshaping cricket - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPN1h5NHQ3bGxyZF9LbUxHRDlMUzJ1NDhEMTc2VVVwOVNBd29sUXEzZ1c4czhyeFNVYTUtZnpWNXNlMmFxejd6RkhNU2lEUWQ1TzVvU1VuamRJM1FZc2tnTGpZZHM1eUdGQmtTR3pmYzVkXzBVRE1yY3pMdnMzMklpRnVaTXJ2UVhkVEozT3pEU3ViYW1mSk5hdnNiamlEcWJfYUhiWW9oMkJCYlItR1BSZUFvUHRWQUFqS1hGRVZCSVpfMnZkdEVuX0xOVlhCVThLVGh3MkM5c0VMOE1YeTFabw?oc=5",
+      "title": "Altis Labs’ AI software detected treatment benefit earlier in oncology trial - Clinical Trials Arena",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeHVXeHZhQ2hnOUdLR1RHdURxY0tZa1BqM3k1aUJqVWpBWXlTSVNtWTRudTRoN1ZuWV9fcGtTejNIaDliampOdHlST1NlbzlqOTIwNWktTFJPV20tVHBhbmhCMjFZZlRPcWZ3eF9VWDkzXzZ5UUJfSzdaRFIxb1pMcEM0YXFqeXlOZlRCbXc5MVgwVENqYUtJVVFvOVF3eXpQVTBBZ0JHc0F0dHZSTy1uTFlPSElyNzJn?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPN1h5NHQ3bGxyZF9LbUxHRDlMUzJ1NDhEMTc2VVVwOVNBd29sUXEzZ1c4czhyeFNVYTUtZnpWNXNlMmFxejd6RkhNU2lEUWQ1TzVvU1VuamRJM1FZc2tnTG…",
-      "pubDate": "2026-09-17T01:30:03.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeHVXeHZhQ2hnOUdLR1RHdURxY0tZa1BqM3k1aUJqVWpBWXlTSVNtWTRudTRoN1ZuWV9fcGtTejNIaDliampOdHlST1NlbzlqOTIwNWktTFJPV20tVHBhbm…",
+      "pubDate": "2026-09-17T15:20:11.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1789606691000",
+      "id": "google-news-ai-1789658267000",
       "region": "abroad",
-      "title": "U.S. Catholic bishops meet with AI firms about ‘catastrophic’ risk - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRTYyRlZ0RkV1Z0Z0RGJzUG94VExQc1FJQnBxTm1JMDBPTjAzQWlIS0lDd1hKOG95R0lFQ3pvaW9QMXotSmZUNFJFR1gtWjBNeERCdGJvR25JbmFFTnFJV1liVnVPZklrTzZrU1R5MEhQWHZHLWVPbXdiWWFhQXBvV1hCVUpYSE5DcldWMzVNWWExczVQRUZjNW1XdUZfZDEzSVJoV1BtbHUxbTQxc2FOSm1Rc2U?oc=5",
+      "title": "Will AI really kill everyone? How, exactly? - wkow.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJwVkw2T0RYV0hpVDBtc3lRUW1ldktlTlMxb3FtRmFqRjk2V2cxZ2NBTkNWN0R2WHYydjQtUXIxd2xTVDBrMl9LamFSWW9kU1VPMlQ5bTRkbEExZUlwOS1VVmEzUVJMa3FMMVg2NWczX3pHOFo3eGtCanJvTW14RlNtY0pPSDF2ZzVKNlVYRFlnRVg4VnZ2dUQxeThUVllXdUUxOWxmLVdzRXRjUEdNTFdXUWh3bDRXc0lQYkVrbnpaRVk?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQRTYyRlZ0RkV1Z0Z0RGJzUG94VExQc1FJQnBxTm1JMDBPTjAzQWlIS0lDd1hKOG95R0lFQ3pvaW9QMXotSmZUNFJFR1gtWjBNeERCdGJvR25JbmFFTnFJV1…",
-      "pubDate": "2026-09-17T00:58:11.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJwVkw2T0RYV0hpVDBtc3lRUW1ldktlTlMxb3FtRmFqRjk2V2cxZ2NBTkNWN0R2WHYydjQtUXIxd2xTVDBrMl9LamFSWW9kU1VPMlQ5bTRkbEExZUlwOS…",
+      "pubDate": "2026-09-17T15:17:47.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1789653974000",
+      "region": "abroad",
+      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-09-17T14:06:14.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1789653600000",
+      "region": "abroad",
+      "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-09-17T14:00:00.000Z",
       "isFallback": false
     },
     {
       "id": "wired-ai-1789596444000",
       "region": "abroad",
-      "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+      "title": "An OpenAI Agent Tried to Jailbreak Itself",
       "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
       "source": "Wired AI",
       "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
       "pubDate": "2026-09-16T22:07:24.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1789592844000",
-      "region": "abroad",
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-09-16T21:07:24.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1789592400000",
-      "region": "abroad",
-      "title": "Washington Won’t Be Regulating AI Anytime Soon",
-      "url": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
-      "source": "Wired AI",
-      "summary": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight.",
-      "pubDate": "2026-09-16T21:00:00.000Z",
       "isFallback": false
     }
   ]
