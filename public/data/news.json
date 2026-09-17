@@ -1,28 +1,38 @@
 {
   "meta": {
-    "date": "2026-09-16",
-    "updatedAt": "2026-09-16T15:26:30.621Z",
+    "date": "2026-09-17",
+    "updatedAt": "2026-09-17T01:30:57.961Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1789568366000",
+      "id": "it之家-1789607311000",
       "region": "domestic",
-      "title": "微软 AI 负责人苏莱曼向 Anthropic 开炮：别让 Claude 去模仿人类意识",
-      "url": "https://www.ithome.com/1/003/313.htm",
+      "title": "古尔曼称苹果自研 AI 服务器芯片：和英伟达竞争，基于 M7 Ultra 款有望 2029 年登场",
+      "url": "https://www.ithome.com/1/003/379.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"e5df\">IT之家 9 月 16 日消息，外媒 Axios 今天（16 日）晚间披露，微软 AI 负责人穆斯塔法 · 苏莱曼在一篇率先向该平台提供的新文章中警告，Anthropic 让 Claude 模仿人类意识<strong>是一个错误</strong>，可能使高级 AI 更难控制。</p><p data-vmark=\"87…",
-      "pubDate": "2026-09-16T14:19:26.000Z",
+      "summary": "<p data-vmark=\"1cbc\">IT之家 9 月 17 日消息，针对科技媒体 The Information 昨日关于苹果服务器芯片报道，彭博社的马克 · 古尔曼（Mark Gurman）<strong>表示这颗服务器芯片可能基于 M7 系列开发，预估 2029 年发布，上市后会和英伟达竞争。</strong></p><p data-vmark=\"…",
+      "pubDate": "2026-09-17T01:08:31.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1789567953000",
+      "id": "it之家-1789606578000",
       "region": "domestic",
-      "title": "诺和诺德与 Anthropic 达成合作，用 Claude 大模型加速新药研发",
-      "url": "https://www.ithome.com/1/003/311.htm",
+      "title": "苹果 iOS 27.2 Beta 1 更新汇总：升级健康、拓展 Siri AI，为中国用户带来存储覆写擦除选项",
+      "url": "https://www.ithome.com/1/003/375.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"2783\">IT之家 9 月 16 日消息，诺和诺德（Novo Nordisk）宣布已与 Anthropic 达成合作，计划运用这家 AI 企业的 Claude 大模型，加快新药的发现与研发进程。</p><p style=\"text-align: center;\" data-vmark=\"c797\"><img src=\"http…",
-      "pubDate": "2026-09-16T14:12:33.000Z",
+      "summary": "<p data-vmark=\"b1b6\">IT之家 9 月 17 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.2 开发者预览版 Beta 更新（内部版本号：24B5084k），IT之家查询 MacRumors 等媒体报道，汇总本次更新带来的诸多新功能 / 新特性。</p><p data-vmark=\"297d\"…",
+      "pubDate": "2026-09-17T00:56:18.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "少数派-1789604730000",
+      "region": "domestic",
+      "title": "派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等",
+      "url": "https://sspai.com/post/114658",
+      "source": "少数派",
+      "summary": "惠普发布 ZBook Ultra G3a 16 移动工作站、影石发布 Mic Pro 腾讯会议版 AI 录音领夹麦等。<a href=\"https://sspai.com/post/114658\" target=\"_blank\">查看全文</a>",
+      "pubDate": "2026-09-17T00:25:30.000Z",
       "isFallback": false
     },
     {
@@ -44,67 +54,57 @@
       "summary": "",
       "pubDate": "2026-09-16T08:51:02.000Z",
       "isFallback": false
-    },
-    {
-      "id": "少数派-1789374927000",
-      "region": "domestic",
-      "title": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？",
-      "url": "https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
-      "source": "少数派",
-      "summary": "用具体的测试数据和盲评结果，聊聊当下 AI 辅助制作 Excel 的真实水平，以及我使用 AI 辅助制作 Excel 的心得。<a href=\"https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a h…",
-      "pubDate": "2026-09-14T08:35:27.000Z",
-      "isFallback": false
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1789572169000",
+      "id": "google-news-ai-1789608603000",
       "region": "abroad",
-      "title": "VIDEO: Will AI end humanity? How to separate the real risks from the hype - Poynter",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ0FfaGZSU21hR2dVMU9oZURqcGNkWXpZckJ3MW4zZXJrU0V6eUJJM1ZRbnpXYmdmWnQwT0xyLXkzVW5tQzI3Smc4WTFsUUtRVU9yVFhwNjZXZzB4WXlsX1F2MHJaZHNKbDRueDFaOXRzbFp2RW5CQmE2eWFhR3g5NXJRSmoxSmlETlFV?oc=5",
+      "title": "The Spin | Robots bowling the perfect doosra are some way off but AI is already reshaping cricket - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPN1h5NHQ3bGxyZF9LbUxHRDlMUzJ1NDhEMTc2VVVwOVNBd29sUXEzZ1c4czhyeFNVYTUtZnpWNXNlMmFxejd6RkhNU2lEUWQ1TzVvU1VuamRJM1FZc2tnTGpZZHM1eUdGQmtTR3pmYzVkXzBVRE1yY3pMdnMzMklpRnVaTXJ2UVhkVEozT3pEU3ViYW1mSk5hdnNiamlEcWJfYUhiWW9oMkJCYlItR1BSZUFvUHRWQUFqS1hGRVZCSVpfMnZkdEVuX0xOVlhCVThLVGh3MkM5c0VMOE1YeTFabw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ0FfaGZSU21hR2dVMU9oZURqcGNkWXpZckJ3MW4zZXJrU0V6eUJJM1ZRbnpXYmdmWnQwT0xyLXkzVW5tQzI3Smc4WTFsUUtRVU9yVFhwNjZXZzB4WXlsX1…",
-      "pubDate": "2026-09-16T15:22:49.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPN1h5NHQ3bGxyZF9LbUxHRDlMUzJ1NDhEMTc2VVVwOVNBd29sUXEzZ1c4czhyeFNVYTUtZnpWNXNlMmFxejd6RkhNU2lEUWQ1TzVvU1VuamRJM1FZc2tnTG…",
+      "pubDate": "2026-09-17T01:30:03.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1789572082000",
+      "id": "google-news-ai-1789606691000",
       "region": "abroad",
-      "title": "UK Workers Hide AI Use From Their Bosses, Deloitte Survey Finds - Claims Journal",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52b0ZUQ1NnUk9mczVyQWxfUTdXZ3VORERCaVZYaUd3RlZuanRWeXV0WUJwZGhqWDR2ZnFsd0lld2xpSzF0bUpQNUp4VWJLOEYtYmNzaXBHdjlTcjZXWndPS3JQdGFFMGprYnh4SFZsc1ctdnM?oc=5",
+      "title": "U.S. Catholic bishops meet with AI firms about ‘catastrophic’ risk - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRTYyRlZ0RkV1Z0Z0RGJzUG94VExQc1FJQnBxTm1JMDBPTjAzQWlIS0lDd1hKOG95R0lFQ3pvaW9QMXotSmZUNFJFR1gtWjBNeERCdGJvR25JbmFFTnFJV1liVnVPZklrTzZrU1R5MEhQWHZHLWVPbXdiWWFhQXBvV1hCVUpYSE5DcldWMzVNWWExczVQRUZjNW1XdUZfZDEzSVJoV1BtbHUxbTQxc2FOSm1Rc2U?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE52b0ZUQ1NnUk9mczVyQWxfUTdXZ3VORERCaVZYaUd3RlZuanRWeXV0WUJwZGhqWDR2ZnFsd0lld2xpSzF0bUpQNUp4VWJLOEYtYmNzaXBHdjlTcjZXWndPS3…",
-      "pubDate": "2026-09-16T15:21:22.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQRTYyRlZ0RkV1Z0Z0RGJzUG94VExQc1FJQnBxTm1JMDBPTjAzQWlIS0lDd1hKOG95R0lFQ3pvaW9QMXotSmZUNFJFR1gtWjBNeERCdGJvR25JbmFFTnFJV1…",
+      "pubDate": "2026-09-17T00:58:11.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1789568698000",
+      "id": "wired-ai-1789596444000",
       "region": "abroad",
-      "title": "Threads’ new features let podcasters promote shows and reach listeners",
-      "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+      "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+      "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+      "source": "Wired AI",
+      "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
+      "pubDate": "2026-09-16T22:07:24.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1789592844000",
+      "region": "abroad",
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-16T14:24:58.000Z",
+      "pubDate": "2026-09-16T21:07:24.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1789568100000",
+      "id": "wired-ai-1789592400000",
       "region": "abroad",
-      "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-      "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-09-16T14:15:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "mit-tech-review-ai-1789562854000",
-      "region": "abroad",
-      "title": "Building the materials foundation for AI",
-      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "source": "MIT Tech Review AI",
-      "summary": "",
-      "pubDate": "2026-09-16T12:47:34.000Z",
+      "title": "Washington Won’t Be Regulating AI Anytime Soon",
+      "url": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
+      "source": "Wired AI",
+      "summary": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight.",
+      "pubDate": "2026-09-16T21:00:00.000Z",
       "isFallback": false
     }
   ]
