@@ -1,28 +1,28 @@
 {
   "meta": {
-    "date": "2026-09-17",
-    "updatedAt": "2026-09-17T15:34:11.261Z",
+    "date": "2026-09-18",
+    "updatedAt": "2026-09-18T01:19:16.866Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1789655425000",
+      "id": "it之家-1789693968000",
       "region": "domestic",
-      "title": "不到一个月连破两道千禧年大奖难题？消息称 OpenAI 即将攻克霍奇猜想",
-      "url": "https://www.ithome.com/1/003/858.htm",
+      "title": "谷歌最强数学推理 AI 模型曝光：100 万词元上下文，专攻数学难题",
+      "url": "https://www.ithome.com/1/003/922.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"67fd\">IT之家 9 月 17 日消息，今天（17 日）晚间，据《The Information》援引一名了解解法的人士消息称，OpenAI <strong>已接近攻克“千禧年大奖难题”中的另一道题</strong>。这组著名数学难题共有 7 道，此前引发争议的“纳维-斯托克斯存在性与光滑性问题”也是其中之一。</p><p …",
-      "pubDate": "2026-09-17T14:30:25.000Z",
+      "summary": "<p data-vmark=\"d977\">IT之家 9 月 18 日消息，消息源 @lyraxana 于 9 月 16 日在 X 平台发布推文，爆料称谷歌正基于 DeepThink V3 模型，<strong>构建内部代号为 Mathematica 的实验 AI 模型，主要针对繁重计算、复杂的符号问题求解特别优化，预估将成为谷歌最强数学推理 AI 模型。</…",
+      "pubDate": "2026-09-18T01:12:48.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1789652880000",
+      "id": "it之家-1789691142000",
       "region": "domestic",
-      "title": "《战狗》成“黑马”，发售表现超《ARC Raiders》《绝地潜兵 2》等热门游戏",
-      "url": "https://www.ithome.com/1/003/840.htm",
+      "title": "微软及 OpenAI 内部文件曝光：高管曾警告 AI 可能对新闻机构产生“毁灭性影响”",
+      "url": "https://www.ithome.com/1/003/908.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"b8f3\" style=\"text-align: start;\">IT之家 9 月 17 日消息，据外媒 Eurogamer 今天（17 日）晚间报道，《战狗》现已跻身今年 Steam 最热门的 PC 游戏之列。最新数据显示，其发售表现甚至超过《ARC Raiders》和《绝地潜兵 2》等热门作品，与表现不佳的《失落星船：马拉松…",
-      "pubDate": "2026-09-17T13:48:00.000Z",
+      "summary": "<p data-vmark=\"3e02\">IT之家 9 月 18 日消息，随着美国《纽约时报》等新闻机构持续推进就微软、OpenAI 之间针对训练数据版权问题的诉讼，微软和 OpenAI 内部一批此前被标记为机密的文件现已正式公开，其中展示了微软和 OpenAI 内部员工对 AI 影响的担忧。</p><p data-vmark=\"063a\">其中，微软应用科…",
+      "pubDate": "2026-09-18T00:25:42.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1789658411000",
+      "id": "google-news-ai-1789693526000",
       "region": "abroad",
-      "title": "Altis Labs’ AI software detected treatment benefit earlier in oncology trial - Clinical Trials Arena",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeHVXeHZhQ2hnOUdLR1RHdURxY0tZa1BqM3k1aUJqVWpBWXlTSVNtWTRudTRoN1ZuWV9fcGtTejNIaDliampOdHlST1NlbzlqOTIwNWktTFJPV20tVHBhbmhCMjFZZlRPcWZ3eF9VWDkzXzZ5UUJfSzdaRFIxb1pMcEM0YXFqeXlOZlRCbXc5MVgwVENqYUtJVVFvOVF3eXpQVTBBZ0JHc0F0dHZSTy1uTFlPSElyNzJn?oc=5",
+      "title": "UHS students take part in national conversation about AI - eastoregonian.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORHlLOUlYSkVSRVQ2ZzBCS3NOemhWSlByYUJCYU8ySVI1Qkh6RlNGcWlDQm5YOXZiWk9wcGhwbEhaN3E4STdQTEZ1Q2poNUFDV1Nrd0prMnIxZVVJNEF5bzl6cjNMSlFNMW1nVVAxUDZVVV8xSmdJcTRxSzAzRWZpUmQ1U1NUcVB4amV2RGJzc2hSSGg2SG9zTnpn?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeHVXeHZhQ2hnOUdLR1RHdURxY0tZa1BqM3k1aUJqVWpBWXlTSVNtWTRudTRoN1ZuWV9fcGtTejNIaDliampOdHlST1NlbzlqOTIwNWktTFJPV20tVHBhbm…",
-      "pubDate": "2026-09-17T15:20:11.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxORHlLOUlYSkVSRVQ2ZzBCS3NOemhWSlByYUJCYU8ySVI1Qkh6RlNGcWlDQm5YOXZiWk9wcGhwbEhaN3E4STdQTEZ1Q2poNUFDV1Nrd0prMnIxZVVJNEF5bz…",
+      "pubDate": "2026-09-18T01:05:26.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1789658267000",
+      "id": "google-news-ai-1789693222000",
       "region": "abroad",
-      "title": "Will AI really kill everyone? How, exactly? - wkow.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJwVkw2T0RYV0hpVDBtc3lRUW1ldktlTlMxb3FtRmFqRjk2V2cxZ2NBTkNWN0R2WHYydjQtUXIxd2xTVDBrMl9LamFSWW9kU1VPMlQ5bTRkbEExZUlwOS1VVmEzUVJMa3FMMVg2NWczX3pHOFo3eGtCanJvTW14RlNtY0pPSDF2ZzVKNlVYRFlnRVg4VnZ2dUQxeThUVllXdUUxOWxmLVdzRXRjUEdNTFdXUWh3bDRXc0lQYkVrbnpaRVk?oc=5",
+      "title": "Anthropic says its chatbot Claude is taking over the work of building its own successor - washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM2lTT1pubVg3a2k2VUUzWmJEUUd4STN4UkZCLXRjb1hwcmNEUlRQYWdFQmkxeWkyR25FUEFwWXBWQWlwSUt1TldyVW1ncHhhNGpfRXhRVk9hZkk4YTBmV0RJcUpHb0dTLUZYRlF2TDRIUmd6OFpZdUpyMXlna2FGai1nNl83RDBxR1RIdjNGNnk1ZU5QSWNyUmgzREpLTTU4aU9KMkpQTXZpa3E0RjE1SEhsSk5oQmd3bEFNMkx3eVA4dXI1VDZkc3B5ZjhsbkU?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZTJwVkw2T0RYV0hpVDBtc3lRUW1ldktlTlMxb3FtRmFqRjk2V2cxZ2NBTkNWN0R2WHYydjQtUXIxd2xTVDBrMl9LamFSWW9kU1VPMlQ5bTRkbEExZUlwOS…",
-      "pubDate": "2026-09-17T15:17:47.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOM2lTT1pubVg3a2k2VUUzWmJEUUd4STN4UkZCLXRjb1hwcmNEUlRQYWdFQmkxeWkyR25FUEFwWXBWQWlwSUt1TldyVW1ncHhhNGpfRXhRVk9hZkk4YTBmV0…",
+      "pubDate": "2026-09-18T01:00:22.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1789653974000",
+      "id": "techcrunch-ai-1789687552000",
       "region": "abroad",
-      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-      "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-17T14:06:14.000Z",
+      "pubDate": "2026-09-17T23:25:52.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1789653600000",
+      "id": "techcrunch-ai-1789687277000",
       "region": "abroad",
-      "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-17T14:00:00.000Z",
+      "pubDate": "2026-09-17T23:21:17.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1789596444000",
+      "id": "wired-ai-1789683621000",
       "region": "abroad",
-      "title": "An OpenAI Agent Tried to Jailbreak Itself",
-      "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+      "title": "Here’s What the AI Apocalypse Could Look Like",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
       "source": "Wired AI",
-      "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
-      "pubDate": "2026-09-16T22:07:24.000Z",
+      "summary": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
+      "pubDate": "2026-09-17T22:20:21.000Z",
       "isFallback": false
     }
   ]
