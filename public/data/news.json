@@ -1,110 +1,110 @@
 {
   "meta": {
     "date": "2026-09-20",
-    "updatedAt": "2026-09-20T01:17:26.400Z",
-    "mode": "live"
+    "updatedAt": "2026-09-20T14:43:53.768Z",
+    "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1789866509000",
+      "id": "it之家-1789910071000",
       "region": "domestic",
-      "title": "特朗普计划组建一支“人工智能部队”，称 AI 未来可能占到美国国内生产总值的 25%",
-      "url": "https://www.ithome.com/1/004/608.htm",
+      "title": "2026 年上半年，我国制造业人工智能重点场景应用普及率达 34.2%",
+      "url": "https://www.ithome.com/1/004/991.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"9d99\">IT之家 9 月 20 日消息，据央视新闻报道，美国总统唐纳德 · 特朗普当地时间 9 月 19 日在社交媒体发文称，<strong>他将组建一支“人工智能部队”</strong>。</p><p data-vmark=\"27e8\" style=\"text-align: center;\"><img src=\"https…",
-      "pubDate": "2026-09-20T01:08:29.000Z",
+      "summary": "<p data-vmark=\"ddcc\">IT之家 9 月 20 日消息，据新华社报道，9 月 20 日，在安徽省合肥市举办的 2026 世界制造业大会上，国家工业信息安全发展研究中心发布的《制造业数智化转型能力水平（2026）》显示，<strong>今年上半年，我国制造业人工智能重点场景应用普及率达 34.2%</strong>，全国两化融合发展水平达到 …",
+      "pubDate": "2026-09-20T13:14:31.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1789866327000",
+      "id": "it之家-1789907352000",
       "region": "domestic",
-      "title": "日企 TENKO 推出 10.51\" 笔电 Note Pro AI，搭载 Ultra 5 处理器 125U",
-      "url": "https://www.ithome.com/1/004/605.htm",
+      "title": "FBI 局长称该局 AI 使用暴增 605%，靠 AI 拦下多起枪击事件",
+      "url": "https://www.ithome.com/1/004/986.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"fb4a\">IT之家 9 月 20 日消息，日本企业 TENKO（天空）近日推出了 UMPC 笔记本电脑 TENKO Note Pro AI。其基于英特尔酷睿 Ultra 5 处理器 125U，<strong>配备 10.51\" 屏幕</strong>，支持 360° 翻转。</p><p data-vmark=\"f840\" st…",
-      "pubDate": "2026-09-20T01:05:27.000Z",
+      "summary": "<p data-vmark=\"61af\">IT之家 9 月 20 日消息，美国联邦调查局（FBI）局长卡什 · 帕特尔（Kash Patel）近日在一场采访中称，经他推动，联邦调查局对人工智能技术的使用量实现了 605% 的增长。虽然人工智能模型强大的模式识别能力，使其十分适合执法机构采用；人们也确实有理由预期 FBI 这类部门会运用这项技术，但外界很难厘清…",
+      "pubDate": "2026-09-20T12:29:12.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1789818792000",
+      "id": "量子位-1789906961000",
       "region": "domestic",
-      "title": "“留给人类阻止AI的时间不多了”",
-      "url": "https://www.qbitai.com/2026/09/492755.html",
+      "title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
+      "url": "https://www.qbitai.com/2026/09/492946.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-09-19T11:53:12.000Z",
+      "pubDate": "2026-09-20T12:22:41.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1789818486000",
+      "id": "量子位-1789893032000",
       "region": "domestic",
-      "title": "马斯克批量收购破产公司ing…世界首富脑子是不一样",
-      "url": "https://www.qbitai.com/2026/09/492661.html",
+      "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
+      "url": "https://www.qbitai.com/2026/09/492939.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-09-19T11:48:06.000Z",
+      "pubDate": "2026-09-20T08:30:32.000Z",
       "isFallback": false
     },
     {
-      "id": "少数派-1789604730000",
+      "id": "mock-domestic-01",
       "region": "domestic",
-      "title": "派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等",
-      "url": "https://sspai.com/post/114658",
-      "source": "少数派",
-      "summary": "惠普发布 ZBook Ultra G3a 16 移动工作站、影石发布 Mic Pro 腾讯会议版 AI 录音领夹麦等。<a href=\"https://sspai.com/post/114658\" target=\"_blank\">查看全文</a>",
-      "pubDate": "2026-09-17T00:25:30.000Z",
-      "isFallback": false
+      "title": "国内多家人工智能实验室发布新一代开源大模型，推理成本下降超六成",
+      "url": "https://www.jiqizhixin.com/",
+      "source": "机器之心",
+      "summary": "多家国内 AI 实验室联合发布新一代开源大模型系列，在多项基准测试中表现接近闭源旗舰模型，同时通过混合专家架构与推理优化，将单次推理成本降低超过 60%，引发开源社区广泛关注。",
+      "pubDate": "2026-08-10T06:00:00Z",
+      "isFallback": true
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1789864768000",
+      "id": "google-news-ai-1789914375000",
       "region": "abroad",
-      "title": "3 US AI Infrastructure Stocks Worth Watching As Policy Shifts Capital - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUVAwYzZyclE1SXdrS0tzQlpNdE9yZzA1NC1KOG9RU3dJRFpISldfRDNaRzJDRWpKNTVfdjBEYjY2cWc0UW9DakJEclR5VFYxeEs5STRtWTg0UkFOTkJfTGUzTUU2QnNndHVHaDFRaHBYRmJ1SmhkRlFVY0hUX3h6VEI5U2oyR2szRVRiTFBuU0FZRUkzMmJmT0w3cFkzd3g5WXQ4bEYtUE5fN055UC1FS1BQUGM0azktdlJ6OWFBemJheXltT1gzODdKRVlOeC0zcW5oRHRB0gHbAUFVX3lxTE9odVIxM3g5UXBzbkhkbVA2akstSmpzcHhqaTBZWk5QNWRrdlZhYVJNQlhNcU9lemRPZ044NkM3NWNNeGYyakZmaHlsZml2VUpnWDlCandXZUw3RFBrNVJtd1lOTS13SDFDZ1ozZEpac1FoUk9VeGNxaFMzY3VlM2dnVmI3MWY1TVBCSGtVNFhtSmE0RWRQdEFVWVJ5MUJiT3JBUV9zVEhZUkItNlE3ZmpTUzJ6Q2RzZ0V2bVMwYzk4ZHp0dW85RzU2ME0yZHY5dC01S04yNUNqdjhnQQ?oc=5",
+      "title": "AI Hallucinations Nearly Triggered a US-China Military Confrontation - Security Affairs",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeWI2WW5lNmJXM2EtalphMnRjTEZCcFgxRXVvUk04Q01JZ2hqdlZBTFdWQjVBQXhDU0FQR0FJbnZVdVZLNXB0U0Q5NXh4ZUxGNVFHTnpxSm80NE8zZnBCbGRIX1IzMkpyNmdFZWk5U2ZpWGozc19vZGpoY25HWlJIVzVhRmRvNG8tRjlxRS1RZW1CbzFQdG1wcnJLVk0tLXVvc3JZOXVCdXFQdVV5bU1r0gG0AUFVX3lxTE9MZ3EtZndTeW9xejVrQW1janVISWFwOXFCUU5Pb00waUpTYzNCWXZpeXVaRDhtUm9nQ2VidUNuazEzSGRPWVZQYTZ2bTlOejJRcFM5U2ZsMkpMZXBEMmpSTFUxcnlUdjVwbnUwc2lZZ2VYWTFoRTZlM3JfeEpETkJJcGdUNkhpYzVkR0xSXzZ3RndjM2J5ZW5UanFORzQ5a2hVRDZVT3R1U19fcElXNzcwTE5KZw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUVAwYzZyclE1SXdrS0tzQlpNdE9yZzA1NC1KOG9RU3dJRFpISldfRDNaRzJDRWpKNTVfdjBEYjY2cWc0UW9DakJEclR5VFYxeEs5STRtWTg0UkFOTkJfTG…",
-      "pubDate": "2026-09-20T00:39:28.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOeWI2WW5lNmJXM2EtalphMnRjTEZCcFgxRXVvUk04Q01JZ2hqdlZBTFdWQjVBQXhDU0FQR0FJbnZVdVZLNXB0U0Q5NXh4ZUxGNVFHTnpxSm80NE8zZnBCbG…",
+      "pubDate": "2026-09-20T14:26:15.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1789864740000",
+      "id": "google-news-ai-1789914357000",
       "region": "abroad",
-      "title": "Australia’s Albanese Urges World to Act for Humanity in AI Race - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYnBBV1FGemNXaWZLbU9jd21VelNleWxZM1RKeTJ3Z1VOTEdZRTllRVBFY2c5U3BpYWJWUTlZQmt2cjZXWTNkN084OFdJUjVlSDJPTUp6ZGsyVDV5UzBrUnZ1ZjVTd3hQeGo5dzFjMlRJaDZrcng3YTdkcXktSG5hOGRjektDMkFqSld4S0xBeHBRTVZnNENNSnNHQ0gyZDF4OU11VGJ1WTRWd1ZFZU0ycGRwdms?oc=5",
+      "title": "Measurements for understanding the pace of AI development inside frontier labs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQYnBBV1FGemNXaWZLbU9jd21VelNleWxZM1RKeTJ3Z1VOTEdZRTllRVBFY2c5U3BpYWJWUTlZQmt2cjZXWTNkN084OFdJUjVlSDJPTUp6ZGsyVDV5UzBrUn…",
-      "pubDate": "2026-09-20T00:39:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3…",
+      "pubDate": "2026-09-20T14:25:57.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1789850353000",
+      "id": "techcrunch-ai-1789912800000",
       "region": "abroad",
-      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-19T20:39:13.000Z",
+      "pubDate": "2026-09-20T14:00:00.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1789847867000",
+      "id": "wired-ai-1789900200000",
       "region": "abroad",
-      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-09-19T19:57:47.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1789815600000",
-      "region": "abroad",
-      "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
-      "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+      "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
+      "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
       "source": "Wired AI",
-      "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
-      "pubDate": "2026-09-19T11:00:00.000Z",
+      "summary": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
+      "pubDate": "2026-09-20T10:30:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1789900200000",
+      "region": "abroad",
+      "title": "It’s Donald Trump Versus MAGA on Data Centers",
+      "url": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
+      "source": "Wired AI",
+      "summary": "The president has doubled down on data centers and AI. His base is running in the opposite direction.",
+      "pubDate": "2026-09-20T10:30:00.000Z",
       "isFallback": false
     }
   ]
