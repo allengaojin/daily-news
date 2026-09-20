@@ -1,28 +1,28 @@
 {
   "meta": {
-    "date": "2026-09-19",
-    "updatedAt": "2026-09-19T14:30:17.049Z",
+    "date": "2026-09-20",
+    "updatedAt": "2026-09-20T01:17:26.400Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1789824959000",
+      "id": "it之家-1789866509000",
       "region": "domestic",
-      "title": "比亚迪第二代腾势 D9 车型 OTA 升级，AI 超级智能体“迪迪虾”上新",
-      "url": "https://www.ithome.com/1/004/561.htm",
+      "title": "特朗普计划组建一支“人工智能部队”，称 AI 未来可能占到美国国内生产总值的 25%",
+      "url": "https://www.ithome.com/1/004/608.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"c7d3\">IT之家 9 月 19 日消息，比亚迪第二代腾势 D9 OTA 于近日焕新升级，AI 超级智能体“迪迪虾”上新。</p><p data-vmark=\"c7e4\">IT之家整理如下：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"1adc\">新增迪迪虾智能搭…",
-      "pubDate": "2026-09-19T13:35:59.000Z",
+      "summary": "<p data-vmark=\"9d99\">IT之家 9 月 20 日消息，据央视新闻报道，美国总统唐纳德 · 特朗普当地时间 9 月 19 日在社交媒体发文称，<strong>他将组建一支“人工智能部队”</strong>。</p><p data-vmark=\"27e8\" style=\"text-align: center;\"><img src=\"https…",
+      "pubDate": "2026-09-20T01:08:29.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1789824701000",
+      "id": "it之家-1789866327000",
       "region": "domestic",
-      "title": "“工作垃圾”飞来飞去，曾大力拥抱 AI 的科技大佬开始“踩刹车”了",
-      "url": "https://www.ithome.com/1/004/560.htm",
+      "title": "日企 TENKO 推出 10.51\" 笔电 Note Pro AI，搭载 Ultra 5 处理器 125U",
+      "url": "https://www.ithome.com/1/004/605.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"9cfb\">IT之家 9 月 19 日消息，当地时间 17 日，据《财富》杂志网站报道，曾经把 AI 吹捧为释放员工全部潜力关键的科技行业领导者，正开始逐渐改变说法。</p><p data-vmark=\"c97f\">Shopify 联合创始人兼 CEO 托比亚斯 · 吕特克就是其中之一。去年，他还要求员工把使用 AI 当作基本要…",
-      "pubDate": "2026-09-19T13:31:41.000Z",
+      "summary": "<p data-vmark=\"fb4a\">IT之家 9 月 20 日消息，日本企业 TENKO（天空）近日推出了 UMPC 笔记本电脑 TENKO Note Pro AI。其基于英特尔酷睿 Ultra 5 处理器 125U，<strong>配备 10.51\" 屏幕</strong>，支持 360° 翻转。</p><p data-vmark=\"f840\" st…",
+      "pubDate": "2026-09-20T01:05:27.000Z",
       "isFallback": false
     },
     {
@@ -58,33 +58,43 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1789827702000",
+      "id": "google-news-ai-1789864768000",
       "region": "abroad",
-      "title": "Measurements for understanding the pace of AI development inside frontier labs - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
+      "title": "3 US AI Infrastructure Stocks Worth Watching As Policy Shifts Capital - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUVAwYzZyclE1SXdrS0tzQlpNdE9yZzA1NC1KOG9RU3dJRFpISldfRDNaRzJDRWpKNTVfdjBEYjY2cWc0UW9DakJEclR5VFYxeEs5STRtWTg0UkFOTkJfTGUzTUU2QnNndHVHaDFRaHBYRmJ1SmhkRlFVY0hUX3h6VEI5U2oyR2szRVRiTFBuU0FZRUkzMmJmT0w3cFkzd3g5WXQ4bEYtUE5fN055UC1FS1BQUGM0azktdlJ6OWFBemJheXltT1gzODdKRVlOeC0zcW5oRHRB0gHbAUFVX3lxTE9odVIxM3g5UXBzbkhkbVA2akstSmpzcHhqaTBZWk5QNWRrdlZhYVJNQlhNcU9lemRPZ044NkM3NWNNeGYyakZmaHlsZml2VUpnWDlCandXZUw3RFBrNVJtd1lOTS13SDFDZ1ozZEpac1FoUk9VeGNxaFMzY3VlM2dnVmI3MWY1TVBCSGtVNFhtSmE0RWRQdEFVWVJ5MUJiT3JBUV9zVEhZUkItNlE3ZmpTUzJ6Q2RzZ0V2bVMwYzk4ZHp0dW85RzU2ME0yZHY5dC01S04yNUNqdjhnQQ?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3…",
-      "pubDate": "2026-09-19T14:21:42.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUVAwYzZyclE1SXdrS0tzQlpNdE9yZzA1NC1KOG9RU3dJRFpISldfRDNaRzJDRWpKNTVfdjBEYjY2cWc0UW9DakJEclR5VFYxeEs5STRtWTg0UkFOTkJfTG…",
+      "pubDate": "2026-09-20T00:39:28.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1789827579000",
+      "id": "google-news-ai-1789864740000",
       "region": "abroad",
-      "title": "Who’s putting AI in charge? - Struggle-La Lucha",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10LUQ0OVZNVjlSREFWdDNYTWlPeV9XOGFzSHhUS3NPdm5DdzE3TEhaTlYyUmdRQ3NGY19CRkZwSjJrNGtrOFJ1S1Npd2s2dDdPQU5iUkRaQTI5dy1MOFYyMU5MVHhXeHFCang1MTRSTUNycVdSZmhuUkx6TQ?oc=5",
+      "title": "Australia’s Albanese Urges World to Act for Humanity in AI Race - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYnBBV1FGemNXaWZLbU9jd21VelNleWxZM1RKeTJ3Z1VOTEdZRTllRVBFY2c5U3BpYWJWUTlZQmt2cjZXWTNkN084OFdJUjVlSDJPTUp6ZGsyVDV5UzBrUnZ1ZjVTd3hQeGo5dzFjMlRJaDZrcng3YTdkcXktSG5hOGRjektDMkFqSld4S0xBeHBRTVZnNENNSnNHQ0gyZDF4OU11VGJ1WTRWd1ZFZU0ycGRwdms?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE10LUQ0OVZNVjlSREFWdDNYTWlPeV9XOGFzSHhUS3NPdm5DdzE3TEhaTlYyUmdRQ3NGY19CRkZwSjJrNGtrOFJ1S1Npd2s2dDdPQU5iUkRaQTI5dy1MOFYyMU…",
-      "pubDate": "2026-09-19T14:19:39.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQYnBBV1FGemNXaWZLbU9jd21VelNleWxZM1RKeTJ3Z1VOTEdZRTllRVBFY2c5U3BpYWJWUTlZQmt2cjZXWTNkN084OFdJUjVlSDJPTUp6ZGsyVDV5UzBrUn…",
+      "pubDate": "2026-09-20T00:39:00.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1789822800000",
+      "id": "techcrunch-ai-1789850353000",
       "region": "abroad",
-      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-19T13:00:00.000Z",
+      "pubDate": "2026-09-19T20:39:13.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1789847867000",
+      "region": "abroad",
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-09-19T19:57:47.000Z",
       "isFallback": false
     },
     {
@@ -95,16 +105,6 @@
       "source": "Wired AI",
       "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
       "pubDate": "2026-09-19T11:00:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1789812000000",
-      "region": "abroad",
-      "title": "Mathematicians Hate AI. They Can’t Quit It",
-      "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
-      "source": "Wired AI",
-      "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
-      "pubDate": "2026-09-19T10:00:00.000Z",
       "isFallback": false
     }
   ]
