@@ -1,28 +1,28 @@
 {
   "meta": {
     "date": "2026-09-22",
-    "updatedAt": "2026-09-21T17:06:50.123Z",
+    "updatedAt": "2026-09-22T01:38:26.174Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1789995724000",
+      "id": "it之家-1790040792000",
       "region": "domestic",
-      "title": "冲刺 IPO，Nscale 的 1030 亿美元数据中心订单高度依赖微软和 Anthropic 两大客户",
-      "url": "https://www.ithome.com/1/005/437.htm",
+      "title": "美国最年轻 10 位亿万富豪出炉：7 人靠 AI 创业，4 人来自 Anthropic",
+      "url": "https://www.ithome.com/1/005/532.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"0419\">IT之家 9 月 21 日消息，据彭博社报道，英国 AI 基础设施公司 Nscale 过去三年客户签约量激增千倍，主要归功于两家对人工智能算力如饥似渴的公司：微软和 Anthropic。</p><p style=\"text-align: center;\" data-vmark=\"9f5c\"><img src=\"htt…",
-      "pubDate": "2026-09-21T13:02:04.000Z",
+      "summary": "<p data-vmark=\"7953\">9 月 22 日，据 Business Insider 报道，福布斯发布美国 400 位最富有富豪年度榜单。</p><p data-vmark=\"b370\">今年上榜门槛升至 44 亿美元，创历史新高。40 岁以下富豪人数从去年的 4 人增至 10 人，其中 7 人的财富来自 AI 热潮，且多为创始人。</p><p …",
+      "pubDate": "2026-09-22T01:33:12.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1789991800000",
+      "id": "it之家-1790040074000",
       "region": "domestic",
-      "title": "蚂蚁集团 CEO 韩歆毅发布全员信，将组建全新的支付宝事业群",
-      "url": "https://www.ithome.com/1/005/419.htm",
+      "title": "韩 AI 芯片企业 FuriosaAI 披露新一代推理加速器规格：32 倍算力、32 倍内存带宽",
+      "url": "https://www.ithome.com/1/005/531.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"2b9e\">9 月 21 日晚间消息，蚂蚁集团 CEO 韩歆毅发布全员信，宣布支付宝进行组织调整与人事任命，以加速布局智能体商业。</p><p data-vmark=\"208e\">根据调整，<strong>支付宝事业群、数字支付事业群和芝麻信用事业部将“会师”，组建全新的支付宝事业群</strong>。吴敏芝将担任新支付宝事业群…",
-      "pubDate": "2026-09-21T11:56:40.000Z",
+      "summary": "<p data-vmark=\"de18\">IT之家 9 月 22 日消息，据韩媒 ZDNET Korea 当地时间 21 日报道，韩媒 AI 半导体初创企业 FuriosaAI 昨日公布了其第三代 AI 推理加速器的技术细节。</p><p data-vmark=\"6eb2\" style=\"text-align: center;\"><img src=\"http…",
+      "pubDate": "2026-09-22T01:21:14.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1790010163000",
+      "id": "google-news-ai-1790040600000",
       "region": "abroad",
-      "title": "How AI Can Strengthen ERISA Fiduciary Decision-Making - 401k Specialist",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUlJNTXVfV1JYSlVKY1RqaTRkYmNHMzRmbUtTRlowdjhfRUZKZnZLRXlKeF9uYUpSeTdQNm52WS1HOEIyM1o3c3g4c0NaVUczczN6NFRLeTFlYnFGZ3h6M1BYcW9rRlJLNkp0amxGWEROMDRfQ2J1VFROR3dnXzZEWmZjSTRrOVNHTGoySmw0UGRYZmN0elM2OGc2UDQ2VTA?oc=5",
+      "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMWNBMl9KdlM0ZlZNSDZ3a3BhNkdwQldONGwtT29EMjJUYU4yLVZtN2ZyNnFMLXZORmd3RW9sWXVGcGo3SjZtMFVrM1V0WDRMX25FVnhqYWhJOVhhZFlHQUQtNDQtc2FBMThqYTUzS0traUFPLWJCaVVLcmR5TFJRU0xiTdIBiAFBVV95cUxQb0lBdm9lMVRRZnZZR2VqQTdSTW1ickpPUF9BZExndHhVOW5xQjl5WGFRdndGLW5BM3l6S0s5R19yM05ZRFE0dDZKRzVKQjduNlQzTkttclZ2UTA5OVQ0UklpeVFLbncyb1dTM0lrRjFYdUdYNV9BdkdVM2pNT1NGcGVFZ0VSd0Ut?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUlJNTXVfV1JYSlVKY1RqaTRkYmNHMzRmbUtTRlowdjhfRUZKZnZLRXlKeF9uYUpSeTdQNm52WS1HOEIyM1o3c3g4c0NaVUczczN6NFRLeTFlYnFGZ3h6M1…",
-      "pubDate": "2026-09-21T17:02:43.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOMWNBMl9KdlM0ZlZNSDZ3a3BhNkdwQldONGwtT29EMjJUYU4yLVZtN2ZyNnFMLXZORmd3RW9sWXVGcGo3SjZtMFVrM1V0WDRMX25FVnhqYWhJOVhhZFlHQU…",
+      "pubDate": "2026-09-22T01:30:00.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1790010060000",
+      "id": "google-news-ai-1790039975000",
       "region": "abroad",
-      "title": "Ahead of Sam Altman's UN address, OpenAI proposes new ways to track AI misalignment risks - Axios",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4enUtX0hVejdOalhsVU1ZWjh0R3N2dzZFOFdIUFBXU29XQkRLaVlOTk0zeUx6NXg1cFFtUUxOd1dHSnVlNFZXMUJCOGFONzRTWThsa3JuNDBMMjU5RzRHelhtaG1rX2pXUzEtUzhzaWJHT0xfSGo4?oc=5",
+      "title": "Measurements for understanding the pace of AI development inside frontier labs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFB4enUtX0hVejdOalhsVU1ZWjh0R3N2dzZFOFdIUFBXU29XQkRLaVlOTk0zeUx6NXg1cFFtUUxOd1dHSnVlNFZXMUJCOGFONzRTWThsa3JuNDBMMjU5RzRHel…",
-      "pubDate": "2026-09-21T17:01:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3…",
+      "pubDate": "2026-09-22T01:19:35.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1790008731000",
+      "id": "techcrunch-ai-1790034268000",
       "region": "abroad",
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-21T16:38:51.000Z",
+      "pubDate": "2026-09-21T23:44:28.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1790002800000",
+      "id": "techcrunch-ai-1790021758000",
       "region": "abroad",
-      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-21T15:00:00.000Z",
+      "pubDate": "2026-09-21T20:15:58.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1789995600000",
+      "id": "wired-ai-1790015582000",
       "region": "abroad",
-      "title": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
-      "url": "https://www.wired.com/story/google-launches-googlebook-laptops/",
+      "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
+      "url": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
       "source": "Wired AI",
-      "summary": "Apple lovers have long enjoyed seamless connectivity between their iPhones and Macs. Now, Google’s bringing that experience to Android.",
-      "pubDate": "2026-09-21T13:00:00.000Z",
+      "summary": "Washington and Beijing have grown ever more linked in the AI boom, making hardware exports and technological restrictions hefty bargaining chips in negotiations.",
+      "pubDate": "2026-09-21T18:33:02.000Z",
       "isFallback": false
     }
   ]
