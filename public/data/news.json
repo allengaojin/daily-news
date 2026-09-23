@@ -1,28 +1,48 @@
 {
   "meta": {
     "date": "2026-09-23",
-    "updatedAt": "2026-09-23T01:33:14.099Z",
+    "updatedAt": "2026-09-23T15:28:24.610Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1790127099000",
+      "id": "it之家-1790176011000",
       "region": "domestic",
-      "title": "韶音旗下首款 AI 耳机 OpenFit 2 AI 亮相 2026 云栖大会，AI 实验室新功能首发",
-      "url": "https://www.ithome.com/1/006/065.htm",
+      "title": "YouTube 推出全新 AI 智能体，能帮创作者“翻红”老视频",
+      "url": "https://www.ithome.com/1/006/503.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"d949\">IT之家 9 月 23 日消息，2026 云栖大会于 9 月 22 日在浙江杭州开幕，Shokz 韶音首次亮相云栖大会，<strong>携旗下首款 AI 耳机 OpenFit 2 AI 参展，并首发“AI 实验室”新功能</strong>，推出智能对话、日程待办、随口记、消息助手四项功能。</p><p data-vm…",
-      "pubDate": "2026-09-23T01:31:39.000Z",
+      "summary": "<p class=\"PDq2pG_selectionAnchorContainer\" data-vmark=\"c419\">IT之家 9 月 23 日消息，在今天（23 日）的年度创作者活动 Made on YouTube 上，YouTube 宣布升级 2025 年推出的 AI 创作工具。<span class=\"PDq2pG_selectionAnchor\"…",
+      "pubDate": "2026-09-23T15:06:51.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1790125604000",
+      "id": "it之家-1790175920000",
       "region": "domestic",
-      "title": "铁威马推出 U-725 系列企业级机架式 NAS，基于至强 D-2700 处理器",
-      "url": "https://www.ithome.com/1/006/057.htm",
+      "title": "罗福莉官宣小米 MiMo-V3 采用全新架构，核心 HySparse 2 今日发布",
+      "url": "https://www.ithome.com/1/006/502.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"9b1a\">IT之家 9 月 23 日消息，铁威马 (TerraMaster) 昨日宣布推出 4 款 U-725 系列“至尊型”企业级机架式 NAS。这些产品均运行 TOS 7 人工智能原生操作系统。</p><p data-vmark=\"10fb\" style=\"text-align: center;\"><img src=\"ht…",
-      "pubDate": "2026-09-23T01:06:44.000Z",
+      "summary": "<p data-vmark=\"1aa4\">IT之家 9 月 23 日消息，小米 MiMo 大模型负责人罗福莉今日发文，宣布 MiMo-V3 即将采用全新架构。其核心 HySparse 2 今日发布，带来更少的预填充、更小的 KV 缓存、更出色的长上下文检索。</p><ul class=\"medium-size list-paddingleft-2\"><li>…",
+      "pubDate": "2026-09-23T15:05:20.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1790159716000",
+      "region": "domestic",
+      "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
+      "url": "https://www.qbitai.com/2026/09/496609.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-09-23T10:35:16.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1790157413000",
+      "region": "domestic",
+      "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
+      "url": "https://www.qbitai.com/2026/09/496578.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-09-23T09:56:53.000Z",
       "isFallback": false
     },
     {
@@ -34,77 +54,57 @@
       "summary": "高通发布两款第六代骁龙 8 旗舰芯片，Claude Opus 5.5 与 GPT-6 Sol/Luna 发布等。<a href=\"https://sspai.com/post/114889\" target=\"_blank\">查看全文</a>",
       "pubDate": "2026-09-22T23:30:05.000Z",
       "isFallback": false
-    },
-    {
-      "id": "量子位-1790092775000",
-      "region": "domestic",
-      "title": "陆川手搓历史现场，王珞丹熬夜抽卡，阿里全模态开始兜底生产",
-      "url": "https://www.qbitai.com/2026/09/494429.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-09-22T15:59:35.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1790092014000",
-      "region": "domestic",
-      "title": "Agent时代，CPU的价值该重估了",
-      "url": "https://www.qbitai.com/2026/09/494430.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-09-22T15:46:54.000Z",
-      "isFallback": false
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1790126018000",
+      "id": "google-news-ai-1790177113000",
       "region": "abroad",
-      "title": "Ruth AI tool seeks to eliminate gender wage gap, built-in bias in large language models - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONzRCV2RZVzZnNERZVzlEUGhsbWlieXU1b3JGT3dxZVdCQ1RENGNrWjh2N2Y0cFhlUVhLd185cHpTanFtd00wNjBMLW9pbl9qVDJoTmViMjd4TlIzM3ZVNnB3Z0pkY3NNMlA1YjB6UzVWMVF3RmRxUXBIcHZ4bzB3WjFWY3pmNFB2QkJ0NzJmNTI4TDFPTzhRUUxIRQ?oc=5",
+      "title": "Prince Harry warns AI chatbots can be more dangerous than social media for the young - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnV5UDN6QTRmeVpnQVhDWlZQdjJjLVAyUGNyVXJ2RDg5eGVNUS1FOG80U0RqQk13VlJVYjQ1UlF4a0o5ZHlTajBXNTlUdUJHMloxcVAxdXpXelhNWFZzMC1QMkprVFdmbEoyVVNud3dneTZWTHEwdDczQy1vNFNVckw1ZWswWm9SaUdVeno1aTBYeXdlbjN3dEozRGlwVEplemlXMDItMNIBrAFBVV95cUxOajFfUWMtSUxtRTBkUEVHMFpWNkwxVm9aMFZybHhMOWRqNmpUcWRIWTVvVmpQOFhNdzBiUHhBREU4b1ZRYTFNMFROdElaMk1hbUpVWEliSFFXdGppWlBjRFZ4R1l4aHI5OE9PM3dPcjNBM3NIcjhHOTZScHFzNVhmeGdDOWpqUUhMTThnQWlNOUpncC1vNC1hWnVCY29IRDhiTnRtRWlhMEpscDRF?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxONzRCV2RZVzZnNERZVzlEUGhsbWlieXU1b3JGT3dxZVdCQ1RENGNrWjh2N2Y0cFhlUVhLd185cHpTanFtd00wNjBMLW9pbl9qVDJoTmViMjd4TlIzM3ZVNn…",
-      "pubDate": "2026-09-23T01:13:38.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnV5UDN6QTRmeVpnQVhDWlZQdjJjLVAyUGNyVXJ2RDg5eGVNUS1FOG80U0RqQk13VlJVYjQ1UlF4a0o5ZHlTajBXNTlUdUJHMloxcVAxdXpXelhNWFZzMC…",
+      "pubDate": "2026-09-23T15:25:13.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1790125920000",
+      "id": "google-news-ai-1790176857000",
       "region": "abroad",
-      "title": "Meta’s New AI Agent Is an Instant Hit—and the Backlash Has Already Begun - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00Ri03WHN1eHFSTkktU0lYVzNPZlB3R0VhSDNEN25KTDNYa0RPVmlzcXBscGlNUjBNYmRLd2dHNFZhaGpLblNPZHJEdDNmTHd2RUFiVkhLZ2k2d3lsZU1KeU5SZndZelNqRnFTbHhSdWZOVG8?oc=5",
+      "title": "Why AI resembles a charismatic religious leader - Baptist News Global",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSFFoRHpCa05Kdjc2dmV5eGptOFo5TE5NWjdOazV5NHoyRlYxYmZ0U2VmUlMwb3VzTVNKSHlkUTAweUhCOEpucDRyMVNoODFkdG9tckxuc0hPdnNtMko1dFk3dElER0hlSXdYeWd6S3BmbkthaUc1S0RIQW5rcUdCbENDLXNUcTQ?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE00Ri03WHN1eHFSTkktU0lYVzNPZlB3R0VhSDNEN25KTDNYa0RPVmlzcXBscGlNUjBNYmRLd2dHNFZhaGpLblNPZHJEdDNmTHd2RUFiVkhLZ2k2d3lsZU1KeU…",
-      "pubDate": "2026-09-23T01:12:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOSFFoRHpCa05Kdjc2dmV5eGptOFo5TE5NWjdOazV5NHoyRlYxYmZ0U2VmUlMwb3VzTVNKSHlkUTAweUhCOEpucDRyMVNoODFkdG9tckxuc0hPdnNtMko1dF…",
+      "pubDate": "2026-09-23T15:20:57.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1790119309000",
+      "id": "techcrunch-ai-1790176770000",
       "region": "abroad",
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "title": "YouTube Music gets more conversational with new AI features",
+      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-22T23:21:49.000Z",
+      "pubDate": "2026-09-23T15:19:30.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1790114203000",
+      "id": "techcrunch-ai-1790173800000",
       "region": "abroad",
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-22T21:56:43.000Z",
+      "pubDate": "2026-09-23T14:30:00.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1790101153000",
+      "id": "wired-ai-1790168098000",
       "region": "abroad",
-      "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
-      "url": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
+      "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+      "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
       "source": "Wired AI",
-      "summary": "Apple may pay out up to $95 for each eligible iPhone purchased by someone who felt misled about Siri’s release. You have until December 21 to submit a claim.",
-      "pubDate": "2026-09-22T18:19:13.000Z",
+      "summary": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting the inherent dangers of AI hel…",
+      "pubDate": "2026-09-23T12:54:58.000Z",
       "isFallback": false
     }
   ]
