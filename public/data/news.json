@@ -1,110 +1,110 @@
 {
   "meta": {
     "date": "2026-09-24",
-    "updatedAt": "2026-09-24T01:29:11.242Z",
-    "mode": "live"
+    "updatedAt": "2026-09-24T15:50:45.706Z",
+    "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1790212333000",
+      "id": "量子位-1790259614000",
       "region": "domestic",
-      "title": "双方关系何时破裂？OpenAI 称与苹果的 ChatGPT 合作远不及预期",
-      "url": "https://www.ithome.com/1/006/548.htm",
-      "source": "IT之家",
-      "summary": "<p data-vmark=\"1aaa\">北京时间 9 月 24 日，据《金融时报》报道，最新法庭文件揭示了 OpenAI 与苹果的关系是如何逐渐破裂的。</p><p data-vmark=\"72df\">OpenAI 周三称，公司与苹果合作，通过 ChatGPT 为 iPhone 添加 AI 功能的业务在 2024 年推出后，“表现远低于预期”。</p><p…",
-      "pubDate": "2026-09-24T01:12:13.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "it之家-1790212138000",
-      "region": "domestic",
-      "title": "Meta 发布 AI 时代“电子宠物”设备 Muse Charm：前苹果设计师打造，挂在背包上的人工智能",
-      "url": "https://www.ithome.com/1/006/546.htm",
-      "source": "IT之家",
-      "summary": "<p data-vmark=\"a2a2\">IT之家 9 月 24 日消息，在今早的 Meta Connect 活动中，Meta CEO 马克 · 扎克伯格发布了一款名为 <strong>Muse Charm</strong> 的设备，这是一款基于 Muse（Meta 的 AI 助手）打造的小型、始终在线的手持设备。</p><p data-vmark=\"507…",
-      "pubDate": "2026-09-24T01:08:58.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1790210882000",
-      "region": "domestic",
-      "title": "成立九年，中科类脑把积累装进Token工厂",
-      "url": "https://www.qbitai.com/2026/09/496615.html",
+      "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
+      "url": "https://www.qbitai.com/2026/09/496961.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-09-24T00:48:02.000Z",
+      "pubDate": "2026-09-24T14:20:14.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1790159716000",
+      "id": "量子位-1790259468000",
       "region": "domestic",
-      "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
-      "url": "https://www.qbitai.com/2026/09/496609.html",
+      "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
+      "url": "https://www.qbitai.com/2026/09/496925.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-09-23T10:35:16.000Z",
+      "pubDate": "2026-09-24T14:17:48.000Z",
       "isFallback": false
     },
     {
-      "id": "少数派-1790119805000",
+      "id": "it之家-1790258558000",
       "region": "domestic",
-      "title": "派早报：OPPO Find X10 系列发布、Beats 360 头戴式耳机发布等",
-      "url": "https://sspai.com/post/114889",
-      "source": "少数派",
-      "summary": "高通发布两款第六代骁龙 8 旗舰芯片，Claude Opus 5.5 与 GPT-6 Sol/Luna 发布等。<a href=\"https://sspai.com/post/114889\" target=\"_blank\">查看全文</a>",
-      "pubDate": "2026-09-22T23:30:05.000Z",
+      "title": "“太空数据中心”第一步？谷歌下周将发射试验卫星，能处理简单 AI 查询",
+      "url": "https://www.ithome.com/1/007/022.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"92db\">IT之家 9 月 24 日消息，《华尔街日报》今天（24 日）晚间报道，当地时间 10 月 1 日，谷歌计划把一颗实验卫星 MVP 送入轨道。MVP 具备足够的算力，可以直接在太空中<strong>处理并回答简单的 AI 查询</strong>。</p><p data-vmark=\"9d52\">MVP 属于谷歌雄心勃…",
+      "pubDate": "2026-09-24T14:02:38.000Z",
       "isFallback": false
+    },
+    {
+      "id": "it之家-1790256313000",
+      "region": "domestic",
+      "title": "三巨头联手，曝谷歌、OpenAI、Anthropic 拟共同组建 AI 安全标准自律组织",
+      "url": "https://www.ithome.com/1/007/016.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"490a\">IT之家 9 月 24 日消息，The Information 今天（24 日）晚间援引知情人士消息称，谷歌、OpenAI 和 Anthropic 三家 AI 公司正自行推进成立 AI 安全标准机构的计划，希望在没有政府监督的情况下，<strong>于今年年底或明年年初启动该组织</strong>。</p><p da…",
+      "pubDate": "2026-09-24T13:25:13.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "mock-domestic-01",
+      "region": "domestic",
+      "title": "国内多家人工智能实验室发布新一代开源大模型，推理成本下降超六成",
+      "url": "https://www.jiqizhixin.com/",
+      "source": "机器之心",
+      "summary": "多家国内 AI 实验室联合发布新一代开源大模型系列，在多项基准测试中表现接近闭源旗舰模型，同时通过混合专家架构与推理优化，将单次推理成本降低超过 60%，引发开源社区广泛关注。",
+      "pubDate": "2026-08-10T06:00:00Z",
+      "isFallback": true
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1790212947000",
+      "id": "google-news-ai-1790264675000",
       "region": "abroad",
-      "title": "Bills to Require Pre-Deployment AI Testing Planned for House, Senate (Sep 23, 2026) - VitalLaw.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPam01NmVUUmV4aFh1ME5rTEpGYlpERk9PWDZsVkxjaFRxOUpyc1c3bUFObEVMUXR5Wm5jNHd0VXZXaFB3UEdXbnJhRUZrUzNESjdVWVl3cDN5YWRaSWdPSGJoOGhoSEQxZjgtc2RVaHNkRUFvSHZMRHo2YjhYeEl5N2NGU3BYbjhqMXNtRkVpZV9UbmM0cnJYRGxhY0J3VmlobG1xdzJMcEtNUTlHbUJQbUdLV1o1U3dBZ2xXSlhjOVFucXI3UnhVU3ota0E5WnBvRHc?oc=5",
+      "title": "US Leadership on Open-Weight Models is Key to Global AI Safety - Tech Policy Press",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnFHei04WDlYOE9RbV9iTm1jektFb1BId1hJaEN5bENQRDlpNjVJcFpsRWc5UzVuUVUwSmJ0TzgwdlBTc3FBSU9nRDZKWGtBOFdLR1pjNHhBSnczUGlkTHhQdV9EYnRvS1RpakhwUVhBdWhIbExuN3oxNlNsaHQ2cThXVFlpX3gyYUQ2OUMybWJYdi1lMU5J?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPam01NmVUUmV4aFh1ME5rTEpGYlpERk9PWDZsVkxjaFRxOUpyc1c3bUFObEVMUXR5Wm5jNHd0VXZXaFB3UEdXbnJhRUZrUzNESjdVWVl3cDN5YWRaSWdPSG…",
-      "pubDate": "2026-09-24T01:22:27.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnFHei04WDlYOE9RbV9iTm1jektFb1BId1hJaEN5bENQRDlpNjVJcFpsRWc5UzVuUVUwSmJ0TzgwdlBTc3FBSU9nRDZKWGtBOFdLR1pjNHhBSnczUGlkTH…",
+      "pubDate": "2026-09-24T15:44:35.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1790212809000",
+      "id": "google-news-ai-1790263977000",
       "region": "abroad",
-      "title": "At U.N., tech leaders urge global effort to limit AI’s risk to humanity - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEFSX0g4QlZFMHlEMHpKWjNpZ05zZHdUSFplcHd2dnhZWWQ2N1pkSjUwR1c0bUFWVmpKYVBhcXQ2cTJra09fU1ZiV3k2NHNwUUE1aWVhVS1YUmhsM3czMkc1VDUta3JDaHV5b0h5ZW16Y2dsWWFXWnlJeTBIaWt6dUt2UUp1bzFHb2RlZzZZdVZDWmZfdFpwek1RTm16OE9FR3E5V3pJMlktZXptdXJUb0llVWxZaFY4WlYw?oc=5",
+      "title": "Wiz uses AI to find vulnerabilities in railroads, hospitals and other critical infrastructure - Cybersecurity Dive",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ2hJZjh1OTUxcm1TNXpaeXBvVFNIekp5OW9XeWVWQVRldWFCWWFIOEJFTmFxejJNTW5IVHJjZVFYbmtKS2hPX3NEaDBhclFXTzRjVTVrSnduOTdnZVRCdjBRb2RwRHo1OW1aWnpWVk01OVhac1djQS1SZjN1WUFjMUk5OWthWGd5U3plc1pmQV81d0Q0NlE?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEFSX0g4QlZFMHlEMHpKWjNpZ05zZHdUSFplcHd2dnhZWWQ2N1pkSjUwR1c0bUFWVmpKYVBhcXQ2cTJra09fU1ZiV3k2NHNwUUE1aWVhVS1YUmhsM3czMk…",
-      "pubDate": "2026-09-24T01:20:09.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ2hJZjh1OTUxcm1TNXpaeXBvVFNIekp5OW9XeWVWQVRldWFCWWFIOEJFTmFxejJNTW5IVHJjZVFYbmtKS2hPX3NEaDBhclFXTzRjVTVrSnduOTdnZVRCdj…",
+      "pubDate": "2026-09-24T15:32:57.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1790212412000",
+      "id": "techcrunch-ai-1790262000000",
       "region": "abroad",
-      "title": "Everything new coming to Meta’s AI agent Muse",
-      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-24T01:13:32.000Z",
+      "pubDate": "2026-09-24T15:00:00.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1790210777000",
+      "id": "techcrunch-ai-1790261005000",
       "region": "abroad",
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
+      "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-24T00:46:17.000Z",
+      "pubDate": "2026-09-24T14:43:25.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1790206964000",
+      "id": "wired-ai-1790246816000",
       "region": "abroad",
-      "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
-      "url": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
+      "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+      "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
       "source": "Wired AI",
-      "summary": "At its Meta Connect event, CEO Mark Zuckerberg announced a handful of new smart glasses, including a slimmed-down VR headset and the company’s first camera-free glasses.",
-      "pubDate": "2026-09-23T23:42:44.000Z",
+      "summary": "The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
+      "pubDate": "2026-09-24T10:46:56.000Z",
       "isFallback": false
     }
   ]
