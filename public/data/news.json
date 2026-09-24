@@ -1,28 +1,38 @@
 {
   "meta": {
-    "date": "2026-09-23",
-    "updatedAt": "2026-09-23T15:28:24.610Z",
+    "date": "2026-09-24",
+    "updatedAt": "2026-09-24T01:29:11.242Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1790176011000",
+      "id": "it之家-1790212333000",
       "region": "domestic",
-      "title": "YouTube 推出全新 AI 智能体，能帮创作者“翻红”老视频",
-      "url": "https://www.ithome.com/1/006/503.htm",
+      "title": "双方关系何时破裂？OpenAI 称与苹果的 ChatGPT 合作远不及预期",
+      "url": "https://www.ithome.com/1/006/548.htm",
       "source": "IT之家",
-      "summary": "<p class=\"PDq2pG_selectionAnchorContainer\" data-vmark=\"c419\">IT之家 9 月 23 日消息，在今天（23 日）的年度创作者活动 Made on YouTube 上，YouTube 宣布升级 2025 年推出的 AI 创作工具。<span class=\"PDq2pG_selectionAnchor\"…",
-      "pubDate": "2026-09-23T15:06:51.000Z",
+      "summary": "<p data-vmark=\"1aaa\">北京时间 9 月 24 日，据《金融时报》报道，最新法庭文件揭示了 OpenAI 与苹果的关系是如何逐渐破裂的。</p><p data-vmark=\"72df\">OpenAI 周三称，公司与苹果合作，通过 ChatGPT 为 iPhone 添加 AI 功能的业务在 2024 年推出后，“表现远低于预期”。</p><p…",
+      "pubDate": "2026-09-24T01:12:13.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1790175920000",
+      "id": "it之家-1790212138000",
       "region": "domestic",
-      "title": "罗福莉官宣小米 MiMo-V3 采用全新架构，核心 HySparse 2 今日发布",
-      "url": "https://www.ithome.com/1/006/502.htm",
+      "title": "Meta 发布 AI 时代“电子宠物”设备 Muse Charm：前苹果设计师打造，挂在背包上的人工智能",
+      "url": "https://www.ithome.com/1/006/546.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"1aa4\">IT之家 9 月 23 日消息，小米 MiMo 大模型负责人罗福莉今日发文，宣布 MiMo-V3 即将采用全新架构。其核心 HySparse 2 今日发布，带来更少的预填充、更小的 KV 缓存、更出色的长上下文检索。</p><ul class=\"medium-size list-paddingleft-2\"><li>…",
-      "pubDate": "2026-09-23T15:05:20.000Z",
+      "summary": "<p data-vmark=\"a2a2\">IT之家 9 月 24 日消息，在今早的 Meta Connect 活动中，Meta CEO 马克 · 扎克伯格发布了一款名为 <strong>Muse Charm</strong> 的设备，这是一款基于 Muse（Meta 的 AI 助手）打造的小型、始终在线的手持设备。</p><p data-vmark=\"507…",
+      "pubDate": "2026-09-24T01:08:58.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1790210882000",
+      "region": "domestic",
+      "title": "成立九年，中科类脑把积累装进Token工厂",
+      "url": "https://www.qbitai.com/2026/09/496615.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-09-24T00:48:02.000Z",
       "isFallback": false
     },
     {
@@ -33,16 +43,6 @@
       "source": "量子位",
       "summary": "",
       "pubDate": "2026-09-23T10:35:16.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1790157413000",
-      "region": "domestic",
-      "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
-      "url": "https://www.qbitai.com/2026/09/496578.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-09-23T09:56:53.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1790177113000",
+      "id": "google-news-ai-1790212947000",
       "region": "abroad",
-      "title": "Prince Harry warns AI chatbots can be more dangerous than social media for the young - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnV5UDN6QTRmeVpnQVhDWlZQdjJjLVAyUGNyVXJ2RDg5eGVNUS1FOG80U0RqQk13VlJVYjQ1UlF4a0o5ZHlTajBXNTlUdUJHMloxcVAxdXpXelhNWFZzMC1QMkprVFdmbEoyVVNud3dneTZWTHEwdDczQy1vNFNVckw1ZWswWm9SaUdVeno1aTBYeXdlbjN3dEozRGlwVEplemlXMDItMNIBrAFBVV95cUxOajFfUWMtSUxtRTBkUEVHMFpWNkwxVm9aMFZybHhMOWRqNmpUcWRIWTVvVmpQOFhNdzBiUHhBREU4b1ZRYTFNMFROdElaMk1hbUpVWEliSFFXdGppWlBjRFZ4R1l4aHI5OE9PM3dPcjNBM3NIcjhHOTZScHFzNVhmeGdDOWpqUUhMTThnQWlNOUpncC1vNC1hWnVCY29IRDhiTnRtRWlhMEpscDRF?oc=5",
+      "title": "Bills to Require Pre-Deployment AI Testing Planned for House, Senate (Sep 23, 2026) - VitalLaw.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPam01NmVUUmV4aFh1ME5rTEpGYlpERk9PWDZsVkxjaFRxOUpyc1c3bUFObEVMUXR5Wm5jNHd0VXZXaFB3UEdXbnJhRUZrUzNESjdVWVl3cDN5YWRaSWdPSGJoOGhoSEQxZjgtc2RVaHNkRUFvSHZMRHo2YjhYeEl5N2NGU3BYbjhqMXNtRkVpZV9UbmM0cnJYRGxhY0J3VmlobG1xdzJMcEtNUTlHbUJQbUdLV1o1U3dBZ2xXSlhjOVFucXI3UnhVU3ota0E5WnBvRHc?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnV5UDN6QTRmeVpnQVhDWlZQdjJjLVAyUGNyVXJ2RDg5eGVNUS1FOG80U0RqQk13VlJVYjQ1UlF4a0o5ZHlTajBXNTlUdUJHMloxcVAxdXpXelhNWFZzMC…",
-      "pubDate": "2026-09-23T15:25:13.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPam01NmVUUmV4aFh1ME5rTEpGYlpERk9PWDZsVkxjaFRxOUpyc1c3bUFObEVMUXR5Wm5jNHd0VXZXaFB3UEdXbnJhRUZrUzNESjdVWVl3cDN5YWRaSWdPSG…",
+      "pubDate": "2026-09-24T01:22:27.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1790176857000",
+      "id": "google-news-ai-1790212809000",
       "region": "abroad",
-      "title": "Why AI resembles a charismatic religious leader - Baptist News Global",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSFFoRHpCa05Kdjc2dmV5eGptOFo5TE5NWjdOazV5NHoyRlYxYmZ0U2VmUlMwb3VzTVNKSHlkUTAweUhCOEpucDRyMVNoODFkdG9tckxuc0hPdnNtMko1dFk3dElER0hlSXdYeWd6S3BmbkthaUc1S0RIQW5rcUdCbENDLXNUcTQ?oc=5",
+      "title": "At U.N., tech leaders urge global effort to limit AI’s risk to humanity - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEFSX0g4QlZFMHlEMHpKWjNpZ05zZHdUSFplcHd2dnhZWWQ2N1pkSjUwR1c0bUFWVmpKYVBhcXQ2cTJra09fU1ZiV3k2NHNwUUE1aWVhVS1YUmhsM3czMkc1VDUta3JDaHV5b0h5ZW16Y2dsWWFXWnlJeTBIaWt6dUt2UUp1bzFHb2RlZzZZdVZDWmZfdFpwek1RTm16OE9FR3E5V3pJMlktZXptdXJUb0llVWxZaFY4WlYw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOSFFoRHpCa05Kdjc2dmV5eGptOFo5TE5NWjdOazV5NHoyRlYxYmZ0U2VmUlMwb3VzTVNKSHlkUTAweUhCOEpucDRyMVNoODFkdG9tckxuc0hPdnNtMko1dF…",
-      "pubDate": "2026-09-23T15:20:57.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEFSX0g4QlZFMHlEMHpKWjNpZ05zZHdUSFplcHd2dnhZWWQ2N1pkSjUwR1c0bUFWVmpKYVBhcXQ2cTJra09fU1ZiV3k2NHNwUUE1aWVhVS1YUmhsM3czMk…",
+      "pubDate": "2026-09-24T01:20:09.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1790176770000",
+      "id": "techcrunch-ai-1790212412000",
       "region": "abroad",
-      "title": "YouTube Music gets more conversational with new AI features",
-      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-23T15:19:30.000Z",
+      "pubDate": "2026-09-24T01:13:32.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1790173800000",
+      "id": "techcrunch-ai-1790210777000",
       "region": "abroad",
-      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-23T14:30:00.000Z",
+      "pubDate": "2026-09-24T00:46:17.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1790168098000",
+      "id": "wired-ai-1790206964000",
       "region": "abroad",
-      "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
-      "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
+      "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
+      "url": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
       "source": "Wired AI",
-      "summary": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting the inherent dangers of AI hel…",
-      "pubDate": "2026-09-23T12:54:58.000Z",
+      "summary": "At its Meta Connect event, CEO Mark Zuckerberg announced a handful of new smart glasses, including a slimmed-down VR headset and the company’s first camera-free glasses.",
+      "pubDate": "2026-09-23T23:42:44.000Z",
       "isFallback": false
     }
   ]
