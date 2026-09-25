@@ -1,10 +1,30 @@
 {
   "meta": {
-    "date": "2026-09-24",
-    "updatedAt": "2026-09-24T15:50:45.706Z",
+    "date": "2026-09-25",
+    "updatedAt": "2026-09-25T01:37:21.226Z",
     "mode": "partial"
   },
   "domestic": [
+    {
+      "id": "it之家-1790297493000",
+      "region": "domestic",
+      "title": "马斯克：若保持强劲加速度，SpaceXAI 约 6 个月后就能领跑",
+      "url": "https://www.ithome.com/1/007/069.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"7667\">IT之家 9 月 25 日消息，马斯克在 X 平台发文表示，他谨慎乐观地认为，<strong>SpaceX 将在两到三个月内拥有（开发出） Fable / GPT-6 级别的模型</strong>。</p><p data-vmark=\"5c88\">随后有网友表示，对于 SpaceXAI 来说，一切都结束了。在 2 到…",
+      "pubDate": "2026-09-25T00:51:33.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "it之家-1790296757000",
+      "region": "domestic",
+      "title": "谷歌 Gemini 3.8 Live 虚拟人上线：实时唇形同步 + 自然表情，无缝切换 97 种语言",
+      "url": "https://www.ithome.com/1/007/043.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"0000\">IT之家 9 月 25 日消息，谷歌近日宣布，在上周推出 Gemini 3.8 Live 的基础上，正式推出带有 Live Avatar 功能的 Gemini 3.8 Live，<strong>为原生实时对话模型带来接近实时的视觉呈现效果。</strong></p><p data-vmark=\"0002\">该功能将接…",
+      "pubDate": "2026-09-25T00:39:17.000Z",
+      "isFallback": false
+    },
     {
       "id": "量子位-1790259614000",
       "region": "domestic",
@@ -26,26 +46,6 @@
       "isFallback": false
     },
     {
-      "id": "it之家-1790258558000",
-      "region": "domestic",
-      "title": "“太空数据中心”第一步？谷歌下周将发射试验卫星，能处理简单 AI 查询",
-      "url": "https://www.ithome.com/1/007/022.htm",
-      "source": "IT之家",
-      "summary": "<p data-vmark=\"92db\">IT之家 9 月 24 日消息，《华尔街日报》今天（24 日）晚间报道，当地时间 10 月 1 日，谷歌计划把一颗实验卫星 MVP 送入轨道。MVP 具备足够的算力，可以直接在太空中<strong>处理并回答简单的 AI 查询</strong>。</p><p data-vmark=\"9d52\">MVP 属于谷歌雄心勃…",
-      "pubDate": "2026-09-24T14:02:38.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "it之家-1790256313000",
-      "region": "domestic",
-      "title": "三巨头联手，曝谷歌、OpenAI、Anthropic 拟共同组建 AI 安全标准自律组织",
-      "url": "https://www.ithome.com/1/007/016.htm",
-      "source": "IT之家",
-      "summary": "<p data-vmark=\"490a\">IT之家 9 月 24 日消息，The Information 今天（24 日）晚间援引知情人士消息称，谷歌、OpenAI 和 Anthropic 三家 AI 公司正自行推进成立 AI 安全标准机构的计划，希望在没有政府监督的情况下，<strong>于今年年底或明年年初启动该组织</strong>。</p><p da…",
-      "pubDate": "2026-09-24T13:25:13.000Z",
-      "isFallback": false
-    },
-    {
       "id": "mock-domestic-01",
       "region": "domestic",
       "title": "国内多家人工智能实验室发布新一代开源大模型，推理成本下降超六成",
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1790264675000",
+      "id": "wired-ai-1790278595000",
       "region": "abroad",
-      "title": "US Leadership on Open-Weight Models is Key to Global AI Safety - Tech Policy Press",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnFHei04WDlYOE9RbV9iTm1jektFb1BId1hJaEN5bENQRDlpNjVJcFpsRWc5UzVuUVUwSmJ0TzgwdlBTc3FBSU9nRDZKWGtBOFdLR1pjNHhBSnczUGlkTHhQdV9EYnRvS1RpakhwUVhBdWhIbExuN3oxNlNsaHQ2cThXVFlpX3gyYUQ2OUMybWJYdi1lMU5J?oc=5",
-      "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnFHei04WDlYOE9RbV9iTm1jektFb1BId1hJaEN5bENQRDlpNjVJcFpsRWc5UzVuUVUwSmJ0TzgwdlBTc3FBSU9nRDZKWGtBOFdLR1pjNHhBSnczUGlkTH…",
-      "pubDate": "2026-09-24T15:44:35.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "google-news-ai-1790263977000",
-      "region": "abroad",
-      "title": "Wiz uses AI to find vulnerabilities in railroads, hospitals and other critical infrastructure - Cybersecurity Dive",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ2hJZjh1OTUxcm1TNXpaeXBvVFNIekp5OW9XeWVWQVRldWFCWWFIOEJFTmFxejJNTW5IVHJjZVFYbmtKS2hPX3NEaDBhclFXTzRjVTVrSnduOTdnZVRCdjBRb2RwRHo1OW1aWnpWVk01OVhac1djQS1SZjN1WUFjMUk5OWthWGd5U3plc1pmQV81d0Q0NlE?oc=5",
-      "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ2hJZjh1OTUxcm1TNXpaeXBvVFNIekp5OW9XeWVWQVRldWFCWWFIOEJFTmFxejJNTW5IVHJjZVFYbmtKS2hPX3NEaDBhclFXTzRjVTVrSnduOTdnZVRCdj…",
-      "pubDate": "2026-09-24T15:32:57.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1790262000000",
-      "region": "abroad",
-      "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-09-24T15:00:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1790261005000",
-      "region": "abroad",
-      "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
-      "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-09-24T14:43:25.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1790246816000",
-      "region": "abroad",
-      "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
-      "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+      "title": "I Think I Found an AI Agent Worth the Risk",
+      "url": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
       "source": "Wired AI",
-      "summary": "The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
-      "pubDate": "2026-09-24T10:46:56.000Z",
+      "summary": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
+      "pubDate": "2026-09-24T19:36:35.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1790277300000",
+      "region": "abroad",
+      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-09-24T19:15:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1790276442000",
+      "region": "abroad",
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-09-24T19:00:42.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1790265600000",
+      "region": "abroad",
+      "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
+      "url": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
+      "source": "Wired AI",
+      "summary": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning.",
+      "pubDate": "2026-09-24T16:00:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "mit-tech-review-ai-1790154000000",
+      "region": "abroad",
+      "title": "The AI Hype Index: AI loves cheating",
+      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "source": "MIT Tech Review AI",
+      "summary": "",
+      "pubDate": "2026-09-23T09:00:00.000Z",
       "isFallback": false
     }
   ]
