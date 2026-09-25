@@ -1,48 +1,48 @@
 {
   "meta": {
     "date": "2026-09-25",
-    "updatedAt": "2026-09-25T01:37:21.226Z",
+    "updatedAt": "2026-09-25T15:50:59.099Z",
     "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1790297493000",
+      "id": "it之家-1790351308000",
       "region": "domestic",
-      "title": "马斯克：若保持强劲加速度，SpaceXAI 约 6 个月后就能领跑",
-      "url": "https://www.ithome.com/1/007/069.htm",
+      "title": "比尔 · 盖茨呼吁美国立法监管 AI 开发：没有人会认为只靠行业自律就够了",
+      "url": "https://www.ithome.com/1/007/253.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"7667\">IT之家 9 月 25 日消息，马斯克在 X 平台发文表示，他谨慎乐观地认为，<strong>SpaceX 将在两到三个月内拥有（开发出） Fable / GPT-6 级别的模型</strong>。</p><p data-vmark=\"5c88\">随后有网友表示，对于 SpaceXAI 来说，一切都结束了。在 2 到…",
-      "pubDate": "2026-09-25T00:51:33.000Z",
+      "summary": "<p class=\"PDq2pG_selectionAnchorContainer\" data-vmark=\"45f4\">IT之家 9 月 25 日消息，据美国 NBC News 北京时间今天（25 日）晚间报道，微软联合创始人、亿万富翁慈善家比尔 · 盖茨呼吁美国国会立法监管人工智能开发。<span class=\"PDq2pG_selectionAncho…",
+      "pubDate": "2026-09-25T15:48:28.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1790296757000",
+      "id": "it之家-1790350387000",
       "region": "domestic",
-      "title": "谷歌 Gemini 3.8 Live 虚拟人上线：实时唇形同步 + 自然表情，无缝切换 97 种语言",
-      "url": "https://www.ithome.com/1/007/043.htm",
+      "title": "畅销小说被指用 AI 创作，法国最有名文学奖龚古尔奖将其移出初选名单",
+      "url": "https://www.ithome.com/1/007/252.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"0000\">IT之家 9 月 25 日消息，谷歌近日宣布，在上周推出 Gemini 3.8 Live 的基础上，正式推出带有 Live Avatar 功能的 Gemini 3.8 Live，<strong>为原生实时对话模型带来接近实时的视觉呈现效果。</strong></p><p data-vmark=\"0002\">该功能将接…",
-      "pubDate": "2026-09-25T00:39:17.000Z",
+      "summary": "<p data-vmark=\"281d\">IT之家 9 月 25 日消息，据路透社报道，当地时间 25 日，法国最负盛名的文学奖项 —— 龚古尔奖主办方宣布，将海地裔加拿大作家泰利森 · 奥雷利安的畅销小说《C'etait Ca ou Mourir（要么就这样，要么死）》移出初选名单，原因是有人指控奥雷利安使用 AI 创作该书。</p><p data-vma…",
+      "pubDate": "2026-09-25T15:33:07.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1790259614000",
+      "id": "量子位-1790342660000",
       "region": "domestic",
-      "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
-      "url": "https://www.qbitai.com/2026/09/496961.html",
+      "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
+      "url": "https://www.qbitai.com/2026/09/497278.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-09-24T14:20:14.000Z",
+      "pubDate": "2026-09-25T13:24:20.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1790259468000",
+      "id": "量子位-1790342145000",
       "region": "domestic",
-      "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
-      "url": "https://www.qbitai.com/2026/09/496925.html",
+      "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+      "url": "https://www.qbitai.com/2026/09/497177.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-09-24T14:17:48.000Z",
+      "pubDate": "2026-09-25T13:15:45.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "wired-ai-1790278595000",
+      "id": "techcrunch-ai-1790351294000",
       "region": "abroad",
-      "title": "I Think I Found an AI Agent Worth the Risk",
-      "url": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
-      "source": "Wired AI",
-      "summary": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
-      "pubDate": "2026-09-24T19:36:35.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1790277300000",
-      "region": "abroad",
-      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-24T19:15:00.000Z",
+      "pubDate": "2026-09-25T15:48:14.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1790276442000",
+      "id": "google-news-ai-1790351283000",
       "region": "abroad",
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "title": "Businesses expand AI’s cybersecurity uses as comfort with technology grows - Cybersecurity Dive",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZkduSExGT2pnbVpBcTI2bE95OW5hWXNVUFdyMHR0bEpwbUMzeFZCREdFVldlN1FTQlNTbGg4N05xeHV3ODRSa3VkalJrRzlqRXRNWHVrdlpCcl9Oa1RHcE5UbDM1djA5MldJekJHOFhWaC05VVZMUlYtX3BSRjZHUWs2TlpYVDM2eTRQNg?oc=5",
+      "source": "Google News AI",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPZkduSExGT2pnbVpBcTI2bE95OW5hWXNVUFdyMHR0bEpwbUMzeFZCREdFVldlN1FTQlNTbGg4N05xeHV3ODRSa3VkalJrRzlqRXRNWHVrdlpCcl9Oa1RHcE…",
+      "pubDate": "2026-09-25T15:48:03.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "google-news-ai-1790351094000",
+      "region": "abroad",
+      "title": "News | AI build-out on track to become biggest infrastructure investment in nation's history - costar.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeWVhM1pQbGNNWFkxZFYtTmIzdVdBME80VFJGTW9DcXhFbWh0MTVzZmEwUGtxT2N6Y2puMEUxRWlDVGtoSERMU0VNanZPU2VET1MwUXc4ZktPclA0Rlo2WThTSGtjbTBTdEo0bHpsdHg3SlRBTzZUT1RYZ1g2Q21uQnpVVGgwYjRhYzl1dWVrbVl0Mk85ZjlkcDNDdC0wLVY5ZWk1a2hyZXJyMFhVZGI5cHBvelN5YlgtSjdOQ3ZvLXk5S2df?oc=5",
+      "source": "Google News AI",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOeWVhM1pQbGNNWFkxZFYtTmIzdVdBME80VFJGTW9DcXhFbWh0MTVzZmEwUGtxT2N6Y2puMEUxRWlDVGtoSERMU0VNanZPU2VET1MwUXc4ZktPclA0Rlo2WT…",
+      "pubDate": "2026-09-25T15:44:54.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1790350803000",
+      "region": "abroad",
+      "title": "Anthropic’s founders seek voting control ahead of IPO",
+      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-24T19:00:42.000Z",
+      "pubDate": "2026-09-25T15:40:03.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1790265600000",
+      "id": "mit-tech-review-ai-1790327785000",
       "region": "abroad",
-      "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
-      "url": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
-      "source": "Wired AI",
-      "summary": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning.",
-      "pubDate": "2026-09-24T16:00:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "mit-tech-review-ai-1790154000000",
-      "region": "abroad",
-      "title": "The AI Hype Index: AI loves cheating",
-      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
       "source": "MIT Tech Review AI",
       "summary": "",
-      "pubDate": "2026-09-23T09:00:00.000Z",
+      "pubDate": "2026-09-25T09:16:25.000Z",
       "isFallback": false
     }
   ]
