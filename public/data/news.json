@@ -1,48 +1,48 @@
 {
   "meta": {
     "date": "2026-09-26",
-    "updatedAt": "2026-09-26T01:40:01.384Z",
+    "updatedAt": "2026-09-26T15:00:00.808Z",
     "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1790381027000",
+      "id": "it之家-1790432402000",
       "region": "domestic",
-      "title": "已收录 96 款设备：苹果公开 iPhone 18 Pro、AirPods 5 等尺寸图纸",
-      "url": "https://www.ithome.com/1/007/281.htm",
+      "title": "Opus 5.5 干一半就开溜？Anthropic 揭秘：你的程序替它打了下班卡",
+      "url": "https://www.ithome.com/1/007/442.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"6f5f\">IT之家 9 月 26 日消息，科技媒体 9to5Mac 今天（9 月 26 日）发布博文，报道称苹果近期更新官方页面，<strong>新增展示了 iPhone 18 Pro、iPhone 18 Pro Max、AirPods 5、Apple Watch Series 12、Apple Watch Ultra 4 新…",
-      "pubDate": "2026-09-26T00:03:47.000Z",
+      "summary": "<p data-vmark=\"9b35\">你让 AI Agent 连夜迁移一个代码库。第二天一早，满怀期待地打开终端，没想到只看到这样一条消息：</p><p data-vmark=\"bcbc\">已完成 3 个接口迁移，接下来我将处理剩余两个端点，并补上测试。</p><p data-vmark=\"1c11\">然后，就没有下文了。想让它干完剩下的活，你还得再敲两…",
+      "pubDate": "2026-09-26T14:20:02.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1790380293000",
+      "id": "it之家-1790431947000",
       "region": "domestic",
-      "title": "IT早报 0926：微软发布新版 Copilot“超级应用”；罗永浩回应交个朋友代销劣质溜溜凳；Muse 大火扎克伯格成全球第四大富豪；央视揭抢票工具四大套路...",
-      "url": "https://www.ithome.com/1/007/279.htm",
+      "title": "从代码分析到授权争议：一用户用 AI 破解 IDM 引发争议",
+      "url": "https://www.ithome.com/1/007/441.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"c335\">“IT早报”时间，大家好，现在是 2026 年 9 月 26 日星期六，今天的重要科技资讯有：</p><h2 data-vmark=\"c56d\">1. 聊天、编程、智能体三合一，微软正式发布新版 Copilot“超级应用”</h2><p data-vmark=\"1b3e\">微软 AI 工作业务首席营销官贾里德 · 斯…",
-      "pubDate": "2026-09-25T23:51:33.000Z",
+      "summary": "<p data-vmark=\"35c2\">IT之家 9 月 26 日消息，据 Wccftech 报道，一则关于“大语言模型破解付费软件”的帖子今日在 Reddit 上引发关注。</p><p data-vmark=\"b378\">用户 No_Ideal8394 声称，他利用无审查限制的 <span class=\"link-text-start-with-http…",
+      "pubDate": "2026-09-26T14:12:27.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1790342660000",
+      "id": "量子位-1790423383000",
       "region": "domestic",
-      "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
-      "url": "https://www.qbitai.com/2026/09/497278.html",
+      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+      "url": "https://www.qbitai.com/2026/09/498478.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-09-25T13:24:20.000Z",
+      "pubDate": "2026-09-26T11:49:43.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1790342145000",
+      "id": "量子位-1790413661000",
       "region": "domestic",
-      "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
-      "url": "https://www.qbitai.com/2026/09/497177.html",
+      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+      "url": "https://www.qbitai.com/2026/09/498271.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-09-25T13:15:45.000Z",
+      "pubDate": "2026-09-26T09:07:41.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1790386200000",
+      "id": "google-news-ai-1790434327000",
       "region": "abroad",
-      "title": "Pope Leo warns of AI threat to humanity at start of three-day France visit - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3g5REFXVVI4ZEFzU2p3NDNtckJDemE4Y3VFOVlpc1N2aTE1NzhQMUU0WjhYb0dKRHNkTWhsQkRGZkxWVmh2RlV6eEgxNzhvdTdwOV9FcUFEc05vZzQxRk5PbWFvMTEzSTZKWFpmQXZCa0hyS1ZZLXVzQktGSDI0TlpXdUVqeGRjZVU1WmozZm94SzZDdVdLWlFyNDNndndF?oc=5",
+      "title": "Rising author Thélyson Orélien removed from major literary race amid AI and plagiarism allegations - TheGrio",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObkVadEtpRW95UFhXaGZ1QU5uRmxlLVgwZ0xVT3BqYnVlMVNFQnhfUTE5WmFuX3RMWjhOSWxTZHhqVDhlM0F4SmJRQS1kcENZQlpHS2FxUlI1Y3M0aUFvZlNDLXpiQnMybVBRNDhkZnA4NnFZOUkyejJLRVJlc0xUUlZvZ0NJNUpuTS0w?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3g5REFXVVI4ZEFzU2p3NDNtckJDemE4Y3VFOVlpc1N2aTE1NzhQMUU0WjhYb0dKRHNkTWhsQkRGZkxWVmh2RlV6eEgxNzhvdTdwOV9FcUFEc05vZzQxRk…",
-      "pubDate": "2026-09-26T01:30:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxObkVadEtpRW95UFhXaGZ1QU5uRmxlLVgwZ0xVT3BqYnVlMVNFQnhfUTE5WmFuX3RMWjhOSWxTZHhqVDhlM0F4SmJRQS1kcENZQlpHS2FxUlI1Y3M0aUFvZl…",
+      "pubDate": "2026-09-26T14:52:07.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1790386070000",
+      "id": "google-news-ai-1790434140000",
       "region": "abroad",
-      "title": "After 30-year sentence in TN AI child abuse case, former FBI agent warns more are coming - WZTV",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdy1PVkQxdEJjSFdLLWV0R01FQkRPMWxCbmQtY3hyUmptNVp3UHA1ajZYejU1X0Q2VUpJSzl6ZkdlTnU5REZYNk5uRlh0N3J6V3ViU1NtUm9ta21iLXVjbDQtUHF6MnZka1pBMFA4eVZ1QzhTZmthVEg0QXQzQ3lTY2JXTnlYWkF3N2RiSktvMVBTMDhwN2NzNGUxd2gxRnFtUXBzM0VPemlSenhHQkJ2TW1NV3ppZVU?oc=5",
+      "title": "The AI Boom Just Drove S&P 500 Profits 51% Higher, but Its Biggest Tailwind Is Fading - 247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX0EwM0JBV3Iyb2padHdUZlN4Njc3QkRVcWJ3ckxtWGFlRERDNHBNdFBOeUQyQ3JPZDZudmtFNmw5TGZSbE95WDJzMExweTU3Tlp2aGpMblczNG5qeTVYQmpveWIyOVJsanRnM2tfb2hKOUJGbktmNVVOYlE4dXZBaEFSaWVORFhON1lIZHRZUmZ3SlRBNFhSZDEyVGVnQjRfYy1FZkVsQ1BwbnlidEJqM0Y4NTRTbnYxbnVCelpiVmxZWmJQ?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNdy1PVkQxdEJjSFdLLWV0R01FQkRPMWxCbmQtY3hyUmptNVp3UHA1ajZYejU1X0Q2VUpJSzl6ZkdlTnU5REZYNk5uRlh0N3J6V3ViU1NtUm9ta21iLXVjbD…",
-      "pubDate": "2026-09-26T01:27:50.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNX0EwM0JBV3Iyb2padHdUZlN4Njc3QkRVcWJ3ckxtWGFlRERDNHBNdFBOeUQyQ3JPZDZudmtFNmw5TGZSbE95WDJzMExweTU3Tlp2aGpMblczNG5qeTVYQm…",
+      "pubDate": "2026-09-26T14:49:00.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1790377870000",
+      "id": "techcrunch-ai-1790431200000",
       "region": "abroad",
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-25T23:11:10.000Z",
+      "pubDate": "2026-09-26T14:00:00.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1790374847000",
+      "id": "wired-ai-1790418600000",
       "region": "abroad",
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-09-25T22:20:47.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1790368240000",
-      "region": "abroad",
-      "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
-      "url": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+      "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
+      "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
       "source": "Wired AI",
-      "summary": "They wanted the silicon. They got the sand.",
-      "pubDate": "2026-09-25T20:30:40.000Z",
+      "summary": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all ages.",
+      "pubDate": "2026-09-26T10:30:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1790384937000",
+      "region": "abroad",
+      "title": "At Meta Connect, the company’s smart glasses were everywhere",
+      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-09-26T01:08:57.000Z",
       "isFallback": false
     }
   ]
