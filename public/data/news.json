@@ -1,28 +1,28 @@
 {
   "meta": {
-    "date": "2026-09-26",
-    "updatedAt": "2026-09-26T15:00:00.808Z",
+    "date": "2026-09-27",
+    "updatedAt": "2026-09-27T01:33:36.372Z",
     "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1790432402000",
+      "id": "it之家-1790468053000",
       "region": "domestic",
-      "title": "Opus 5.5 干一半就开溜？Anthropic 揭秘：你的程序替它打了下班卡",
-      "url": "https://www.ithome.com/1/007/442.htm",
+      "title": "IT早报 0927：微信鸿蒙版 App 安装量破 8000 万；豆包手机助手回应努比亚手机王者荣耀异常；华为大疆联名推出 Pocket 4；OpenAI 暂停最强模型训练...",
+      "url": "https://www.ithome.com/1/007/456.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"9b35\">你让 AI Agent 连夜迁移一个代码库。第二天一早，满怀期待地打开终端，没想到只看到这样一条消息：</p><p data-vmark=\"bcbc\">已完成 3 个接口迁移，接下来我将处理剩余两个端点，并补上测试。</p><p data-vmark=\"1c11\">然后，就没有下文了。想让它干完剩下的活，你还得再敲两…",
-      "pubDate": "2026-09-26T14:20:02.000Z",
+      "summary": "<p data-vmark=\"f2aa\">“IT早报”时间，大家好，现在是 2026 年 9 月 27 日星期日，今天的重要科技资讯有：</p><h2 data-vmark=\"5fe4\">1. 微信鸿蒙版 App 安装量正式突破 8000 万</h2><p data-vmark=\"5753\">微信鸿蒙版 App 9 月 26 日再迎里程碑时刻 —— 安装量正…",
+      "pubDate": "2026-09-27T00:14:13.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1790431947000",
+      "id": "it之家-1790465617000",
       "region": "domestic",
-      "title": "从代码分析到授权争议：一用户用 AI 破解 IDM 引发争议",
-      "url": "https://www.ithome.com/1/007/441.htm",
+      "title": "七彩虹源 AIR 14 Ultra 轻薄本亮相：960g，X7 358H",
+      "url": "https://www.ithome.com/1/007/452.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"35c2\">IT之家 9 月 26 日消息，据 Wccftech 报道，一则关于“大语言模型破解付费软件”的帖子今日在 Reddit 上引发关注。</p><p data-vmark=\"b378\">用户 No_Ideal8394 声称，他利用无审查限制的 <span class=\"link-text-start-with-http…",
-      "pubDate": "2026-09-26T14:12:27.000Z",
+      "summary": "<p data-vmark=\"3f91\">IT之家 9 月 27 日消息，七彩虹 (Colorful) 在本周二的英特尔技术创新与产业生态大会 (Intel Connection 2026) 上展示了尚未发布的 AIR 14 Ultra 轻薄笔记本电脑。</p><p data-vmark=\"e281\" style=\"text-align: center;\">…",
+      "pubDate": "2026-09-26T23:33:37.000Z",
       "isFallback": false
     },
     {
@@ -58,23 +58,33 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1790434327000",
+      "id": "google-news-ai-1790470800000",
       "region": "abroad",
-      "title": "Rising author Thélyson Orélien removed from major literary race amid AI and plagiarism allegations - TheGrio",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObkVadEtpRW95UFhXaGZ1QU5uRmxlLVgwZ0xVT3BqYnVlMVNFQnhfUTE5WmFuX3RMWjhOSWxTZHhqVDhlM0F4SmJRQS1kcENZQlpHS2FxUlI1Y3M0aUFvZlNDLXpiQnMybVBRNDhkZnA4NnFZOUkyejJLRVJlc0xUUlZvZ0NJNUpuTS0w?oc=5",
+      "title": "‘Things Will Never Be Chill Again’: The Doomers Who Shaped the AI Safety Freakout - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0x1SGNlamNDTERpWmxwS05vNTRkY0lONktYQmlGQ1lyNDdUeTBsempjT3N0UEJpT2FpWF9hdTFzUXNmU1NlbGFjWG56ZzRZUm1VcXprakhRVE5LV0xwal9CQlpSOTVlZ3VPR0hhVEQ5SUQ4WUswbHY4VEJYRVFTRA?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxObkVadEtpRW95UFhXaGZ1QU5uRmxlLVgwZ0xVT3BqYnVlMVNFQnhfUTE5WmFuX3RMWjhOSWxTZHhqVDhlM0F4SmJRQS1kcENZQlpHS2FxUlI1Y3M0aUFvZl…",
-      "pubDate": "2026-09-26T14:52:07.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0x1SGNlamNDTERpWmxwS05vNTRkY0lONktYQmlGQ1lyNDdUeTBsempjT3N0UEJpT2FpWF9hdTFzUXNmU1NlbGFjWG56ZzRZUm1VcXprakhRVE5LV0xwal…",
+      "pubDate": "2026-09-27T01:00:00.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1790434140000",
+      "id": "google-news-ai-1790470521000",
       "region": "abroad",
-      "title": "The AI Boom Just Drove S&P 500 Profits 51% Higher, but Its Biggest Tailwind Is Fading - 247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX0EwM0JBV3Iyb2padHdUZlN4Njc3QkRVcWJ3ckxtWGFlRERDNHBNdFBOeUQyQ3JPZDZudmtFNmw5TGZSbE95WDJzMExweTU3Tlp2aGpMblczNG5qeTVYQmpveWIyOVJsanRnM2tfb2hKOUJGbktmNVVOYlE4dXZBaEFSaWVORFhON1lIZHRZUmZ3SlRBNFhSZDEyVGVnQjRfYy1FZkVsQ1BwbnlidEJqM0Y4NTRTbnYxbnVCelpiVmxZWmJQ?oc=5",
+      "title": "Healthcare Insurance Companies Are Leveraging AI For Novel Use-Cases - forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYkxHdFA4azNac19salozSms2RG9OWnRydk94bEI2cmFUMzNlM2xxYXFNWmJZc1lma0NWZUtuaThYUnJNdVFTT18yOURReFpxWjNxSXhlUVpraWtBZzNHYjZZVUZZVUpibVNTamFHQ0N1WXNHMWtXampaTzhSYzJYZXhHc0lhaURDU0IyTU1FT3FFLVVMTXZ2c1VKeFJUbS1wLWhPSXY0SFRrWTRJNHE1ZmkwRmVJRzVz?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNX0EwM0JBV3Iyb2padHdUZlN4Njc3QkRVcWJ3ckxtWGFlRERDNHBNdFBOeUQyQ3JPZDZudmtFNmw5TGZSbE95WDJzMExweTU3Tlp2aGpMblczNG5qeTVYQm…",
-      "pubDate": "2026-09-26T14:49:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYkxHdFA4azNac19salozSms2RG9OWnRydk94bEI2cmFUMzNlM2xxYXFNWmJZc1lma0NWZUtuaThYUnJNdVFTT18yOURReFpxWjNxSXhlUVpraWtBZzNHYj…",
+      "pubDate": "2026-09-27T00:55:21.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1790456526000",
+      "region": "abroad",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-09-26T21:02:06.000Z",
       "isFallback": false
     },
     {
@@ -95,16 +105,6 @@
       "source": "Wired AI",
       "summary": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all ages.",
       "pubDate": "2026-09-26T10:30:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1790384937000",
-      "region": "abroad",
-      "title": "At Meta Connect, the company’s smart glasses were everywhere",
-      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-09-26T01:08:57.000Z",
       "isFallback": false
     }
   ]
