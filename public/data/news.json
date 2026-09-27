@@ -1,48 +1,48 @@
 {
   "meta": {
     "date": "2026-09-27",
-    "updatedAt": "2026-09-27T01:33:36.372Z",
+    "updatedAt": "2026-09-27T15:41:05.653Z",
     "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1790468053000",
+      "id": "量子位-1790518835000",
       "region": "domestic",
-      "title": "IT早报 0927：微信鸿蒙版 App 安装量破 8000 万；豆包手机助手回应努比亚手机王者荣耀异常；华为大疆联名推出 Pocket 4；OpenAI 暂停最强模型训练...",
-      "url": "https://www.ithome.com/1/007/456.htm",
-      "source": "IT之家",
-      "summary": "<p data-vmark=\"f2aa\">“IT早报”时间，大家好，现在是 2026 年 9 月 27 日星期日，今天的重要科技资讯有：</p><h2 data-vmark=\"5fe4\">1. 微信鸿蒙版 App 安装量正式突破 8000 万</h2><p data-vmark=\"5753\">微信鸿蒙版 App 9 月 26 日再迎里程碑时刻 —— 安装量正…",
-      "pubDate": "2026-09-27T00:14:13.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "it之家-1790465617000",
-      "region": "domestic",
-      "title": "七彩虹源 AIR 14 Ultra 轻薄本亮相：960g，X7 358H",
-      "url": "https://www.ithome.com/1/007/452.htm",
-      "source": "IT之家",
-      "summary": "<p data-vmark=\"3f91\">IT之家 9 月 27 日消息，七彩虹 (Colorful) 在本周二的英特尔技术创新与产业生态大会 (Intel Connection 2026) 上展示了尚未发布的 AIR 14 Ultra 轻薄笔记本电脑。</p><p data-vmark=\"e281\" style=\"text-align: center;\">…",
-      "pubDate": "2026-09-26T23:33:37.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1790423383000",
-      "region": "domestic",
-      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
-      "url": "https://www.qbitai.com/2026/09/498478.html",
+      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+      "url": "https://www.qbitai.com/2026/09/498633.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-09-26T11:49:43.000Z",
+      "pubDate": "2026-09-27T14:20:35.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1790413661000",
+      "id": "量子位-1790517477000",
       "region": "domestic",
-      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
-      "url": "https://www.qbitai.com/2026/09/498271.html",
+      "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+      "url": "https://www.qbitai.com/2026/09/498605.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-09-26T09:07:41.000Z",
+      "pubDate": "2026-09-27T13:57:57.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "it之家-1790515890000",
+      "region": "domestic",
+      "title": "部分 Anthropic 资深员工考虑在偏远地区购置土地，以防“AI 失控”",
+      "url": "https://www.ithome.com/1/007/603.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"2709\">IT之家 9 月 27 日消息，为防范人工智能彻底失控，Anthropic 的数位资深员工正在悄然制定具体的应急预案。</p><p data-vmark=\"3bc3\">据华尔街日报于当地时间 9 月 26 日报道，最近数周内，Anthropic 的部分早期员工曾向业界同行透露，<strong>他们正打算在美国偏远荒僻…",
+      "pubDate": "2026-09-27T13:31:30.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "it之家-1790504946000",
+      "region": "domestic",
+      "title": "吉利汽车集团副总裁李传海：目前行业缺少统一的 AI 治理标准，不仅抬高产业成本、也埋下安全隐患",
+      "url": "https://www.ithome.com/1/007/563.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"7a84\">IT之家 9 月 27 日消息，2026 世界新能源汽车大会（WNEVC）于 9 月 22 日-24 日在海南海口举办。</p><p data-vmark=\"a707\">据睿见 Economy 报道，吉利汽车集团副总裁、吉利汽车研究院院长李传海表示，AI 在汽车领域的应用正在加速，但有一点值得行业警醒：<strong…",
+      "pubDate": "2026-09-27T10:29:06.000Z",
       "isFallback": false
     },
     {
@@ -58,23 +58,33 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1790470800000",
+      "id": "google-news-ai-1790523588000",
       "region": "abroad",
-      "title": "‘Things Will Never Be Chill Again’: The Doomers Who Shaped the AI Safety Freakout - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0x1SGNlamNDTERpWmxwS05vNTRkY0lONktYQmlGQ1lyNDdUeTBsempjT3N0UEJpT2FpWF9hdTFzUXNmU1NlbGFjWG56ZzRZUm1VcXprakhRVE5LV0xwal9CQlpSOTVlZ3VPR0hhVEQ5SUQ4WUswbHY4VEJYRVFTRA?oc=5",
+      "title": "'SNL' spoofs Dario Amodei: 'AI is the devil and I its maker' - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeW44eHNvbWNOcmFhZTRpYTJPTXhBRG02c3Rlb3VrVUhyUTRoNlF3MF9nV2NPVjlNemx2WVg0c3hIZHBkV001N0RWUmR0azFnNnpCN3RibnlkZVpMZmtNUzMxNnRWVHVoOGNiZVlvSGs3ZzFXaFRFeUREcXJpdXYycFJ4WVR3MS1USFNGVXRtREpKcld0?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0x1SGNlamNDTERpWmxwS05vNTRkY0lONktYQmlGQ1lyNDdUeTBsempjT3N0UEJpT2FpWF9hdTFzUXNmU1NlbGFjWG56ZzRZUm1VcXprakhRVE5LV0xwal…",
-      "pubDate": "2026-09-27T01:00:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOeW44eHNvbWNOcmFhZTRpYTJPTXhBRG02c3Rlb3VrVUhyUTRoNlF3MF9nV2NPVjlNemx2WVg0c3hIZHBkV001N0RWUmR0azFnNnpCN3RibnlkZVpMZmtNUz…",
+      "pubDate": "2026-09-27T15:39:48.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1790470521000",
+      "id": "google-news-ai-1790523412000",
       "region": "abroad",
-      "title": "Healthcare Insurance Companies Are Leveraging AI For Novel Use-Cases - forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYkxHdFA4azNac19salozSms2RG9OWnRydk94bEI2cmFUMzNlM2xxYXFNWmJZc1lma0NWZUtuaThYUnJNdVFTT18yOURReFpxWjNxSXhlUVpraWtBZzNHYjZZVUZZVUpibVNTamFHQ0N1WXNHMWtXampaTzhSYzJYZXhHc0lhaURDU0IyTU1FT3FFLVVMTXZ2c1VKeFJUbS1wLWhPSXY0SFRrWTRJNHE1ZmkwRmVJRzVz?oc=5",
+      "title": "Opinion | I’m making a conscious effort to go analog. Even talking with strangers. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPellJWHk0VXJrZlEwZWp6cDBWNjRkS0Q1OXlXZWRZZDhVVjhaUjI4YWU4TUZNUDR1Wm1KcDFPNXFBaDRuajJWTTE4b1FwYVlQUzBZN3pBZjlUYzltVFlQdVhLQUN3Y0k2cTdzejlvbDlpMzByamJ6d2RTUkFqdlllMDlEODRma3RXdTRmd05FMy1fRGhGWHdNanR4Y1o1Y1l4b2JQWTlyZkF0YTRKTGpDRA?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYkxHdFA4azNac19salozSms2RG9OWnRydk94bEI2cmFUMzNlM2xxYXFNWmJZc1lma0NWZUtuaThYUnJNdVFTT18yOURReFpxWjNxSXhlUVpraWtBZzNHYj…",
-      "pubDate": "2026-09-27T00:55:21.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPellJWHk0VXJrZlEwZWp6cDBWNjRkS0Q1OXlXZWRZZDhVVjhaUjI4YWU4TUZNUDR1Wm1KcDFPNXFBaDRuajJWTTE4b1FwYVlQUzBZN3pBZjlUYzltVFlQdV…",
+      "pubDate": "2026-09-27T15:36:52.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1790472600000",
+      "region": "abroad",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-09-27T01:30:00.000Z",
       "isFallback": false
     },
     {
@@ -85,16 +95,6 @@
       "source": "TechCrunch AI",
       "summary": "",
       "pubDate": "2026-09-26T21:02:06.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1790431200000",
-      "region": "abroad",
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-09-26T14:00:00.000Z",
       "isFallback": false
     },
     {
