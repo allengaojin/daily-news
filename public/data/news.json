@@ -1,28 +1,48 @@
 {
   "meta": {
-    "date": "2026-09-28",
-    "updatedAt": "2026-09-28T01:45:12.135Z",
+    "date": "2026-09-29",
+    "updatedAt": "2026-09-28T18:37:49.834Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1790557840000",
+      "id": "it之家-1790608099000",
       "region": "domestic",
-      "title": "Anthropic Claude Sonnet 5.5 模型偷跑，实测碾压 GPT-6 Sol、直逼 Astra",
-      "url": "https://www.ithome.com/1/007/650.htm",
+      "title": "AI 初创公司 Instinct 完成 10 亿美元融资，投后估值达 100 亿美元",
+      "url": "https://www.ithome.com/1/008/060.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"1bf8\">谁能想到，Opus 5.5 发布才没几天，Sonnet 5.5 也要来了？</p><p data-vmark=\"abad\">从昨晚开始，整个 X 都在流传这个消息：<strong>Sonnet 5.5 很快就要发布了，或许就是美国时间周二下午</strong>。</p><p data-vmark=\"b2b2\">在性能…",
-      "pubDate": "2026-09-28T01:10:40.000Z",
+      "summary": "<p data-vmark=\"f591\">IT之家 9 月 28 日消息，据路透社今天报道，人工智能初创公司 Instinct 现已完成 10 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 67.19 亿元人民币）</span>融资，<strong>投后估值达到 100 亿美元</strong><span cl…",
+      "pubDate": "2026-09-28T15:08:19.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1790555440000",
+      "id": "it之家-1790607195000",
       "region": "domestic",
-      "title": "得不到就强攻？曝 OpenAI 智能体曾尝试“暴力破解”联合国机构网站",
-      "url": "https://www.ithome.com/1/007/641.htm",
+      "title": "消息称小米大模型负责人罗福莉晋升至 22 级，已是小米职级体系最高级别",
+      "url": "https://www.ithome.com/1/008/056.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"4ad9\">IT之家 9 月 28 日消息，据外媒 The Verge 今天（28 日）凌晨报道，安全研究人员罗文 · 霍华德-琼斯称，今年 4 月至 6 月，OpenAI 智能体对联合国贸易和发展会议（UNCTAD）的统计网站发起了<strong>超过 16000 次扫描</strong>。</p><p data-vmark=…",
-      "pubDate": "2026-09-28T00:30:40.000Z",
+      "summary": "<p data-vmark=\"5140\">IT之家 9 月 28 日消息，据晚点 LatePost 今晚消息，小米 9 月 22 日对内发布晋升名单，31 岁的<strong>小米大模型团队负责人罗福莉晋升至 22 级</strong>，还有若干其他业务负责人也获得了晋升。</p><p data-vmark=\"01ea\">接近小米的人士称，<strong>2…",
+      "pubDate": "2026-09-28T14:53:15.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1790599433000",
+      "region": "domestic",
+      "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
+      "url": "https://www.qbitai.com/2026/09/498877.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-09-28T12:43:53.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1790594307000",
+      "region": "domestic",
+      "title": "HC归来，华为正重新定义AIDC基础设施",
+      "url": "https://www.qbitai.com/2026/09/498787.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-09-28T11:18:27.000Z",
       "isFallback": false
     },
     {
@@ -34,77 +54,57 @@
       "summary": "<p>OpenAI 称与苹果合作效果不佳</p><p>iPhone 4「天线门」媒体问答录像时隔十六年现身</p><p>F-Droid 2.0 发布</p><p>三星冰箱固件升级后罢工，影响韩国用户过中秋</p><p>Excel 单元格将支持数组</p><p>微软不再使用 Copilot+ PC 品牌</p><p>看看就行的简讯</p><p>少数派的近期动态…",
       "pubDate": "2026-09-27T23:03:45.000Z",
       "isFallback": false
-    },
-    {
-      "id": "量子位-1790518835000",
-      "region": "domestic",
-      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
-      "url": "https://www.qbitai.com/2026/09/498633.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-09-27T14:20:35.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1790517477000",
-      "region": "domestic",
-      "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
-      "url": "https://www.qbitai.com/2026/09/498605.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-09-27T13:57:57.000Z",
-      "isFallback": false
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1790559764000",
+      "id": "google-news-ai-1790620524000",
       "region": "abroad",
-      "title": "3 AI Infrastructure Stocks For Private Data Center Growth - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORXZzZFBtc0JwRU9JMjUyOHhvRjdoRlByOHpFNVVKR2FSR2lKY29yelA4QWxQVWJ1dEpqX3h0STk1MUkydkV1TkdJc2lxYjVZSG5HMjVhRVN1SDAtNE5haHJoc2hyYW9WSGJhQk92bEZuMXdTRzdZMURfanpGNS1rTXBMN2IyTFZHOUlwa0ZUQzg3S2VYdEVwQ2lzNVp3dG42VUFBWHVJU3o2T21rTTVoRlRJX1VTWDZ3WmJv0gHAAUFVX3lxTE1CbzU5UEdfd0pFTzRiSHp0dDZrZXduRTFNaS00Q2pVdG0xUEUtTTBvQWx1RlE3VjNGR3hxdVdFVEhNSGgzYkI2QXJVenh0OFBTRGI0eWxTT0QwSWNBbHdxTFhkem13NWs3Ym9kSzdkRGFJVjB6RjkwdEI1LXJJdndkaEFjZV8zc1hoS3BPaFVzUm1fc0NkdWpPMTRSNFFFUjNVVTRIU0x6QmRrQ3lIbW55MEZkMFJkLVNWNTBvVEhqRw?oc=5",
+      "title": "AI & Immigration Policy Conference – Oct. 7 - New York University",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMUtLOTloVkdLcUEzN2ktQVFlSEpob0tBVEZRY0lCcWFzc1dpNjk1bTlrN1BoS25Uclc4TWd0ZDBlVUtkZG1QYmV0R1gyWDJtbkwybVREOFM3Qm1GZ0V6dzNaV1VBV1oxSVdJbktudXRZakpRRXBrSW1PcjZWS25KbnIzRjNfak0wOGY3cWFIOURIQm1BOXh1M2hLeV9NMUFLMEJHbXl3TExSWkdEejVTZkRYMGphVGhDUlBPeFZsT0Q3VE1wc2l2dQ?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxORXZzZFBtc0JwRU9JMjUyOHhvRjdoRlByOHpFNVVKR2FSR2lKY29yelA4QWxQVWJ1dEpqX3h0STk1MUkydkV1TkdJc2lxYjVZSG5HMjVhRVN1SDAtNE5haH…",
-      "pubDate": "2026-09-28T01:42:44.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMUtLOTloVkdLcUEzN2ktQVFlSEpob0tBVEZRY0lCcWFzc1dpNjk1bTlrN1BoS25Uclc4TWd0ZDBlVUtkZG1QYmV0R1gyWDJtbkwybVREOFM3Qm1GZ0V6dz…",
+      "pubDate": "2026-09-28T18:35:24.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1790559606000",
+      "id": "google-news-ai-1790620320000",
       "region": "abroad",
-      "title": "Businesses Embrace Open-Weight AI Amid Heavy Tech Costs - pymnts.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFR2ZDZXXzJCdEp5RWNXVVgtMFk5OHVLWUNDQ01EQTlPb3UzU2lIRkRLWnp4TXEyUmpzYTRUWUhvREhXWjFZa1hXQUFPWS1tN3hBZUFfVEVWSzlmbnhOUHNDNEtNZ0pJb2wxRkYzelFEZ1lHWldXbVpMNmR3Mk5LQ2MzMWZjYkF3cEtPYTRMYnkwYmZnbldQcGxjWlpIT2NpZVBveUxneWR1VmpfeDZVYXdabw?oc=5",
+      "title": "Thinking Of Mailing It In Because You Fear AI? Keep Dancing - Above the Law",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdlVVdXh1UjVtZ015MTNHSU50T2NlUzRkdmhDSTR3ZHJoNHlBMjg1aTVwMUxPcDJHdGZGaDZVSENFY1NhX2hFb0RVV0c1NEV3bVBXenRFTXVZaDB6MkZBU2Rsd3JpaGRYbGNfMnZrbF9iUUN2ZFBmRERxSUVQbVZwa1paTHdTQzFjS3lrbDA2djNUVE96SHc?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFR2ZDZXXzJCdEp5RWNXVVgtMFk5OHVLWUNDQ01EQTlPb3UzU2lIRkRLWnp4TXEyUmpzYTRUWUhvREhXWjFZa1hXQUFPWS1tN3hBZUFfVEVWSzlmbnhOUH…",
-      "pubDate": "2026-09-28T01:40:06.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNdlVVdXh1UjVtZ015MTNHSU50T2NlUzRkdmhDSTR3ZHJoNHlBMjg1aTVwMUxPcDJHdGZGaDZVSENFY1NhX2hFb0RVV0c1NEV3bVBXenRFTXVZaDB6MkZBU2…",
+      "pubDate": "2026-09-28T18:32:00.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1790541268000",
+      "id": "techcrunch-ai-1790620283000",
       "region": "abroad",
-      "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-27T20:34:28.000Z",
+      "pubDate": "2026-09-28T18:31:23.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1790539050000",
+      "id": "techcrunch-ai-1790618400000",
       "region": "abroad",
-      "title": "Can Muse overcome Meta’s trust issues?",
-      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-27T19:57:30.000Z",
+      "pubDate": "2026-09-28T18:00:00.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1790418600000",
+      "id": "mit-tech-review-ai-1790614996000",
       "region": "abroad",
-      "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
-      "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
-      "source": "Wired AI",
-      "summary": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all ages.",
-      "pubDate": "2026-09-26T10:30:00.000Z",
+      "title": "When can we say AI made a scientific discovery?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "source": "MIT Tech Review AI",
+      "summary": "",
+      "pubDate": "2026-09-28T17:03:16.000Z",
       "isFallback": false
     }
   ]
