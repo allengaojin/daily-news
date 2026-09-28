@@ -1,10 +1,40 @@
 {
   "meta": {
-    "date": "2026-09-27",
-    "updatedAt": "2026-09-27T15:41:05.653Z",
-    "mode": "partial"
+    "date": "2026-09-28",
+    "updatedAt": "2026-09-28T01:45:12.135Z",
+    "mode": "live"
   },
   "domestic": [
+    {
+      "id": "it之家-1790557840000",
+      "region": "domestic",
+      "title": "Anthropic Claude Sonnet 5.5 模型偷跑，实测碾压 GPT-6 Sol、直逼 Astra",
+      "url": "https://www.ithome.com/1/007/650.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"1bf8\">谁能想到，Opus 5.5 发布才没几天，Sonnet 5.5 也要来了？</p><p data-vmark=\"abad\">从昨晚开始，整个 X 都在流传这个消息：<strong>Sonnet 5.5 很快就要发布了，或许就是美国时间周二下午</strong>。</p><p data-vmark=\"b2b2\">在性能…",
+      "pubDate": "2026-09-28T01:10:40.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "it之家-1790555440000",
+      "region": "domestic",
+      "title": "得不到就强攻？曝 OpenAI 智能体曾尝试“暴力破解”联合国机构网站",
+      "url": "https://www.ithome.com/1/007/641.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"4ad9\">IT之家 9 月 28 日消息，据外媒 The Verge 今天（28 日）凌晨报道，安全研究人员罗文 · 霍华德-琼斯称，今年 4 月至 6 月，OpenAI 智能体对联合国贸易和发展会议（UNCTAD）的统计网站发起了<strong>超过 16000 次扫描</strong>。</p><p data-vmark=…",
+      "pubDate": "2026-09-28T00:30:40.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "少数派-1790550225000",
+      "region": "domestic",
+      "title": "派早报：OpenAI 称与苹果合作效果不佳",
+      "url": "https://sspai.com/post/115079",
+      "source": "少数派",
+      "summary": "<p>OpenAI 称与苹果合作效果不佳</p><p>iPhone 4「天线门」媒体问答录像时隔十六年现身</p><p>F-Droid 2.0 发布</p><p>三星冰箱固件升级后罢工，影响韩国用户过中秋</p><p>Excel 单元格将支持数组</p><p>微软不再使用 Copilot+ PC 品牌</p><p>看看就行的简讯</p><p>少数派的近期动态…",
+      "pubDate": "2026-09-27T23:03:45.000Z",
+      "isFallback": false
+    },
     {
       "id": "量子位-1790518835000",
       "region": "domestic",
@@ -24,77 +54,47 @@
       "summary": "",
       "pubDate": "2026-09-27T13:57:57.000Z",
       "isFallback": false
-    },
-    {
-      "id": "it之家-1790515890000",
-      "region": "domestic",
-      "title": "部分 Anthropic 资深员工考虑在偏远地区购置土地，以防“AI 失控”",
-      "url": "https://www.ithome.com/1/007/603.htm",
-      "source": "IT之家",
-      "summary": "<p data-vmark=\"2709\">IT之家 9 月 27 日消息，为防范人工智能彻底失控，Anthropic 的数位资深员工正在悄然制定具体的应急预案。</p><p data-vmark=\"3bc3\">据华尔街日报于当地时间 9 月 26 日报道，最近数周内，Anthropic 的部分早期员工曾向业界同行透露，<strong>他们正打算在美国偏远荒僻…",
-      "pubDate": "2026-09-27T13:31:30.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "it之家-1790504946000",
-      "region": "domestic",
-      "title": "吉利汽车集团副总裁李传海：目前行业缺少统一的 AI 治理标准，不仅抬高产业成本、也埋下安全隐患",
-      "url": "https://www.ithome.com/1/007/563.htm",
-      "source": "IT之家",
-      "summary": "<p data-vmark=\"7a84\">IT之家 9 月 27 日消息，2026 世界新能源汽车大会（WNEVC）于 9 月 22 日-24 日在海南海口举办。</p><p data-vmark=\"a707\">据睿见 Economy 报道，吉利汽车集团副总裁、吉利汽车研究院院长李传海表示，AI 在汽车领域的应用正在加速，但有一点值得行业警醒：<strong…",
-      "pubDate": "2026-09-27T10:29:06.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "mock-domestic-01",
-      "region": "domestic",
-      "title": "国内多家人工智能实验室发布新一代开源大模型，推理成本下降超六成",
-      "url": "https://www.jiqizhixin.com/",
-      "source": "机器之心",
-      "summary": "多家国内 AI 实验室联合发布新一代开源大模型系列，在多项基准测试中表现接近闭源旗舰模型，同时通过混合专家架构与推理优化，将单次推理成本降低超过 60%，引发开源社区广泛关注。",
-      "pubDate": "2026-08-10T06:00:00Z",
-      "isFallback": true
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1790523588000",
+      "id": "google-news-ai-1790559764000",
       "region": "abroad",
-      "title": "'SNL' spoofs Dario Amodei: 'AI is the devil and I its maker' - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeW44eHNvbWNOcmFhZTRpYTJPTXhBRG02c3Rlb3VrVUhyUTRoNlF3MF9nV2NPVjlNemx2WVg0c3hIZHBkV001N0RWUmR0azFnNnpCN3RibnlkZVpMZmtNUzMxNnRWVHVoOGNiZVlvSGs3ZzFXaFRFeUREcXJpdXYycFJ4WVR3MS1USFNGVXRtREpKcld0?oc=5",
+      "title": "3 AI Infrastructure Stocks For Private Data Center Growth - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORXZzZFBtc0JwRU9JMjUyOHhvRjdoRlByOHpFNVVKR2FSR2lKY29yelA4QWxQVWJ1dEpqX3h0STk1MUkydkV1TkdJc2lxYjVZSG5HMjVhRVN1SDAtNE5haHJoc2hyYW9WSGJhQk92bEZuMXdTRzdZMURfanpGNS1rTXBMN2IyTFZHOUlwa0ZUQzg3S2VYdEVwQ2lzNVp3dG42VUFBWHVJU3o2T21rTTVoRlRJX1VTWDZ3WmJv0gHAAUFVX3lxTE1CbzU5UEdfd0pFTzRiSHp0dDZrZXduRTFNaS00Q2pVdG0xUEUtTTBvQWx1RlE3VjNGR3hxdVdFVEhNSGgzYkI2QXJVenh0OFBTRGI0eWxTT0QwSWNBbHdxTFhkem13NWs3Ym9kSzdkRGFJVjB6RjkwdEI1LXJJdndkaEFjZV8zc1hoS3BPaFVzUm1fc0NkdWpPMTRSNFFFUjNVVTRIU0x6QmRrQ3lIbW55MEZkMFJkLVNWNTBvVEhqRw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOeW44eHNvbWNOcmFhZTRpYTJPTXhBRG02c3Rlb3VrVUhyUTRoNlF3MF9nV2NPVjlNemx2WVg0c3hIZHBkV001N0RWUmR0azFnNnpCN3RibnlkZVpMZmtNUz…",
-      "pubDate": "2026-09-27T15:39:48.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxORXZzZFBtc0JwRU9JMjUyOHhvRjdoRlByOHpFNVVKR2FSR2lKY29yelA4QWxQVWJ1dEpqX3h0STk1MUkydkV1TkdJc2lxYjVZSG5HMjVhRVN1SDAtNE5haH…",
+      "pubDate": "2026-09-28T01:42:44.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1790523412000",
+      "id": "google-news-ai-1790559606000",
       "region": "abroad",
-      "title": "Opinion | I’m making a conscious effort to go analog. Even talking with strangers. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPellJWHk0VXJrZlEwZWp6cDBWNjRkS0Q1OXlXZWRZZDhVVjhaUjI4YWU4TUZNUDR1Wm1KcDFPNXFBaDRuajJWTTE4b1FwYVlQUzBZN3pBZjlUYzltVFlQdVhLQUN3Y0k2cTdzejlvbDlpMzByamJ6d2RTUkFqdlllMDlEODRma3RXdTRmd05FMy1fRGhGWHdNanR4Y1o1Y1l4b2JQWTlyZkF0YTRKTGpDRA?oc=5",
+      "title": "Businesses Embrace Open-Weight AI Amid Heavy Tech Costs - pymnts.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFR2ZDZXXzJCdEp5RWNXVVgtMFk5OHVLWUNDQ01EQTlPb3UzU2lIRkRLWnp4TXEyUmpzYTRUWUhvREhXWjFZa1hXQUFPWS1tN3hBZUFfVEVWSzlmbnhOUHNDNEtNZ0pJb2wxRkYzelFEZ1lHWldXbVpMNmR3Mk5LQ2MzMWZjYkF3cEtPYTRMYnkwYmZnbldQcGxjWlpIT2NpZVBveUxneWR1VmpfeDZVYXdabw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPellJWHk0VXJrZlEwZWp6cDBWNjRkS0Q1OXlXZWRZZDhVVjhaUjI4YWU4TUZNUDR1Wm1KcDFPNXFBaDRuajJWTTE4b1FwYVlQUzBZN3pBZjlUYzltVFlQdV…",
-      "pubDate": "2026-09-27T15:36:52.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFR2ZDZXXzJCdEp5RWNXVVgtMFk5OHVLWUNDQ01EQTlPb3UzU2lIRkRLWnp4TXEyUmpzYTRUWUhvREhXWjFZa1hXQUFPWS1tN3hBZUFfVEVWSzlmbnhOUH…",
+      "pubDate": "2026-09-28T01:40:06.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1790472600000",
+      "id": "techcrunch-ai-1790541268000",
       "region": "abroad",
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-27T01:30:00.000Z",
+      "pubDate": "2026-09-27T20:34:28.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1790456526000",
+      "id": "techcrunch-ai-1790539050000",
       "region": "abroad",
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-26T21:02:06.000Z",
+      "pubDate": "2026-09-27T19:57:30.000Z",
       "isFallback": false
     },
     {
