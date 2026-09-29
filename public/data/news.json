@@ -1,28 +1,38 @@
 {
   "meta": {
     "date": "2026-09-29",
-    "updatedAt": "2026-09-28T18:37:49.834Z",
+    "updatedAt": "2026-09-29T02:36:25.602Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1790608099000",
+      "id": "it之家-1790648200000",
       "region": "domestic",
-      "title": "AI 初创公司 Instinct 完成 10 亿美元融资，投后估值达 100 亿美元",
-      "url": "https://www.ithome.com/1/008/060.htm",
+      "title": "Anthropic IPO 招股书警示：AI 有可能造成人类灭绝",
+      "url": "https://www.ithome.com/1/008/132.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"f591\">IT之家 9 月 28 日消息，据路透社今天报道，人工智能初创公司 Instinct 现已完成 10 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 67.19 亿元人民币）</span>融资，<strong>投后估值达到 100 亿美元</strong><span cl…",
-      "pubDate": "2026-09-28T15:08:19.000Z",
+      "summary": "<p data-vmark=\"76af\">IT之家 9 月 29 日消息，据路透社报道，Anthropic 计划在 IPO 招股书中向潜在投资者作出风险提示：先进人工智能有可能给人类带来“灾难性乃至生存性风险”。一家依靠该项技术谋求商业收益的企业发出如此警示，实属非同寻常。</p><p style=\"text-align: center;\" data-vma…",
+      "pubDate": "2026-09-29T02:16:40.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1790607195000",
+      "id": "it之家-1790646466000",
       "region": "domestic",
-      "title": "消息称小米大模型负责人罗福莉晋升至 22 级，已是小米职级体系最高级别",
-      "url": "https://www.ithome.com/1/008/056.htm",
+      "title": "OpenAI 将提供资金并成立工作组，以解决模型入侵澳大利亚政府网站事件",
+      "url": "https://www.ithome.com/1/008/118.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"5140\">IT之家 9 月 28 日消息，据晚点 LatePost 今晚消息，小米 9 月 22 日对内发布晋升名单，31 岁的<strong>小米大模型团队负责人罗福莉晋升至 22 级</strong>，还有若干其他业务负责人也获得了晋升。</p><p data-vmark=\"01ea\">接近小米的人士称，<strong>2…",
-      "pubDate": "2026-09-28T14:53:15.000Z",
+      "summary": "<p data-vmark=\"23cc\">IT之家 9 月 29 日消息，OpenAI 表示将出资助力澳大利亚开展网络防御建设，同时成立专项工作组，用于应对能力持续增强的人工智能所带来的各类风险。此举是该公司针对自家模型闯入澳大利亚政府网站一事作出的后续回应。</p><p style=\"text-align: center;\" data-vmark=\"ac8…",
+      "pubDate": "2026-09-29T01:47:46.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1790642970000",
+      "region": "domestic",
+      "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
+      "url": "https://www.qbitai.com/2026/09/499098.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-09-29T00:49:30.000Z",
       "isFallback": false
     },
     {
@@ -33,16 +43,6 @@
       "source": "量子位",
       "summary": "",
       "pubDate": "2026-09-28T12:43:53.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1790594307000",
-      "region": "domestic",
-      "title": "HC归来，华为正重新定义AIDC基础设施",
-      "url": "https://www.qbitai.com/2026/09/498787.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-09-28T11:18:27.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1790620524000",
+      "id": "google-news-ai-1790649091000",
       "region": "abroad",
-      "title": "AI & Immigration Policy Conference – Oct. 7 - New York University",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMUtLOTloVkdLcUEzN2ktQVFlSEpob0tBVEZRY0lCcWFzc1dpNjk1bTlrN1BoS25Uclc4TWd0ZDBlVUtkZG1QYmV0R1gyWDJtbkwybVREOFM3Qm1GZ0V6dzNaV1VBV1oxSVdJbktudXRZakpRRXBrSW1PcjZWS25KbnIzRjNfak0wOGY3cWFIOURIQm1BOXh1M2hLeV9NMUFLMEJHbXl3TExSWkdEejVTZkRYMGphVGhDUlBPeFZsT0Q3VE1wc2l2dQ?oc=5",
+      "title": "Engineering School revamps digital media design degree, adds AI requirements - The Daily Pennsylvanian",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPakl3RkV0Y083S29uN3VqZlVRUDNBaXZpNy1CUlczbW9rTllySGkxVmxnLW1nM3gxWFlzdlNRZFF5RWVKdWdxUmpZX2RSTW1BTGhJd0FicVpjQU9UMGZkeXRTSlZYWTFiVXUwMTJNSnBBMm1CemVXYmoyNWlpc0pmMU5hblRVa2IxaUdFSS1rSEhtWE1rZ2NVdlZKa2JmUEZtVW8wLU1HM0VleHR3NVp0d0xTTnJ5WmhjQWlvZmxR?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMUtLOTloVkdLcUEzN2ktQVFlSEpob0tBVEZRY0lCcWFzc1dpNjk1bTlrN1BoS25Uclc4TWd0ZDBlVUtkZG1QYmV0R1gyWDJtbkwybVREOFM3Qm1GZ0V6dz…",
-      "pubDate": "2026-09-28T18:35:24.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPakl3RkV0Y083S29uN3VqZlVRUDNBaXZpNy1CUlczbW9rTllySGkxVmxnLW1nM3gxWFlzdlNRZFF5RWVKdWdxUmpZX2RSTW1BTGhJd0FicVpjQU9UMGZkeX…",
+      "pubDate": "2026-09-29T02:31:31.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1790620320000",
+      "id": "google-news-ai-1790649060000",
       "region": "abroad",
-      "title": "Thinking Of Mailing It In Because You Fear AI? Keep Dancing - Above the Law",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdlVVdXh1UjVtZ015MTNHSU50T2NlUzRkdmhDSTR3ZHJoNHlBMjg1aTVwMUxPcDJHdGZGaDZVSENFY1NhX2hFb0RVV0c1NEV3bVBXenRFTXVZaDB6MkZBU2Rsd3JpaGRYbGNfMnZrbF9iUUN2ZFBmRERxSUVQbVZwa1paTHdTQzFjS3lrbDA2djNUVE96SHc?oc=5",
+      "title": "David Douglas school officials address AI social media posts targeting students, staff - KPTV",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRVY2U09UR2JOREF0LTRwTTAtQ2Y0NHZ1MTYxMmlUMHNzcV84MHFnMzRuVnlEVXRnQlpyZ2sya2JQWWt1c1RSa1FVSUtrZnJnWGVVb29uTTJYanRvbFFmbE1idGdTaVlNeUNrUVdIeklpMXhkTVlYUHY5N2liMFVWRlpydEJVUGtaLWwxWnVESHI5UUNGWU51SlZvck1pZGZPb1dYYTUtWU9GWmwxdHRuQ1RSM285U3FkTlHSAc4BQVVfeXFMTUZUNzNOVVlMOEpfSEJ0bmNicGVkSHlUc3BUUUxBNGtHQU9lUi1nUUJuREJqMURIVWMxekpFNmFNNGFYQnVSWTFBcDAwbGxQdXhUcWwtUEswN25yVzZiWExqaDR5SjdkaHdVQXFUb2dxOVdRYXFNbXBmNnFfOEhyNkRoTE84Y3V4NlpXaEFZa1hiTkVxWlRyUzZDMXBteWdBbl9Qbk4yMXl6MU9KS0NyY3Q0dWxwaWtvNTI4cF9sV29QYUtMaS1iOWQ4WGptbWc?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNdlVVdXh1UjVtZ015MTNHSU50T2NlUzRkdmhDSTR3ZHJoNHlBMjg1aTVwMUxPcDJHdGZGaDZVSENFY1NhX2hFb0RVV0c1NEV3bVBXenRFTXVZaDB6MkZBU2…",
-      "pubDate": "2026-09-28T18:32:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPRVY2U09UR2JOREF0LTRwTTAtQ2Y0NHZ1MTYxMmlUMHNzcV84MHFnMzRuVnlEVXRnQlpyZ2sya2JQWWt1c1RSa1FVSUtrZnJnWGVVb29uTTJYanRvbFFmbE…",
+      "pubDate": "2026-09-29T02:31:00.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1790620283000",
+      "id": "techcrunch-ai-1790641800000",
       "region": "abroad",
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-28T18:31:23.000Z",
+      "pubDate": "2026-09-29T00:30:00.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1790618400000",
+      "id": "techcrunch-ai-1790638760000",
       "region": "abroad",
-      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-28T18:00:00.000Z",
+      "pubDate": "2026-09-28T23:39:20.000Z",
       "isFallback": false
     },
     {
-      "id": "mit-tech-review-ai-1790614996000",
+      "id": "mit-tech-review-ai-1790633827000",
       "region": "abroad",
-      "title": "When can we say AI made a scientific discovery?",
-      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
       "source": "MIT Tech Review AI",
       "summary": "",
-      "pubDate": "2026-09-28T17:03:16.000Z",
+      "pubDate": "2026-09-28T22:17:07.000Z",
       "isFallback": false
     }
   ]
