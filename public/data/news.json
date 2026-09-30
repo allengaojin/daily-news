@@ -1,28 +1,48 @@
 {
   "meta": {
     "date": "2026-09-30",
-    "updatedAt": "2026-09-29T16:54:56.201Z",
+    "updatedAt": "2026-09-30T02:11:00.625Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1790694317000",
+      "id": "it之家-1790732901000",
       "region": "domestic",
-      "title": "报道称 OpenAI 年化经常性收入接近 700 亿美元，较三季度初增长超 70%",
-      "url": "https://www.ithome.com/1/008/510.htm",
+      "title": "消息称 AI 失控前 OpenAI 已接到员工警告，但高层选择无视",
+      "url": "https://www.ithome.com/1/008/592.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"b248\">IT之家 9 月 29 日消息，据外媒 Axios 今天报道，据知情人士透露，<strong>OpenAI 年化经常性收入（ARR）已接近 700 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 4,705.11 亿元人民币）</span></strong>。</p><p…",
-      "pubDate": "2026-09-29T15:05:17.000Z",
+      "summary": "<p data-vmark=\"fef9\">IT之家 9 月 30 日消息，据《纽约时报》报道，早在 OpenAI 的人工智能出现脱离管控行为的数月之前，就已有两名员工向公司高层发出安全预警，但他们的警示遭到忽视。</p><p style=\"text-align: center;\" data-vmark=\"1a35\"><img src=\"https://img…",
+      "pubDate": "2026-09-30T01:48:21.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1790684772000",
+      "id": "it之家-1790732486000",
       "region": "domestic",
-      "title": "赛豆科技 AIVA 首款量产车 ME7 全球首秀：提供纯电与增程版本",
-      "url": "https://www.ithome.com/1/008/470.htm",
+      "title": "Anthropic 与 SpaceX 签署最高 845 亿美元算力协议，可提前 90 天发通知解除",
+      "url": "https://www.ithome.com/1/008/589.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"7524\">IT之家 9 月 29 日消息，当地时间 9 月 28 日晚，赛豆科技（重庆市沙坪坝区与赛力斯共同投资）旗下 AIVA 品牌首款量产车型 AIVA ME7 在法国巴黎尚普拉特勒城堡完成全球首秀。</p><p data-vmark=\"6267\" style=\"text-align: center;\"><a href=\"…",
-      "pubDate": "2026-09-29T12:26:12.000Z",
+      "summary": "<p data-vmark=\"c826\">IT之家 9 月 30 日消息，随着 AI 巨头 Anthropic 筹备 IPO 上市，路透社查阅的文件显示，这家企业已经和 SpaceX 签署了价值数百亿美元的算力协议。SpaceX 完成 IPO 之后向美国证券交易委员会（SEC）提交了披露材料；这批新的合同文件进一步揭开了两家公司合作的细节。协议当中有一项关键…",
+      "pubDate": "2026-09-30T01:41:26.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "少数派-1790725161000",
+      "region": "domestic",
+      "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
+      "url": "https://sspai.com/post/115197",
+      "source": "少数派",
+      "summary": "Nothing 发布旗舰耳机 Headphone 1 Pro，AMD 斥资 82 亿美元收购 World Labs 等。<a href=\"https://sspai.com/post/115197\" target=\"_blank\">查看全文</a>",
+      "pubDate": "2026-09-29T23:39:21.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1790722865000",
+      "region": "domestic",
+      "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+      "url": "https://www.qbitai.com/2026/09/499246.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-09-29T23:01:05.000Z",
       "isFallback": false
     },
     {
@@ -34,77 +54,57 @@
       "summary": "",
       "pubDate": "2026-09-29T10:56:33.000Z",
       "isFallback": false
-    },
-    {
-      "id": "量子位-1790668786000",
-      "region": "domestic",
-      "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
-      "url": "https://www.qbitai.com/2026/09/499188.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-09-29T07:59:46.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "少数派-1790550225000",
-      "region": "domestic",
-      "title": "派早报：OpenAI 称与苹果合作效果不佳",
-      "url": "https://sspai.com/post/115079",
-      "source": "少数派",
-      "summary": "<p>OpenAI 称与苹果合作效果不佳</p><p>iPhone 4「天线门」媒体问答录像时隔十六年现身</p><p>F-Droid 2.0 发布</p><p>三星冰箱固件升级后罢工，影响韩国用户过中秋</p><p>Excel 单元格将支持数组</p><p>微软不再使用 Copilot+ PC 品牌</p><p>看看就行的简讯</p><p>少数派的近期动态…",
-      "pubDate": "2026-09-27T23:03:45.000Z",
-      "isFallback": false
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1790700536000",
+      "id": "google-news-ai-1790732759000",
       "region": "abroad",
-      "title": "Trump launches AI-fueled America.gov in bid to tie government services together - FedScoop",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNQlZaYkh1YklXSTY4NG8zS1pyX2ZoSVltVjgwVXo5cGpYYzNLMWJ3TTJCQks2UEU2WlR1aVJsTEVGRWtMMkFuaWo3ekVGeTl3U2o0d2NZT1dENi1EQksxREpOUDBKbms?oc=5",
+      "title": "China's factory activity returns to growth in September amid AI boom - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY1FpUm9kNHZOWVpBVVMtVTZ4elZMZTdRa1M3T0ZHcjZjbU4yT3hYT0VoSUxnaExYc21aRU5HV05oRXVPRTMtUmdhdFJFXzVydUxsZXlBMDFFbndDUUxNRGI5TmplTFdkSWNtY256Sm81QmI0RzFyeWU0SXV2TWNDRU9qenIwQ2tzRFlQUnNYbXVPZ1dRSGZmRG9lMlhYVy1ZRFlxemhSQXhwMlRHWDVjdHYxVjBTVmM?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNQlZaYkh1YklXSTY4NG8zS1pyX2ZoSVltVjgwVXo5cGpYYzNLMWJ3TTJCQks2UEU2WlR1aVJsTEVGRWtMMkFuaWo3ekVGeTl3U2o0d2NZT1dENi1EQksxRE…",
-      "pubDate": "2026-09-29T16:48:56.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNY1FpUm9kNHZOWVpBVVMtVTZ4elZMZTdRa1M3T0ZHcjZjbU4yT3hYT0VoSUxnaExYc21aRU5HV05oRXVPRTMtUmdhdFJFXzVydUxsZXlBMDFFbndDUUxNRG…",
+      "pubDate": "2026-09-30T01:45:59.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1790700529000",
+      "id": "google-news-ai-1790732405000",
       "region": "abroad",
-      "title": "Trump administration rolls out AI tool for government-related questions - Deseret News",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQnB0dzdEam1IeEQ5ckRkNFlYa0ZHXzZqSFcwbkFaZy05YXFycmdOM0JhQVVGcE9JaF96eXRoUUdsb0JtTzFqeERXSjFGTmpuYU9MTFM5dE9wV0h2TDZJZlJaeW52VmJIcFdXR0hWZVdQMUlSR1JQSFdvYk9pS1dONXhkX0xuR25BTWZ4RmtYQnhhbXNfSm1XX19neElQQU9zVEdrX214TWgzZTdNZkE1NjdMZ0Z3N0V4dWZuVkx1SHZPV09IT2szXzNSaUJUdElYUlpocjRB?oc=5",
+      "title": "Unlocking AI as a research tool for plant microscopy - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42NEhTM3I0Q1gzZnZSVzlQclBhT0VpTzRaM3lLN0M2SU5mWjJ6ZnpUXy1uOF9sV2ZHa3pmbWYwUjlHZUtNUzd4SWxidFoySkg3b21YY050Mmt6WEoyeGJFT1ZNYw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQnB0dzdEam1IeEQ5ckRkNFlYa0ZHXzZqSFcwbkFaZy05YXFycmdOM0JhQVVGcE9JaF96eXRoUUdsb0JtTzFqeERXSjFGTmpuYU9MTFM5dE9wV0h2TDZJZl…",
-      "pubDate": "2026-09-29T16:48:49.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE42NEhTM3I0Q1gzZnZSVzlQclBhT0VpTzRaM3lLN0M2SU5mWjJ6ZnpUXy1uOF9sV2ZHa3pmbWYwUjlHZUtNUzd4SWxidFoySkg3b21YY050Mmt6WEoyeGJFT1…",
+      "pubDate": "2026-09-30T01:40:05.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1790694727000",
+      "id": "techcrunch-ai-1790724655000",
       "region": "abroad",
-      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-      "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-29T15:12:07.000Z",
+      "pubDate": "2026-09-29T23:30:55.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1790689981000",
+      "id": "techcrunch-ai-1790720459000",
       "region": "abroad",
-      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-      "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-09-29T13:53:01.000Z",
+      "pubDate": "2026-09-29T22:20:59.000Z",
       "isFallback": false
     },
     {
-      "id": "mit-tech-review-ai-1790678625000",
+      "id": "wired-ai-1790708700000",
       "region": "abroad",
-      "title": "Making AI an asset, not an expense",
-      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-      "source": "MIT Tech Review AI",
-      "summary": "",
-      "pubDate": "2026-09-29T10:43:45.000Z",
+      "title": "OpenAI Gets Sued Over the Hugging Face Hack",
+      "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
+      "source": "Wired AI",
+      "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
+      "pubDate": "2026-09-29T19:05:00.000Z",
       "isFallback": false
     }
   ]
