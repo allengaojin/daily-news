@@ -1,48 +1,48 @@
 {
   "meta": {
-    "date": "2026-10-02",
-    "updatedAt": "2026-10-02T02:19:20.720Z",
+    "date": "2026-10-03",
+    "updatedAt": "2026-10-02T16:41:10.510Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1790907256000",
+      "id": "it之家-1790948294000",
       "region": "domestic",
-      "title": "Signal65 报告：高通骁龙 X2 Elite 芯片在 CPU / AI 等方面优于英特尔酷睿 Ultra X7 358H",
-      "url": "https://www.ithome.com/1/009/235.htm",
+      "title": "Meta 旗下 AI 智能体 Muse 将登陆智能眼镜平台，可代用户完成各种任务",
+      "url": "https://www.ithome.com/1/009/363.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"91dc\">IT之家 10 月 2 日消息，机构 Signal65 昨日（10 月 1 日）发布报告，测试显示高通 18 核骁龙 X2 Elite 芯片（具体型号为 X2E-88-100）在 CPU、AI、生产力和多数续航项目中，领先英特尔酷睿 Ultra X7 358H 处理器。</p><p data-vmark=\"5f57\"…",
-      "pubDate": "2026-10-02T02:14:16.000Z",
+      "summary": "<p data-vmark=\"2ba0\">IT之家 10 月 2 日消息，Meta 宣布旗下 AI 智能体 Muse 将于近期登陆智能眼镜，用户无需拿出手机，只需通过语音下达指令，Muse 就能在后台代用户完成一系列任务。</p><p data-vmark=\"5d84\" style=\"text-align: center;\"><img src=\"https:…",
+      "pubDate": "2026-10-02T13:38:14.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1790902383000",
+      "id": "it之家-1790946000000",
       "region": "domestic",
-      "title": "英伟达黄仁勋将出席：微软预热本月 Surface 发布会，聚焦本地 AI 重塑下一代 PC",
-      "url": "https://www.ithome.com/1/009/212.htm",
+      "title": "桌面 AI 超算新选择：英伟达 NVIDIA DGX Spark 64GB 内存版正式发布，4999 美元",
+      "url": "https://www.ithome.com/1/009/359.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"4a39\">IT之家 10 月 2 日消息，微软官方开发者账号 @windowsdev 今天（10 月 2 日）在 X 平台发布推文，<strong>宣布将于太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）举办一场面向开发者与构建者的线上活动。</strong></p><p data-vmar…",
-      "pubDate": "2026-10-02T00:53:03.000Z",
+      "summary": "<p data-vmark=\"3848\">IT之家 10 月 2 日消息，英伟达今天正式对外披露 DGX Spark 产品更新，推出 64GB 内存版本 DGX Spark 桌面 AI 计算机，起售价 4,999 美元<span class=\"exch-money-value\">（现汇率约合 33,566 元人民币）</span>，将于 10 月 23 日正…",
+      "pubDate": "2026-10-02T13:00:00.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1790867190000",
+      "id": "量子位-1790926455000",
       "region": "domestic",
-      "title": "何恺明团队新作：看猫片就能学会ARC挑战",
-      "url": "https://www.qbitai.com/2026/10/499812.html",
+      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+      "url": "https://www.qbitai.com/2026/10/500098.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-10-01T15:06:30.000Z",
+      "pubDate": "2026-10-02T07:34:15.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1790866934000",
+      "id": "量子位-1790926023000",
       "region": "domestic",
-      "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
-      "url": "https://www.qbitai.com/2026/10/499663.html",
+      "title": "丘成桐新论文致谢了GPT和Claude",
+      "url": "https://www.qbitai.com/2026/10/499991.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-10-01T15:02:14.000Z",
+      "pubDate": "2026-10-02T07:27:03.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1790906261000",
+      "id": "google-news-ai-1790959180000",
       "region": "abroad",
-      "title": "The price Europe pays for keeping AI under control - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORVFuT0hnZk1RRlowM3prSHFfMFk0Y1NIWWl5UFJhLVJEckROclpQYk80YndTLWo3Mjl5RFNtaHdoTW8xNm0tTlNMY1lHMU40dmdxSkpsLTF2VUN1NzByaUxIeHN3bHhPRkVUd0tvc0gzRnV1TlRPaUlLbVJYc2hhQXhhdkpwZ0IxNGZGNXdQS1pEbHl5M2V1SVlfR3hwUVh6M1RB0gGoAUFVX3lxTE56UDB0c2JmTGVPb0xjS1B0eDZEZUR2V3pEVGxycGpHeTFCZV9ZWDlvMm5UeEwwck5sdHIwUWszblVLSW1wb0ZTV0RzcmZ1VHE1aWRkdGJONmNsOV9SY3E4Qjk3UjNVaXBRckhzRUpobVJPN21ZNGQ5cFNwanUzTlZEOF9YZGNIN291WUtwcC1mQy1hTVYwdTJ6QjBTTUJOT2dfS1RpUHNGaQ?oc=5",
+      "title": "Lieber Studies Non-State Actor Attribution Volume Series - Artificial Intelligence and Attribution of Non-State Actors’ Conduct to States - lieber.westpoint.edu",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVVVCUEJ4TkdkSUo5Vkw0WXlQdUhWTDlSeW1uTDhfV1hPTUdVMDRXcVp4a1lHdmtWVGg4OGdtSkJBZkxmdVNlM2NhUVQ5c1BHaFFtTTJzM3JLMmx5UVZ0Zkcydk9IeDUyV3Vzd0ZHaFQteE5XOUZaT2JWbmh4OGNnZ3lNVFV5bHJqcXl4WHJOQ0xhLUhLS0IzTGNmM25YZw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxORVFuT0hnZk1RRlowM3prSHFfMFk0Y1NIWWl5UFJhLVJEckROclpQYk80YndTLWo3Mjl5RFNtaHdoTW8xNm0tTlNMY1lHMU40dmdxSkpsLTF2VUN1NzByaU…",
-      "pubDate": "2026-10-02T01:57:41.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPVVVCUEJ4TkdkSUo5Vkw0WXlQdUhWTDlSeW1uTDhfV1hPTUdVMDRXcVp4a1lHdmtWVGg4OGdtSkJBZkxmdVNlM2NhUVQ5c1BHaFFtTTJzM3JLMmx5UVZ0Zk…",
+      "pubDate": "2026-10-02T16:39:40.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1790906160000",
+      "id": "google-news-ai-1790959162000",
       "region": "abroad",
-      "title": "AG, Santa Fe lawmaker pitch AI safety measures after UNM breach - santafenewmexican.com",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMElIQjd4ZGpXQXdhM0E2ZnFiU2w2UXhGN2xIU05mUEJ3RllkeENmSWluZWtrR3NUUU9tWmFBZW96dGYzU1J6SUFzVXViTUdiRjZfdlVxOTlmZEdBRmViNExQSjRoRlpPUG1SRXZ2QXg0ZW03dmVFdG1VMW9zWnNTbUMyb1RfeHNveHRoazYtYXhLMlRnV1ExLXRHWmIzcm40ZzJGUzVGb0JfVDVvTjVHcDBZeWRGblUzbUVoZVo4VHhXTlJZYmFFaUZ5bzZLdHo4YUU2dFhwR2JLTGdjTXN3cXFVSVlDQXFjdmdSeWwxVEdhMmxsUkE?oc=5",
+      "title": "AI campaign deepfakes are starting to draw legal threats - Axios",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41TjlPOUJ3blFIWUJON0N1T1FLbVNGcmJ6TEQ1Rnh3RW1QcGJ6dDlsalFFdmt6TlBBN3RBVjBpQXFyNTlRVy1qUWZLTzNwdGdKRVB6OGdUS0dyUk02NjBWLVppUV9qc19rcTVsUDhnbzdUaTFOX0RYdVlxcw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMElIQjd4ZGpXQXdhM0E2ZnFiU2w2UXhGN2xIU05mUEJ3RllkeENmSWluZWtrR3NUUU9tWmFBZW96dGYzU1J6SUFzVXViTUdiRjZfdlVxOTlmZEdBRmViNE…",
-      "pubDate": "2026-10-02T01:56:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE41TjlPOUJ3blFIWUJON0N1T1FLbVNGcmJ6TEQ1Rnh3RW1QcGJ6dDlsalFFdmt6TlBBN3RBVjBpQXFyNTlRVy1qUWZLTzNwdGdKRVB6OGdUS0dyUk02NjBWLV…",
+      "pubDate": "2026-10-02T16:39:22.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1790892642000",
+      "id": "wired-ai-1790956800000",
       "region": "abroad",
-      "title": "Whatever AI Safety Is, It’s Not This",
-      "url": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
+      "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+      "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
       "source": "Wired AI",
-      "summary": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
-      "pubDate": "2026-10-01T22:10:42.000Z",
+      "summary": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
+      "pubDate": "2026-10-02T16:00:00.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1790888891000",
+      "id": "mit-tech-review-ai-1790956144000",
       "region": "abroad",
-      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "source": "MIT Tech Review AI",
+      "summary": "",
+      "pubDate": "2026-10-02T15:49:04.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1790955581000",
+      "region": "abroad",
+      "title": "Pope Leo XIV is not a fan of AI-generated art",
+      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-01T21:08:11.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1790884711000",
-      "region": "abroad",
-      "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
-      "source": "Wired AI",
-      "summary": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US mid…",
-      "pubDate": "2026-10-01T19:58:31.000Z",
+      "pubDate": "2026-10-02T15:39:41.000Z",
       "isFallback": false
     }
   ]
