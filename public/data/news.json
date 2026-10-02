@@ -1,10 +1,30 @@
 {
   "meta": {
     "date": "2026-10-02",
-    "updatedAt": "2026-10-01T17:24:51.023Z",
+    "updatedAt": "2026-10-02T02:19:20.720Z",
     "mode": "live"
   },
   "domestic": [
+    {
+      "id": "it之家-1790907256000",
+      "region": "domestic",
+      "title": "Signal65 报告：高通骁龙 X2 Elite 芯片在 CPU / AI 等方面优于英特尔酷睿 Ultra X7 358H",
+      "url": "https://www.ithome.com/1/009/235.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"91dc\">IT之家 10 月 2 日消息，机构 Signal65 昨日（10 月 1 日）发布报告，测试显示高通 18 核骁龙 X2 Elite 芯片（具体型号为 X2E-88-100）在 CPU、AI、生产力和多数续航项目中，领先英特尔酷睿 Ultra X7 358H 处理器。</p><p data-vmark=\"5f57\"…",
+      "pubDate": "2026-10-02T02:14:16.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "it之家-1790902383000",
+      "region": "domestic",
+      "title": "英伟达黄仁勋将出席：微软预热本月 Surface 发布会，聚焦本地 AI 重塑下一代 PC",
+      "url": "https://www.ithome.com/1/009/212.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"4a39\">IT之家 10 月 2 日消息，微软官方开发者账号 @windowsdev 今天（10 月 2 日）在 X 平台发布推文，<strong>宣布将于太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）举办一场面向开发者与构建者的线上活动。</strong></p><p data-vmar…",
+      "pubDate": "2026-10-02T00:53:03.000Z",
+      "isFallback": false
+    },
     {
       "id": "量子位-1790867190000",
       "region": "domestic",
@@ -26,26 +46,6 @@
       "isFallback": false
     },
     {
-      "id": "it之家-1790864658000",
-      "region": "domestic",
-      "title": "惠普战 99 锐龙版 AI 移动工作站发布：AMD R9-9955HX3D + RTX PRO 2000，21999 元",
-      "url": "https://www.ithome.com/1/009/161.htm",
-      "source": "IT之家",
-      "summary": "<p data-vmark=\"0000\">IT之家 10 月 1 日消息，惠普战 99 锐龙版 AI 高性能移动工作站今日正式发布，10 月 12 日晚开售，IT之家汇总定价如下：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0001\">R9 9955HX + RTX PRO 500 + 32G…",
-      "pubDate": "2026-10-01T14:24:18.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "it之家-1790853380000",
-      "region": "domestic",
-      "title": "育碧公布新品牌：创意事业部 2 更名 Massive Entertainment，统一管理多款知名 IP",
-      "url": "https://www.ithome.com/1/009/135.htm",
-      "source": "IT之家",
-      "summary": "<p data-vmark=\"e5df\">IT之家 10 月 1 日消息，育碧于当地时间 9 月 30 日宣布将开发部门“创意事业部 2”（Creative House 2）正式更名为“Massive Entertainment”，并启用全新品牌标志。</p><p data-vmark=\"5e57\">该部门将整合加拿大蒙特利尔、法国巴黎、瑞典及加拿大多伦多的…",
-      "pubDate": "2026-10-01T11:16:20.000Z",
-      "isFallback": false
-    },
-    {
       "id": "少数派-1790737338000",
       "region": "domestic",
       "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1790875428000",
+      "id": "google-news-ai-1790906261000",
       "region": "abroad",
-      "title": "Warner vows to keep pushing AI safety bill after Republican objection blocks it - The Alexandria Brief",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDNLdVU4bWdlOFpwbVJfMWlFbHBWNVMyczg4MXMyUlZyZUNvQkpRN0VHTm5mb3pXX1RWWkhwamk4OGxHcDVpeXJEeWdGTzlnTnlmUjhtT2toVEhaQlFVOG5JNnhVQS14TGJraTZxN1pPUnlndnVnWHg0Q0JlWTFqOWo0eVVPX2pOeldFN0pNYjY5YS1KalFsVWVudGxjNHh5eDQ1TVQ3ek1nWklnLXp1NmVn?oc=5",
+      "title": "The price Europe pays for keeping AI under control - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORVFuT0hnZk1RRlowM3prSHFfMFk0Y1NIWWl5UFJhLVJEckROclpQYk80YndTLWo3Mjl5RFNtaHdoTW8xNm0tTlNMY1lHMU40dmdxSkpsLTF2VUN1NzByaUxIeHN3bHhPRkVUd0tvc0gzRnV1TlRPaUlLbVJYc2hhQXhhdkpwZ0IxNGZGNXdQS1pEbHl5M2V1SVlfR3hwUVh6M1RB0gGoAUFVX3lxTE56UDB0c2JmTGVPb0xjS1B0eDZEZUR2V3pEVGxycGpHeTFCZV9ZWDlvMm5UeEwwck5sdHIwUWszblVLSW1wb0ZTV0RzcmZ1VHE1aWRkdGJONmNsOV9SY3E4Qjk3UjNVaXBRckhzRUpobVJPN21ZNGQ5cFNwanUzTlZEOF9YZGNIN291WUtwcC1mQy1hTVYwdTJ6QjBTTUJOT2dfS1RpUHNGaQ?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDNLdVU4bWdlOFpwbVJfMWlFbHBWNVMyczg4MXMyUlZyZUNvQkpRN0VHTm5mb3pXX1RWWkhwamk4OGxHcDVpeXJEeWdGTzlnTnlmUjhtT2toVEhaQlFVOG…",
-      "pubDate": "2026-10-01T17:23:48.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxORVFuT0hnZk1RRlowM3prSHFfMFk0Y1NIWWl5UFJhLVJEckROclpQYk80YndTLWo3Mjl5RFNtaHdoTW8xNm0tTlNMY1lHMU40dmdxSkpsLTF2VUN1NzByaU…",
+      "pubDate": "2026-10-02T01:57:41.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1790875089000",
+      "id": "google-news-ai-1790906160000",
       "region": "abroad",
-      "title": "Cooke campaign sends cease-and-desist to Congressman Van Orden over AI deepfakes - WPR",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ1ZVamdUVEt2OGVyeHI4SlFjU1p4eEtXMjI2VG9mQU9sQVloR3hMNFRDcVM2ZWo1RE5UenB4QjEyZlpmU3M4c1FkcnhHU2ZpYjNYenJ1YnlWZHdPZENRcTAyc0pUZnRDUDZyWEZETGFUT0RQbWZKZDlrcV83U0ItYTdBZw?oc=5",
+      "title": "AG, Santa Fe lawmaker pitch AI safety measures after UNM breach - santafenewmexican.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMElIQjd4ZGpXQXdhM0E2ZnFiU2w2UXhGN2xIU05mUEJ3RllkeENmSWluZWtrR3NUUU9tWmFBZW96dGYzU1J6SUFzVXViTUdiRjZfdlVxOTlmZEdBRmViNExQSjRoRlpPUG1SRXZ2QXg0ZW03dmVFdG1VMW9zWnNTbUMyb1RfeHNveHRoazYtYXhLMlRnV1ExLXRHWmIzcm40ZzJGUzVGb0JfVDVvTjVHcDBZeWRGblUzbUVoZVo4VHhXTlJZYmFFaUZ5bzZLdHo4YUU2dFhwR2JLTGdjTXN3cXFVSVlDQXFjdmdSeWwxVEdhMmxsUkE?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ1ZVamdUVEt2OGVyeHI4SlFjU1p4eEtXMjI2VG9mQU9sQVloR3hMNFRDcVM2ZWo1RE5UenB4QjEyZlpmU3M4c1FkcnhHU2ZpYjNYenJ1YnlWZHdPZENRcT…",
-      "pubDate": "2026-10-01T17:18:09.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMElIQjd4ZGpXQXdhM0E2ZnFiU2w2UXhGN2xIU05mUEJ3RllkeENmSWluZWtrR3NUUU9tWmFBZW96dGYzU1J6SUFzVXViTUdiRjZfdlVxOTlmZEdBRmViNE…",
+      "pubDate": "2026-10-02T01:56:00.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1790873362000",
+      "id": "wired-ai-1790892642000",
       "region": "abroad",
-      "title": "Amazon releases its own Jev clone as decision models flood the web",
-      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-01T16:49:22.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1790873075000",
-      "region": "abroad",
-      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-01T16:44:35.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1790800209000",
-      "region": "abroad",
-      "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
-      "url": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+      "title": "Whatever AI Safety Is, It’s Not This",
+      "url": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
       "source": "Wired AI",
-      "summary": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
-      "pubDate": "2026-09-30T20:30:09.000Z",
+      "summary": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
+      "pubDate": "2026-10-01T22:10:42.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1790888891000",
+      "region": "abroad",
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-01T21:08:11.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1790884711000",
+      "region": "abroad",
+      "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
+      "source": "Wired AI",
+      "summary": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US mid…",
+      "pubDate": "2026-10-01T19:58:31.000Z",
       "isFallback": false
     }
   ]
