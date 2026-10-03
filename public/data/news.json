@@ -1,48 +1,48 @@
 {
   "meta": {
     "date": "2026-10-03",
-    "updatedAt": "2026-10-03T02:05:29.600Z",
+    "updatedAt": "2026-10-03T15:09:27.688Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1790989030000",
+      "id": "it之家-1791038866000",
       "region": "domestic",
-      "title": "OpenAI 披露：澳大利亚又一政府机构遭失控智能体入侵",
-      "url": "https://www.ithome.com/1/009/390.htm",
+      "title": "海马云推出 haimacloud GEAR 端云混合掌机：高通骁龙 865，硬件首发价 3149 元",
+      "url": "https://www.ithome.com/1/009/576.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"4b46\">IT之家 10 月 3 日消息，据澳大利亚广播公司当地时间 10 月 2 日报道，澳大利亚新南威尔士州政府网站遭到了失控的 OpenAI 智能体侵入。</p><p data-vmark=\"5b0f\">当地政府与 OpenAI 双方均证实，在此次发生于今年 6 月的事件中，并没有任何公众信息被读取。不过，官方直到本周才…",
-      "pubDate": "2026-10-03T00:57:10.000Z",
+      "summary": "<p data-vmark=\"813f\">IT之家 10 月 3 日消息，海马云 (haimacloud) 近日推出了 haimacloud GEAR 端云混合掌机。其本地<strong>采用高通骁龙 865 移动平台</strong>，运行 Android 13 操作系统，支持海马云的云游戏服务。</p><p data-vmark=\"f778\" style…",
+      "pubDate": "2026-10-03T14:47:46.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1790987550000",
+      "id": "it之家-1791023772000",
       "region": "domestic",
-      "title": "特朗普提出将“AI”改称“SI”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%",
-      "url": "https://www.ithome.com/1/009/389.htm",
+      "title": "AI 自动识别后厨违规行为，浙江 19.5 万家外卖商家接入系统",
+      "url": "https://www.ithome.com/1/009/527.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"d4fd\">IT之家 10 月 3 日消息，据英国 BBC 当地时间 1 日报道，斯洛文尼亚国家域名注册机构 <span class=\"link-text-start-with-http\">Register.si</span> 称，美国总统唐纳德 · 特朗普推动将人工智能（AI）改称“超级智能（SI）”，或是带动该国域名注册量“…",
-      "pubDate": "2026-10-03T00:32:30.000Z",
+      "summary": "<p data-vmark=\"8222\">IT之家 10 月 3 日消息，据央视财经今日报道，近日，杭州市萧山区开展网络餐饮专项整治集群执法行动，101 名执法人员共检查餐饮门店 216 家。</p><p data-vmark=\"ca0e\">据介绍，2022 年 3 月 1 日起，《浙江省电子商务条例》施行。全省入网外卖商家必须以视频形式实时公开食品加工制作…",
+      "pubDate": "2026-10-03T10:36:12.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1790926455000",
+      "id": "量子位-1791014083000",
       "region": "domestic",
-      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
-      "url": "https://www.qbitai.com/2026/10/500098.html",
+      "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+      "url": "https://www.qbitai.com/2026/10/501381.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-10-02T07:34:15.000Z",
+      "pubDate": "2026-10-03T07:54:43.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1790926023000",
+      "id": "量子位-1791002484000",
       "region": "domestic",
-      "title": "丘成桐新论文致谢了GPT和Claude",
-      "url": "https://www.qbitai.com/2026/10/499991.html",
+      "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+      "url": "https://www.qbitai.com/2026/10/501368.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-10-02T07:27:03.000Z",
+      "pubDate": "2026-10-03T04:41:24.000Z",
       "isFallback": false
     },
     {
@@ -58,23 +58,43 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1790991180000",
+      "id": "google-news-ai-1791039875000",
       "region": "abroad",
-      "title": "Oklahoma gubernatorial candidates debate education, healthcare and artificial intelligence - KOCO",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMlVjZ1R3RUx5eVNhcnN3cTJpUnRDVmhNWXRlZWhTUlZXMEtEdnlCMEZxMU5KVWdiaWc3Q3JWOFpNa1doRkFqU1VaZ2ZtdVZza3RtNU1lUFdNVFkwM1drU0xnVUxMVGhuSkg0a0ZveEViYlFzSkNnTWxIUHVabDltbWQya3QxbldiNUlqbmJVWGc4Z3BtdW11SzljQVNSVWdXRmRFLVZ3?oc=5",
+      "title": "AI Leaders Are Asking to Be Regulated. This Is Nothing New.: News Article - Independent Institute",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdDNYQzFkX2NXVG1fbUpOTElDYk04MVNDd3I4YTl6N25kOWJSMFltUXJUaU1nZTQ3emlFQWRNNG5LcEwyRVkzekxQSmgwNlNweDM4WUE1cmpmZU1tVVU4RVI5QjUxRGl1a1dvc0JCRWwwb2xDZGprWXZRSC1fVXFFWldRME50Ri0t?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPMlVjZ1R3RUx5eVNhcnN3cTJpUnRDVmhNWXRlZWhTUlZXMEtEdnlCMEZxMU5KVWdiaWc3Q3JWOFpNa1doRkFqU1VaZ2ZtdVZza3RtNU1lUFdNVFkwM1drU0…",
-      "pubDate": "2026-10-03T01:33:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdDNYQzFkX2NXVG1fbUpOTElDYk04MVNDd3I4YTl6N25kOWJSMFltUXJUaU1nZTQ3emlFQWRNNG5LcEwyRVkzekxQSmgwNlNweDM4WUE1cmpmZU1tVVU4RV…",
+      "pubDate": "2026-10-03T15:04:35.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1790988994000",
+      "id": "google-news-ai-1791039768000",
       "region": "abroad",
-      "title": "Your AI Agents Can Write Code. Can They Understand Your Business? - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd2lVLXJUSzc5NVJ4c09UdmpPcDVGb1cyeEM5cjRkdXA1UTlmQWZEd1h0N0tlcUw5VVBxVlI4VHhfSVF3SnVfNzJzUDE1cEZPOEUyRXRubEw5MUFkY0pVUjN4dlgxbVBsS3RIcXQtbmVPSTBMOFpWVzZ1UnhYOTI3bklVVC1lbEI3R20wa0xLQUNLZWgzd0RuMTQ2ejlnZVdjczdTcWp4V3Y2VUFkdmlHbDVGTkF4UXp2Wmt0ZzhCZnM?oc=5",
+      "title": "Pope Leo XIV warns AI cannot replace human creativity - Straight Arrow",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5odHppaVptdnJtOXBSZURzU2dtUENUQkRGbnJYREhUN1gzVGktQkh3cWhrQmRJS1REU2dhMkZteEc3SE1Kb1ZKWmp3eEFMa0JXWTNha3hZYWNkOExibkx0V01XNnp6aEs4N1VOVzBTckQxZkN3VU5kMlQ1c2FqUQ?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd2lVLXJUSzc5NVJ4c09UdmpPcDVGb1cyeEM5cjRkdXA1UTlmQWZEd1h0N0tlcUw5VVBxVlI4VHhfSVF3SnVfNzJzUDE1cEZPOEUyRXRubEw5MUFkY0pVUj…",
-      "pubDate": "2026-10-03T00:56:34.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5odHppaVptdnJtOXBSZURzU2dtUENUQkRGbnJYREhUN1gzVGktQkh3cWhrQmRJS1REU2dhMkZteEc3SE1Kb1ZKWmp3eEFMa0JXWTNha3hZYWNkOExibkx0V0…",
+      "pubDate": "2026-10-03T15:02:48.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1791036000000",
+      "region": "abroad",
+      "title": "All the AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-03T14:00:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1791028800000",
+      "region": "abroad",
+      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+      "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+      "source": "Wired AI",
+      "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+      "pubDate": "2026-10-03T12:00:00.000Z",
       "isFallback": false
     },
     {
@@ -85,26 +105,6 @@
       "source": "TechCrunch AI",
       "summary": "",
       "pubDate": "2026-10-03T00:45:39.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1790975354000",
-      "region": "abroad",
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-02T21:09:14.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1790956800000",
-      "region": "abroad",
-      "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
-      "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
-      "source": "Wired AI",
-      "summary": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
-      "pubDate": "2026-10-02T16:00:00.000Z",
       "isFallback": false
     }
   ]
