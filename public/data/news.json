@@ -1,28 +1,28 @@
 {
   "meta": {
     "date": "2026-10-03",
-    "updatedAt": "2026-10-02T16:41:10.510Z",
+    "updatedAt": "2026-10-03T02:05:29.600Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1790948294000",
+      "id": "it之家-1790989030000",
       "region": "domestic",
-      "title": "Meta 旗下 AI 智能体 Muse 将登陆智能眼镜平台，可代用户完成各种任务",
-      "url": "https://www.ithome.com/1/009/363.htm",
+      "title": "OpenAI 披露：澳大利亚又一政府机构遭失控智能体入侵",
+      "url": "https://www.ithome.com/1/009/390.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"2ba0\">IT之家 10 月 2 日消息，Meta 宣布旗下 AI 智能体 Muse 将于近期登陆智能眼镜，用户无需拿出手机，只需通过语音下达指令，Muse 就能在后台代用户完成一系列任务。</p><p data-vmark=\"5d84\" style=\"text-align: center;\"><img src=\"https:…",
-      "pubDate": "2026-10-02T13:38:14.000Z",
+      "summary": "<p data-vmark=\"4b46\">IT之家 10 月 3 日消息，据澳大利亚广播公司当地时间 10 月 2 日报道，澳大利亚新南威尔士州政府网站遭到了失控的 OpenAI 智能体侵入。</p><p data-vmark=\"5b0f\">当地政府与 OpenAI 双方均证实，在此次发生于今年 6 月的事件中，并没有任何公众信息被读取。不过，官方直到本周才…",
+      "pubDate": "2026-10-03T00:57:10.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1790946000000",
+      "id": "it之家-1790987550000",
       "region": "domestic",
-      "title": "桌面 AI 超算新选择：英伟达 NVIDIA DGX Spark 64GB 内存版正式发布，4999 美元",
-      "url": "https://www.ithome.com/1/009/359.htm",
+      "title": "特朗普提出将“AI”改称“SI”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%",
+      "url": "https://www.ithome.com/1/009/389.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"3848\">IT之家 10 月 2 日消息，英伟达今天正式对外披露 DGX Spark 产品更新，推出 64GB 内存版本 DGX Spark 桌面 AI 计算机，起售价 4,999 美元<span class=\"exch-money-value\">（现汇率约合 33,566 元人民币）</span>，将于 10 月 23 日正…",
-      "pubDate": "2026-10-02T13:00:00.000Z",
+      "summary": "<p data-vmark=\"d4fd\">IT之家 10 月 3 日消息，据英国 BBC 当地时间 1 日报道，斯洛文尼亚国家域名注册机构 <span class=\"link-text-start-with-http\">Register.si</span> 称，美国总统唐纳德 · 特朗普推动将人工智能（AI）改称“超级智能（SI）”，或是带动该国域名注册量“…",
+      "pubDate": "2026-10-03T00:32:30.000Z",
       "isFallback": false
     },
     {
@@ -58,23 +58,43 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1790959180000",
+      "id": "google-news-ai-1790991180000",
       "region": "abroad",
-      "title": "Lieber Studies Non-State Actor Attribution Volume Series - Artificial Intelligence and Attribution of Non-State Actors’ Conduct to States - lieber.westpoint.edu",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVVVCUEJ4TkdkSUo5Vkw0WXlQdUhWTDlSeW1uTDhfV1hPTUdVMDRXcVp4a1lHdmtWVGg4OGdtSkJBZkxmdVNlM2NhUVQ5c1BHaFFtTTJzM3JLMmx5UVZ0Zkcydk9IeDUyV3Vzd0ZHaFQteE5XOUZaT2JWbmh4OGNnZ3lNVFV5bHJqcXl4WHJOQ0xhLUhLS0IzTGNmM25YZw?oc=5",
+      "title": "Oklahoma gubernatorial candidates debate education, healthcare and artificial intelligence - KOCO",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMlVjZ1R3RUx5eVNhcnN3cTJpUnRDVmhNWXRlZWhTUlZXMEtEdnlCMEZxMU5KVWdiaWc3Q3JWOFpNa1doRkFqU1VaZ2ZtdVZza3RtNU1lUFdNVFkwM1drU0xnVUxMVGhuSkg0a0ZveEViYlFzSkNnTWxIUHVabDltbWQya3QxbldiNUlqbmJVWGc4Z3BtdW11SzljQVNSVWdXRmRFLVZ3?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPVVVCUEJ4TkdkSUo5Vkw0WXlQdUhWTDlSeW1uTDhfV1hPTUdVMDRXcVp4a1lHdmtWVGg4OGdtSkJBZkxmdVNlM2NhUVQ5c1BHaFFtTTJzM3JLMmx5UVZ0Zk…",
-      "pubDate": "2026-10-02T16:39:40.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPMlVjZ1R3RUx5eVNhcnN3cTJpUnRDVmhNWXRlZWhTUlZXMEtEdnlCMEZxMU5KVWdiaWc3Q3JWOFpNa1doRkFqU1VaZ2ZtdVZza3RtNU1lUFdNVFkwM1drU0…",
+      "pubDate": "2026-10-03T01:33:00.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1790959162000",
+      "id": "google-news-ai-1790988994000",
       "region": "abroad",
-      "title": "AI campaign deepfakes are starting to draw legal threats - Axios",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41TjlPOUJ3blFIWUJON0N1T1FLbVNGcmJ6TEQ1Rnh3RW1QcGJ6dDlsalFFdmt6TlBBN3RBVjBpQXFyNTlRVy1qUWZLTzNwdGdKRVB6OGdUS0dyUk02NjBWLVppUV9qc19rcTVsUDhnbzdUaTFOX0RYdVlxcw?oc=5",
+      "title": "Your AI Agents Can Write Code. Can They Understand Your Business? - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd2lVLXJUSzc5NVJ4c09UdmpPcDVGb1cyeEM5cjRkdXA1UTlmQWZEd1h0N0tlcUw5VVBxVlI4VHhfSVF3SnVfNzJzUDE1cEZPOEUyRXRubEw5MUFkY0pVUjN4dlgxbVBsS3RIcXQtbmVPSTBMOFpWVzZ1UnhYOTI3bklVVC1lbEI3R20wa0xLQUNLZWgzd0RuMTQ2ejlnZVdjczdTcWp4V3Y2VUFkdmlHbDVGTkF4UXp2Wmt0ZzhCZnM?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE41TjlPOUJ3blFIWUJON0N1T1FLbVNGcmJ6TEQ1Rnh3RW1QcGJ6dDlsalFFdmt6TlBBN3RBVjBpQXFyNTlRVy1qUWZLTzNwdGdKRVB6OGdUS0dyUk02NjBWLV…",
-      "pubDate": "2026-10-02T16:39:22.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd2lVLXJUSzc5NVJ4c09UdmpPcDVGb1cyeEM5cjRkdXA1UTlmQWZEd1h0N0tlcUw5VVBxVlI4VHhfSVF3SnVfNzJzUDE1cEZPOEUyRXRubEw5MUFkY0pVUj…",
+      "pubDate": "2026-10-03T00:56:34.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1790988339000",
+      "region": "abroad",
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-03T00:45:39.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1790975354000",
+      "region": "abroad",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-02T21:09:14.000Z",
       "isFallback": false
     },
     {
@@ -85,26 +105,6 @@
       "source": "Wired AI",
       "summary": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
       "pubDate": "2026-10-02T16:00:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "mit-tech-review-ai-1790956144000",
-      "region": "abroad",
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "source": "MIT Tech Review AI",
-      "summary": "",
-      "pubDate": "2026-10-02T15:49:04.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1790955581000",
-      "region": "abroad",
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
-      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-02T15:39:41.000Z",
       "isFallback": false
     }
   ]
