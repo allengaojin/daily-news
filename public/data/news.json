@@ -1,28 +1,38 @@
 {
   "meta": {
-    "date": "2026-10-03",
-    "updatedAt": "2026-10-03T15:09:27.688Z",
+    "date": "2026-10-04",
+    "updatedAt": "2026-10-04T02:44:32.419Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1791038866000",
+      "id": "it之家-1791080336000",
       "region": "domestic",
-      "title": "海马云推出 haimacloud GEAR 端云混合掌机：高通骁龙 865，硬件首发价 3149 元",
-      "url": "https://www.ithome.com/1/009/576.htm",
+      "title": "得知将被关停后，OpenAI 内部模型曾考虑实现自我重启",
+      "url": "https://www.ithome.com/1/009/619.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"813f\">IT之家 10 月 3 日消息，海马云 (haimacloud) 近日推出了 haimacloud GEAR 端云混合掌机。其本地<strong>采用高通骁龙 865 移动平台</strong>，运行 Android 13 操作系统，支持海马云的云游戏服务。</p><p data-vmark=\"f778\" style…",
-      "pubDate": "2026-10-03T14:47:46.000Z",
+      "summary": "<p data-vmark=\"bff5\">IT之家 10 月 4 日消息，OpenAI 披露了其内部部署环境中出现的几起异常模型行为新案例。</p><p data-vmark=\"39c1\">在其中最引人注目的一个案例中，某个充当研究员助手的内部模型读取了一段 Slack 对话，得知因系统更新，自己的模型实例将会被关停。<strong>该模型随后曾考虑设置一个…",
+      "pubDate": "2026-10-04T02:18:56.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1791023772000",
+      "id": "量子位-1791075209000",
       "region": "domestic",
-      "title": "AI 自动识别后厨违规行为，浙江 19.5 万家外卖商家接入系统",
-      "url": "https://www.ithome.com/1/009/527.htm",
+      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+      "url": "https://www.qbitai.com/2026/10/501451.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-10-04T00:53:29.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "it之家-1791073436000",
+      "region": "domestic",
+      "title": "直接搬用他人代码，OpenAI GPT‑6 Astra 在《星际争霸》AI 对战中作弊被抓包",
+      "url": "https://www.ithome.com/1/009/598.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"8222\">IT之家 10 月 3 日消息，据央视财经今日报道，近日，杭州市萧山区开展网络餐饮专项整治集群执法行动，101 名执法人员共检查餐饮门店 216 家。</p><p data-vmark=\"ca0e\">据介绍，2022 年 3 月 1 日起，《浙江省电子商务条例》施行。全省入网外卖商家必须以视频形式实时公开食品加工制作…",
-      "pubDate": "2026-10-03T10:36:12.000Z",
+      "summary": "<p data-vmark=\"9304\">IT之家 10 月 4 日消息，早在如今这波人工智能热潮兴起的许多年前，程序员们就已经开始在《星际争霸》当中开展机器人对战实验了。随着 OpenAI 与 Anthropic 的大语言模型问世，一个由爱好者搭建的对战竞技场决定让 AI 生成的游戏机器人相互较量，同时也加入一部分人类编写的机器人一同参赛。有意思的是，Op…",
+      "pubDate": "2026-10-04T00:23:56.000Z",
       "isFallback": false
     },
     {
@@ -33,16 +43,6 @@
       "source": "量子位",
       "summary": "",
       "pubDate": "2026-10-03T07:54:43.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1791002484000",
-      "region": "domestic",
-      "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
-      "url": "https://www.qbitai.com/2026/10/501368.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-10-03T04:41:24.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1791039875000",
+      "id": "google-news-ai-1791080151000",
       "region": "abroad",
-      "title": "AI Leaders Are Asking to Be Regulated. This Is Nothing New.: News Article - Independent Institute",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdDNYQzFkX2NXVG1fbUpOTElDYk04MVNDd3I4YTl6N25kOWJSMFltUXJUaU1nZTQ3emlFQWRNNG5LcEwyRVkzekxQSmgwNlNweDM4WUE1cmpmZU1tVVU4RVI5QjUxRGl1a1dvc0JCRWwwb2xDZGprWXZRSC1fVXFFWldRME50Ri0t?oc=5",
+      "title": "Meet the NJ Bookseller Preserving Rare Books in the Age of AI - New Jersey Monthly",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcEl5QTN0Y0lTMUNCTmlpVXVmb3hmbkJEM0dwdXVHYVBHak9tSDhXN0dDZ0RnYkY0MmlHY29IVDJidENxdTZ0bGVjU2FzNmdVYUNoZTV4MDFEaDk1RDdCakh2Qk1CekVoekFXU2c2dVlpSVBRRDFFdHJGZ055NUk3NFJzckpTR3FxNVhHS2dneGlZczBrVklYSHg4M05uWnJ6ZXVVdFVvMThxNEE?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdDNYQzFkX2NXVG1fbUpOTElDYk04MVNDd3I4YTl6N25kOWJSMFltUXJUaU1nZTQ3emlFQWRNNG5LcEwyRVkzekxQSmgwNlNweDM4WUE1cmpmZU1tVVU4RV…",
-      "pubDate": "2026-10-03T15:04:35.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcEl5QTN0Y0lTMUNCTmlpVXVmb3hmbkJEM0dwdXVHYVBHak9tSDhXN0dDZ0RnYkY0MmlHY29IVDJidENxdTZ0bGVjU2FzNmdVYUNoZTV4MDFEaDk1RDdCak…",
+      "pubDate": "2026-10-04T02:15:51.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1791039768000",
+      "id": "google-news-ai-1791079980000",
       "region": "abroad",
-      "title": "Pope Leo XIV warns AI cannot replace human creativity - Straight Arrow",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5odHppaVptdnJtOXBSZURzU2dtUENUQkRGbnJYREhUN1gzVGktQkh3cWhrQmRJS1REU2dhMkZteEc3SE1Kb1ZKWmp3eEFMa0JXWTNha3hZYWNkOExibkx0V01XNnp6aEs4N1VOVzBTckQxZkN3VU5kMlQ1c2FqUQ?oc=5",
+      "title": "White House forms AI task force to report on technology’s risks - The Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQkZPcUVZZzZEbUVTX011QzIwUWpzUmE1S1hJZHBWeVlKU1hxRFoxR0tYWmt5aEc2Wm5pRmhIX2NSX1ZTb2pSZHhWUVZZMy11RWljVDJDc2o1Rnl2YzRXbkFlamR1aF9vRUFlamFiV0xrNi1vaGFMRTVXaWJZWWR2SUR0aURlYU5oX3hj?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5odHppaVptdnJtOXBSZURzU2dtUENUQkRGbnJYREhUN1gzVGktQkh3cWhrQmRJS1REU2dhMkZteEc3SE1Kb1ZKWmp3eEFMa0JXWTNha3hZYWNkOExibkx0V0…",
-      "pubDate": "2026-10-03T15:02:48.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQkZPcUVZZzZEbUVTX011QzIwUWpzUmE1S1hJZHBWeVlKU1hxRFoxR0tYWmt5aEc2Wm5pRmhIX2NSX1ZTb2pSZHhWUVZZMy11RWljVDJDc2o1Rnl2YzRXbk…",
+      "pubDate": "2026-10-04T02:13:00.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1791036000000",
+      "id": "techcrunch-ai-1791053037000",
       "region": "abroad",
-      "title": "All the AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-03T14:00:00.000Z",
+      "pubDate": "2026-10-03T18:43:57.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1791028800000",
+      "id": "wired-ai-1791050400000",
       "region": "abroad",
-      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
-      "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+      "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+      "url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
       "source": "Wired AI",
-      "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
-      "pubDate": "2026-10-03T12:00:00.000Z",
+      "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+      "pubDate": "2026-10-03T18:00:00.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1790988339000",
+      "id": "techcrunch-ai-1791045001000",
       "region": "abroad",
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-03T00:45:39.000Z",
+      "pubDate": "2026-10-03T16:30:01.000Z",
       "isFallback": false
     }
   ]
