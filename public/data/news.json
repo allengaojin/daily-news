@@ -1,48 +1,48 @@
 {
   "meta": {
     "date": "2026-10-04",
-    "updatedAt": "2026-10-04T02:44:32.419Z",
+    "updatedAt": "2026-10-04T15:49:49.787Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1791080336000",
+      "id": "it之家-1791120018000",
       "region": "domestic",
-      "title": "得知将被关停后，OpenAI 内部模型曾考虑实现自我重启",
-      "url": "https://www.ithome.com/1/009/619.htm",
+      "title": "乐山大佛景区回应网传“掏耳朵”养护作业视频：系 AI 合成，佛耳内并无所谓“杂物”",
+      "url": "https://www.ithome.com/1/009/728.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"bff5\">IT之家 10 月 4 日消息，OpenAI 披露了其内部部署环境中出现的几起异常模型行为新案例。</p><p data-vmark=\"39c1\">在其中最引人注目的一个案例中，某个充当研究员助手的内部模型读取了一段 Slack 对话，得知因系统更新，自己的模型实例将会被关停。<strong>该模型随后曾考虑设置一个…",
-      "pubDate": "2026-10-04T02:18:56.000Z",
+      "summary": "<p data-vmark=\"b9a5\">IT之家 10 月 4 日消息，近期网络上流传一段所谓“乐山大佛开展养护作业”短视频，其中显示文保工人正在给大佛“掏耳朵”，佛耳里掏出鸽子和腐叶，鼻孔里清理出大量腐叶等物质，旁边还有一只猴子在佛身上上蹿下跳，猴子还抢工人的安全帽戴在自己头上。</p><p style=\"text-align: center;\" dat…",
+      "pubDate": "2026-10-04T13:20:18.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1791075209000",
+      "id": "it之家-1791116844000",
       "region": "domestic",
-      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
-      "url": "https://www.qbitai.com/2026/10/501451.html",
+      "title": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心",
+      "url": "https://www.ithome.com/1/009/701.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"97c6\">IT之家 10 月 4 日消息，DeepSeek Harness 组成员崔添翼今日回应了“如何看待 DeepSeek Harness 在新版本中加入 Claude Code Mods 兼容？”，他本人是这次 v0.2.1-alpha.1 版本中加入 Claude Code Mods 兼容层的作者。</p><p dat…",
+      "pubDate": "2026-10-04T12:27:24.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1791094342000",
+      "region": "domestic",
+      "title": "AI算力硬合作，马斯克还是更相信中国制造",
+      "url": "https://www.qbitai.com/2026/10/501605.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-10-04T00:53:29.000Z",
+      "pubDate": "2026-10-04T06:12:22.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1791073436000",
+      "id": "量子位-1791093935000",
       "region": "domestic",
-      "title": "直接搬用他人代码，OpenAI GPT‑6 Astra 在《星际争霸》AI 对战中作弊被抓包",
-      "url": "https://www.ithome.com/1/009/598.htm",
-      "source": "IT之家",
-      "summary": "<p data-vmark=\"9304\">IT之家 10 月 4 日消息，早在如今这波人工智能热潮兴起的许多年前，程序员们就已经开始在《星际争霸》当中开展机器人对战实验了。随着 OpenAI 与 Anthropic 的大语言模型问世，一个由爱好者搭建的对战竞技场决定让 AI 生成的游戏机器人相互较量，同时也加入一部分人类编写的机器人一同参赛。有意思的是，Op…",
-      "pubDate": "2026-10-04T00:23:56.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1791014083000",
-      "region": "domestic",
-      "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
-      "url": "https://www.qbitai.com/2026/10/501381.html",
+      "title": "最火AI岗位FDE：月薪5万，都干这些…",
+      "url": "https://www.qbitai.com/2026/10/501506.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-10-03T07:54:43.000Z",
+      "pubDate": "2026-10-04T06:05:35.000Z",
       "isFallback": false
     },
     {
@@ -58,23 +58,43 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1791080151000",
+      "id": "google-news-ai-1791128943000",
       "region": "abroad",
-      "title": "Meet the NJ Bookseller Preserving Rare Books in the Age of AI - New Jersey Monthly",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcEl5QTN0Y0lTMUNCTmlpVXVmb3hmbkJEM0dwdXVHYVBHak9tSDhXN0dDZ0RnYkY0MmlHY29IVDJidENxdTZ0bGVjU2FzNmdVYUNoZTV4MDFEaDk1RDdCakh2Qk1CekVoekFXU2c2dVlpSVBRRDFFdHJGZ055NUk3NFJzckpTR3FxNVhHS2dneGlZczBrVklYSHg4M05uWnJ6ZXVVdFVvMThxNEE?oc=5",
+      "title": "Opinion | AI can resurrect the dead. Ask my chatbot mom. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGZYYVEyMU90NlZlSWJSaDV0RmUtSDNPd3pEbWZOMms5bmlDRVAtSkdjLXphdEFXNHFqOUE5S3R5aTNld1BIS1ZKdzFRZnJtWXM3alZzcl9zSXZ2b0pBUG1tMzRLeGUxNzRVdjl5bFRQVTYzcGxCN0xwNXo1SERadENzaXRwOXA1T3hwU00zSG11WHlEcDhn?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcEl5QTN0Y0lTMUNCTmlpVXVmb3hmbkJEM0dwdXVHYVBHak9tSDhXN0dDZ0RnYkY0MmlHY29IVDJidENxdTZ0bGVjU2FzNmdVYUNoZTV4MDFEaDk1RDdCak…",
-      "pubDate": "2026-10-04T02:15:51.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGZYYVEyMU90NlZlSWJSaDV0RmUtSDNPd3pEbWZOMms5bmlDRVAtSkdjLXphdEFXNHFqOUE5S3R5aTNld1BIS1ZKdzFRZnJtWXM3alZzcl9zSXZ2b0pBUG…",
+      "pubDate": "2026-10-04T15:49:03.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1791079980000",
+      "id": "google-news-ai-1791128660000",
       "region": "abroad",
-      "title": "White House forms AI task force to report on technology’s risks - The Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQkZPcUVZZzZEbUVTX011QzIwUWpzUmE1S1hJZHBWeVlKU1hxRFoxR0tYWmt5aEc2Wm5pRmhIX2NSX1ZTb2pSZHhWUVZZMy11RWljVDJDc2o1Rnl2YzRXbkFlamR1aF9vRUFlamFiV0xrNi1vaGFMRTVXaWJZWWR2SUR0aURlYU5oX3hj?oc=5",
+      "title": "Former FTC Chair Khan dismisses 'constitution' signed by AI leaders to self-police - abcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWlCQW9pNmdrQ3JxVmNydmdFdzVJXzhXamx3NlZ1TDFtdDlsWEZIbHNHY2wxSDhFN0hVb0NzcTJaa0E0UEwxLWUxcjN2SlVJS0ItVm1mTmhuSDJndkJidFpUTnV1UTNHb0RSMHNNTThLTmQ0SUpud0FBTGdhN0FJb0tEMmR5WW1oSktoWnNsT2E1UEw5bldVV1Z5M2syeXFOWmJBLdIBqgFBVV95cUxNZmlYMUk4R0J1SG9lU21WZmtDaXo1U19qR3p3amlicFNzWVNka2I0dXB5MXBBZ21uQTVKTDhrYTdqWGdSZ1VOemJaRVJCTnRxOXBROTRoWVg2N21INUk0NTZmZmQ5S2dfNHk5UFFpS1ZaUXA5NDd4ZXctUVhTUUhYb01zQVBEUHljNmYwd2lkQTVndlpxTWxjMnlpa0gyZ0dZN042X0pHWnJnZw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQkZPcUVZZzZEbUVTX011QzIwUWpzUmE1S1hJZHBWeVlKU1hxRFoxR0tYWmt5aEc2Wm5pRmhIX2NSX1ZTb2pSZHhWUVZZMy11RWljVDJDc2o1Rnl2YzRXbk…",
-      "pubDate": "2026-10-04T02:13:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWlCQW9pNmdrQ3JxVmNydmdFdzVJXzhXamx3NlZ1TDFtdDlsWEZIbHNHY2wxSDhFN0hVb0NzcTJaa0E0UEwxLWUxcjN2SlVJS0ItVm1mTmhuSDJndkJidF…",
+      "pubDate": "2026-10-04T15:44:20.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1791126910000",
+      "region": "abroad",
+      "title": "Trump unveils his new Super Intelligence Force",
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-04T15:15:10.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1791108000000",
+      "region": "abroad",
+      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
+      "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+      "source": "Wired AI",
+      "summary": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take t…",
+      "pubDate": "2026-10-04T10:00:00.000Z",
       "isFallback": false
     },
     {
@@ -85,26 +105,6 @@
       "source": "TechCrunch AI",
       "summary": "",
       "pubDate": "2026-10-03T18:43:57.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1791050400000",
-      "region": "abroad",
-      "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-      "url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
-      "source": "Wired AI",
-      "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
-      "pubDate": "2026-10-03T18:00:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1791045001000",
-      "region": "abroad",
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-03T16:30:01.000Z",
       "isFallback": false
     }
   ]
