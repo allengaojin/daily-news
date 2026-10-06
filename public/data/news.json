@@ -1,28 +1,28 @@
 {
   "meta": {
     "date": "2026-10-06",
-    "updatedAt": "2026-10-05T19:49:30.186Z",
+    "updatedAt": "2026-10-06T03:06:40.421Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1791215882000",
+      "id": "it之家-1791254501000",
       "region": "domestic",
-      "title": "OpenAI 将在欧盟为 ChatGPT 和 Codex 文本输出添加隐形水印",
-      "url": "https://www.ithome.com/1/009/903.htm",
+      "title": "消息称快手旗下可灵 AI 已选定投行筹备赴港 IPO，拟募资至少 10 亿美元",
+      "url": "https://www.ithome.com/1/009/964.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"733b\">IT之家 10 月 5 日消息，OpenAI 今日宣布，为配合《欧盟人工智能法案》的内容透明要求，未来几周将在欧盟地区符合条件的 ChatGPT 和 Codex 文本输出中加入机器可识别的隐形水印。</p><p data-vmark=\"c1ac\">据介绍，文本水印技术名为 <strong>textGrain（文本粒水…",
-      "pubDate": "2026-10-05T15:58:02.000Z",
+      "summary": "<p data-vmark=\"38c2\">IT之家 10 月 6 日消息，据彭博社报道，知情人士透露，快手科技旗下的可灵 AI（Kling AI）已经选定承销银行，筹备赴香港开展首次公开募股，此次 IPO 募资规模至少可达 10 亿美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 67.14 亿元人民币）</spa…",
+      "pubDate": "2026-10-06T02:41:41.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1791212519000",
+      "id": "it之家-1791253746000",
       "region": "domestic",
-      "title": "OpenAI 将在 ChatGPT 中推出全新图片广告形式，不会影响生成结果",
-      "url": "https://www.ithome.com/1/009/901.htm",
+      "title": "消息称 OpenAI 洽谈 300 亿美元融资，阿联酋基金、贝莱德入局磋商",
+      "url": "https://www.ithome.com/1/009/961.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"1647\">IT之家 10 月 5 日消息，OpenAI 今日宣布，将在 ChatGPT 中推出全新的图片广告形式，扩充广告效果衡量工具与合作生态，并研发新方案用于评估品牌适配性。</p><p style=\"text-align: center;\" data-vmark=\"2234\"><img src=\"https://img.…",
-      "pubDate": "2026-10-05T15:01:59.000Z",
+      "summary": "<p data-vmark=\"8539\">IT之家 10 月 6 日消息，据彭博社报道，知情人士透露，OpenAI 正在与来自阿联酋的多家投资基金（总部位于阿布扎比的 MGX 也在其中）展开磋商，希望由这些基金作为基石投资方，助力这家 ChatGPT 开发商完成一轮规模 300 亿美元<span class=\"exch-money-value \">（IT之家…",
+      "pubDate": "2026-10-06T02:29:06.000Z",
       "isFallback": false
     },
     {
@@ -58,23 +58,33 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1791229523000",
+      "id": "google-news-ai-1791251050000",
       "region": "abroad",
-      "title": "Trump AI task force confronts growing questions over keeping AI under control - WPDE",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdzE5dVFpdmNEejM5QjNnVzJPQTI5UWVTVnpsTWs4X1hDSVFWYThGSzBPU2JKQ0hINDhiMWs2c25nVENhSGJjWnJRa0ZBdXg4cWRLUUhoNTVuSlhnbEk4cnY4MGI5SmZRNEpBZml4Mk5VWDFhMnczcmg3ZXE4M0pyZlNtanMzMzNIUFByM3VFQ3NFTmhuQjFVMTE4amFGMEJMVUhkVzZTM1VHWUd4WEVSUTJ3?oc=5",
+      "title": "How AI is changing the growth outlook across industries - S&P Global",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcllJZ0l0WE5NVWJzdUF2ME5UdDhqTkFUdkFPVmRTZUI0d2JMVTVLWjhueWJOZWYzV2M2MDdTVWFhQWthR29oVDh4XzZOV2gxUHM1WmFZUVlNTEFYdjlUaFR6OGlxXzJjeUhzZWZpcW83QjBabTJCZHpDTWdLbGVwZWhkdlZKRUg4YmNvN29YX2l1VmhzalRUaTB3Wi11WTFlVlB0QW1YaVVoa011T2cwQmRzYVdiR01oUkZwTjBfS0FTNzUzOFpxZm9jdkp0d1E?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPdzE5dVFpdmNEejM5QjNnVzJPQTI5UWVTVnpsTWs4X1hDSVFWYThGSzBPU2JKQ0hINDhiMWs2c25nVENhSGJjWnJRa0ZBdXg4cWRLUUhoNTVuSlhnbEk4cn…",
-      "pubDate": "2026-10-05T19:45:23.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQcllJZ0l0WE5NVWJzdUF2ME5UdDhqTkFUdkFPVmRTZUI0d2JMVTVLWjhueWJOZWYzV2M2MDdTVWFhQWthR29oVDh4XzZOV2gxUHM1WmFZUVlNTEFYdjlUaF…",
+      "pubDate": "2026-10-06T01:44:10.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1791229342000",
+      "id": "google-news-ai-1791249415000",
       "region": "abroad",
-      "title": "OpenAI Rolls Out Text Watermarks to Meet EU AI Act Mandates - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZlhjbDl4WnNwb2dWQnBPS0pnbzc3N3ZoTDBVVEtTUDJuY1lHaDZTSTlSdzNmY0JDNjZIYzQ5ejFvYWVORFZwS3FYVHpFQlZFSTk2dUMwSGlkYU9qYmdMWThCNUU3ODdPSzZuSEdQMWJvM1ItQTFvX0dnOXBiS2VaY3BMMkJ0aDVuQkJ4N1ZrcXJ0YWdWWXBqbUthNlZTX0N5S0ZOcjY3N2xGdDhobE9yd0ZxclRkY3QyRWJKYUN2R2kzZWFW?oc=5",
+      "title": "Tech workers who resigned tell New York City Council that AI is moving too fast - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUJlaXNhSDd3T0lpTHh3WGdMTXVMdFJNMV8zbG5YX1ZEakk4MTdCMW9sTklLUVVKYS1sTjVQYnVkZEVmR0RwOHB6X1JvbUlzSzhNdG1CanBMMHNtRVVmLXdWN2VzVzVsejVJSlpHSUtMQ1FOUG10MmQ1bWFWdDNlYXd0TEc0Y182MWduRF9jWDFKZUZBbndWNUs3V1dMUEFmdWVYMUtsakdZLVFXUlJWYw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPZlhjbDl4WnNwb2dWQnBPS0pnbzc3N3ZoTDBVVEtTUDJuY1lHaDZTSTlSdzNmY0JDNjZIYzQ5ejFvYWVORFZwS3FYVHpFQlZFSTk2dUMwSGlkYU9qYmdMWT…",
-      "pubDate": "2026-10-05T19:42:22.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPNUJlaXNhSDd3T0lpTHh3WGdMTXVMdFJNMV8zbG5YX1ZEakk4MTdCMW9sTklLUVVKYS1sTjVQYnVkZEVmR0RwOHB6X1JvbUlzSzhNdG1CanBMMHNtRVVmLX…",
+      "pubDate": "2026-10-06T01:16:55.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1791232608000",
+      "region": "abroad",
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-05T20:36:48.000Z",
       "isFallback": false
     },
     {
@@ -85,16 +95,6 @@
       "source": "TechCrunch AI",
       "summary": "",
       "pubDate": "2026-10-05T19:33:53.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1791226470000",
-      "region": "abroad",
-      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-05T18:54:30.000Z",
       "isFallback": false
     },
     {
