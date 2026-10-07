@@ -1,48 +1,48 @@
 {
   "meta": {
-    "date": "2026-10-07",
-    "updatedAt": "2026-10-07T02:28:05.046Z",
+    "date": "2026-10-08",
+    "updatedAt": "2026-10-07T17:50:53.053Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "量子位-1791335113000",
+      "id": "it之家-1791395135000",
       "region": "domestic",
-      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
-      "url": "https://www.qbitai.com/2026/10/501749.html",
+      "title": "微软：Meta Muse 智能体将登陆 Windows 平台",
+      "url": "https://www.ithome.com/1/010/310.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"4907\">IT之家 10 月 8 日消息，微软今天在 Surface 新品发布会展示了多款第三方智能体工具。其中，Perplexity 的“便携电脑”工具能够端侧执行多种复杂 AI 任务，无需消耗 Perplexity 云积分。</p><p style=\"text-align: center;\" data-vmark=\"fe8…",
+      "pubDate": "2026-10-07T17:45:35.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "it之家-1791394921000",
+      "region": "domestic",
+      "title": "微软提出“混合智能”新路线，协同本地 / 云端 AI 灵活处理 Win11 用户任务",
+      "url": "https://www.ithome.com/1/010/309.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"5b62\">IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会上，微软提出“混合智能”（hybrid intelligence）理念，强调通过混合架构，结合云端 AI 与本地计算能力，<strong>在 Windows 11 系统上实际处理…",
+      "pubDate": "2026-10-07T17:42:01.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1791382233000",
+      "region": "domestic",
+      "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
+      "url": "https://www.qbitai.com/2026/10/501825.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-10-07T01:05:13.000Z",
+      "pubDate": "2026-10-07T14:10:33.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1791334918000",
+      "id": "量子位-1791372887000",
       "region": "domestic",
-      "title": "谷歌 AI 图像模型 Nano Banana 2.1 发布，提升视觉设计、蒙版编辑、主体一致性",
-      "url": "https://www.ithome.com/1/010/149.htm",
-      "source": "IT之家",
-      "summary": "<p data-vmark=\"55fd\">IT之家 10 月 7 日消息，谷歌于今日正式发布了 Nano Banana 2.1，这是该公司 AI 图像生成与编辑模型的升级版本。谷歌强调，新版 Nano Banana 2.1 实现了全方位提升，在视觉设计、基于蒙版的图像编辑以及主体一致性这几方面的进步尤为突出。</p><p style=\"text-align:…",
-      "pubDate": "2026-10-07T01:01:58.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "it之家-1791331125000",
-      "region": "domestic",
-      "title": "AI 颠覆担忧消退，美国软件股创 2026 年阶段新高",
-      "url": "https://www.ithome.com/1/010/141.htm",
-      "source": "IT之家",
-      "summary": "<p data-vmark=\"b658\">IT之家 10 月 7 日消息，据路透社报道，受盈利预期大幅上调的推动，美国软件类股票正创出 2026 年阶段新高；多位分析师据此认为，此前市场对于人工智能将颠覆整个软件行业的担忧很大程度上被夸大了。</p><p style=\"text-align: center;\" data-vmark=\"ab8f\"><img s…",
-      "pubDate": "2026-10-06T23:58:45.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1791283498000",
-      "region": "domestic",
-      "title": "刚刚，诺贝尔物理奖一人独揽！",
-      "url": "https://www.qbitai.com/2026/10/501746.html",
+      "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+      "url": "https://www.qbitai.com/2026/10/501803.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-10-06T10:44:58.000Z",
+      "pubDate": "2026-10-07T11:34:47.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1791339984000",
+      "id": "google-news-ai-1791395048000",
       "region": "abroad",
-      "title": "Three in Four FDA Authorizations of AI Medical Devices Were in Radiology, Study Led by GigHz Founder Finds - BioSpace",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd1UxdmpwT0FCc25XR1JIMnU0SmQwMUtNMVRhYXJuOUVwa0pjR0V0V1pYY2pxT0pPRnotNUVNZmlqeHVLOU00YTlzT0lmYTdCUE5ZeE5BRm4tb2RVcWpyOVJvQ1k3YTZ4ZHhhTmJLR2owMzVFbGR2SWdMV0o3M3dOdDR4Y1M1MHcwSkZVQUNMWGZQaXBUUmhianJPMnd4cUhtNUV0eEJxczA4blh0aDFfU3QwS0FhOXRPSmJDT3lIbk5GaFNIWF9zdU9yNDBBVVNEYllVcHFtMWp3SnM1M3c?oc=5",
+      "title": "AI Access Vs. AI Intelligence: A CTO Guide - Circana",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9STkF2TjN4enJ2RjBBcF9ObXFOTzE5NEZObDRSNU8zeUVaQjJ5MkF4aVpBb05Gd3I0dFFlYVYwUFY2XzNqOTdLZmRRMmt6Z3U1ZUp2Y1VBRVg5cXpTVnY1eUFWdDhneEVPU2dNaUtfMFduM2Y2OW5fRw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd1UxdmpwT0FCc25XR1JIMnU0SmQwMUtNMVRhYXJuOUVwa0pjR0V0V1pYY2pxT0pPRnotNUVNZmlqeHVLOU00YTlzT0lmYTdCUE5ZeE5BRm4tb2RVcWpyOV…",
-      "pubDate": "2026-10-07T02:26:24.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9STkF2TjN4enJ2RjBBcF9ObXFOTzE5NEZObDRSNU8zeUVaQjJ5MkF4aVpBb05Gd3I0dFFlYVYwUFY2XzNqOTdLZmRRMmt6Z3U1ZUp2Y1VBRVg5cXpTVnY1eU…",
+      "pubDate": "2026-10-07T17:44:08.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1791339180000",
+      "id": "google-news-ai-1791394920000",
       "region": "abroad",
-      "title": "Caterpillar and CoreWeave shorten the learning loop for physical AI - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZTkzMXNMOVlpVUhaWEhzdFNfVlJxQktYM09GWktnc1RWaXp1em05dXoyaF9vTUlFdi1hdE1MSFNFZWgyRVJJUVVyT255UU40azdvcEtLTHdlUkE1R0phRU80MUg3M3owQ3Vpa1hVUnpiUXc1U0RGbFBIQ0ZDcDVkTEVSbmdyNV9lVzI0OVBBcjFhLU1Ma0FEZm9aeEg1YmpoWVJoUEpqWE11Qlk?oc=5",
+      "title": "Major global alliance invests billions to build predictive AI models of biology - News-Medical",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSXVCWHVXa2J1MDJOSkIteXVaWFVHdDQzYk1tTk9oTFNXZVlvRHBUWjg1TEYzMmowM01ESnlXWG9hZ3B1YS1lWmNHRzgtY0FxcEMtdGlESGFmX2g4RjJjY1Y5RU9Jb0taSnZMcjhuU2wxME5WWGhBbjZiX0hieU5ZbU5wR001ZnExRzFOMkMzVk45enR6LW9DNGw5NzlSUms2VGNfZERXb25QcEp2eklpa0JLQ3hDSFJPWno1d3lobXlSTjBpMWc?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZTkzMXNMOVlpVUhaWEhzdFNfVlJxQktYM09GWktnc1RWaXp1em05dXoyaF9vTUlFdi1hdE1MSFNFZWgyRVJJUVVyT255UU40azdvcEtLTHdlUkE1R0phRU…",
-      "pubDate": "2026-10-07T02:13:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPSXVCWHVXa2J1MDJOSkIteXVaWFVHdDQzYk1tTk9oTFNXZVlvRHBUWjg1TEYzMmowM01ESnlXWG9hZ3B1YS1lWmNHRzgtY0FxcEMtdGlESGFmX2g4RjJjY1…",
+      "pubDate": "2026-10-07T17:42:00.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1791326043000",
+      "id": "techcrunch-ai-1791392026000",
       "region": "abroad",
-      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-06T22:34:03.000Z",
+      "pubDate": "2026-10-07T16:53:46.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1791318920000",
+      "id": "wired-ai-1791387273000",
       "region": "abroad",
-      "title": "How AI decision models could change content moderation",
-      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-06T20:35:20.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1791312339000",
-      "region": "abroad",
-      "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
-      "url": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
+      "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
+      "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
       "source": "Wired AI",
-      "summary": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness.",
-      "pubDate": "2026-10-06T18:45:39.000Z",
+      "summary": "The US government’s Tradewinds initiative has made it easier to throw millions of dollars at “nontraditional” defense contractors, including OpenAI, Anthropic, and Google.",
+      "pubDate": "2026-10-07T15:34:33.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1791385628000",
+      "region": "abroad",
+      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-07T15:07:08.000Z",
       "isFallback": false
     }
   ]
