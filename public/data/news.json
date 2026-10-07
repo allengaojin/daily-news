@@ -1,28 +1,38 @@
 {
   "meta": {
     "date": "2026-10-07",
-    "updatedAt": "2026-10-06T17:16:21.777Z",
+    "updatedAt": "2026-10-07T02:28:05.046Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1791297054000",
+      "id": "量子位-1791335113000",
       "region": "domestic",
-      "title": "AMD 股价创历史新高！CEO 苏姿丰称 AI 芯片需求非常旺盛，将持续大幅扩产",
-      "url": "https://www.ithome.com/1/010/114.htm",
-      "source": "IT之家",
-      "summary": "<p data-vmark=\"de72\">IT之家 10 月 6 日消息，AMD 盘初涨近 3%，报 649.88 美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 4,364 元人民币）</span>，<strong>创历史新高</strong>，市值达 1.06 万亿美元<span class=\"exch-mo…",
-      "pubDate": "2026-10-06T14:30:54.000Z",
+      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+      "url": "https://www.qbitai.com/2026/10/501749.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-10-07T01:05:13.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1791294981000",
+      "id": "it之家-1791334918000",
       "region": "domestic",
-      "title": "宣称“欧美最强开源模型”：Mistral AI 发布 Mistral Large 4 公开预览版，月底开放权重",
-      "url": "https://www.ithome.com/1/010/108.htm",
+      "title": "谷歌 AI 图像模型 Nano Banana 2.1 发布，提升视觉设计、蒙版编辑、主体一致性",
+      "url": "https://www.ithome.com/1/010/149.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"ab9a\">IT之家 10 月 6 日消息，当地时间 10 月 6 日，法国公司 Mistral AI 正式推出 Mistral Large 4 模型的公开预览版（Public Preview），简称 ML4，代号 le Chonk。</p><p data-vmark=\"6a99\">即日起，用户可以在 <a target=\"_b…",
-      "pubDate": "2026-10-06T13:56:21.000Z",
+      "summary": "<p data-vmark=\"55fd\">IT之家 10 月 7 日消息，谷歌于今日正式发布了 Nano Banana 2.1，这是该公司 AI 图像生成与编辑模型的升级版本。谷歌强调，新版 Nano Banana 2.1 实现了全方位提升，在视觉设计、基于蒙版的图像编辑以及主体一致性这几方面的进步尤为突出。</p><p style=\"text-align:…",
+      "pubDate": "2026-10-07T01:01:58.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "it之家-1791331125000",
+      "region": "domestic",
+      "title": "AI 颠覆担忧消退，美国软件股创 2026 年阶段新高",
+      "url": "https://www.ithome.com/1/010/141.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"b658\">IT之家 10 月 7 日消息，据路透社报道，受盈利预期大幅上调的推动，美国软件类股票正创出 2026 年阶段新高；多位分析师据此认为，此前市场对于人工智能将颠覆整个软件行业的担忧很大程度上被夸大了。</p><p style=\"text-align: center;\" data-vmark=\"ab8f\"><img s…",
+      "pubDate": "2026-10-06T23:58:45.000Z",
       "isFallback": false
     },
     {
@@ -33,16 +43,6 @@
       "source": "量子位",
       "summary": "",
       "pubDate": "2026-10-06T10:44:58.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1791273557000",
-      "region": "domestic",
-      "title": "不er，咋陶哲轩也成AI减速派了？？",
-      "url": "https://www.qbitai.com/2026/10/501736.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-10-06T07:59:17.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1791306838000",
+      "id": "google-news-ai-1791339984000",
       "region": "abroad",
-      "title": "France's Mistral unveils latest model in sovereign AI push - Courthouse News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNHN3RU1lU0RXM0RmTTNYaHdSUFdOZTJ5QTM1Y1R1WGVla2RiZWw1aEpWaEF0V3pYVkhDSDN2SGozVHhzZVpaeUVEMUxDaHBjWTRXM2xPV0VaeWhvWmZzRG5DZF9PUDUza1NnbXNDRkRYaUpUbm9YQy0tdTFEa01YclQwSmZEaWFUd25ReGVrM2xtdkU?oc=5",
+      "title": "Three in Four FDA Authorizations of AI Medical Devices Were in Radiology, Study Led by GigHz Founder Finds - BioSpace",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd1UxdmpwT0FCc25XR1JIMnU0SmQwMUtNMVRhYXJuOUVwa0pjR0V0V1pYY2pxT0pPRnotNUVNZmlqeHVLOU00YTlzT0lmYTdCUE5ZeE5BRm4tb2RVcWpyOVJvQ1k3YTZ4ZHhhTmJLR2owMzVFbGR2SWdMV0o3M3dOdDR4Y1M1MHcwSkZVQUNMWGZQaXBUUmhianJPMnd4cUhtNUV0eEJxczA4blh0aDFfU3QwS0FhOXRPSmJDT3lIbk5GaFNIWF9zdU9yNDBBVVNEYllVcHFtMWp3SnM1M3c?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNNHN3RU1lU0RXM0RmTTNYaHdSUFdOZTJ5QTM1Y1R1WGVla2RiZWw1aEpWaEF0V3pYVkhDSDN2SGozVHhzZVpaeUVEMUxDaHBjWTRXM2xPV0VaeWhvWmZzRG…",
-      "pubDate": "2026-10-06T17:13:58.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd1UxdmpwT0FCc25XR1JIMnU0SmQwMUtNMVRhYXJuOUVwa0pjR0V0V1pYY2pxT0pPRnotNUVNZmlqeHVLOU00YTlzT0lmYTdCUE5ZeE5BRm4tb2RVcWpyOV…",
+      "pubDate": "2026-10-07T02:26:24.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1791306304000",
+      "id": "google-news-ai-1791339180000",
       "region": "abroad",
-      "title": "How to Make an AI Deal With China: Trade Throttling for Pacing - Lawfare",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2RaWU1UWkU2R0tVN3AzT1N4RlBNQUFhUFFFczlHOWhuWF9nX25Pbk1XMXlzajcwWEpwVHZUTkpXRkpzYUN3azQ1R0VVMXEtMHlCTnpVQjZIVjJrSXA5RDUwOW9LWHlVUGp4bTY5aEJmMUxZSXhwOTJNWjdmTXBlVEdpZHNESzlURy1uZlFPelNERVlMX0phdUVRU3YzVEFL?oc=5",
+      "title": "Caterpillar and CoreWeave shorten the learning loop for physical AI - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZTkzMXNMOVlpVUhaWEhzdFNfVlJxQktYM09GWktnc1RWaXp1em05dXoyaF9vTUlFdi1hdE1MSFNFZWgyRVJJUVVyT255UU40azdvcEtLTHdlUkE1R0phRU80MUg3M3owQ3Vpa1hVUnpiUXc1U0RGbFBIQ0ZDcDVkTEVSbmdyNV9lVzI0OVBBcjFhLU1Ma0FEZm9aeEg1YmpoWVJoUEpqWE11Qlk?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2RaWU1UWkU2R0tVN3AzT1N4RlBNQUFhUFFFczlHOWhuWF9nX25Pbk1XMXlzajcwWEpwVHZUTkpXRkpzYUN3azQ1R0VVMXEtMHlCTnpVQjZIVjJrSXA5RD…",
-      "pubDate": "2026-10-06T17:05:04.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZTkzMXNMOVlpVUhaWEhzdFNfVlJxQktYM09GWktnc1RWaXp1em05dXoyaF9vTUlFdi1hdE1MSFNFZWgyRVJJUVVyT255UU40azdvcEtLTHdlUkE1R0phRU…",
+      "pubDate": "2026-10-07T02:13:00.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1791304500000",
+      "id": "techcrunch-ai-1791326043000",
       "region": "abroad",
-      "title": "Mirror Particle is building a ‘world model’ of human behavior",
-      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-06T16:35:00.000Z",
+      "pubDate": "2026-10-06T22:34:03.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1791302400000",
+      "id": "techcrunch-ai-1791318920000",
       "region": "abroad",
-      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "title": "How AI decision models could change content moderation",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-06T16:00:00.000Z",
+      "pubDate": "2026-10-06T20:35:20.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1791292523000",
+      "id": "wired-ai-1791312339000",
       "region": "abroad",
-      "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
-      "url": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
+      "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
+      "url": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
       "source": "Wired AI",
-      "summary": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
-      "pubDate": "2026-10-06T13:15:23.000Z",
+      "summary": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness.",
+      "pubDate": "2026-10-06T18:45:39.000Z",
       "isFallback": false
     }
   ]
