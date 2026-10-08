@@ -1,48 +1,48 @@
 {
   "meta": {
-    "date": "2026-10-08",
-    "updatedAt": "2026-10-08T02:44:28.443Z",
+    "date": "2026-10-09",
+    "updatedAt": "2026-10-08T17:54:14.353Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1791425801000",
+      "id": "it之家-1791468862000",
       "region": "domestic",
-      "title": "惠普战 66 Air 商务轻薄本上架：\"Wildcat Lake\" + OLED，到手 5099.15 元起",
-      "url": "https://www.ithome.com/1/010/395.htm",
+      "title": "亚马逊发布 Alexa Tablet 平板电脑：接替 Fire Tablet，全面支持 Alexa+ AI",
+      "url": "https://www.ithome.com/1/010/715.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"8ef2\">IT之家 10 月 8 日消息，HP（惠普）现已在电商平台上架搭载战 66 Air (ZHAN66 14 Air G2i) 商务轻薄笔记本电脑。其基于第 3 代英特尔酷睿处理器 \"Wildcat Lake\"，配备 OLED 屏幕。</p><p data-vmark=\"b2e3\" style=\"text-align: …",
-      "pubDate": "2026-10-08T02:16:41.000Z",
+      "summary": "<p data-vmark=\"dfde\">IT之家 10 月 8 日消息，Amazon（亚马逊）当地时间今日正式发布了接替此前 Fire Tablet 系列的 Alexa Tablet 平板电脑。这些产品运行 Android 操作系统，<strong>可访问完整的 Google Play 商店</strong>。</p><p data-vmark=\"5f61…",
+      "pubDate": "2026-10-08T14:14:22.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1791425730000",
+      "id": "量子位-1791466103000",
       "region": "domestic",
-      "title": "警告“AI 或灭绝人类”的前 Anthropic 研究员：某种意义上，我曾研究让 AI 取代自己",
-      "url": "https://www.ithome.com/1/010/394.htm",
-      "source": "IT之家",
-      "summary": "<p data-vmark=\"9f8e\">IT之家 10 月 8 日消息，据《商业内幕》报道，曾在 Anthropic 和 OpenAI 任职的研究员雅各布 · 考克森警告，AI 很快就能自主开展研究，人类可能完全无法掌控此后的发展。</p><p data-vmark=\"c3cb\">27 岁的考克森曾在 Anthropic 从事模型能力研究，上个月公开宣布辞…",
-      "pubDate": "2026-10-08T02:15:30.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1791421639000",
-      "region": "domestic",
-      "title": "GPT-6今起免费用！拒答变少，话变多了",
-      "url": "https://www.qbitai.com/2026/10/501834.html",
+      "title": "真香！做这个邪恶老奶版「GTA 6」，我只花了5元！",
+      "url": "https://www.qbitai.com/2026/10/502049.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-10-08T01:07:19.000Z",
+      "pubDate": "2026-10-08T13:28:23.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1791421440000",
+      "id": "it之家-1791465660000",
       "region": "domestic",
-      "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
-      "url": "https://www.qbitai.com/2026/10/501832.html",
+      "title": "谷歌云发布 Gemini Agent，定位“通用工作智能体”",
+      "url": "https://www.ithome.com/1/010/706.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"943a\">IT之家 10 月 8 日消息，谷歌云今天在 Gemini at Work 2026 发布会上宣布，面向企业客户推出 Gemini 智能体（Gemini Agent）。这款产品定位“通用工作智能体”，<strong>支持 Gemini Enterprise 、Workspace 以及第三方服务</strong>。</…",
+      "pubDate": "2026-10-08T13:21:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1791463411000",
+      "region": "domestic",
+      "title": "正行创新亮相APRCE 2026，发布全球首个零售物理智能24/7服务解决方案",
+      "url": "https://www.qbitai.com/2026/10/502035.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-10-08T01:04:00.000Z",
+      "pubDate": "2026-10-08T12:43:31.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1791426120000",
+      "id": "google-news-ai-1791481339000",
       "region": "abroad",
-      "title": "OpenAI used AI to help write email warning Australian government AI had hacked its websites - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUkM3NTBLWW04VFkzdWJWellLSjVTNkJMblhnaTU3OEVFckkzTTdOY0RWSTItY3pEejhmY1NUN1FBTG9xakFyLXZJNnlvcGVqdi1ERHUySFFnbFVIdFFrM0dFVDBpbFdwXzhRTFlyXzNydnRERUItM2lIRHRfaG5PTUpYMzRyTEdSMDFkRTFjdHZxS2xFM1BGS0RFNUtab1Nkc3FfcGJtMGVkNDl3NmN2dVJucS0yMUh4Q1VXblBoOWxZTTkwM256ekU0T0ZIbXNuaVo4RmZublZfQjgyYWF3?oc=5",
+      "title": "Lawmakers debate AI regulation while innovation push continues - The Arrow",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPXzg2UVhvNUstdU1EdjF0SHZHQnRESnREYXFzZ1U0MTEzeHhRaEpMSV83MjdlODBrMzhuMHltVXU3cENOZkJ3ZFpiYUhhSVFvN2R4bUIzS0FoNDNIR2pnYnV2elowWS1Uc0hDOUg5MHJoMS1veEIzU3Z6Y2d0OWhNTkZrVU44VWttcVFJR01aY1RpOVlNN3lhenp0cHhDU19zc2RPU2J2b3NEUy1SbkxMRUQ5dDFqTkRlNFhnMVBVVXI3Rk0?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUkM3NTBLWW04VFkzdWJWellLSjVTNkJMblhnaTU3OEVFckkzTTdOY0RWSTItY3pEejhmY1NUN1FBTG9xakFyLXZJNnlvcGVqdi1ERHUySFFnbFVIdFFrM0…",
-      "pubDate": "2026-10-08T02:22:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPXzg2UVhvNUstdU1EdjF0SHZHQnRESnREYXFzZ1U0MTEzeHhRaEpMSV83MjdlODBrMzhuMHltVXU3cENOZkJ3ZFpiYUhhSVFvN2R4bUIzS0FoNDNIR2pnYn…",
+      "pubDate": "2026-10-08T17:42:19.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1791426001000",
+      "id": "google-news-ai-1791481202000",
       "region": "abroad",
-      "title": "AI chatbots endorse existing climate-related policies twice as often as new proposals - Phys.org",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jQlhoM3A4d2FlQTdaZ0lqTjRaemtvZXZLTW1PQ1M5TVlJT1UyM1djVHZ5bDNCSmhtdDk3LXNXSDc5dldZUFEtR2VBMjJUS3lzVGVidU0wSVVYOXNsajRTVElwSlRpd0F2QVJVTVBPSl9jMkVPWGNjUGlDWQ?oc=5",
+      "title": "AI tool makes culturally appropriate lessons for teachers in India - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lMHAwTTUyR1VtNUsyNUVqYTRuYlhMM0xKNUgxX2dJbm16bjhQZHMtek1lUm5pY1RtTHdPMjE0TkRPLXZUaVFGY0JlQ3FPUHg0azladFpLeUVsYVl0aDBpVHlyRk5PaVhsU2wzLVdCaUdLSnZ3cy16V2VR?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9jQlhoM3A4d2FlQTdaZ0lqTjRaemtvZXZLTW1PQ1M5TVlJT1UyM1djVHZ5bDNCSmhtdDk3LXNXSDc5dldZUFEtR2VBMjJUS3lzVGVidU0wSVVYOXNsajRTVE…",
-      "pubDate": "2026-10-08T02:20:01.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1lMHAwTTUyR1VtNUsyNUVqYTRuYlhMM0xKNUgxX2dJbm16bjhQZHMtek1lUm5pY1RtTHdPMjE0TkRPLXZUaVFGY0JlQ3FPUHg0azladFpLeUVsYVl0aDBpVH…",
+      "pubDate": "2026-10-08T17:40:02.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1791406125000",
+      "id": "techcrunch-ai-1791475200000",
       "region": "abroad",
-      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-07T20:48:45.000Z",
+      "pubDate": "2026-10-08T16:00:00.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1791404557000",
+      "id": "techcrunch-ai-1791475200000",
       "region": "abroad",
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-07T20:22:37.000Z",
+      "pubDate": "2026-10-08T16:00:00.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1791398700000",
+      "id": "wired-ai-1791451800000",
       "region": "abroad",
-      "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
-      "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+      "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
+      "url": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
       "source": "Wired AI",
-      "summary": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
-      "pubDate": "2026-10-07T18:45:00.000Z",
+      "summary": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell …",
+      "pubDate": "2026-10-08T09:30:00.000Z",
       "isFallback": false
     }
   ]
