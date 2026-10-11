@@ -1,28 +1,28 @@
 {
   "meta": {
     "date": "2026-10-11",
-    "updatedAt": "2026-10-10T16:15:56.226Z",
+    "updatedAt": "2026-10-11T01:58:48.878Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1791643355000",
+      "id": "it之家-1791682490000",
       "region": "domestic",
-      "title": "腾讯元器将于 11 月 9 日停止服务，所创建智能体将不再可用",
-      "url": "https://www.ithome.com/1/011/530.htm",
+      "title": "高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁",
+      "url": "https://www.ithome.com/1/011/558.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"e0f3\">IT之家 10 月 10 日消息，腾讯元器 10 月 8 日发布《关于元器平台停止服务通知》，因业务调整，元器平台将于 2026 年 11 月 9 日停止服务。在正式停止服务前，用户仍可正常登录并使用现有智能体；停服生效后，所创建智能体将不再可用，建议用户尽快完成数据导出与业务迁移。</p><p data-vmark…",
-      "pubDate": "2026-10-10T14:42:35.000Z",
+      "summary": "<p data-vmark=\"c60d\">IT之家 10 月 11 日消息，据 phoronix 昨日（10 月 10 日）报道，Linux Plumbers Conference 大会于本周在捷克布拉格举行，<strong>高通工程师 Khem Raj 在大会上质疑 Linux Long Term Support（LTS）发行版在生成式 AI 时代的适配性…",
+      "pubDate": "2026-10-11T01:34:50.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1791641681000",
+      "id": "it之家-1791678459000",
       "region": "domestic",
-      "title": "铭凡首款无风扇全闪 AI NAS 机型 S5 将于 10 月中下旬国行开售",
-      "url": "https://www.ithome.com/1/011/521.htm",
+      "title": "报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案",
+      "url": "https://www.ithome.com/1/011/553.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"7d4a\">IT之家 10 月 10 日消息，MINISFORUM（铭凡）今日确认，其首款无风扇全闪 AI NAS 机型 <strong>S5 将于 10 月中下旬在国行渠道发售</strong>。</p><p data-vmark=\"05fb\" style=\"text-align: center;\"><img src=\"htt…",
-      "pubDate": "2026-10-10T14:14:41.000Z",
+      "summary": "<p data-vmark=\"231d\">太离谱了家人们！最近 Claude 疯狂大面积封号，AI 圈的开发者们直接集体破防，直呼「天塌了」。</p><p data-vmark=\"d0a4\">在整个假期期间，「Claude 封号」相关讨论甚至飙破了百万级。</p><p data-vmark=\"5b12\" style=\"text-align: center;\"…",
+      "pubDate": "2026-10-11T00:27:39.000Z",
       "isFallback": false
     },
     {
@@ -58,43 +58,43 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1791648215000",
+      "id": "google-news-ai-1791683280000",
       "region": "abroad",
-      "title": "Anthropic AI model sent fake homicide tip to Philadelphia police - Quartz",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS3IteFIxdG9mMW9TV2daLUZaenltcU5LdHFSWEZ4Sm9jU1JMb0lwNzVnOXp0MkxZUDRHd2M1V1REZ2tMTnEwRTFVVm9Ib01XSEJXeDVGVXEzVWVCMFdWekhGdFNwSkl3SzlENnloODRyRi1XMXZiZ0Z5YTdPWWYwUGJn?oc=5",
+      "title": "The AI Race Is Also a Race for Survivability - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM2NQQkprMjlKSlRYM25sR2dSSy1HektMLW1TREpkN3VLRHRPc0VvTmR0MTdiaUpwUEF2cGNNTkhITk4xZ1B5dWRtUHlNVjZ3LUJDUWZWNEZqM2ZnMFV4Wm5jRHBCTzVJbTJEa3NibFhmdlEyVTZoYmRWYXliZnp0V0VKaw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNS3IteFIxdG9mMW9TV2daLUZaenltcU5LdHFSWEZ4Sm9jU1JMb0lwNzVnOXp0MkxZUDRHd2M1V1REZ2tMTnEwRTFVVm9Ib01XSEJXeDVGVXEzVWVCMFdWek…",
-      "pubDate": "2026-10-10T16:03:35.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNM2NQQkprMjlKSlRYM25sR2dSSy1HektMLW1TREpkN3VLRHRPc0VvTmR0MTdiaUpwUEF2cGNNTkhITk4xZ1B5dWRtUHlNVjZ3LUJDUWZWNEZqM2ZnMFV4Wm…",
+      "pubDate": "2026-10-11T01:48:00.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1791648120000",
+      "id": "google-news-ai-1791681660000",
       "region": "abroad",
-      "title": "Mac Users Are Nuking Every Trace of Apple AI on Their Machines - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOTlOdnd4UWNiU2hka0ljZkVKdTRiM1owZHhfTDN2NVRFZ1ZBY3lRYW1hRDJPdnNHN3JtVExISVRtMEhwc1RsdXY4WjFxQUNNd1AtZGNLX05uTG1SSGZCMkZqM2RjZkVpalplcHNOS2ZLRHVPV3k4Y1dvQTVXN0ZSbDN4WkdLbHBlT2drbk5n?oc=5",
+      "title": "Nicolas Cage says he won’t work with Amazon again over AI dispute - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY0ctZ043TjBxcEJIWU9fZFBqOTBMZE5JWlU2LU12WFhkcFJJSXI4Z3p0V0MzanhlVVZTaU1uRUFNbWdXbzZOWTUwWjB1M3VlM0luZ0pPdGx0Q2RlMW1xWnBJWHhhd1FwaE9XUzllX3lnRE1WVFFHUFpyRzVmam5IQ1dSR0JaMG8xb2pYUWoxb3lDSjZJOVFnTVAxYXlTOEdyZmppdVlFbHBNTGJsdC1YbzlXU3RMZHBndlo1Z3M0dDFyb1AyakFpNFdiRi1RZw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQOTlOdnd4UWNiU2hka0ljZkVKdTRiM1owZHhfTDN2NVRFZ1ZBY3lRYW1hRDJPdnNHN3JtVExISVRtMEhwc1RsdXY4WjFxQUNNd1AtZGNLX05uTG1SSGZCMk…",
-      "pubDate": "2026-10-10T16:02:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOY0ctZ043TjBxcEJIWU9fZFBqOTBMZE5JWlU2LU12WFhkcFJJSXI4Z3p0V0MzanhlVVZTaU1uRUFNbWdXbzZOWTUwWjB1M3VlM0luZ0pPdGx0Q2RlMW1xWn…",
+      "pubDate": "2026-10-11T01:21:00.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1791644400000",
+      "id": "techcrunch-ai-1791668871000",
       "region": "abroad",
-      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-10T15:00:00.000Z",
+      "pubDate": "2026-10-10T21:47:51.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1791640800000",
+      "id": "techcrunch-ai-1791661800000",
       "region": "abroad",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-10T14:00:00.000Z",
+      "pubDate": "2026-10-10T19:50:00.000Z",
       "isFallback": false
     },
     {
