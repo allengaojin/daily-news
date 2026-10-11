@@ -1,48 +1,48 @@
 {
   "meta": {
-    "date": "2026-10-11",
-    "updatedAt": "2026-10-11T01:58:48.878Z",
+    "date": "2026-10-12",
+    "updatedAt": "2026-10-11T16:40:13.351Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1791682490000",
+      "id": "it之家-1791721729000",
       "region": "domestic",
-      "title": "高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁",
-      "url": "https://www.ithome.com/1/011/558.htm",
+      "title": "奇瑞捷途全新旅行者 7 预告搭载骁龙 8255 座舱芯片，10 月 14 日上市",
+      "url": "https://www.ithome.com/1/011/691.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"c60d\">IT之家 10 月 11 日消息，据 phoronix 昨日（10 月 10 日）报道，Linux Plumbers Conference 大会于本周在捷克布拉格举行，<strong>高通工程师 Khem Raj 在大会上质疑 Linux Long Term Support（LTS）发行版在生成式 AI 时代的适配性…",
-      "pubDate": "2026-10-11T01:34:50.000Z",
+      "summary": "<p data-vmark=\"ce9c\">IT之家 10 月 11 日消息，奇瑞捷途全新旅行者 7 将于 10 月 14 日上市，官方预告智能科技再升级。</p><p data-vmark=\"98a0\">新车搭载 TOUROS 3.3 AI 智能座舱、骁龙 8255 高阶座舱芯片，搭配 24GB 运存 +256GB 超大存储，内置讯飞星火智能 AI 大模型，…",
+      "pubDate": "2026-10-11T12:28:49.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1791678459000",
+      "id": "it之家-1791716095000",
       "region": "domestic",
-      "title": "报告称 Claude 半年封杀 1140 万个账号，申诉后仅 4.2 万翻案",
-      "url": "https://www.ithome.com/1/011/553.htm",
+      "title": "《VRChat》更新创作者指南：禁止使用 AI 生成误导性地图 / 角色缩略图，尚未决定上线“AI 标签”声明",
+      "url": "https://www.ithome.com/1/011/678.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"231d\">太离谱了家人们！最近 Claude 疯狂大面积封号，AI 圈的开发者们直接集体破防，直呼「天塌了」。</p><p data-vmark=\"d0a4\">在整个假期期间，「Claude 封号」相关讨论甚至飙破了百万级。</p><p data-vmark=\"5b12\" style=\"text-align: center;\"…",
-      "pubDate": "2026-10-11T00:27:39.000Z",
+      "summary": "<p data-vmark=\"3c0f\">IT之家 10 月 11 日消息，《VRChat》开发商 VRChat Inc. 于 10 月 7 日公布了针对 AI 生成内容的应对方针，同步更新创作者指南。官方明确禁止使用 AI 生成误导性地图 / 角色缩略图，避免创作者利用与实际内容完全不符的缩略图吸引玩家点击。</p><p data-vmark=\"6db4\"…",
+      "pubDate": "2026-10-11T10:54:55.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1791615542000",
+      "id": "量子位-1791696227000",
       "region": "domestic",
-      "title": "特斯拉FSD，在欧洲被打回原形",
-      "url": "https://www.qbitai.com/2026/10/502467.html",
+      "title": "王的猜想，刚刚扩展到四维",
+      "url": "https://www.qbitai.com/2026/10/502584.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-10-10T06:59:02.000Z",
+      "pubDate": "2026-10-11T05:23:47.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1791537597000",
+      "id": "量子位-1791696158000",
       "region": "domestic",
-      "title": "TRAE终于把Code和Work合并了",
-      "url": "https://www.qbitai.com/2026/10/502426.html",
+      "title": "硅谷AI现状：谁有算力谁是爹",
+      "url": "https://www.qbitai.com/2026/10/502585.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-10-09T09:19:57.000Z",
+      "pubDate": "2026-10-11T05:22:38.000Z",
       "isFallback": false
     },
     {
@@ -58,23 +58,43 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1791683280000",
+      "id": "google-news-ai-1791734700000",
       "region": "abroad",
-      "title": "The AI Race Is Also a Race for Survivability - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM2NQQkprMjlKSlRYM25sR2dSSy1HektMLW1TREpkN3VLRHRPc0VvTmR0MTdiaUpwUEF2cGNNTkhITk4xZ1B5dWRtUHlNVjZ3LUJDUWZWNEZqM2ZnMFV4Wm5jRHBCTzVJbTJEa3NibFhmdlEyVTZoYmRWYXliZnp0V0VKaw?oc=5",
+      "title": "Flahy uses knowledge graphs to support AI-powered healthcare - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOURBUmR2UEMyeDVrQ2J2NnhndXJVdlp2T2g0Vl83d18wOE1XTV9TZ3AtOHhudGJpOFlkcldMcEZETjRqZzJPSFFxdnNUNUhjRV8yMkFtZkdmWnU3a3c0a0wtWnlCZ0lZNnpqS2tVMTI3SGMtN2lSZG9HcldqTy1ER25yUzdWY2xGQVA1NjRvVUxFRy04QnVaYTdaSDNTUU1XaVZ6Vmhhck1SeGpDdXo4Ym5MeDlTUQ?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNM2NQQkprMjlKSlRYM25sR2dSSy1HektMLW1TREpkN3VLRHRPc0VvTmR0MTdiaUpwUEF2cGNNTkhITk4xZ1B5dWRtUHlNVjZ3LUJDUWZWNEZqM2ZnMFV4Wm…",
-      "pubDate": "2026-10-11T01:48:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOOURBUmR2UEMyeDVrQ2J2NnhndXJVdlp2T2g0Vl83d18wOE1XTV9TZ3AtOHhudGJpOFlkcldMcEZETjRqZzJPSFFxdnNUNUhjRV8yMkFtZkdmWnU3a3c0a0…",
+      "pubDate": "2026-10-11T16:05:00.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1791681660000",
+      "id": "google-news-ai-1791734606000",
       "region": "abroad",
-      "title": "Nicolas Cage says he won’t work with Amazon again over AI dispute - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY0ctZ043TjBxcEJIWU9fZFBqOTBMZE5JWlU2LU12WFhkcFJJSXI4Z3p0V0MzanhlVVZTaU1uRUFNbWdXbzZOWTUwWjB1M3VlM0luZ0pPdGx0Q2RlMW1xWnBJWHhhd1FwaE9XUzllX3lnRE1WVFFHUFpyRzVmam5IQ1dSR0JaMG8xb2pYUWoxb3lDSjZJOVFnTVAxYXlTOEdyZmppdVlFbHBNTGJsdC1YbzlXU3RMZHBndlo1Z3M0dDFyb1AyakFpNFdiRi1RZw?oc=5",
+      "title": "In the race for AI dominance, the U.S. relies on a surprising ally: China - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPampVelRXenFROGQ5cWFmNjZ2SllDblBvR1dFOGdRY1MySU5DLXNtRnlCWHpNalh3aFNwWlhaWkxPM2R0aDlzRGRyUjl3aEZLTlBmQlpmUWlhUFZ6aDNMZWlVNDIwRlhSV2JoRjh0OTNkcGFzTG1BT3U0VjIzVmZYVjRtdWlPVGl3SnM2LXFXT09Wb1lCVzIzcjVWMlpxSDY5QjJB?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOY0ctZ043TjBxcEJIWU9fZFBqOTBMZE5JWlU2LU12WFhkcFJJSXI4Z3p0V0MzanhlVVZTaU1uRUFNbWdXbzZOWTUwWjB1M3VlM0luZ0pPdGx0Q2RlMW1xWn…",
-      "pubDate": "2026-10-11T01:21:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPampVelRXenFROGQ5cWFmNjZ2SllDblBvR1dFOGdRY1MySU5DLXNtRnlCWHpNalh3aFNwWlhaWkxPM2R0aDlzRGRyUjl3aEZLTlBmQlpmUWlhUFZ6aDNMZW…",
+      "pubDate": "2026-10-11T16:03:26.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1791727200000",
+      "region": "abroad",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-11T14:00:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1791718200000",
+      "region": "abroad",
+      "title": "I Made Terrible Games With Google’s AI Playground",
+      "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "source": "Wired AI",
+      "summary": "A long day’s haul in the video game slop mines.",
+      "pubDate": "2026-10-11T11:30:00.000Z",
       "isFallback": false
     },
     {
@@ -85,26 +105,6 @@
       "source": "TechCrunch AI",
       "summary": "",
       "pubDate": "2026-10-10T21:47:51.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1791661800000",
-      "region": "abroad",
-      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-10T19:50:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1791633600000",
-      "region": "abroad",
-      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
-      "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
-      "source": "Wired AI",
-      "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
-      "pubDate": "2026-10-10T12:00:00.000Z",
       "isFallback": false
     }
   ]
