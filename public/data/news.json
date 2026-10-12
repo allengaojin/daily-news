@@ -1,28 +1,48 @@
 {
   "meta": {
-    "date": "2026-10-12",
-    "updatedAt": "2026-10-12T02:29:16.329Z",
+    "date": "2026-10-13",
+    "updatedAt": "2026-10-12T20:19:41.691Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1791769582000",
+      "id": "it之家-1791817728000",
       "region": "domestic",
-      "title": "马化腾带 28 岁青年与广东省委书记黄坤明座谈，腾讯首席 AI 科学家姚顺雨露面",
-      "url": "https://www.ithome.com/1/011/765.htm",
+      "title": "比亚迪与荣耀战略合作：支持 YOYO 远程控车、手机镜像等",
+      "url": "https://www.ithome.com/1/012/121.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"c0d5\">IT之家 10 月 12 日消息，据中国新闻网“三里河”公众号报道，10 月 8 日，国庆假期后首个工作日，广东省委书记黄坤明到深圳调研，走进腾讯总部。在座谈交流环节，腾讯董事会主席兼首席执行官马化腾发言，<strong>在他旁边还坐着一个仅 28 岁的年轻人，此人是腾讯首席 AI 科学家姚顺雨</strong>。<…",
-      "pubDate": "2026-10-12T01:46:22.000Z",
+      "summary": "<p data-vmark=\"58b5\">IT之家 10 月 12 日消息，比亚迪今日宣布与荣耀战略合作，共创 AI 语音融合，A2A 打通车机与手机语音智能体，将手机 AI 能力和服务带入座舱空间。</p><p data-vmark=\"f181\">据介绍，比亚迪将支持 YOYO 远程控车，包括语音寻车、语音备车，一句话直达；手机镜像桌面，全量 App 上车…",
+      "pubDate": "2026-10-12T15:08:48.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1791765987000",
+      "id": "it之家-1791816330000",
       "region": "domestic",
-      "title": "纸质书《终焉路独行》出现 AI 提示词，策划团队致歉称系误将校对软件提示词当正文处理所致",
-      "url": "https://www.ithome.com/1/011/740.htm",
+      "title": "微软 Maia 300 AI 芯片发布：台积电 N2P 工艺，288GB HBM4 内存、带宽 18TB/s",
+      "url": "https://www.ithome.com/1/012/115.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"8d8f\">IT之家 10 月 12 日消息，有读者近日在社交平台分享，称自己在阅读《终焉路独行》这本书时，正文内容横插了一句话：“需要我再微调部分语句，让整体文风更贴合悬疑灵异的氛围吗？”在与实体书相同内容的位置上，网络版第 80 章的段落之间并没有这句 AI 提示词。</p><p data-vmark=\"0da4\">天津知语…",
-      "pubDate": "2026-10-12T00:46:27.000Z",
+      "summary": "<p data-vmark=\"d113\">IT之家 10 月 12 日消息，微软今天正式发布 Maia 300 人工智能芯片。这款产品配备 288GB HBM4 内存，带宽达到 18TB/s，FP4 算力可达 13.8 PFLOPS，基于台积电 N2P 制程工艺打造，计划 2027 年部署。</p><p style=\"text-align: center;\"…",
+      "pubDate": "2026-10-12T14:45:30.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1791807674000",
+      "region": "domestic",
+      "title": "hacked by trenggalek6etar",
+      "url": "https://www.qbitai.com/2026/10/502764.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-10-12T12:21:14.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1791793663000",
+      "region": "domestic",
+      "title": "2026没过完，已有480亿美元投进了物理AI",
+      "url": "https://www.qbitai.com/2026/10/502741.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-10-12T08:27:43.000Z",
       "isFallback": false
     },
     {
@@ -34,77 +54,57 @@
       "summary": "<p>工信部等就进一步加强汽车产品创新设计管理征求意见</p><p>三季度全球 PC 出货量骤降</p><p>法国判决 Cloudflare 无须通过 DNS 屏蔽盗版</p><p>Anthropic 宣布切断内部评估环境的互联网访问权限</p><p>AI 助力老游戏移植到浏览器</p><p>3C 证书大面积暂停，电动自行车销售接近停滞</p><p>看看就行…",
       "pubDate": "2026-10-11T22:34:54.000Z",
       "isFallback": false
-    },
-    {
-      "id": "量子位-1791696227000",
-      "region": "domestic",
-      "title": "王的猜想，刚刚扩展到四维",
-      "url": "https://www.qbitai.com/2026/10/502584.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-10-11T05:23:47.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1791696158000",
-      "region": "domestic",
-      "title": "硅谷AI现状：谁有算力谁是爹",
-      "url": "https://www.qbitai.com/2026/10/502585.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-10-11T05:22:38.000Z",
-      "isFallback": false
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1791771579000",
+      "id": "google-news-ai-1791836160000",
       "region": "abroad",
-      "title": "Watch LG's Cho on Latest AI-Powered Forecasting Tools - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSEN5bzVzSC1HVzZIVjZzTGpRdE9pTWpsd3paRFRFeG9KbUFDSm9qZ24yWm0wM3RzY2JYRmltOGRSRTBqblcyUlc1ZEdoU3hzYWk0QnpPUmdsY1dPbXR0VTE4ZDRzMFRGMGVUa29RdE12R1E5d0JpbjJOR05YVGdBVGZzQlMwMWlTcmhuUUJjanJ0R1FxaEVNeC1nNm9palduTl9UMw?oc=5",
+      "title": "AI twist on attack ads stirs partisan debate in Deschutes county commission race - NPR for Oregonians",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdXdJNldEOGJpTVhHblNzajRXOFVmeWV0VVZ3QnJuQ2ZfMHZvSWVuWUZOZjd0Y0JMRDFSSnBsN0haU2wzY0NxN21iZzBtU2dXWFBJcjc2WUE1QTZfdmg4bVl5NF9jRkhsZmNUSWt5eVNmMWRCX0JvMUhzM2dHV2VlUVRFWkdEaDRXbXpUeERXT1dZOXlSSlNsT2RIREduclZZVEI1cWozMXU3ZUNSZ2pqckUwaEVtem9MS0FtaWMtLUFNRmNuNDNISHJWQkU?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOSEN5bzVzSC1HVzZIVjZzTGpRdE9pTWpsd3paRFRFeG9KbUFDSm9qZ24yWm0wM3RzY2JYRmltOGRSRTBqblcyUlc1ZEdoU3hzYWk0QnpPUmdsY1dPbXR0VT…",
-      "pubDate": "2026-10-12T02:19:39.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQdXdJNldEOGJpTVhHblNzajRXOFVmeWV0VVZ3QnJuQ2ZfMHZvSWVuWUZOZjd0Y0JMRDFSSnBsN0haU2wzY0NxN21iZzBtU2dXWFBJcjc2WUE1QTZfdmg4bV…",
+      "pubDate": "2026-10-12T20:16:00.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1791771577000",
+      "id": "google-news-ai-1791835800000",
       "region": "abroad",
-      "title": "Watch DBS CEO: Market Repricing Risks on AI Financing - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZFFLUGxka3Z6ZkJKdVg3VkFBeXNpaWEyYklIZnk5NS02dzBubDdQa3FoTWFCQUtKR0loejNoU2x2RVhyRHdCOE40LVlHejlkUnMtamRWMEhBMlVCaGd6V3Q1R3p6a2wtQ3RTS3YxTzZYdHlNUU9DSWVEVkFRTGFwMlFRRmJqeVFCbUhBUHA1SDNDc2s5YUlQOTAwNC14enpoOVd3?oc=5",
+      "title": "Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQVkxbnFYRFlRdVIwVm5MX2hxakc1a29XeFM2d3E2X1Z6YS15M21mSHB2LVBjVFRTaV9TYkhodklCcTc3R1ZQTk41NWc1LXR4TS1Gc1pzc1FtOFl3TlJRWnF2cm1DT1lWcnhUOG1IWi1YQkJTY3FyRl9SNUl3WnlVb2preFJFeHdhb3JDRkRtdDV1NkxkV3JhQWNJeUpVYjJpV09rWkhtZmVPOXpv?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOZFFLUGxka3Z6ZkJKdVg3VkFBeXNpaWEyYklIZnk5NS02dzBubDdQa3FoTWFCQUtKR0loejNoU2x2RVhyRHdCOE40LVlHejlkUnMtamRWMEhBMlVCaGd6V3…",
-      "pubDate": "2026-10-12T02:19:37.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNQVkxbnFYRFlRdVIwVm5MX2hxakc1a29XeFM2d3E2X1Z6YS15M21mSHB2LVBjVFRTaV9TYkhodklCcTc3R1ZQTk41NWc1LXR4TS1Gc1pzc1FtOFl3TlJRWn…",
+      "pubDate": "2026-10-12T20:10:00.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1791753280000",
+      "id": "techcrunch-ai-1791827816000",
       "region": "abroad",
-      "title": "Will the HomeView be Apple’s first smart home success?",
-      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-11T21:14:40.000Z",
+      "pubDate": "2026-10-12T17:56:56.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1791745200000",
+      "id": "wired-ai-1791827712000",
       "region": "abroad",
-      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-11T19:00:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1791718200000",
-      "region": "abroad",
-      "title": "I Made Terrible Games With Google’s AI Playground",
-      "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
+      "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
       "source": "Wired AI",
-      "summary": "A long day’s haul in the video game slop mines.",
-      "pubDate": "2026-10-11T11:30:00.000Z",
+      "summary": "Musk, we find your lack of security disturbing.",
+      "pubDate": "2026-10-12T17:55:12.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1791825554000",
+      "region": "abroad",
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-12T17:19:14.000Z",
       "isFallback": false
     }
   ]
