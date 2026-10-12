@@ -1,28 +1,38 @@
 {
   "meta": {
     "date": "2026-10-12",
-    "updatedAt": "2026-10-11T16:40:13.351Z",
+    "updatedAt": "2026-10-12T02:29:16.329Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1791721729000",
+      "id": "it之家-1791769582000",
       "region": "domestic",
-      "title": "奇瑞捷途全新旅行者 7 预告搭载骁龙 8255 座舱芯片，10 月 14 日上市",
-      "url": "https://www.ithome.com/1/011/691.htm",
+      "title": "马化腾带 28 岁青年与广东省委书记黄坤明座谈，腾讯首席 AI 科学家姚顺雨露面",
+      "url": "https://www.ithome.com/1/011/765.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"ce9c\">IT之家 10 月 11 日消息，奇瑞捷途全新旅行者 7 将于 10 月 14 日上市，官方预告智能科技再升级。</p><p data-vmark=\"98a0\">新车搭载 TOUROS 3.3 AI 智能座舱、骁龙 8255 高阶座舱芯片，搭配 24GB 运存 +256GB 超大存储，内置讯飞星火智能 AI 大模型，…",
-      "pubDate": "2026-10-11T12:28:49.000Z",
+      "summary": "<p data-vmark=\"c0d5\">IT之家 10 月 12 日消息，据中国新闻网“三里河”公众号报道，10 月 8 日，国庆假期后首个工作日，广东省委书记黄坤明到深圳调研，走进腾讯总部。在座谈交流环节，腾讯董事会主席兼首席执行官马化腾发言，<strong>在他旁边还坐着一个仅 28 岁的年轻人，此人是腾讯首席 AI 科学家姚顺雨</strong>。<…",
+      "pubDate": "2026-10-12T01:46:22.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1791716095000",
+      "id": "it之家-1791765987000",
       "region": "domestic",
-      "title": "《VRChat》更新创作者指南：禁止使用 AI 生成误导性地图 / 角色缩略图，尚未决定上线“AI 标签”声明",
-      "url": "https://www.ithome.com/1/011/678.htm",
+      "title": "纸质书《终焉路独行》出现 AI 提示词，策划团队致歉称系误将校对软件提示词当正文处理所致",
+      "url": "https://www.ithome.com/1/011/740.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"3c0f\">IT之家 10 月 11 日消息，《VRChat》开发商 VRChat Inc. 于 10 月 7 日公布了针对 AI 生成内容的应对方针，同步更新创作者指南。官方明确禁止使用 AI 生成误导性地图 / 角色缩略图，避免创作者利用与实际内容完全不符的缩略图吸引玩家点击。</p><p data-vmark=\"6db4\"…",
-      "pubDate": "2026-10-11T10:54:55.000Z",
+      "summary": "<p data-vmark=\"8d8f\">IT之家 10 月 12 日消息，有读者近日在社交平台分享，称自己在阅读《终焉路独行》这本书时，正文内容横插了一句话：“需要我再微调部分语句，让整体文风更贴合悬疑灵异的氛围吗？”在与实体书相同内容的位置上，网络版第 80 章的段落之间并没有这句 AI 提示词。</p><p data-vmark=\"0da4\">天津知语…",
+      "pubDate": "2026-10-12T00:46:27.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "少数派-1791758094000",
+      "region": "domestic",
+      "title": "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见",
+      "url": "https://sspai.com/post/115845",
+      "source": "少数派",
+      "summary": "<p>工信部等就进一步加强汽车产品创新设计管理征求意见</p><p>三季度全球 PC 出货量骤降</p><p>法国判决 Cloudflare 无须通过 DNS 屏蔽盗版</p><p>Anthropic 宣布切断内部评估环境的互联网访问权限</p><p>AI 助力老游戏移植到浏览器</p><p>3C 证书大面积暂停，电动自行车销售接近停滞</p><p>看看就行…",
+      "pubDate": "2026-10-11T22:34:54.000Z",
       "isFallback": false
     },
     {
@@ -44,47 +54,47 @@
       "summary": "",
       "pubDate": "2026-10-11T05:22:38.000Z",
       "isFallback": false
-    },
-    {
-      "id": "少数派-1791507070000",
-      "region": "domestic",
-      "title": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等",
-      "url": "https://sspai.com/post/115532",
-      "source": "少数派",
-      "summary": "XMG 发布 PRO 18 系列笔记本、OpenAI 宣布在 ChatGPT 上线 GPT-6 模型<a href=\"https://sspai.com/post/115532\" target=\"_blank\">查看全文</a>",
-      "pubDate": "2026-10-09T00:51:10.000Z",
-      "isFallback": false
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1791734700000",
+      "id": "google-news-ai-1791771579000",
       "region": "abroad",
-      "title": "Flahy uses knowledge graphs to support AI-powered healthcare - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOURBUmR2UEMyeDVrQ2J2NnhndXJVdlp2T2g0Vl83d18wOE1XTV9TZ3AtOHhudGJpOFlkcldMcEZETjRqZzJPSFFxdnNUNUhjRV8yMkFtZkdmWnU3a3c0a0wtWnlCZ0lZNnpqS2tVMTI3SGMtN2lSZG9HcldqTy1ER25yUzdWY2xGQVA1NjRvVUxFRy04QnVaYTdaSDNTUU1XaVZ6Vmhhck1SeGpDdXo4Ym5MeDlTUQ?oc=5",
+      "title": "Watch LG's Cho on Latest AI-Powered Forecasting Tools - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSEN5bzVzSC1HVzZIVjZzTGpRdE9pTWpsd3paRFRFeG9KbUFDSm9qZ24yWm0wM3RzY2JYRmltOGRSRTBqblcyUlc1ZEdoU3hzYWk0QnpPUmdsY1dPbXR0VTE4ZDRzMFRGMGVUa29RdE12R1E5d0JpbjJOR05YVGdBVGZzQlMwMWlTcmhuUUJjanJ0R1FxaEVNeC1nNm9palduTl9UMw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOOURBUmR2UEMyeDVrQ2J2NnhndXJVdlp2T2g0Vl83d18wOE1XTV9TZ3AtOHhudGJpOFlkcldMcEZETjRqZzJPSFFxdnNUNUhjRV8yMkFtZkdmWnU3a3c0a0…",
-      "pubDate": "2026-10-11T16:05:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOSEN5bzVzSC1HVzZIVjZzTGpRdE9pTWpsd3paRFRFeG9KbUFDSm9qZ24yWm0wM3RzY2JYRmltOGRSRTBqblcyUlc1ZEdoU3hzYWk0QnpPUmdsY1dPbXR0VT…",
+      "pubDate": "2026-10-12T02:19:39.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1791734606000",
+      "id": "google-news-ai-1791771577000",
       "region": "abroad",
-      "title": "In the race for AI dominance, the U.S. relies on a surprising ally: China - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPampVelRXenFROGQ5cWFmNjZ2SllDblBvR1dFOGdRY1MySU5DLXNtRnlCWHpNalh3aFNwWlhaWkxPM2R0aDlzRGRyUjl3aEZLTlBmQlpmUWlhUFZ6aDNMZWlVNDIwRlhSV2JoRjh0OTNkcGFzTG1BT3U0VjIzVmZYVjRtdWlPVGl3SnM2LXFXT09Wb1lCVzIzcjVWMlpxSDY5QjJB?oc=5",
+      "title": "Watch DBS CEO: Market Repricing Risks on AI Financing - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZFFLUGxka3Z6ZkJKdVg3VkFBeXNpaWEyYklIZnk5NS02dzBubDdQa3FoTWFCQUtKR0loejNoU2x2RVhyRHdCOE40LVlHejlkUnMtamRWMEhBMlVCaGd6V3Q1R3p6a2wtQ3RTS3YxTzZYdHlNUU9DSWVEVkFRTGFwMlFRRmJqeVFCbUhBUHA1SDNDc2s5YUlQOTAwNC14enpoOVd3?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPampVelRXenFROGQ5cWFmNjZ2SllDblBvR1dFOGdRY1MySU5DLXNtRnlCWHpNalh3aFNwWlhaWkxPM2R0aDlzRGRyUjl3aEZLTlBmQlpmUWlhUFZ6aDNMZW…",
-      "pubDate": "2026-10-11T16:03:26.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOZFFLUGxka3Z6ZkJKdVg3VkFBeXNpaWEyYklIZnk5NS02dzBubDdQa3FoTWFCQUtKR0loejNoU2x2RVhyRHdCOE40LVlHejlkUnMtamRWMEhBMlVCaGd6V3…",
+      "pubDate": "2026-10-12T02:19:37.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1791727200000",
+      "id": "techcrunch-ai-1791753280000",
       "region": "abroad",
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-11T14:00:00.000Z",
+      "pubDate": "2026-10-11T21:14:40.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1791745200000",
+      "region": "abroad",
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-11T19:00:00.000Z",
       "isFallback": false
     },
     {
@@ -95,16 +105,6 @@
       "source": "Wired AI",
       "summary": "A long day’s haul in the video game slop mines.",
       "pubDate": "2026-10-11T11:30:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1791668871000",
-      "region": "abroad",
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-10T21:47:51.000Z",
       "isFallback": false
     }
   ]
