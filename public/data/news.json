@@ -1,28 +1,48 @@
 {
   "meta": {
     "date": "2026-10-14",
-    "updatedAt": "2026-10-14T01:58:59.890Z",
+    "updatedAt": "2026-10-14T15:51:09.976Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1791942660000",
+      "id": "it之家-1791991219000",
       "region": "domestic",
-      "title": "消息称具身智能独角兽公司智元启动新一轮融资，估值约 500 亿元",
-      "url": "https://www.ithome.com/1/012/674.htm",
+      "title": "男子发布 AI 视频造谣问界，赛力斯起诉索赔百万元",
+      "url": "https://www.ithome.com/1/013/132.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"97f4\">IT之家 10 月 14 日消息，据财经杂志 10 月 13 日报道，具身智能独角兽公司智元创新近期启动了新一轮融资，<strong>融资额约 10 亿元 —15 亿元</strong>，本轮融资已接近收尾，最新估值约 500 亿元。</p><p data-vmark=\"76e3\">报道提到，根据港交所的相关要求，上…",
-      "pubDate": "2026-10-14T01:51:00.000Z",
+      "summary": "<p data-vmark=\"36a5\">IT之家 10 月 14 日消息，据深蓝财经报道，赛力斯汽车有限公司对外披露，已对一名抖音平台短视频用户提起民事诉讼。<strong>该用户借助 AI 工具合成问界车辆行驶中车身塌陷的虚假画面，发布到网络抹黑车辆安全性能</strong>。</p><p data-vmark=\"14f7\">案件将于 10 月 23 日…",
+      "pubDate": "2026-10-14T15:20:19.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1791939214000",
+      "id": "it之家-1791984393000",
       "region": "domestic",
-      "title": "OPPO 与 Manus 达成合作，Find X10 系列将首发搭载下一代 AI 智能体",
-      "url": "https://www.ithome.com/1/012/656.htm",
+      "title": "消息称苹果 AirPods Pro 4 耳机将提供双版本，金属高端款首发美国",
+      "url": "https://www.ithome.com/1/013/105.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"3e30\">IT之家 10 月 14 日消息，OPPO 昨日宣布与 AI 智能体平台 Manus 达成合作，将在其智能手机上带来下一代智能体人工智能体验。本次合作会把 Manus 的智能体能力集成至 OPPO 的 AI Mind Pilot，帮助用户把复杂的多步骤任务直接转化为可用结果，进一步推进 OPPO“个性化主动智能”的愿…",
-      "pubDate": "2026-10-14T00:53:34.000Z",
+      "summary": "<p data-vmark=\"c867\">IT之家 10 月 14 日消息，X 平台爆料人士 Early Apple 今日发文称，苹果考虑为 AirPods Pro 4 耳机采用双版本策略，类似 AirPods 4 和 AirPods 5 定价结构。<strong>其中高端版本将采用金属质感外壳</strong>，与历代产品有所不同，<strong>且首发仅…",
+      "pubDate": "2026-10-14T13:26:33.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1791974507000",
+      "region": "domestic",
+      "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
+      "url": "https://www.qbitai.com/2026/10/503294.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-10-14T10:41:47.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1791964878000",
+      "region": "domestic",
+      "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
+      "url": "https://www.qbitai.com/2026/10/503244.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-10-14T08:01:18.000Z",
       "isFallback": false
     },
     {
@@ -34,77 +54,57 @@
       "summary": "Apple Watch 在中国大陆推出睡眠呼吸暂停迹象提示功能、Google 发布 Gemini 4 Argon 等。<a href=\"https://sspai.com/post/116138\" target=\"_blank\">查看全文</a>",
       "pubDate": "2026-10-14T00:40:39.000Z",
       "isFallback": false
-    },
-    {
-      "id": "量子位-1791889539000",
-      "region": "domestic",
-      "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
-      "url": "https://www.qbitai.com/2026/10/503107.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-10-13T11:05:39.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1791884017000",
-      "region": "domestic",
-      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
-      "url": "https://www.qbitai.com/2026/10/503093.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-10-13T09:33:37.000Z",
-      "isFallback": false
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1791942600000",
+      "id": "google-news-ai-1791992917000",
       "region": "abroad",
-      "title": "Artificial intelligence threatens North Dakota security - KFYR-TV",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaDJLVzR6SG5KNXA2dTRUbzN3c3FlOWNrdE5IZzZ5c0U0TU9aS3czUjJTQ3dCcFp6VUpFc3k3dDh0cDlaVEM5NHBiakhIMXNMYy1wTTNGYnJobVVkZHhwQk9tLWdzX2Qtd0lDWWw3cDFOOHpoMWFLdGplaWRfUDBGM2tHN3d3Mk1FaDNJWU4zcXMwM2VK0gGoAUFVX3lxTE1hUHp6WEJTeHotdm10OWtoSTJhckZsbEpwYURYS1BvOVlSdmY4cU40SGp4SUhjNTQ2elE1TlJNNEFVYTkycDB0UDkyMHVHLTNHZ1hpTXMwRGZabjBIcHpJdUgtQjlYay1TSXNUdFFGMEs1NlZreFNjb2hTSVdReHhZWk0wQ0lfWUhrZklzWjRSZHctSnZRMkNQMmozUkRYaWZGRkswQjNGUQ?oc=5",
+      "title": "The $100 Million CFO’s Playbook for Onboarding AI Agents - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVW42aklYVnFZaVQ3cWF1QWs2MDFzSUg3SGQ2YmJhTVJxaUxSTm1Ea0Q3X1BKV2FTamZtRlpUMXhORjlrYzBwVF9mU0c1SW9MZkRXTk82VWltQ1VVd1hOajVENWYwbVBUcDBYck5EZ29vTUhBQlpPdm5DbnB5ZURoZXRodTRLeFJ0NGdnTlUxVmtJNjhFVlczWm13NWFZVDhmc1N1ZFZjUmtaRWtWRDk0LTVB?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQaDJLVzR6SG5KNXA2dTRUbzN3c3FlOWNrdE5IZzZ5c0U0TU9aS3czUjJTQ3dCcFp6VUpFc3k3dDh0cDlaVEM5NHBiakhIMXNMYy1wTTNGYnJobVVkZHhwQk…",
-      "pubDate": "2026-10-14T01:50:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNVW42aklYVnFZaVQ3cWF1QWs2MDFzSUg3SGQ2YmJhTVJxaUxSTm1Ea0Q3X1BKV2FTamZtRlpUMXhORjlrYzBwVF9mU0c1SW9MZkRXTk82VWltQ1VVd1hOaj…",
+      "pubDate": "2026-10-14T15:48:37.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1791942449000",
+      "id": "google-news-ai-1791992882000",
       "region": "abroad",
-      "title": "Coahoma encourages employees to access free Mississippi Artificial Intelligence Network training - Coahoma Community College",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaUVYMUdlQks1SWNMVENjS3Q5Y2RWRTBoV1poUmlDenRVVHlaRjcxZXBEZjhaZ1RrRVJ2cy1qVG8wekpTSUpMY0RZSHJocW9uZElhOXJBdHhLTU52SEhEeFpmRWk0eE94cUUtbHltTkZ2SVg1ZUZkX2tFaFRkQjV6UkZjdklDTjIzc2ZILW9TQUVUNjRPNmNQd1lYOUZmM1U?oc=5",
+      "title": "Join Discerning AI: Exploring artificial intelligence through Marquette’s mission - Marquette Today",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYk1iX2MzblotazVsNWhPZTMybklfdGNwQ0d1UlF0eGs4djU2MmdhM2F3cjc5YjRDNER0el9OSThQSlphWU81V21oNEp1WDJiV1RVZS1Jek4zdXlaRXZ5V3RHWWoyYnNGczgwU3dqUEpNSUlQbmFuamhhUk42R1FuaVQ4cG53eWRQNkx6WHhJOTlhRmJmQ25IWUk5d1NWNDlNci10NGlDcEJQa2RIcWdpSmJBaGpkbU0?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPaUVYMUdlQks1SWNMVENjS3Q5Y2RWRTBoV1poUmlDenRVVHlaRjcxZXBEZjhaZ1RrRVJ2cy1qVG8wekpTSUpMY0RZSHJocW9uZElhOXJBdHhLTU52SEhEeF…",
-      "pubDate": "2026-10-14T01:47:29.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPYk1iX2MzblotazVsNWhPZTMybklfdGNwQ0d1UlF0eGs4djU2MmdhM2F3cjc5YjRDNER0el9OSThQSlphWU81V21oNEp1WDJiV1RVZS1Jek4zdXlaRXZ5V3…",
+      "pubDate": "2026-10-14T15:48:02.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1791933479000",
+      "id": "techcrunch-ai-1791990964000",
       "region": "abroad",
-      "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
-      "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
+      "title": "Deezer will soon let you filter out AI-generated music",
+      "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-14T15:16:04.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1791990804000",
+      "region": "abroad",
+      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last two days in San Francisco’s Moscone West",
+      "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-14T15:13:24.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1791975600000",
+      "region": "abroad",
+      "title": "My Friend Has No Soul",
+      "url": "https://www.wired.com/story/my-friend-has-no-soul/",
       "source": "Wired AI",
-      "summary": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
-      "pubDate": "2026-10-13T23:17:59.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1791933211000",
-      "region": "abroad",
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-13T23:13:31.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1791932734000",
-      "region": "abroad",
-      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-13T23:05:34.000Z",
+      "summary": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
+      "pubDate": "2026-10-14T11:00:00.000Z",
       "isFallback": false
     }
   ]
