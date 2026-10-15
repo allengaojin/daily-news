@@ -1,28 +1,28 @@
 {
   "meta": {
-    "date": "2026-10-14",
-    "updatedAt": "2026-10-14T15:51:09.976Z",
+    "date": "2026-10-15",
+    "updatedAt": "2026-10-15T01:33:42.342Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1791991219000",
+      "id": "it之家-1792026375000",
       "region": "domestic",
-      "title": "男子发布 AI 视频造谣问界，赛力斯起诉索赔百万元",
-      "url": "https://www.ithome.com/1/013/132.htm",
+      "title": "DeepSeek 网页 / API 服务今日出现部分中断，提示“服务器暂时不可用”",
+      "url": "https://www.ithome.com/1/013/179.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"36a5\">IT之家 10 月 14 日消息，据深蓝财经报道，赛力斯汽车有限公司对外披露，已对一名抖音平台短视频用户提起民事诉讼。<strong>该用户借助 AI 工具合成问界车辆行驶中车身塌陷的虚假画面，发布到网络抹黑车辆安全性能</strong>。</p><p data-vmark=\"14f7\">案件将于 10 月 23 日…",
-      "pubDate": "2026-10-14T15:20:19.000Z",
+      "summary": "<p data-vmark=\"81c2\">IT之家 10 月 15 日消息，据多位IT之家小伙伴反馈，DeepSeek 今日出现服务问题，对话提示“<strong>服务器暂时不可用</strong>”。</p><p data-vmark=\"97f2\" style=\"text-align: center;\"><img src=\"https://img.itho…",
+      "pubDate": "2026-10-15T01:06:15.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1791984393000",
+      "id": "it之家-1792024858000",
       "region": "domestic",
-      "title": "消息称苹果 AirPods Pro 4 耳机将提供双版本，金属高端款首发美国",
-      "url": "https://www.ithome.com/1/013/105.htm",
+      "title": "Epic 借助 AI 打造新版启动器，承认传统编程“太难”",
+      "url": "https://www.ithome.com/1/013/172.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"c867\">IT之家 10 月 14 日消息，X 平台爆料人士 Early Apple 今日发文称，苹果考虑为 AirPods Pro 4 耳机采用双版本策略，类似 AirPods 4 和 AirPods 5 定价结构。<strong>其中高端版本将采用金属质感外壳</strong>，与历代产品有所不同，<strong>且首发仅…",
-      "pubDate": "2026-10-14T13:26:33.000Z",
+      "summary": "<p data-vmark=\"6e97\">IT之家 10 月 15 日消息，Epic Games 推出了新版 Epic Games 启动器的预览版，使用 AI“氛围编程”完成开发。</p><p data-vmark=\"f5a8\">Epic 游戏商城官网发布的公告称，由于传统编程方式太过困难，公司决定使用 AI 开发新版启动器。“编程太难了。所以我们干脆用氛围…",
+      "pubDate": "2026-10-15T00:40:58.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1791992917000",
+      "id": "google-news-ai-1792027284000",
       "region": "abroad",
-      "title": "The $100 Million CFO’s Playbook for Onboarding AI Agents - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVW42aklYVnFZaVQ3cWF1QWs2MDFzSUg3SGQ2YmJhTVJxaUxSTm1Ea0Q3X1BKV2FTamZtRlpUMXhORjlrYzBwVF9mU0c1SW9MZkRXTk82VWltQ1VVd1hOajVENWYwbVBUcDBYck5EZ29vTUhBQlpPdm5DbnB5ZURoZXRodTRLeFJ0NGdnTlUxVmtJNjhFVlczWm13NWFZVDhmc1N1ZFZjUmtaRWtWRDk0LTVB?oc=5",
+      "title": "Power shortfall threatens data center construction amid rising AI demand - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00YkZMUDR3S1RUX2tudjl1VnNiTzAxdXBNaTZfYjZVUm42WU1EOW5TWU1MZE5BYlg4QUxVanZMWnhyWGxWX2lqR25vUW1Cd193T2lFaC1vQUliNVU?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNVW42aklYVnFZaVQ3cWF1QWs2MDFzSUg3SGQ2YmJhTVJxaUxSTm1Ea0Q3X1BKV2FTamZtRlpUMXhORjlrYzBwVF9mU0c1SW9MZkRXTk82VWltQ1VVd1hOaj…",
-      "pubDate": "2026-10-14T15:48:37.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE00YkZMUDR3S1RUX2tudjl1VnNiTzAxdXBNaTZfYjZVUm42WU1EOW5TWU1MZE5BYlg4QUxVanZMWnhyWGxWX2lqR25vUW1Cd193T2lFaC1vQUliNVU?oc=5\" …",
+      "pubDate": "2026-10-15T01:21:24.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1791992882000",
+      "id": "google-news-ai-1792027119000",
       "region": "abroad",
-      "title": "Join Discerning AI: Exploring artificial intelligence through Marquette’s mission - Marquette Today",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYk1iX2MzblotazVsNWhPZTMybklfdGNwQ0d1UlF0eGs4djU2MmdhM2F3cjc5YjRDNER0el9OSThQSlphWU81V21oNEp1WDJiV1RVZS1Jek4zdXlaRXZ5V3RHWWoyYnNGczgwU3dqUEpNSUlQbmFuamhhUk42R1FuaVQ4cG53eWRQNkx6WHhJOTlhRmJmQ25IWUk5d1NWNDlNci10NGlDcEJQa2RIcWdpSmJBaGpkbU0?oc=5",
+      "title": "Modal Triples Valuation to $15 Billion as AI Infrastructure Demand Explodes - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUlJ4QTJmVEEtQ1lOYkhnMDNKQVhlSWJXZlg4UE02akdMMWxNYzF0c1dxLVdlZTlKRVVSeUQwRHlENVV0OXhfMUxpSzFRel9rclZXbWloX3dYOU5QQUtpcG1ORjBCY0lnNnR5Mms2MTVyMDZMWWZhMjVXUzZGUUdPdzFwVWlobUE4Zk1KeWxLSm5ZTlhOV25RWGdhRWQ4bkU1OHN3Yzl0SjllTDFFcDVEWEl6clRfOGZjdGk3VmtjeUlZTGNNeUE?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPYk1iX2MzblotazVsNWhPZTMybklfdGNwQ0d1UlF0eGs4djU2MmdhM2F3cjc5YjRDNER0el9OSThQSlphWU81V21oNEp1WDJiV1RVZS1Jek4zdXlaRXZ5V3…",
-      "pubDate": "2026-10-14T15:48:02.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQUlJ4QTJmVEEtQ1lOYkhnMDNKQVhlSWJXZlg4UE02akdMMWxNYzF0c1dxLVdlZTlKRVVSeUQwRHlENVV0OXhfMUxpSzFRel9rclZXbWloX3dYOU5QQUtpcG…",
+      "pubDate": "2026-10-15T01:18:39.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1791990964000",
+      "id": "techcrunch-ai-1792026092000",
       "region": "abroad",
-      "title": "Deezer will soon let you filter out AI-generated music",
-      "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-14T15:16:04.000Z",
+      "pubDate": "2026-10-15T01:01:32.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1791990804000",
+      "id": "techcrunch-ai-1792022400000",
       "region": "abroad",
-      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last two days in San Francisco’s Moscone West",
-      "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-14T15:13:24.000Z",
+      "pubDate": "2026-10-15T00:00:00.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1791975600000",
+      "id": "wired-ai-1792001700000",
       "region": "abroad",
-      "title": "My Friend Has No Soul",
-      "url": "https://www.wired.com/story/my-friend-has-no-soul/",
+      "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
+      "url": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
       "source": "Wired AI",
-      "summary": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
-      "pubDate": "2026-10-14T11:00:00.000Z",
+      "summary": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
+      "pubDate": "2026-10-14T18:15:00.000Z",
       "isFallback": false
     }
   ]
