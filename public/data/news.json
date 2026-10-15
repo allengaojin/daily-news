@@ -1,28 +1,38 @@
 {
   "meta": {
     "date": "2026-10-15",
-    "updatedAt": "2026-10-15T01:33:42.342Z",
-    "mode": "live"
+    "updatedAt": "2026-10-15T15:38:23.496Z",
+    "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1792026375000",
+      "id": "it之家-1792077552000",
       "region": "domestic",
-      "title": "DeepSeek 网页 / API 服务今日出现部分中断，提示“服务器暂时不可用”",
-      "url": "https://www.ithome.com/1/013/179.htm",
+      "title": "英伟达发布 1200 亿参数大模型 Nemotron 3.5 Super VL：单 GPU 智能体任务吞吐量最高提升 5 倍，74B 版本压缩至 24GB",
+      "url": "https://www.ithome.com/1/013/679.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"81c2\">IT之家 10 月 15 日消息，据多位IT之家小伙伴反馈，DeepSeek 今日出现服务问题，对话提示“<strong>服务器暂时不可用</strong>”。</p><p data-vmark=\"97f2\" style=\"text-align: center;\"><img src=\"https://img.itho…",
-      "pubDate": "2026-10-15T01:06:15.000Z",
+      "summary": "<p data-vmark=\"b399\">IT之家 10 月 15 日消息，英伟达宣布推出开放多模态模型 Nemotron 3.5 Super VL，面向需要持续运行、执行多步骤任务的 AI 智能体。</p><p data-vmark=\"74df\">该模型采用混合专家（MoE）架构，总参数量为 1200 亿，激活参数 120 亿。英伟达称，在单张 GPU 上…",
+      "pubDate": "2026-10-15T15:19:12.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1792024858000",
+      "id": "it之家-1792075333000",
       "region": "domestic",
-      "title": "Epic 借助 AI 打造新版启动器，承认传统编程“太难”",
-      "url": "https://www.ithome.com/1/013/172.htm",
+      "title": "Anthropic 抛弃 Git，选择自研版本控制系统 Scion",
+      "url": "https://www.ithome.com/1/013/670.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"6e97\">IT之家 10 月 15 日消息，Epic Games 推出了新版 Epic Games 启动器的预览版，使用 AI“氛围编程”完成开发。</p><p data-vmark=\"f5a8\">Epic 游戏商城官网发布的公告称，由于传统编程方式太过困难，公司决定使用 AI 开发新版启动器。“编程太难了。所以我们干脆用氛围…",
-      "pubDate": "2026-10-15T00:40:58.000Z",
+      "summary": "<p data-vmark=\"3620\">IT之家 10 月 15 日消息，美国人工智能公司 Anthropic 近日宣布弃用 Git，转为采用自研的版本控制系统 Scion，将大部分源代码管理操作转移至服务器，减少智能体和自动化任务需要下载的数据。</p><p data-vmark=\"46dc\">Anthropic 表示，公司 5 月平均每天合并 2500…",
+      "pubDate": "2026-10-15T14:42:13.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1792029380000",
+      "region": "domestic",
+      "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
+      "url": "https://www.qbitai.com/2026/10/503303.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-10-15T01:56:20.000Z",
       "isFallback": false
     },
     {
@@ -36,65 +46,55 @@
       "isFallback": false
     },
     {
-      "id": "量子位-1791964878000",
+      "id": "mock-domestic-01",
       "region": "domestic",
-      "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
-      "url": "https://www.qbitai.com/2026/10/503244.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-10-14T08:01:18.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "少数派-1791938439000",
-      "region": "domestic",
-      "title": "派早报：Apple 发布 HomePod mini 2、HomeView 等新品",
-      "url": "https://sspai.com/post/116138",
-      "source": "少数派",
-      "summary": "Apple Watch 在中国大陆推出睡眠呼吸暂停迹象提示功能、Google 发布 Gemini 4 Argon 等。<a href=\"https://sspai.com/post/116138\" target=\"_blank\">查看全文</a>",
-      "pubDate": "2026-10-14T00:40:39.000Z",
-      "isFallback": false
+      "title": "国内多家人工智能实验室发布新一代开源大模型，推理成本下降超六成",
+      "url": "https://www.jiqizhixin.com/",
+      "source": "机器之心",
+      "summary": "多家国内 AI 实验室联合发布新一代开源大模型系列，在多项基准测试中表现接近闭源旗舰模型，同时通过混合专家架构与推理优化，将单次推理成本降低超过 60%，引发开源社区广泛关注。",
+      "pubDate": "2026-08-10T06:00:00Z",
+      "isFallback": true
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1792027284000",
+      "id": "google-news-ai-1792078528000",
       "region": "abroad",
-      "title": "Power shortfall threatens data center construction amid rising AI demand - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00YkZMUDR3S1RUX2tudjl1VnNiTzAxdXBNaTZfYjZVUm42WU1EOW5TWU1MZE5BYlg4QUxVanZMWnhyWGxWX2lqR25vUW1Cd193T2lFaC1vQUliNVU?oc=5",
+      "title": "Confidence in public-sector AI adoption may be outpacing control, survey finds - Smart Cities Dive",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd0lJVjNzcmpwellYTVg0MHg1V0dtUUlzU3FMVWx0X2tEZnFWRHJCVC1LYnZIaDBCNnhhZ2hfaVNuYVR1aXE1bkJqYlNLb1RGeXRIeXNqaXY1TkhKZG4tTUpUWkFUUnBEMGFGb2ZPQk9qdFBySVhid212OUpudl9wWWpLSjlwc3FHUHhoLUJsbWNQbno3WXlyM0tYRFJ1Rlhv?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE00YkZMUDR3S1RUX2tudjl1VnNiTzAxdXBNaTZfYjZVUm42WU1EOW5TWU1MZE5BYlg4QUxVanZMWnhyWGxWX2lqR25vUW1Cd193T2lFaC1vQUliNVU?oc=5\" …",
-      "pubDate": "2026-10-15T01:21:24.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNd0lJVjNzcmpwellYTVg0MHg1V0dtUUlzU3FMVWx0X2tEZnFWRHJCVC1LYnZIaDBCNnhhZ2hfaVNuYVR1aXE1bkJqYlNLb1RGeXRIeXNqaXY1TkhKZG4tTU…",
+      "pubDate": "2026-10-15T15:35:28.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1792027119000",
+      "id": "google-news-ai-1792078447000",
       "region": "abroad",
-      "title": "Modal Triples Valuation to $15 Billion as AI Infrastructure Demand Explodes - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUlJ4QTJmVEEtQ1lOYkhnMDNKQVhlSWJXZlg4UE02akdMMWxNYzF0c1dxLVdlZTlKRVVSeUQwRHlENVV0OXhfMUxpSzFRel9rclZXbWloX3dYOU5QQUtpcG1ORjBCY0lnNnR5Mms2MTVyMDZMWWZhMjVXUzZGUUdPdzFwVWlobUE4Zk1KeWxLSm5ZTlhOV25RWGdhRWQ4bkU1OHN3Yzl0SjllTDFFcDVEWEl6clRfOGZjdGk3VmtjeUlZTGNNeUE?oc=5",
+      "title": "RELEASE: Gottheimer Discusses AI Policy at the University of Pennsylvania - House.gov",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjVpeVI1ZWYweUN0LU9tSmdFLS1mVUxXRTdiWktEdVc5UG5VdTREVTN4SUZ6ZVFQSktoN0RMUjdCNURXdXBEMXU0OFhLdXc2R21BckRuQkczWm5KNWdfM0VkSFJsWlloZEhCS1QybTZtdk1JOF85SWFlSnpxMEVRQlBfMHd6V2tLaWpKSV9DcV94WXJ4M2pHUkwwRTY2bzljbUZxLUpKM0c2b28?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQUlJ4QTJmVEEtQ1lOYkhnMDNKQVhlSWJXZlg4UE02akdMMWxNYzF0c1dxLVdlZTlKRVVSeUQwRHlENVV0OXhfMUxpSzFRel9rclZXbWloX3dYOU5QQUtpcG…",
-      "pubDate": "2026-10-15T01:18:39.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjVpeVI1ZWYweUN0LU9tSmdFLS1mVUxXRTdiWktEdVc5UG5VdTREVTN4SUZ6ZVFQSktoN0RMUjdCNURXdXBEMXU0OFhLdXc2R21BckRuQkczWm5KNWdfM0…",
+      "pubDate": "2026-10-15T15:34:07.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1792026092000",
+      "id": "techcrunch-ai-1792076556000",
       "region": "abroad",
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "title": "AI agents are coming to Rivian’s cars",
+      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-15T01:01:32.000Z",
+      "pubDate": "2026-10-15T15:02:36.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1792022400000",
+      "id": "techcrunch-ai-1792074573000",
       "region": "abroad",
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-15T00:00:00.000Z",
+      "pubDate": "2026-10-15T14:29:33.000Z",
       "isFallback": false
     },
     {
