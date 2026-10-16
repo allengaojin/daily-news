@@ -1,28 +1,28 @@
 {
   "meta": {
     "date": "2026-10-16",
-    "updatedAt": "2026-10-16T01:29:00.821Z",
+    "updatedAt": "2026-10-16T15:24:01.615Z",
     "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1792113904000",
+      "id": "it之家-1792151894000",
       "region": "domestic",
-      "title": "Meta 首席 AI 官汪滔：不会开源最强模型，但会继续发布优秀开源模型",
-      "url": "https://www.ithome.com/1/013/736.htm",
+      "title": "三星携手 Reality Defender，面向新加坡企业用户开发端侧 AI 深度伪造检测方案",
+      "url": "https://www.ithome.com/1/014/144.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"5338\">IT之家 10 月 16 日消息，当地时间 10 月 15 日，Meta 发布了开放权重 AI 模型 Muse Spark Open。Meta 官方宣称这是迄今为止能力最强的美国开放权重模型。</p><p data-vmark=\"d624\">据 The Next Web 报道，Meta 表示，Muse Spark O…",
-      "pubDate": "2026-10-16T01:25:04.000Z",
+      "summary": "<p data-vmark=\"0b48\">IT之家 10 月 16 日消息，三星宣布联合深度伪造检测公司 Reality Defender 合作，开发面向企业用户的端侧 AI 深度伪造检测方案。该方案将直接在三星 Galaxy 设备上运行，帮助企业识别 AI 生成的虚假语音、视频和图像，降低冒充诈骗及其他相关风险，计划率先落地新加坡市场。</p><p sty…",
+      "pubDate": "2026-10-16T11:58:14.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1792113242000",
+      "id": "it之家-1792151379000",
       "region": "domestic",
-      "title": "苹果 Minions 研究：闲置 Mac GPU 组队，几分钟就能完成 10 小时 AI 任务",
-      "url": "https://www.ithome.com/1/013/730.htm",
+      "title": "社交平台 Bluesky 扩展旗下 Attie AI 工具功能：支持创建小游戏、投票等社交应用",
+      "url": "https://www.ithome.com/1/014/141.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"1080\">IT之家 10 月 16 日消息，科技媒体 AppleInsider 昨日（10 月 15 日）发布博文，报道称苹果研究团队公布了一项名为 Minions 的系统研究，<strong>尝试聚合闲置 Mac GPU，形成一个可动态调度的“虚拟 GPU 云”，用于运行大规模机器学习推理任务。</strong></p><p…",
-      "pubDate": "2026-10-16T01:14:02.000Z",
+      "summary": "<p data-vmark=\"5a8a\">IT之家 10 月 16 日消息，社交平台 Bluesky 宣布扩展旗下 AI 工具 Attie，用户现在可以通过输入提示词，创建小游戏、投票和数据仪表盘等轻量级社交应用，并将其作为独立网站分享给其他人。</p><p style=\"text-align: center;\" data-vmark=\"db6b\"><img…",
+      "pubDate": "2026-10-16T11:49:39.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1792113327000",
+      "id": "google-news-ai-1792163598000",
       "region": "abroad",
-      "title": "Who’s the author when AI does the work? Philosophers say the law hasn’t caught up - 9and10News.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzVqRlRjanQ2aTFDYlZUS0xuZ1czNmFjZkF0aHBjTzNiN0xkOUUxeXRtdlpyVnZHVzdMWERSWnUxYlBXeUxHc0pPX09RLXlSMlhpckplTkxwV0hKNVBGYjFuZjBfdWNmRjAwUVUwZmxQVzRoYkc3OHpnN3hEX3pUMldmVThjc193RVAzM29CZ091YmIwaUpnZVhWZm8zSEZ5Q3BPT2NzaV9DZEI2cUNYZGdVV3RSUGF0?oc=5",
+      "title": "AI Isn't the Strategy. Knowing Where to Use It Is - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQlJ5Sk1hX0FtejZ2a2VWMzU1WTBySXloTC1zeFdYWTZNbHJQQnpBRHFzU0dQbnJJbHJHZko5aEh2SVhiVWI4YzRoOXU1U05WU1JSX3hsQmhyT1VRV0JkaGMwb3p5WjNnb0s0aXMtajh1U01JcmMwblltb2tKUG1FZmdTLVRJVzJFMHVqWkZraUU?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzVqRlRjanQ2aTFDYlZUS0xuZ1czNmFjZkF0aHBjTzNiN0xkOUUxeXRtdlpyVnZHVzdMWERSWnUxYlBXeUxHc0pPX09RLXlSMlhpckplTkxwV0hKNVBGYj…",
-      "pubDate": "2026-10-16T01:15:27.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPQlJ5Sk1hX0FtejZ2a2VWMzU1WTBySXloTC1zeFdYWTZNbHJQQnpBRHFzU0dQbnJJbHJHZko5aEh2SVhiVWI4YzRoOXU1U05WU1JSX3hsQmhyT1VRV0JkaG…",
+      "pubDate": "2026-10-16T15:13:18.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1792113060000",
+      "id": "google-news-ai-1792163356000",
       "region": "abroad",
-      "title": "Marissa Mayer: Anyone who says they know how AI will play out is ‘either lying or arrogant or both’ - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLVhWSTBhSUFacUZ6b19WY2V3OV9pRkIzbmhvMGxHbkRGWm9kTTFhV0VTb1lQWGJ1MVctamN0NkFDeU1EQ2U1aGw2Q3VBWk1OMFFIZ2FBc3hBTHBjbFZTZDBFMTJDR0Vwcnd1bXNKMXAyMGIxcllZU1hqVV83OWM4b3VQZnBWZFg0SXk5YXBXQjJBRHp2d1N1eFlYTVFEVHJucUZIS3liVER4ZUpDdUdSM0thaEhqenpFUGs0el9Wd1hHX1BPZXA4?oc=5",
+      "title": "US tells election officials to be on guard against AI-powered tricks ahead of midterms - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZjBfRnhSUUg5ODBUcVpqMHhfWkVYempmd0pFTmFrZXMtYV9UODRjZHpTZVFrTVVDMXdkc2plSGVKa2V4ZmhtWGtNODl3dm9kOFZxUmJ6cjQ3WG1DU0dLMF9vSjhRMC1HWjJRdGJHaGpWYllvWG5hY1dQSG9MT212NlpFNXA3MnFuOGg3UDVSZzc1RXRSSi1HcjBLYjRJdm1paEQxMmV6MFBtUUxxZFo4TzlxSjVVZ1FnaWlybGc0OGZvZHExUmJyOEtn?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQLVhWSTBhSUFacUZ6b19WY2V3OV9pRkIzbmhvMGxHbkRGWm9kTTFhV0VTb1lQWGJ1MVctamN0NkFDeU1EQ2U1aGw2Q3VBWk1OMFFIZ2FBc3hBTHBjbFZTZD…",
-      "pubDate": "2026-10-16T01:11:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNZjBfRnhSUUg5ODBUcVpqMHhfWkVYempmd0pFTmFrZXMtYV9UODRjZHpTZVFrTVVDMXdkc2plSGVKa2V4ZmhtWGtNODl3dm9kOFZxUmJ6cjQ3WG1DU0dLMF…",
+      "pubDate": "2026-10-16T15:09:16.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1792107896000",
+      "id": "wired-ai-1792162800000",
       "region": "abroad",
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
+      "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
+      "source": "Wired AI",
+      "summary": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
+      "pubDate": "2026-10-16T15:00:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1792160811000",
+      "region": "abroad",
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-15T23:44:56.000Z",
+      "pubDate": "2026-10-16T14:26:51.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1792099095000",
+      "id": "techcrunch-ai-1792159200000",
       "region": "abroad",
-      "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
-      "source": "Wired AI",
-      "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about…",
-      "pubDate": "2026-10-15T21:18:15.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1792098028000",
-      "region": "abroad",
-      "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
-      "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
-      "source": "Wired AI",
-      "summary": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
-      "pubDate": "2026-10-15T21:00:28.000Z",
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-16T14:00:00.000Z",
       "isFallback": false
     }
   ]
