@@ -1,48 +1,48 @@
 {
   "meta": {
     "date": "2026-10-17",
-    "updatedAt": "2026-10-17T01:21:34.693Z",
+    "updatedAt": "2026-10-17T14:15:54.049Z",
     "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1792199983000",
+      "id": "it之家-1792238191000",
       "region": "domestic",
-      "title": "微软造出“AI 学生”：替真人试课，模拟学生优化 AI 导师",
-      "url": "https://www.ithome.com/1/014/226.htm",
+      "title": "华硕推出旗下首款英特尔 Arc Pro B70 显卡：32GB ECC 显存，AI 算力达 367 TOPS",
+      "url": "https://www.ithome.com/1/014/390.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"fed8\">IT之家 10 月 17 日消息，微软研究院于 10 月 12 日发布研究系统 StudentSim，<strong>试图解决 AI 辅导工具开发中的一个关键难题：如何在没有大规模真人实验的情况下，判断一段讲解、提示或提问是否真正帮助学生进步。</strong></p><p class=\"my-2 [&amp;+p]…",
-      "pubDate": "2026-10-17T01:19:43.000Z",
+      "summary": "<p data-vmark=\"d14f\">IT之家 10 月 17 日消息，据 Wccftech 今日报道，华硕推出了旗下首款英特尔 Arc Pro B70 显卡，面向 AI 推理及工作站市场。华硕此前缺席了英特尔 Arc 独立显卡的多个世代，此次推出新品意味着其再次加入英特尔独立显卡产品阵营。</p><p style=\"text-align: center…",
+      "pubDate": "2026-10-17T11:56:31.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1792197802000",
+      "id": "it之家-1792236574000",
       "region": "domestic",
-      "title": "223 道题、2651 条标准：阿里 Qwen 开源 BlenderWorld，给 AI 出了一套 3D 建模大考",
-      "url": "https://www.ithome.com/1/014/217.htm",
+      "title": "科大讯飞 AI 词典笔 X9 上架：内置 85 本词典、支持小初高 9 科知识查询，744 元",
+      "url": "https://www.ithome.com/1/014/382.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"4781\">IT之家 10 月 17 日消息，阿里 Qwen 团队于 10 月 14 日开源 BlenderWorld，<strong>这是一个用于评测视觉智能体在 Blender 中完成真实 3D 创作任务的基准。</strong>项目采用 MIT 许可证，代码与数据集已同步发布至 GitHub、Hugging Face 和 …",
-      "pubDate": "2026-10-17T00:43:22.000Z",
+      "summary": "<p data-vmark=\"3517\">IT之家 10 月 17 日消息，科大讯飞现已在京东上架讯飞 AI 词典笔 X9，定价为 744 元，部分地区国补后低至 674.1 元。</p><p style=\"text-align: center;\" data-vmark=\"072f\"><img src=\"https://img.ithome.com/news…",
+      "pubDate": "2026-10-17T11:29:34.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1792058828000",
+      "id": "量子位-1792155294000",
       "region": "domestic",
-      "title": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
-      "url": "https://www.qbitai.com/2026/10/503645.html",
+      "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+      "url": "https://www.qbitai.com/2026/10/503880.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-10-15T10:07:08.000Z",
+      "pubDate": "2026-10-16T12:54:54.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1792057409000",
+      "id": "量子位-1792138321000",
       "region": "domestic",
-      "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
-      "url": "https://www.qbitai.com/2026/10/503640.html",
+      "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
+      "url": "https://www.qbitai.com/2026/10/503865.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-10-15T09:43:29.000Z",
+      "pubDate": "2026-10-16T08:12:01.000Z",
       "isFallback": false
     },
     {
@@ -58,23 +58,33 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1792198928000",
+      "id": "google-news-ai-1792245825000",
       "region": "abroad",
-      "title": "Buying Legal NYC 2026: Why legal leaders are focused on the foundations of AI success - Wolters Kluwer",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObHNRWkVhU0RsRW5MemFEZE5IVTFSR3pqVmRRNXNNajBOVFM5X0YtRUM0dFpENWRNc1J1RkZtemswWmZlcmlmQVQweTh6a1dnZFFYWi1QakhhOXhKYkUxQl9Qc1BFd3FjZXg3RDVNdkJQbUNBQnB0V1U1d2xDaGdBd2wzZUp6engxZUJzWXkyQlJSNmtHYUtRQ084UzlMaEk0RVFYZmJUaGw5ZHFScE5MMGY5b3dIdHExbmYzc0ZISm5EUmI4ZUxGUlJEUGlwdw?oc=5",
+      "title": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWtzS3Z0V1lyTlMwXzJFdEVhSTB4S0J6MDJza1l2akRYZkN1WGJoRzdqWnM4a2FodVp6OGQxeC1iMVZmTmRUS1JuZmZyMTM4Rk1kRUNtUm1rVXI5Y3NiMFRQY1hyNGM5LWRMQzJLalF0dEw1SERsbXB1ZEFYZjRFWDJKTzViaXI0cnR4dlVHczdtVk9NTzJlamVMQTlVT1NlWDUtbWRKNTUtTXQwcU9vZmtRRWNDbEpZaWZGbNIBwgFBVV95cUxOS0gyRmFTaUxnUHZwVUppMXJkOENlZTZTS29PSGdIWVBQYWZZNF9LZUo4UGh3RlBzcFNFQ3RMNkloTFVzQmVxWGl2WFdpUXdONExFcTJuRXR4LTNaMFlHazVjbElPT1JSWTNQTHFwMTItb2ZWZzhUOHQxMnM1ckJmSmpoQnhWNEpHU0l2anVGckM2RVFpWFIxTFNzZEFXU21nOW16WGJmQlNVWXdKX0p2UExNaTFPTzYwRThXRkt3YWZjdw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxObHNRWkVhU0RsRW5MemFEZE5IVTFSR3pqVmRRNXNNajBOVFM5X0YtRUM0dFpENWRNc1J1RkZtemswWmZlcmlmQVQweTh6a1dnZFFYWi1QakhhOXhKYkUxQl…",
-      "pubDate": "2026-10-17T01:02:08.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWtzS3Z0V1lyTlMwXzJFdEVhSTB4S0J6MDJza1l2akRYZkN1WGJoRzdqWnM4a2FodVp6OGQxeC1iMVZmTmRUS1JuZmZyMTM4Rk1kRUNtUm1rVXI5Y3NiMF…",
+      "pubDate": "2026-10-17T14:03:45.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1792197840000",
+      "id": "google-news-ai-1792245820000",
       "region": "abroad",
-      "title": "'Seeing isn’t believing anymore', as AI scams reach historic highs - Spectrum News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYXYxVTMwTVZpNzY1N2ZhOXk2NEFXNG5qbkdPUVZoVUdWUTViZV9lN29vdEpHZi1qU0NDbXAzalQwdlJyRWRjR2tsbDcyNXVuaFJqTUZDSDBxelJEcjFDR2tfemRnb2lxbXZCS1drejhTclNBU0ZYOE9FRkxWN1p0STlxZmdVaWtPbGN2SzBybklsdExSZHFHQlhsR08tN2k1Um5Ld3E1dXhNLVMyYXlWN2I1cFpTVHVhV2hrSmdpV0hsYWoy?oc=5",
+      "title": "Breast MRI wait times can stretch for weeks. How AI could help speed up scans - Boston 25 News",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWjE5UDNFNFlkLUo2QWI3aUg4b0Z2bllGQW5qNEVGeDdCRWlQNW5BSUpmZDhZLXE1T3FLdFU2Z0xNTzJqZGt3UmExNWNmWUpuLS1tY1NuMzVaaGY2YUhOUEE3RkoxaUFUV3A1ZVAxdWZfNkNNLURlZ21tV2d6VEg5QlJFRDlPZWZURi1RWGE4MkhxWTRNU0c1U0wyeDA3OFJSMm1BMDlVbXRqUDZ6VHlxYVVxVG10bVF0MVpKSUxFYlloOGlDeE94My00b0ZTb1U5Wkdwbnp3c9IB6wFBVV95cUxPVndIMVBUdm1GZnBQVlJEUUhGb1BIdTlNT3dSSDRmQm8tdjhnM3l4bUw2bE5laW1Zb014WnNxYnh6TWw1ZDZaZXdRTUN3cWFPQ24xZHlDOVQ5bHBibklrcU0tZERnVEl5SUFKMUxEc1RrN3U4Y2lWOC1zTjRmdU9FYXNNWTVkZUpFMmx3NjI2QjFQTjZLQXdxSmlMN2VnUDhtMFpRdzBqTTVYLUM3QTRxMEFQZG5NWEV6dUpyNS04dDZPaEd0T2xlVHV1ajRreXpjRVRMeE04Ui1TRm9tUlRmeVhtcVFZVDdYalVR?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQYXYxVTMwTVZpNzY1N2ZhOXk2NEFXNG5qbkdPUVZoVUdWUTViZV9lN29vdEpHZi1qU0NDbXAzalQwdlJyRWRjR2tsbDcyNXVuaFJqTUZDSDBxelJEcjFDR2…",
-      "pubDate": "2026-10-17T00:44:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWjE5UDNFNFlkLUo2QWI3aUg4b0Z2bllGQW5qNEVGeDdCRWlQNW5BSUpmZDhZLXE1T3FLdFU2Z0xNTzJqZGt3UmExNWNmWUpuLS1tY1NuMzVaaGY2YUhOUE…",
+      "pubDate": "2026-10-17T14:03:40.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1792227600000",
+      "region": "abroad",
+      "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+      "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+      "source": "Wired AI",
+      "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+      "pubDate": "2026-10-17T09:00:00.000Z",
       "isFallback": false
     },
     {
@@ -95,16 +105,6 @@
       "source": "Wired AI",
       "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked t…",
       "pubDate": "2026-10-16T20:05:08.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "mit-tech-review-ai-1792173600000",
-      "region": "abroad",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "source": "MIT Tech Review AI",
-      "summary": "",
-      "pubDate": "2026-10-16T18:00:00.000Z",
       "isFallback": false
     }
   ]
