@@ -1,28 +1,28 @@
 {
   "meta": {
-    "date": "2026-10-16",
-    "updatedAt": "2026-10-16T15:24:01.615Z",
+    "date": "2026-10-17",
+    "updatedAt": "2026-10-17T01:21:34.693Z",
     "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1792151894000",
+      "id": "it之家-1792199983000",
       "region": "domestic",
-      "title": "三星携手 Reality Defender，面向新加坡企业用户开发端侧 AI 深度伪造检测方案",
-      "url": "https://www.ithome.com/1/014/144.htm",
+      "title": "微软造出“AI 学生”：替真人试课，模拟学生优化 AI 导师",
+      "url": "https://www.ithome.com/1/014/226.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"0b48\">IT之家 10 月 16 日消息，三星宣布联合深度伪造检测公司 Reality Defender 合作，开发面向企业用户的端侧 AI 深度伪造检测方案。该方案将直接在三星 Galaxy 设备上运行，帮助企业识别 AI 生成的虚假语音、视频和图像，降低冒充诈骗及其他相关风险，计划率先落地新加坡市场。</p><p sty…",
-      "pubDate": "2026-10-16T11:58:14.000Z",
+      "summary": "<p data-vmark=\"fed8\">IT之家 10 月 17 日消息，微软研究院于 10 月 12 日发布研究系统 StudentSim，<strong>试图解决 AI 辅导工具开发中的一个关键难题：如何在没有大规模真人实验的情况下，判断一段讲解、提示或提问是否真正帮助学生进步。</strong></p><p class=\"my-2 [&amp;+p]…",
+      "pubDate": "2026-10-17T01:19:43.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1792151379000",
+      "id": "it之家-1792197802000",
       "region": "domestic",
-      "title": "社交平台 Bluesky 扩展旗下 Attie AI 工具功能：支持创建小游戏、投票等社交应用",
-      "url": "https://www.ithome.com/1/014/141.htm",
+      "title": "223 道题、2651 条标准：阿里 Qwen 开源 BlenderWorld，给 AI 出了一套 3D 建模大考",
+      "url": "https://www.ithome.com/1/014/217.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"5a8a\">IT之家 10 月 16 日消息，社交平台 Bluesky 宣布扩展旗下 AI 工具 Attie，用户现在可以通过输入提示词，创建小游戏、投票和数据仪表盘等轻量级社交应用，并将其作为独立网站分享给其他人。</p><p style=\"text-align: center;\" data-vmark=\"db6b\"><img…",
-      "pubDate": "2026-10-16T11:49:39.000Z",
+      "summary": "<p data-vmark=\"4781\">IT之家 10 月 17 日消息，阿里 Qwen 团队于 10 月 14 日开源 BlenderWorld，<strong>这是一个用于评测视觉智能体在 Blender 中完成真实 3D 创作任务的基准。</strong>项目采用 MIT 许可证，代码与数据集已同步发布至 GitHub、Hugging Face 和 …",
+      "pubDate": "2026-10-17T00:43:22.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1792163598000",
+      "id": "google-news-ai-1792198928000",
       "region": "abroad",
-      "title": "AI Isn't the Strategy. Knowing Where to Use It Is - Medscape",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQlJ5Sk1hX0FtejZ2a2VWMzU1WTBySXloTC1zeFdYWTZNbHJQQnpBRHFzU0dQbnJJbHJHZko5aEh2SVhiVWI4YzRoOXU1U05WU1JSX3hsQmhyT1VRV0JkaGMwb3p5WjNnb0s0aXMtajh1U01JcmMwblltb2tKUG1FZmdTLVRJVzJFMHVqWkZraUU?oc=5",
+      "title": "Buying Legal NYC 2026: Why legal leaders are focused on the foundations of AI success - Wolters Kluwer",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObHNRWkVhU0RsRW5MemFEZE5IVTFSR3pqVmRRNXNNajBOVFM5X0YtRUM0dFpENWRNc1J1RkZtemswWmZlcmlmQVQweTh6a1dnZFFYWi1QakhhOXhKYkUxQl9Qc1BFd3FjZXg3RDVNdkJQbUNBQnB0V1U1d2xDaGdBd2wzZUp6engxZUJzWXkyQlJSNmtHYUtRQ084UzlMaEk0RVFYZmJUaGw5ZHFScE5MMGY5b3dIdHExbmYzc0ZISm5EUmI4ZUxGUlJEUGlwdw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPQlJ5Sk1hX0FtejZ2a2VWMzU1WTBySXloTC1zeFdYWTZNbHJQQnpBRHFzU0dQbnJJbHJHZko5aEh2SVhiVWI4YzRoOXU1U05WU1JSX3hsQmhyT1VRV0JkaG…",
-      "pubDate": "2026-10-16T15:13:18.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxObHNRWkVhU0RsRW5MemFEZE5IVTFSR3pqVmRRNXNNajBOVFM5X0YtRUM0dFpENWRNc1J1RkZtemswWmZlcmlmQVQweTh6a1dnZFFYWi1QakhhOXhKYkUxQl…",
+      "pubDate": "2026-10-17T01:02:08.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1792163356000",
+      "id": "google-news-ai-1792197840000",
       "region": "abroad",
-      "title": "US tells election officials to be on guard against AI-powered tricks ahead of midterms - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZjBfRnhSUUg5ODBUcVpqMHhfWkVYempmd0pFTmFrZXMtYV9UODRjZHpTZVFrTVVDMXdkc2plSGVKa2V4ZmhtWGtNODl3dm9kOFZxUmJ6cjQ3WG1DU0dLMF9vSjhRMC1HWjJRdGJHaGpWYllvWG5hY1dQSG9MT212NlpFNXA3MnFuOGg3UDVSZzc1RXRSSi1HcjBLYjRJdm1paEQxMmV6MFBtUUxxZFo4TzlxSjVVZ1FnaWlybGc0OGZvZHExUmJyOEtn?oc=5",
+      "title": "'Seeing isn’t believing anymore', as AI scams reach historic highs - Spectrum News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYXYxVTMwTVZpNzY1N2ZhOXk2NEFXNG5qbkdPUVZoVUdWUTViZV9lN29vdEpHZi1qU0NDbXAzalQwdlJyRWRjR2tsbDcyNXVuaFJqTUZDSDBxelJEcjFDR2tfemRnb2lxbXZCS1drejhTclNBU0ZYOE9FRkxWN1p0STlxZmdVaWtPbGN2SzBybklsdExSZHFHQlhsR08tN2k1Um5Ld3E1dXhNLVMyYXlWN2I1cFpTVHVhV2hrSmdpV0hsYWoy?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNZjBfRnhSUUg5ODBUcVpqMHhfWkVYempmd0pFTmFrZXMtYV9UODRjZHpTZVFrTVVDMXdkc2plSGVKa2V4ZmhtWGtNODl3dm9kOFZxUmJ6cjQ3WG1DU0dLMF…",
-      "pubDate": "2026-10-16T15:09:16.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQYXYxVTMwTVZpNzY1N2ZhOXk2NEFXNG5qbkdPUVZoVUdWUTViZV9lN29vdEpHZi1qU0NDbXAzalQwdlJyRWRjR2tsbDcyNXVuaFJqTUZDSDBxelJEcjFDR2…",
+      "pubDate": "2026-10-17T00:44:00.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1792162800000",
+      "id": "techcrunch-ai-1792185748000",
       "region": "abroad",
-      "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
-      "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-16T21:22:28.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1792181108000",
+      "region": "abroad",
+      "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+      "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
       "source": "Wired AI",
-      "summary": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
-      "pubDate": "2026-10-16T15:00:00.000Z",
+      "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked t…",
+      "pubDate": "2026-10-16T20:05:08.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1792160811000",
+      "id": "mit-tech-review-ai-1792173600000",
       "region": "abroad",
-      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-      "source": "TechCrunch AI",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Tech Review AI",
       "summary": "",
-      "pubDate": "2026-10-16T14:26:51.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1792159200000",
-      "region": "abroad",
-      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-16T14:00:00.000Z",
+      "pubDate": "2026-10-16T18:00:00.000Z",
       "isFallback": false
     }
   ]
