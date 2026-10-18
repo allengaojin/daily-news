@@ -1,28 +1,28 @@
 {
   "meta": {
     "date": "2026-10-18",
-    "updatedAt": "2026-10-18T01:11:18.900Z",
+    "updatedAt": "2026-10-18T14:39:13.813Z",
     "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1792284124000",
+      "id": "it之家-1792326085000",
       "region": "domestic",
-      "title": "极夜公布 AI 双卡工作站 DeskOne A1，基于英特尔酷睿 Ultra 9 处理器 275HX",
-      "url": "https://www.ithome.com/1/014/440.htm",
+      "title": "研究人员让 6 款 AI 智能体尝试“追回火车票退款”，暴露模型使用激进方式执行任务风险",
+      "url": "https://www.ithome.com/1/014/589.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"a1f9\">IT之家 10 月 18 日消息，极夜 (TOPFEEL) 昨日公布了其 AI 双卡工作站 DeskOne A1。这一型号基于英特尔酷睿 Ultra 9 处理器 275HX。</p><p data-vmark=\"09ff\">DeskOne A1 拥有全铝机身，三维 370×195×290 (mm)，<strong>体…",
-      "pubDate": "2026-10-18T00:42:04.000Z",
+      "summary": "<p data-vmark=\"3b97\">IT之家 10 月 18 日消息，独立 AI 安全研究人员 Matilda Glynn-Henley 近期针对 6 款 AI 智能体进行安全测试，让相应模型尝试追回一笔已取消火车行程的退款，这些模型为了达成目的不惜编造理由、恐吓威胁、向企业及政府机构发送大量轰炸消息，然而它们最终并未成功追回退款。</p><p dat…",
+      "pubDate": "2026-10-18T12:21:25.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1792283736000",
+      "id": "it之家-1792324792000",
       "region": "domestic",
-      "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是“人”，是“创作者”",
-      "url": "https://www.ithome.com/1/014/439.htm",
+      "title": "DeepSeek API 已支持网页搜索和抓取，单价为每 1000 次成功请求 5 元",
+      "url": "https://www.ithome.com/1/014/587.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"3612\">IT之家 10 月 18 日消息，据日本游戏媒体“电击 ONLINE”报道，科乐美（Konami）社长早川英树谈及了人工智能对游戏行业带来的影响。</p><p data-vmark=\"fc44\">早川英树指出，尽管业内普遍认为 AI 的应用将显著降低游戏开发的门槛，但他表示，“我认为市场环境不会发生巨大改变。”</p…",
-      "pubDate": "2026-10-18T00:35:36.000Z",
+      "summary": "<p data-vmark=\"00bb\">IT之家 10 月 18 日消息，DeepSeek 今日发布公告，DeepSeek API 现已支持网页搜索与抓取，按请求次数计费，单价为每 1000 次成功请求 5 元。</p><p data-vmark=\"2af6\">公告称，当前用户在 DeepSeek Harness / Claude Code / Codex…",
+      "pubDate": "2026-10-18T11:59:52.000Z",
       "isFallback": false
     },
     {
@@ -58,23 +58,23 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1792285246000",
+      "id": "google-news-ai-1792332879000",
       "region": "abroad",
-      "title": "Spooky Season: Goldman’s AI Credit Charts Hint at a 15% Hyperscaler Catch Down - The Dark Side Of The Boom",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRGRyZXpvZ1pnM0RMaWVPMzNwd2lidXdwN0x1Z3pFUklrMTJfMjdmMWZDaDFHbEdYclpzOERONHpqaF9UNlk1aVRLdlpGbW9RSWxqX29ETi0ydUQtdWY5QUs5VjZ4TWVtcTcycW1HNmsxSlY1MzFKeVJLWURmNzJCekx3?oc=5",
+      "title": "Is The MBA Still Worth It In The Age Of AI? 2 Students And A Trove Of Coaching Data Say Yes – With Caveats - Poets&Quants",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZ05yMVB0Vlp1UWpqdklDZk1kUjRLelJDaUhHZkJYLXZLUS13My1mLTE3TkVyM2V5ODg3aU1tNHB4bWVieEkxa1hDX3lzYjlsczRCY0hZTDlsdWVaQzVoM0FDZE9feXA1YU1HLTRZRHlzM0dDZW5aWlo3aGZ4ZlVNQWFQZkw2SHdUZ2J4YXBEWnNSLWNVMXRaOUVHaDJlZWhqZzhwTnhsTkEzbDc4NUtYSVFuM21SLWwyX0RlSEdoZV9MNk5aRGZfOW81OTlrend3UHhibXAxSWZiZHFVZUgzeExNQ0Mzczh4bjBRSDgtUQ?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPRGRyZXpvZ1pnM0RMaWVPMzNwd2lidXdwN0x1Z3pFUklrMTJfMjdmMWZDaDFHbEdYclpzOERONHpqaF9UNlk1aVRLdlpGbW9RSWxqX29ETi0ydUQtdWY5QU…",
-      "pubDate": "2026-10-18T01:00:46.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZ05yMVB0Vlp1UWpqdklDZk1kUjRLelJDaUhHZkJYLXZLUS13My1mLTE3TkVyM2V5ODg3aU1tNHB4bWVieEkxa1hDX3lzYjlsczRCY0hZTDlsdWVaQzVoM0…",
+      "pubDate": "2026-10-18T14:14:39.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1792284257000",
+      "id": "google-news-ai-1792332165000",
       "region": "abroad",
-      "title": "DXC Technology (DXC) Following Its LangChain AI Deal, Is The Valuation Story Running Ahead? - Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZWE1R2d2cm5PWE51c1RfTFNaSkpTdHZUNU0xZWhfOWFoNTk5c05RRUJKOXBWRHlGWU1LbzZLeTdkMjhfUGFSR0dSbkthMkJkQmtMbTRjRDk4WUwzdHA1N0duRUJ0RElha1VqQ0tmazVERklZZ3MzOGgzdThYdUNnOGQ3aFp1UWhlVHhkMW54YjRyQVhTd0UySWNINTQ4dmt4RHFYZGpwVG0wMlNkNnIwUkg1ckJuNDVuT0IxTHRwY2JCOTh2WXpjdGN30gHPAUFVX3lxTFB5aXJKcEdZN2FKemJfRC0wWDNud0dSb0MtLUJfY3FYbzdRZjNCbmswWXFscFYzMWJDWkVrOVUwSndsWEV0STd0UVFUUHl6Vl9jblpYdE8wajluUVYxOFM5N3Vncmc0NEJfUXFkZ1cxWFRIVC1ySlZ2LUpMdUtDZ0trcEZKdGs5Nk1JeldPTTVBUzJjUENYWjZ4YU0zNEtTdzJ6RDR5ZFN1ODU5UWY5bzVpVVB2ZzY0OS1SOTZkN2JqVThON1ZBZjBNdDdHS1pkYw?oc=5",
+      "title": "Opinion | Every novel might have to pass an AI test soon - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa1R2N21tUndoQWNsbnZna3FzZHZKdkRVekV1LXgtUHhvM3htaUVTSkkxZl9rb2diNEZxblppdnFKUDhUSEZIMnJqZWtZYWhmcUoyYnMwWXk5c244M0pNd2o5dDZZTzFRakxiZWdtNXhVamlad0I3eWNxX0ZZMmhRUThhQVE5cklWRkppbU4ySmpodlFjb1ZBN0EzMzVkNnp0U2dv?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPZWE1R2d2cm5PWE51c1RfTFNaSkpTdHZUNU0xZWhfOWFoNTk5c05RRUJKOXBWRHlGWU1LbzZLeTdkMjhfUGFSR0dSbkthMkJkQmtMbTRjRDk4WUwzdHA1N0…",
-      "pubDate": "2026-10-18T00:44:17.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOa1R2N21tUndoQWNsbnZna3FzZHZKdkRVekV1LXgtUHhvM3htaUVTSkkxZl9rb2diNEZxblppdnFKUDhUSEZIMnJqZWtZYWhmcUoyYnMwWXk5c244M0pNd2…",
+      "pubDate": "2026-10-18T14:02:45.000Z",
       "isFallback": false
     },
     {
