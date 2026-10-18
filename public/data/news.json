@@ -1,48 +1,48 @@
 {
   "meta": {
-    "date": "2026-10-17",
-    "updatedAt": "2026-10-17T14:15:54.049Z",
+    "date": "2026-10-18",
+    "updatedAt": "2026-10-18T01:11:18.900Z",
     "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1792238191000",
+      "id": "it之家-1792284124000",
       "region": "domestic",
-      "title": "华硕推出旗下首款英特尔 Arc Pro B70 显卡：32GB ECC 显存，AI 算力达 367 TOPS",
-      "url": "https://www.ithome.com/1/014/390.htm",
+      "title": "极夜公布 AI 双卡工作站 DeskOne A1，基于英特尔酷睿 Ultra 9 处理器 275HX",
+      "url": "https://www.ithome.com/1/014/440.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"d14f\">IT之家 10 月 17 日消息，据 Wccftech 今日报道，华硕推出了旗下首款英特尔 Arc Pro B70 显卡，面向 AI 推理及工作站市场。华硕此前缺席了英特尔 Arc 独立显卡的多个世代，此次推出新品意味着其再次加入英特尔独立显卡产品阵营。</p><p style=\"text-align: center…",
-      "pubDate": "2026-10-17T11:56:31.000Z",
+      "summary": "<p data-vmark=\"a1f9\">IT之家 10 月 18 日消息，极夜 (TOPFEEL) 昨日公布了其 AI 双卡工作站 DeskOne A1。这一型号基于英特尔酷睿 Ultra 9 处理器 275HX。</p><p data-vmark=\"09ff\">DeskOne A1 拥有全铝机身，三维 370×195×290 (mm)，<strong>体…",
+      "pubDate": "2026-10-18T00:42:04.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1792236574000",
+      "id": "it之家-1792283736000",
       "region": "domestic",
-      "title": "科大讯飞 AI 词典笔 X9 上架：内置 85 本词典、支持小初高 9 科知识查询，744 元",
-      "url": "https://www.ithome.com/1/014/382.htm",
+      "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是“人”，是“创作者”",
+      "url": "https://www.ithome.com/1/014/439.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"3517\">IT之家 10 月 17 日消息，科大讯飞现已在京东上架讯飞 AI 词典笔 X9，定价为 744 元，部分地区国补后低至 674.1 元。</p><p style=\"text-align: center;\" data-vmark=\"072f\"><img src=\"https://img.ithome.com/news…",
-      "pubDate": "2026-10-17T11:29:34.000Z",
+      "summary": "<p data-vmark=\"3612\">IT之家 10 月 18 日消息，据日本游戏媒体“电击 ONLINE”报道，科乐美（Konami）社长早川英树谈及了人工智能对游戏行业带来的影响。</p><p data-vmark=\"fc44\">早川英树指出，尽管业内普遍认为 AI 的应用将显著降低游戏开发的门槛，但他表示，“我认为市场环境不会发生巨大改变。”</p…",
+      "pubDate": "2026-10-18T00:35:36.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1792155294000",
+      "id": "量子位-1792239669000",
       "region": "domestic",
-      "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
-      "url": "https://www.qbitai.com/2026/10/503880.html",
+      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+      "url": "https://www.qbitai.com/2026/10/504067.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-10-16T12:54:54.000Z",
+      "pubDate": "2026-10-17T12:21:09.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1792138321000",
+      "id": "量子位-1792239225000",
       "region": "domestic",
-      "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
-      "url": "https://www.qbitai.com/2026/10/503865.html",
+      "title": "智谱新模型，懂法方面全球第一了",
+      "url": "https://www.qbitai.com/2026/10/503965.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-10-16T08:12:01.000Z",
+      "pubDate": "2026-10-17T12:13:45.000Z",
       "isFallback": false
     },
     {
@@ -58,23 +58,43 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1792245825000",
+      "id": "google-news-ai-1792285246000",
       "region": "abroad",
-      "title": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWtzS3Z0V1lyTlMwXzJFdEVhSTB4S0J6MDJza1l2akRYZkN1WGJoRzdqWnM4a2FodVp6OGQxeC1iMVZmTmRUS1JuZmZyMTM4Rk1kRUNtUm1rVXI5Y3NiMFRQY1hyNGM5LWRMQzJLalF0dEw1SERsbXB1ZEFYZjRFWDJKTzViaXI0cnR4dlVHczdtVk9NTzJlamVMQTlVT1NlWDUtbWRKNTUtTXQwcU9vZmtRRWNDbEpZaWZGbNIBwgFBVV95cUxOS0gyRmFTaUxnUHZwVUppMXJkOENlZTZTS29PSGdIWVBQYWZZNF9LZUo4UGh3RlBzcFNFQ3RMNkloTFVzQmVxWGl2WFdpUXdONExFcTJuRXR4LTNaMFlHazVjbElPT1JSWTNQTHFwMTItb2ZWZzhUOHQxMnM1ckJmSmpoQnhWNEpHU0l2anVGckM2RVFpWFIxTFNzZEFXU21nOW16WGJmQlNVWXdKX0p2UExNaTFPTzYwRThXRkt3YWZjdw?oc=5",
+      "title": "Spooky Season: Goldman’s AI Credit Charts Hint at a 15% Hyperscaler Catch Down - The Dark Side Of The Boom",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRGRyZXpvZ1pnM0RMaWVPMzNwd2lidXdwN0x1Z3pFUklrMTJfMjdmMWZDaDFHbEdYclpzOERONHpqaF9UNlk1aVRLdlpGbW9RSWxqX29ETi0ydUQtdWY5QUs5VjZ4TWVtcTcycW1HNmsxSlY1MzFKeVJLWURmNzJCekx3?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWtzS3Z0V1lyTlMwXzJFdEVhSTB4S0J6MDJza1l2akRYZkN1WGJoRzdqWnM4a2FodVp6OGQxeC1iMVZmTmRUS1JuZmZyMTM4Rk1kRUNtUm1rVXI5Y3NiMF…",
-      "pubDate": "2026-10-17T14:03:45.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPRGRyZXpvZ1pnM0RMaWVPMzNwd2lidXdwN0x1Z3pFUklrMTJfMjdmMWZDaDFHbEdYclpzOERONHpqaF9UNlk1aVRLdlpGbW9RSWxqX29ETi0ydUQtdWY5QU…",
+      "pubDate": "2026-10-18T01:00:46.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1792245820000",
+      "id": "google-news-ai-1792284257000",
       "region": "abroad",
-      "title": "Breast MRI wait times can stretch for weeks. How AI could help speed up scans - Boston 25 News",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWjE5UDNFNFlkLUo2QWI3aUg4b0Z2bllGQW5qNEVGeDdCRWlQNW5BSUpmZDhZLXE1T3FLdFU2Z0xNTzJqZGt3UmExNWNmWUpuLS1tY1NuMzVaaGY2YUhOUEE3RkoxaUFUV3A1ZVAxdWZfNkNNLURlZ21tV2d6VEg5QlJFRDlPZWZURi1RWGE4MkhxWTRNU0c1U0wyeDA3OFJSMm1BMDlVbXRqUDZ6VHlxYVVxVG10bVF0MVpKSUxFYlloOGlDeE94My00b0ZTb1U5Wkdwbnp3c9IB6wFBVV95cUxPVndIMVBUdm1GZnBQVlJEUUhGb1BIdTlNT3dSSDRmQm8tdjhnM3l4bUw2bE5laW1Zb014WnNxYnh6TWw1ZDZaZXdRTUN3cWFPQ24xZHlDOVQ5bHBibklrcU0tZERnVEl5SUFKMUxEc1RrN3U4Y2lWOC1zTjRmdU9FYXNNWTVkZUpFMmx3NjI2QjFQTjZLQXdxSmlMN2VnUDhtMFpRdzBqTTVYLUM3QTRxMEFQZG5NWEV6dUpyNS04dDZPaEd0T2xlVHV1ajRreXpjRVRMeE04Ui1TRm9tUlRmeVhtcVFZVDdYalVR?oc=5",
+      "title": "DXC Technology (DXC) Following Its LangChain AI Deal, Is The Valuation Story Running Ahead? - Simply Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZWE1R2d2cm5PWE51c1RfTFNaSkpTdHZUNU0xZWhfOWFoNTk5c05RRUJKOXBWRHlGWU1LbzZLeTdkMjhfUGFSR0dSbkthMkJkQmtMbTRjRDk4WUwzdHA1N0duRUJ0RElha1VqQ0tmazVERklZZ3MzOGgzdThYdUNnOGQ3aFp1UWhlVHhkMW54YjRyQVhTd0UySWNINTQ4dmt4RHFYZGpwVG0wMlNkNnIwUkg1ckJuNDVuT0IxTHRwY2JCOTh2WXpjdGN30gHPAUFVX3lxTFB5aXJKcEdZN2FKemJfRC0wWDNud0dSb0MtLUJfY3FYbzdRZjNCbmswWXFscFYzMWJDWkVrOVUwSndsWEV0STd0UVFUUHl6Vl9jblpYdE8wajluUVYxOFM5N3Vncmc0NEJfUXFkZ1cxWFRIVC1ySlZ2LUpMdUtDZ0trcEZKdGs5Nk1JeldPTTVBUzJjUENYWjZ4YU0zNEtTdzJ6RDR5ZFN1ODU5UWY5bzVpVVB2ZzY0OS1SOTZkN2JqVThON1ZBZjBNdDdHS1pkYw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWjE5UDNFNFlkLUo2QWI3aUg4b0Z2bllGQW5qNEVGeDdCRWlQNW5BSUpmZDhZLXE1T3FLdFU2Z0xNTzJqZGt3UmExNWNmWUpuLS1tY1NuMzVaaGY2YUhOUE…",
-      "pubDate": "2026-10-17T14:03:40.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPZWE1R2d2cm5PWE51c1RfTFNaSkpTdHZUNU0xZWhfOWFoNTk5c05RRUJKOXBWRHlGWU1LbzZLeTdkMjhfUGFSR0dSbkthMkJkQmtMbTRjRDk4WUwzdHA1N0…",
+      "pubDate": "2026-10-18T00:44:17.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1792272692000",
+      "region": "abroad",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-17T21:31:32.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1792268479000",
+      "region": "abroad",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-17T20:21:19.000Z",
       "isFallback": false
     },
     {
@@ -85,26 +105,6 @@
       "source": "Wired AI",
       "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
       "pubDate": "2026-10-17T09:00:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1792185748000",
-      "region": "abroad",
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-16T21:22:28.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1792181108000",
-      "region": "abroad",
-      "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
-      "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
-      "source": "Wired AI",
-      "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked t…",
-      "pubDate": "2026-10-16T20:05:08.000Z",
       "isFallback": false
     }
   ]
