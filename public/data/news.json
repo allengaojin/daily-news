@@ -1,28 +1,28 @@
 {
   "meta": {
-    "date": "2026-10-18",
-    "updatedAt": "2026-10-18T14:39:13.813Z",
+    "date": "2026-10-19",
+    "updatedAt": "2026-10-19T01:22:12.161Z",
     "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1792326085000",
+      "id": "it之家-1792372468000",
       "region": "domestic",
-      "title": "研究人员让 6 款 AI 智能体尝试“追回火车票退款”，暴露模型使用激进方式执行任务风险",
-      "url": "https://www.ithome.com/1/014/589.htm",
+      "title": "应对 AI 风险，Anthropic 向外部 AI 监督机构开放类员工访问权限",
+      "url": "https://www.ithome.com/1/014/651.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"3b97\">IT之家 10 月 18 日消息，独立 AI 安全研究人员 Matilda Glynn-Henley 近期针对 6 款 AI 智能体进行安全测试，让相应模型尝试追回一笔已取消火车行程的退款，这些模型为了达成目的不惜编造理由、恐吓威胁、向企业及政府机构发送大量轰炸消息，然而它们最终并未成功追回退款。</p><p dat…",
-      "pubDate": "2026-10-18T12:21:25.000Z",
+      "summary": "<p data-vmark=\"7561\">IT之家 10 月 19 日消息，Anthropic 为外部评估人员开放了“类似员工级别的访问权限”，用于评估其模型存在的风险，以此兑现承诺，强化安全防护，应对外界对于这项技术可能出现灾难性失控的担忧。</p><p style=\"text-align: center;\" data-vmark=\"fa5c\"><img …",
+      "pubDate": "2026-10-19T01:14:28.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1792324792000",
+      "id": "it之家-1792372364000",
       "region": "domestic",
-      "title": "DeepSeek API 已支持网页搜索和抓取，单价为每 1000 次成功请求 5 元",
-      "url": "https://www.ithome.com/1/014/587.htm",
+      "title": "王腾官宣 ISHO 首场发布会：今日宜休 AI 睡眠科技生态产品发布会定档 10 月 29 日",
+      "url": "https://www.ithome.com/1/014/650.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"00bb\">IT之家 10 月 18 日消息，DeepSeek 今日发布公告，DeepSeek API 现已支持网页搜索与抓取，按请求次数计费，单价为每 1000 次成功请求 5 元。</p><p data-vmark=\"2af6\">公告称，当前用户在 DeepSeek Harness / Claude Code / Codex…",
-      "pubDate": "2026-10-18T11:59:52.000Z",
+      "summary": "<p data-vmark=\"ec4e\">IT之家 10 月 19 日消息，今日宜休科技公司创始人王腾今日正式官宣了今日宜休首场发布会 —— <strong>ISHO 今日宜休 AI 睡眠科技生态产品发布会定档 10 月 29 日 19:00 举行</strong>。</p><p style=\"text-align: center;\" data-vmark=…",
+      "pubDate": "2026-10-19T01:12:44.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1792332879000",
+      "id": "google-news-ai-1792372729000",
       "region": "abroad",
-      "title": "Is The MBA Still Worth It In The Age Of AI? 2 Students And A Trove Of Coaching Data Say Yes – With Caveats - Poets&Quants",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZ05yMVB0Vlp1UWpqdklDZk1kUjRLelJDaUhHZkJYLXZLUS13My1mLTE3TkVyM2V5ODg3aU1tNHB4bWVieEkxa1hDX3lzYjlsczRCY0hZTDlsdWVaQzVoM0FDZE9feXA1YU1HLTRZRHlzM0dDZW5aWlo3aGZ4ZlVNQWFQZkw2SHdUZ2J4YXBEWnNSLWNVMXRaOUVHaDJlZWhqZzhwTnhsTkEzbDc4NUtYSVFuM21SLWwyX0RlSEdoZV9MNk5aRGZfOW81OTlrend3UHhibXAxSWZiZHFVZUgzeExNQ0Mzczh4bjBRSDgtUQ?oc=5",
+      "title": "Sam Altman’s World Debuts ID Verification for AI Agents - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUJ0NFdST1Z3Y1RUNG1TVmdndFZkWF9EclI1aW1tNFZNYUhtanBWS3ljME15bklJYThKQTIxMUExUzNNaTdtZk9FZmVwVHhMQ0FpWHhRSjNvQ2c1cUJrbFIzLS0yMW83OEp5VF9DZFVnenhaZDc2NnhjbWVlRWl2a1hCRzhXWjB5YTBmelUzX1lvMHM1Mmd3RXBWU1dfRjN0alRIVkJSM1FRNHlfYVItak5n?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZ05yMVB0Vlp1UWpqdklDZk1kUjRLelJDaUhHZkJYLXZLUS13My1mLTE3TkVyM2V5ODg3aU1tNHB4bWVieEkxa1hDX3lzYjlsczRCY0hZTDlsdWVaQzVoM0…",
-      "pubDate": "2026-10-18T14:14:39.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUJ0NFdST1Z3Y1RUNG1TVmdndFZkWF9EclI1aW1tNFZNYUhtanBWS3ljME15bklJYThKQTIxMUExUzNNaTdtZk9FZmVwVHhMQ0FpWHhRSjNvQ2c1cUJrbF…",
+      "pubDate": "2026-10-19T01:18:49.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1792332165000",
+      "id": "google-news-ai-1792371974000",
       "region": "abroad",
-      "title": "Opinion | Every novel might have to pass an AI test soon - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa1R2N21tUndoQWNsbnZna3FzZHZKdkRVekV1LXgtUHhvM3htaUVTSkkxZl9rb2diNEZxblppdnFKUDhUSEZIMnJqZWtZYWhmcUoyYnMwWXk5c244M0pNd2o5dDZZTzFRakxiZWdtNXhVamlad0I3eWNxX0ZZMmhRUThhQVE5cklWRkppbU4ySmpodlFjb1ZBN0EzMzVkNnp0U2dv?oc=5",
+      "title": "Sydney Children's Hospitals Network preserves ICU data for future AI - Healthcare IT News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbkdRMERocXVSRGVFb0NaT3Y3UVNJVEs2UjJ5ZExzTGdKM3pBTkNaZUp3bGtJcDBlOTFneUgzaXlXTWNUcGpKeUxsWjNjM2tLRnk5MEFKQWtObHd0TjJRZjU0YXo4d0lxYlZoV0hYbmhreVlGbHhjM25ERXNnUXFPMnFGWXFFY3hTZnVkOWdaaWt5dnFoT1pzUnR0UTY0Z0lIeF9xbDVOa3Y?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOa1R2N21tUndoQWNsbnZna3FzZHZKdkRVekV1LXgtUHhvM3htaUVTSkkxZl9rb2diNEZxblppdnFKUDhUSEZIMnJqZWtZYWhmcUoyYnMwWXk5c244M0pNd2…",
-      "pubDate": "2026-10-18T14:02:45.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbkdRMERocXVSRGVFb0NaT3Y3UVNJVEs2UjJ5ZExzTGdKM3pBTkNaZUp3bGtJcDBlOTFneUgzaXlXTWNUcGpKeUxsWjNjM2tLRnk5MEFKQWtObHd0TjJRZj…",
+      "pubDate": "2026-10-19T01:06:14.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1792272692000",
+      "id": "techcrunch-ai-1792355860000",
       "region": "abroad",
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-17T21:31:32.000Z",
+      "pubDate": "2026-10-18T20:37:40.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1792268479000",
+      "id": "techcrunch-ai-1792341000000",
       "region": "abroad",
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-17T20:21:19.000Z",
+      "pubDate": "2026-10-18T16:30:00.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1792227600000",
+      "id": "wired-ai-1792319400000",
       "region": "abroad",
-      "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
-      "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+      "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
       "source": "Wired AI",
-      "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
-      "pubDate": "2026-10-17T09:00:00.000Z",
+      "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+      "pubDate": "2026-10-18T10:30:00.000Z",
       "isFallback": false
     }
   ]
