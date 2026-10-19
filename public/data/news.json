@@ -1,28 +1,38 @@
 {
   "meta": {
-    "date": "2026-10-19",
-    "updatedAt": "2026-10-19T01:22:12.161Z",
+    "date": "2026-10-20",
+    "updatedAt": "2026-10-19T17:33:56.999Z",
     "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1792372468000",
+      "id": "it之家-1792422209000",
       "region": "domestic",
-      "title": "应对 AI 风险，Anthropic 向外部 AI 监督机构开放类员工访问权限",
-      "url": "https://www.ithome.com/1/014/651.htm",
+      "title": "四个谷歌 Gemini 4 Argon 智能体成功击败末影龙通关《我的世界》，耗时 27 小时",
+      "url": "https://www.ithome.com/1/015/048.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"7561\">IT之家 10 月 19 日消息，Anthropic 为外部评估人员开放了“类似员工级别的访问权限”，用于评估其模型存在的风险，以此兑现承诺，强化安全防护，应对外界对于这项技术可能出现灾难性失控的担忧。</p><p style=\"text-align: center;\" data-vmark=\"fa5c\"><img …",
-      "pubDate": "2026-10-19T01:14:28.000Z",
+      "summary": "<p data-vmark=\"fa0e\">IT之家 10 月 19 日消息，谷歌研究人员近日发布论文称，他们使用四个 Gemini 4 Argon 智能体成功通关《我的世界》，仅用 27 小时就成功击败末影龙。</p><p style=\"text-align: center;\" data-vmark=\"f486\"><img src=\"https://img.…",
+      "pubDate": "2026-10-19T15:03:29.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1792372364000",
+      "id": "it之家-1792417191000",
       "region": "domestic",
-      "title": "王腾官宣 ISHO 首场发布会：今日宜休 AI 睡眠科技生态产品发布会定档 10 月 29 日",
-      "url": "https://www.ithome.com/1/014/650.htm",
+      "title": "古尔曼：苹果正研发室内摄像头，依靠 AI 分析环境",
+      "url": "https://www.ithome.com/1/015/023.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"ec4e\">IT之家 10 月 19 日消息，今日宜休科技公司创始人王腾今日正式官宣了今日宜休首场发布会 —— <strong>ISHO 今日宜休 AI 睡眠科技生态产品发布会定档 10 月 29 日 19:00 举行</strong>。</p><p style=\"text-align: center;\" data-vmark=…",
-      "pubDate": "2026-10-19T01:12:44.000Z",
+      "summary": "<p data-vmark=\"3703\">IT之家 10 月 19 日消息，彭博社记者马克 · 古尔曼在最新一期《Power On》通讯中提到，苹果正在研发一款室内摄像头，内部代号 J450，<strong>可利用 AI 分析周围环境</strong>。</p><p style=\"text-align: center;\" data-vmark=\"7e9e\">…",
+      "pubDate": "2026-10-19T13:39:51.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1792324189000",
+      "region": "domestic",
+      "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+      "url": "https://www.qbitai.com/2026/10/504136.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-10-18T11:49:49.000Z",
       "isFallback": false
     },
     {
@@ -33,16 +43,6 @@
       "source": "量子位",
       "summary": "",
       "pubDate": "2026-10-17T12:21:09.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1792239225000",
-      "region": "domestic",
-      "title": "智谱新模型，懂法方面全球第一了",
-      "url": "https://www.qbitai.com/2026/10/503965.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-10-17T12:13:45.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1792372729000",
+      "id": "google-news-ai-1792430695000",
       "region": "abroad",
-      "title": "Sam Altman’s World Debuts ID Verification for AI Agents - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUJ0NFdST1Z3Y1RUNG1TVmdndFZkWF9EclI1aW1tNFZNYUhtanBWS3ljME15bklJYThKQTIxMUExUzNNaTdtZk9FZmVwVHhMQ0FpWHhRSjNvQ2c1cUJrbFIzLS0yMW83OEp5VF9DZFVnenhaZDc2NnhjbWVlRWl2a1hCRzhXWjB5YTBmelUzX1lvMHM1Mmd3RXBWU1dfRjN0alRIVkJSM1FRNHlfYVItak5n?oc=5",
+      "title": "AI in the Middle Market - Directors & Boards",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rT2t2WC1XLW9pTm1HSy1fMjZGcHlycEVxNG5wLWNldEFjY0l4NDdYNlBZdnZvdWJCaVpDcHNKWFY4VHFPRXZ5cm1aRTZ5SS1sRExOZl8wTzhuRW1ocWFOeWh3dlVxVmF6QmtRNE11MmNKSkd2cXd3?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUJ0NFdST1Z3Y1RUNG1TVmdndFZkWF9EclI1aW1tNFZNYUhtanBWS3ljME15bklJYThKQTIxMUExUzNNaTdtZk9FZmVwVHhMQ0FpWHhRSjNvQ2c1cUJrbF…",
-      "pubDate": "2026-10-19T01:18:49.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5rT2t2WC1XLW9pTm1HSy1fMjZGcHlycEVxNG5wLWNldEFjY0l4NDdYNlBZdnZvdWJCaVpDcHNKWFY4VHFPRXZ5cm1aRTZ5SS1sRExOZl8wTzhuRW1ocWFOeW…",
+      "pubDate": "2026-10-19T17:24:55.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1792371974000",
+      "id": "google-news-ai-1792430054000",
       "region": "abroad",
-      "title": "Sydney Children's Hospitals Network preserves ICU data for future AI - Healthcare IT News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbkdRMERocXVSRGVFb0NaT3Y3UVNJVEs2UjJ5ZExzTGdKM3pBTkNaZUp3bGtJcDBlOTFneUgzaXlXTWNUcGpKeUxsWjNjM2tLRnk5MEFKQWtObHd0TjJRZjU0YXo4d0lxYlZoV0hYbmhreVlGbHhjM25ERXNnUXFPMnFGWXFFY3hTZnVkOWdaaWt5dnFoT1pzUnR0UTY0Z0lIeF9xbDVOa3Y?oc=5",
+      "title": "Problem solved: A math example of CPA-led assurance using AI agents - Journal of Accountancy",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWlQ2d1o4MzQ5Tl8tX3pUTXlYWElEUUZyajNkb0U1TDNYYndVdFc2Q2g5alZwU1FtTTZhZW9RcHAzN09vY2xuekZpdU93MzcxSDloVGtsa21ySlVld3FkRkR1b0NWRzk5Xzl5a3ZaN0x1VnJDYWR2Ml9NV1AzSHA3R2NmVVk0ekN0RTlSSUJrdnlFaVJNVUYyWm56dU5YZlZsaDYxMlJ5TW81MWxsZm1OdGxOQ0RadkxDTVE?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbkdRMERocXVSRGVFb0NaT3Y3UVNJVEs2UjJ5ZExzTGdKM3pBTkNaZUp3bGtJcDBlOTFneUgzaXlXTWNUcGpKeUxsWjNjM2tLRnk5MEFKQWtObHd0TjJRZj…",
-      "pubDate": "2026-10-19T01:06:14.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOWlQ2d1o4MzQ5Tl8tX3pUTXlYWElEUUZyajNkb0U1TDNYYndVdFc2Q2g5alZwU1FtTTZhZW9RcHAzN09vY2xuekZpdU93MzcxSDloVGtsa21ySlVld3FkRk…",
+      "pubDate": "2026-10-19T17:14:14.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1792355860000",
+      "id": "techcrunch-ai-1792426402000",
       "region": "abroad",
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "title": "People are using AI to make their smart TVs dumb again",
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-18T20:37:40.000Z",
+      "pubDate": "2026-10-19T16:13:22.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1792341000000",
+      "id": "wired-ai-1792425600000",
       "region": "abroad",
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-18T16:30:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1792319400000",
-      "region": "abroad",
-      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
-      "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+      "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
+      "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
       "source": "Wired AI",
-      "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
-      "pubDate": "2026-10-18T10:30:00.000Z",
+      "summary": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.",
+      "pubDate": "2026-10-19T16:00:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1792424229000",
+      "region": "abroad",
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-19T15:37:09.000Z",
       "isFallback": false
     }
   ]
