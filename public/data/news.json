@@ -1,28 +1,28 @@
 {
   "meta": {
     "date": "2026-10-20",
-    "updatedAt": "2026-10-19T17:33:56.999Z",
+    "updatedAt": "2026-10-20T01:54:45.608Z",
     "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1792422209000",
+      "id": "it之家-1792460644000",
       "region": "domestic",
-      "title": "四个谷歌 Gemini 4 Argon 智能体成功击败末影龙通关《我的世界》，耗时 27 小时",
-      "url": "https://www.ithome.com/1/015/048.htm",
+      "title": "联想 ThinkBook X AI 2027 轻薄商务本发售，到手价 7,999 元起",
+      "url": "https://www.ithome.com/1/015/119.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"fa0e\">IT之家 10 月 19 日消息，谷歌研究人员近日发布论文称，他们使用四个 Gemini 4 Argon 智能体成功通关《我的世界》，仅用 27 小时就成功击败末影龙。</p><p style=\"text-align: center;\" data-vmark=\"f486\"><img src=\"https://img.…",
-      "pubDate": "2026-10-19T15:03:29.000Z",
+      "summary": "<p data-vmark=\"297a\">IT之家 10 月 20 日消息，联想 (lenovo) 轻薄商务本 ThinkBook X AI 2027 (ThinkBook X G4 IWC) 现已发售。其基于第 3 代英特尔酷睿 \"Wildcat Lake\" 处理器，本次市售型号均为星耀白配色。</p><p data-vmark=\"c0b1\" style=…",
+      "pubDate": "2026-10-20T01:44:04.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1792417191000",
+      "id": "it之家-1792460480000",
       "region": "domestic",
-      "title": "古尔曼：苹果正研发室内摄像头，依靠 AI 分析环境",
-      "url": "https://www.ithome.com/1/015/023.htm",
+      "title": "AI 按钮回归：微软修复 Win10/Win11 经典版 Outlook 的 Copilot 入口消失问题",
+      "url": "https://www.ithome.com/1/015/118.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"3703\">IT之家 10 月 19 日消息，彭博社记者马克 · 古尔曼在最新一期《Power On》通讯中提到，苹果正在研发一款室内摄像头，内部代号 J450，<strong>可利用 AI 分析周围环境</strong>。</p><p style=\"text-align: center;\" data-vmark=\"7e9e\">…",
-      "pubDate": "2026-10-19T13:39:51.000Z",
+      "summary": "<p data-vmark=\"6956\">IT之家 10 月 20 日消息，科技媒体 bleepingcomputer 昨日（10 月 19 日）发布博文，报道称微软公司已面向经典版 Outlook 推送补丁，<strong>修复 Copilot Chat 和 Copilot 按钮消失问题。</strong></p><p data-vmark=\"72e3\">…",
+      "pubDate": "2026-10-20T01:41:20.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1792430695000",
+      "id": "google-news-ai-1792460800000",
       "region": "abroad",
-      "title": "AI in the Middle Market - Directors & Boards",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rT2t2WC1XLW9pTm1HSy1fMjZGcHlycEVxNG5wLWNldEFjY0l4NDdYNlBZdnZvdWJCaVpDcHNKWFY4VHFPRXZ5cm1aRTZ5SS1sRExOZl8wTzhuRW1ocWFOeWh3dlVxVmF6QmtRNE11MmNKSkd2cXd3?oc=5",
+      "title": "AI blamed for 112,713 job cuts, but the labor data isn’t buying it - Human Resources Director",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTV9sMU5vaWQxa3h1TjNPTWlsaG9aenBYOE5tQWxwYUNJN0dicEJiWkFfRlNsUFdRVkNBMDJwOWdTTVpZWThKVlA4SFIteXNxQkZXMTBjbEMwQXVweWxtTWUtSTJuNlNqTVdjZFh5RTlmQy1Oa1BkTDB0S3FDWVNSOWtmekRaNDZpUlgyNktTU2VfbFBwM1A1bUFpdFhjaERsYmlITnVaSW04bTllb2psNWtpbkkwS0RObGxTWXhRVVlIcmRk?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5rT2t2WC1XLW9pTm1HSy1fMjZGcHlycEVxNG5wLWNldEFjY0l4NDdYNlBZdnZvdWJCaVpDcHNKWFY4VHFPRXZ5cm1aRTZ5SS1sRExOZl8wTzhuRW1ocWFOeW…",
-      "pubDate": "2026-10-19T17:24:55.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNTV9sMU5vaWQxa3h1TjNPTWlsaG9aenBYOE5tQWxwYUNJN0dicEJiWkFfRlNsUFdRVkNBMDJwOWdTTVpZWThKVlA4SFIteXNxQkZXMTBjbEMwQXVweWxtTW…",
+      "pubDate": "2026-10-20T01:46:40.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1792430054000",
+      "id": "google-news-ai-1792460426000",
       "region": "abroad",
-      "title": "Problem solved: A math example of CPA-led assurance using AI agents - Journal of Accountancy",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWlQ2d1o4MzQ5Tl8tX3pUTXlYWElEUUZyajNkb0U1TDNYYndVdFc2Q2g5alZwU1FtTTZhZW9RcHAzN09vY2xuekZpdU93MzcxSDloVGtsa21ySlVld3FkRkR1b0NWRzk5Xzl5a3ZaN0x1VnJDYWR2Ml9NV1AzSHA3R2NmVVk0ekN0RTlSSUJrdnlFaVJNVUYyWm56dU5YZlZsaDYxMlJ5TW81MWxsZm1OdGxOQ0RadkxDTVE?oc=5",
+      "title": "DeepSeek AI Faces Ban From Federal Networks Over Data Security Concerns (Oct 19, 2026) - VitalLaw.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWDJOYTNPc3V2ZjRMWUMtU0QtNkdoSENRUThhMy1vQnBFOGY1TFhZS0QyR1hDTTRtODJnRk5DSmc5cXdRYkZGVlY5bjlGc0JhTWR0WEJ4RndoU1FCRGxqbzFfeGl3Y2M2bjZnaGFuZHBfSDBGTUlTVURPYUJQbGhLWW55clBzS2tFQkh2cXlqNWQ0WldOZE1SOG9sSWxNYTVrRzdCdnJZbU5scVJUYUtKci1vMXpEakhwU1A5cElyNk41U0Z1T0M0MDZhbUdfS1ZHQWtuQnlPSQ?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOWlQ2d1o4MzQ5Tl8tX3pUTXlYWElEUUZyajNkb0U1TDNYYndVdFc2Q2g5alZwU1FtTTZhZW9RcHAzN09vY2xuekZpdU93MzcxSDloVGtsa21ySlVld3FkRk…",
-      "pubDate": "2026-10-19T17:14:14.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWDJOYTNPc3V2ZjRMWUMtU0QtNkdoSENRUThhMy1vQnBFOGY1TFhZS0QyR1hDTTRtODJnRk5DSmc5cXdRYkZGVlY5bjlGc0JhTWR0WEJ4RndoU1FCRGxqbz…",
+      "pubDate": "2026-10-20T01:40:26.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1792426402000",
+      "id": "techcrunch-ai-1792459623000",
       "region": "abroad",
-      "title": "People are using AI to make their smart TVs dumb again",
-      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-19T16:13:22.000Z",
+      "pubDate": "2026-10-20T01:27:03.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1792425600000",
+      "id": "techcrunch-ai-1792453178000",
       "region": "abroad",
-      "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
-      "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-19T23:39:38.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1792439357000",
+      "region": "abroad",
+      "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+      "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
       "source": "Wired AI",
-      "summary": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.",
-      "pubDate": "2026-10-19T16:00:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1792424229000",
-      "region": "abroad",
-      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-19T15:37:09.000Z",
+      "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
+      "pubDate": "2026-10-19T19:49:17.000Z",
       "isFallback": false
     }
   ]
