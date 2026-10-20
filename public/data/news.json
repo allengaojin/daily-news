@@ -1,48 +1,48 @@
 {
   "meta": {
     "date": "2026-10-20",
-    "updatedAt": "2026-10-20T01:54:45.608Z",
+    "updatedAt": "2026-10-20T15:40:37.835Z",
     "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1792460644000",
+      "id": "it之家-1792509088000",
       "region": "domestic",
-      "title": "联想 ThinkBook X AI 2027 轻薄商务本发售，到手价 7,999 元起",
-      "url": "https://www.ithome.com/1/015/119.htm",
+      "title": "英伟达黄仁勋劝诫欧洲各国：别再对 AI 过度犹疑，否则将被时代甩在身后",
+      "url": "https://www.ithome.com/1/015/603.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"297a\">IT之家 10 月 20 日消息，联想 (lenovo) 轻薄商务本 ThinkBook X AI 2027 (ThinkBook X G4 IWC) 现已发售。其基于第 3 代英特尔酷睿 \"Wildcat Lake\" 处理器，本次市售型号均为星耀白配色。</p><p data-vmark=\"c0b1\" style=…",
-      "pubDate": "2026-10-20T01:44:04.000Z",
+      "summary": "<p data-vmark=\"9b9e\">IT之家 10 月 20 日消息，据《商业内幕》今天报道，英伟达首席执行官黄仁勋过去一周访欧期间，向欧洲各国领导人传递了明确信号：必须摆脱束缚大胆行动，<strong>否则欧洲可能永远无法参与 AI 竞赛</strong>。</p><p data-vmark=\"b9dd\">IT之家从原报道获悉，黄仁勋过去几天先后访问…",
+      "pubDate": "2026-10-20T15:11:28.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1792460480000",
+      "id": "it之家-1792508053000",
       "region": "domestic",
-      "title": "AI 按钮回归：微软修复 Win10/Win11 经典版 Outlook 的 Copilot 入口消失问题",
-      "url": "https://www.ithome.com/1/015/118.htm",
+      "title": "Adobe Lightroom 移动版新增“睁眼”AI 修图，一键修复闭眼照片",
+      "url": "https://www.ithome.com/1/015/601.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"6956\">IT之家 10 月 20 日消息，科技媒体 bleepingcomputer 昨日（10 月 19 日）发布博文，报道称微软公司已面向经典版 Outlook 推送补丁，<strong>修复 Copilot Chat 和 Copilot 按钮消失问题。</strong></p><p data-vmark=\"72e3\">…",
-      "pubDate": "2026-10-20T01:41:20.000Z",
+      "summary": "<p data-vmark=\"7cd3\">IT之家 10 月 20 日消息，Adobe 公司昨日宣布，Lightroom 移动版修图软件已经支持“睁眼”AI 修图功能，用户只需要点一下，就能修复照片中闭着的眼睛。</p><p style=\"text-align: center;\" data-vmark=\"2c00\"><img src=\"https://img…",
+      "pubDate": "2026-10-20T14:54:13.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1792324189000",
+      "id": "量子位-1792458583000",
       "region": "domestic",
-      "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
-      "url": "https://www.qbitai.com/2026/10/504136.html",
+      "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+      "url": "https://www.qbitai.com/2026/10/504314.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-10-18T11:49:49.000Z",
+      "pubDate": "2026-10-20T01:09:43.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1792239669000",
+      "id": "量子位-1792420406000",
       "region": "domestic",
-      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
-      "url": "https://www.qbitai.com/2026/10/504067.html",
+      "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
+      "url": "https://www.qbitai.com/2026/10/504277.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-10-17T12:21:09.000Z",
+      "pubDate": "2026-10-19T14:33:26.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1792460800000",
+      "id": "google-news-ai-1792510692000",
       "region": "abroad",
-      "title": "AI blamed for 112,713 job cuts, but the labor data isn’t buying it - Human Resources Director",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTV9sMU5vaWQxa3h1TjNPTWlsaG9aenBYOE5tQWxwYUNJN0dicEJiWkFfRlNsUFdRVkNBMDJwOWdTTVpZWThKVlA4SFIteXNxQkZXMTBjbEMwQXVweWxtTWUtSTJuNlNqTVdjZFh5RTlmQy1Oa1BkTDB0S3FDWVNSOWtmekRaNDZpUlgyNktTU2VfbFBwM1A1bUFpdFhjaERsYmlITnVaSW04bTllb2psNWtpbkkwS0RObGxTWXhRVVlIcmRk?oc=5",
+      "title": "AI security hiring focuses on red-teaming, SOC orchestration and governance - Cybersecurity Dive",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWFpMFhyRVI2czJRTHRnZEo0LTNKaFg1S3JlTGpKOGdKOVdNb3VhQXpieDBUSGlxQ0c1VV9PajlSeTgtVzdZcHJLWEktWHNld2YtNWFyVnkxMks4eTVua3VsbXVBbHBaWUttWWhJX0hDckNGS1RNYjJDRjRyTEQ0VlZ5andmRWhjb2JZ?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNTV9sMU5vaWQxa3h1TjNPTWlsaG9aenBYOE5tQWxwYUNJN0dicEJiWkFfRlNsUFdRVkNBMDJwOWdTTVpZWThKVlA4SFIteXNxQkZXMTBjbEMwQXVweWxtTW…",
-      "pubDate": "2026-10-20T01:46:40.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWFpMFhyRVI2czJRTHRnZEo0LTNKaFg1S3JlTGpKOGdKOVdNb3VhQXpieDBUSGlxQ0c1VV9PajlSeTgtVzdZcHJLWEktWHNld2YtNWFyVnkxMks4eTVua3…",
+      "pubDate": "2026-10-20T15:38:12.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1792460426000",
+      "id": "google-news-ai-1792510542000",
       "region": "abroad",
-      "title": "DeepSeek AI Faces Ban From Federal Networks Over Data Security Concerns (Oct 19, 2026) - VitalLaw.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWDJOYTNPc3V2ZjRMWUMtU0QtNkdoSENRUThhMy1vQnBFOGY1TFhZS0QyR1hDTTRtODJnRk5DSmc5cXdRYkZGVlY5bjlGc0JhTWR0WEJ4RndoU1FCRGxqbzFfeGl3Y2M2bjZnaGFuZHBfSDBGTUlTVURPYUJQbGhLWW55clBzS2tFQkh2cXlqNWQ0WldOZE1SOG9sSWxNYTVrRzdCdnJZbU5scVJUYUtKci1vMXpEakhwU1A5cElyNk41U0Z1T0M0MDZhbUdfS1ZHQWtuQnlPSQ?oc=5",
+      "title": "State CIOs raise the bar for AI results - StateScoop",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Wc21KWDY4YnlOaGV2eG9ZZEtrREk3LWNITHpTVE1ZbllXeHc3ZHJVM0p5NF80Q2NYbjd5bWpodEswRy16Wk04VTI5QllFeDhhNUx1emh1U0x0djJBVW5XMUN4X1lfRjE0eUZkelVZSjNNeV81cmYycQ?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWDJOYTNPc3V2ZjRMWUMtU0QtNkdoSENRUThhMy1vQnBFOGY1TFhZS0QyR1hDTTRtODJnRk5DSmc5cXdRYkZGVlY5bjlGc0JhTWR0WEJ4RndoU1FCRGxqbz…",
-      "pubDate": "2026-10-20T01:40:26.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1Wc21KWDY4YnlOaGV2eG9ZZEtrREk3LWNITHpTVE1ZbllXeHc3ZHJVM0p5NF80Q2NYbjd5bWpodEswRy16Wk04VTI5QllFeDhhNUx1emh1U0x0djJBVW5XMU…",
+      "pubDate": "2026-10-20T15:35:42.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1792459623000",
+      "id": "wired-ai-1792508863000",
       "region": "abroad",
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-20T01:27:03.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1792453178000",
-      "region": "abroad",
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-19T23:39:38.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1792439357000",
-      "region": "abroad",
-      "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
-      "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+      "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+      "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
       "source": "Wired AI",
-      "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
-      "pubDate": "2026-10-19T19:49:17.000Z",
+      "summary": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
+      "pubDate": "2026-10-20T15:07:43.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1792505612000",
+      "region": "abroad",
+      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-20T14:13:32.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1792501644000",
+      "region": "abroad",
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-20T13:07:24.000Z",
       "isFallback": false
     }
   ]
