@@ -1,110 +1,110 @@
 {
   "meta": {
     "date": "2026-10-22",
-    "updatedAt": "2026-10-22T01:36:40.501Z",
+    "updatedAt": "2026-10-22T15:55:02.569Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1792632500000",
+      "id": "it之家-1792684093000",
       "region": "domestic",
-      "title": "西门子医疗与英伟达官宣合作：用 AI 推进癌症诊疗，开发下一代自适应放疗",
-      "url": "https://www.ithome.com/1/016/206.htm",
+      "title": "极米记得 AI 记忆手环 L1 上架：两种形态自由切换，全天候 AI 录音",
+      "url": "https://www.ithome.com/1/016/753.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"b91f\">IT之家 10 月 22 日消息，西门子医疗与英伟达今日宣布达成合作，<strong>双方正共同开发下一代自适应放射治疗技术，融合智能体与机器人智能</strong>，将影像和肿瘤学专业知识与加速计算及仿真相结合，以简化工作流程并提升医疗可及性。</p><p data-vmark=\"27b2\">西门子医疗首席执行官孟…",
-      "pubDate": "2026-10-22T01:28:20.000Z",
+      "summary": "<p data-vmark=\"df20\">IT之家 10 月 22 日消息，极米记得 AI 记忆手环 L1 今日上架，提供黑色、米色配色，售价信息暂未公布。</p><p data-vmark=\"6fa4\">据介绍，该产品支持两种形态自由切换，腕上是手环，胸前是吊坠；全天候 AI 录音，所有记忆，自动记录并整理；基于你个人记忆的 AI 对话，发生过的事它都知道…",
+      "pubDate": "2026-10-22T15:48:13.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1792631717000",
+      "id": "it之家-1792683491000",
       "region": "domestic",
-      "title": "Hey OnStar 登场：通用汽车推出 OnStar AI，能看懂车辆、听懂车主表述",
-      "url": "https://www.ithome.com/1/016/200.htm",
+      "title": "黑石集团总裁反驳 AI 泡沫论，称需求呈“抛物线式”增长",
+      "url": "https://www.ithome.com/1/016/752.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"dd54\">IT之家 10 月 22 日消息，通用汽车（GM）昨日（10 月 21 日）发布博文，<strong>宣布升级 OnStar（国内称安吉星），打造成为面向智能驾驶时代的“互联智能平台”，并推出全新的 OnStar AI 助手。</strong>这一原生 AI 助手将率先通过 OTA 升级搭载于 2027 款凯迪拉克 …",
-      "pubDate": "2026-10-22T01:15:17.000Z",
+      "summary": "<p data-vmark=\"59a4\">IT之家 10 月 22 日消息，据彭博社今日消息，黑石集团总裁乔恩 · 格雷（Jon Gray）发话，反驳亿万富豪肯 · 格里芬前几天关于 AI 存在泡沫的说法。</p><p style=\"text-align: center;\" data-vmark=\"683e\"><img src=\"https://img.it…",
+      "pubDate": "2026-10-22T15:38:11.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1792550259000",
+      "id": "少数派-1792660203000",
       "region": "domestic",
-      "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
-      "url": "https://www.qbitai.com/2026/10/504608.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-10-21T02:37:39.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1792544675000",
-      "region": "domestic",
-      "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
-      "url": "https://www.qbitai.com/2026/10/504551.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-10-21T01:04:35.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "少数派-1792541227000",
-      "region": "domestic",
-      "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等",
-      "url": "https://sspai.com/post/116887",
+      "title": "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
+      "url": "https://sspai.com/post/115437",
       "source": "少数派",
-      "summary": "工信部就自动泊车等五项强制性国标征求意见，万事达卡 Apple Pay 新增 3 家合作银行等。<a href=\"https://sspai.com/post/116887\" target=\"_blank\">查看全文</a>",
-      "pubDate": "2026-10-21T00:07:07.000Z",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/115437\" target=\"_blank\">查看全文</a>",
+      "pubDate": "2026-10-22T09:10:03.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1792653288000",
+      "region": "domestic",
+      "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+      "url": "https://www.qbitai.com/2026/10/504841.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-10-22T07:14:48.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1792653074000",
+      "region": "domestic",
+      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "url": "https://www.qbitai.com/2026/10/504832.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-10-22T07:11:14.000Z",
       "isFallback": false
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1792632120000",
+      "id": "google-news-ai-1792683994000",
       "region": "abroad",
-      "title": "Southeast Asia is hungry for AI — and the money isn't just in subscriptions - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLVB4S0phOUtJdGN2X19yWURkaERESTRPcWh1cWl1ZkVHV2pfRFdkX2Uyanl3UzZqaEtGdzJWSkhYVzJUWXd4cjBIUjg2Q0xMYkVid2xUeFpHUGVidGFtQzVPd3JRbUZnS0p4c2IxTC1QSFFMYkJtcTh2bkRZTHZTOUU3bjZzQWvSAYwBQVVfeXFMT0JDb0pVVFRsRDQ3NlQ2VmMyVlRoMEY5UUV1R1lpY1hvaFM5dTY2bVgyYlhQYTFLdWJJQ01OWXNFRXZvWW0yQk5MbEV2VVZ3bXVGT3NZamxOVXdJMlpIQjdIYUhrdHRNaXpwVm1vU1pGallBRW5qRzZwNkV3ZXloZDhxdXlNelVpb1lnQlg?oc=5",
+      "title": "The biggest wealth giveaway in modern history aims to transform the world - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTjdJeGY2WFh6cFJhaHZvRUNDVHlaSV9MNEFqVDdMeW9La2xVRldWaE1UcWVadkNaVVcyTmp6b0tIaDEwVm9NN1p1dVU3SzdMNHVzdThHbkg4a0Q5YU5yZmZ2SVY5QkxOUW03bjQ1VEhMdmVsdC02S0d1RjRBQ0Q4b3oxNlZ3VV9Pc01Vb1hrQ0VKUmRLMWF0MEZKeERFbnVXWXMzV1VrUGtwVTY2WW92Mmdn?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOLVB4S0phOUtJdGN2X19yWURkaERESTRPcWh1cWl1ZkVHV2pfRFdkX2Uyanl3UzZqaEtGdzJWSkhYVzJUWXd4cjBIUjg2Q0xMYkVid2xUeFpHUGVidGFtQz…",
-      "pubDate": "2026-10-22T01:22:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPTjdJeGY2WFh6cFJhaHZvRUNDVHlaSV9MNEFqVDdMeW9La2xVRldWaE1UcWVadkNaVVcyTmp6b0tIaDEwVm9NN1p1dVU3SzdMNHVzdThHbkg4a0Q5YU5yZm…",
+      "pubDate": "2026-10-22T15:46:34.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1792631363000",
+      "id": "google-news-ai-1792683916000",
       "region": "abroad",
-      "title": "Tracking AI’s Real-Time Footprint On The Labor Market - Stanford HAI",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUWNCSndGWUpRNVlWYmpnZUN6QWhTX0h1Rkk5V3NqWWFEVFc3cEIzT0s3VEVKOS02YTlaakdPZjVPdkZ6VGk4M1FEMmxvMTRvV2Fha253R01QcXducGd6cjc5a0pSZW9RWVBwYlhhVF9OQUxMQ2pudnFTMW5zdmtBNzFCS1gzLUJSa2c?oc=5",
+      "title": "Rush to Patch AI-Discovered Software Vulnerability that Could Impact 70% of Websites - Broadband Breakfast",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcGpRMG9pRHpTSXFnY2dnZ09pTF8zTUQtVlBZbXRGR1hja0huaGI2WjRwbVRJOFF3cTRlR3EtZ1FBSVZTWjNEMTJsWXdWOHJEMFRmbW5kZGJRZGxnVmpnUTJkeXFzN2dwLTRpdkdfaTZFNl9DM01FMVcyeWFQZ0pyVldOV2FzTkNYaWdXU01CSXB0aW0yT0lnekR2QlBPWDIwY0d4WnNDbXl6cEJkVzFTZHNxVHNfZw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNUWNCSndGWUpRNVlWYmpnZUN6QWhTX0h1Rkk5V3NqWWFEVFc3cEIzT0s3VEVKOS02YTlaakdPZjVPdkZ6VGk4M1FEMmxvMTRvV2Fha253R01QcXducGd6cj…",
-      "pubDate": "2026-10-22T01:09:23.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPcGpRMG9pRHpTSXFnY2dnZ09pTF8zTUQtVlBZbXRGR1hja0huaGI2WjRwbVRJOFF3cTRlR3EtZ1FBSVZTWjNEMTJsWXdWOHJEMFRmbW5kZGJRZGxnVmpnUT…",
+      "pubDate": "2026-10-22T15:45:16.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1792623082000",
+      "id": "techcrunch-ai-1792681438000",
       "region": "abroad",
-      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-21T22:51:22.000Z",
+      "pubDate": "2026-10-22T15:03:58.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1792622390000",
+      "id": "techcrunch-ai-1792677206000",
       "region": "abroad",
-      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
-      "url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-22T13:53:26.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1792674000000",
+      "region": "abroad",
+      "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+      "url": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
       "source": "Wired AI",
-      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
-      "pubDate": "2026-10-21T22:39:50.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1792617380000",
-      "region": "abroad",
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-21T21:16:20.000Z",
+      "summary": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
+      "pubDate": "2026-10-22T13:00:00.000Z",
       "isFallback": false
     }
   ]
