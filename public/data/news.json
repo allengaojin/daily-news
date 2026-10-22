@@ -1,28 +1,28 @@
 {
   "meta": {
-    "date": "2026-10-21",
-    "updatedAt": "2026-10-21T15:59:30.282Z",
+    "date": "2026-10-22",
+    "updatedAt": "2026-10-22T01:36:40.501Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1792595422000",
+      "id": "it之家-1792632500000",
       "region": "domestic",
-      "title": "腾讯内测 AI 互动社区“懂了鸭”：一句话生成可玩的动态课件与 3D 演示",
-      "url": "https://www.ithome.com/1/016/145.htm",
+      "title": "西门子医疗与英伟达官宣合作：用 AI 推进癌症诊疗，开发下一代自适应放疗",
+      "url": "https://www.ithome.com/1/016/206.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"0f01\">IT之家 10 月 21 日消息，今日有用户反馈，腾讯正在内测一款面向少儿与青少年的 AI 互动内容社区“懂了鸭”，官方网站（<span class=\"link-text-start-with-http\">dongleya.qq.com</span>）与微信小程序均已上线，目前向亲子用户和一线教师开放小范围测试。</…",
-      "pubDate": "2026-10-21T15:10:22.000Z",
+      "summary": "<p data-vmark=\"b91f\">IT之家 10 月 22 日消息，西门子医疗与英伟达今日宣布达成合作，<strong>双方正共同开发下一代自适应放射治疗技术，融合智能体与机器人智能</strong>，将影像和肿瘤学专业知识与加速计算及仿真相结合，以简化工作流程并提升医疗可及性。</p><p data-vmark=\"27b2\">西门子医疗首席执行官孟…",
+      "pubDate": "2026-10-22T01:28:20.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1792595407000",
+      "id": "it之家-1792631717000",
       "region": "domestic",
-      "title": "确认延期：华为鸿蒙 HarmonyOS 7 小艺 AI 快捷栏功能预计 11 月初分批推送",
-      "url": "https://www.ithome.com/1/016/144.htm",
+      "title": "Hey OnStar 登场：通用汽车推出 OnStar AI，能看懂车辆、听懂车主表述",
+      "url": "https://www.ithome.com/1/016/200.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"c5fc\">IT之家 10 月 21 日消息，在今年 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，鸿蒙 7 操作系统正式发布。在发布会现场，华为还剧透了全新功能 —— 小艺 AI 快捷栏。官方 PPT 页面显示，该功能开启后，小艺将在手机桌面底部的 Dock 栏常驻。</…",
-      "pubDate": "2026-10-21T15:10:07.000Z",
+      "summary": "<p data-vmark=\"dd54\">IT之家 10 月 22 日消息，通用汽车（GM）昨日（10 月 21 日）发布博文，<strong>宣布升级 OnStar（国内称安吉星），打造成为面向智能驾驶时代的“互联智能平台”，并推出全新的 OnStar AI 助手。</strong>这一原生 AI 助手将率先通过 OTA 升级搭载于 2027 款凯迪拉克 …",
+      "pubDate": "2026-10-22T01:15:17.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1792598189000",
+      "id": "google-news-ai-1792632120000",
       "region": "abroad",
-      "title": "Opinion: UMass’ AI Guides Should Test What Students Can Verify - Amherst Indy",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPejZZc2o5M0F3dHFxcFZJOXlrUzEybjQzVU1rOW93Z29JelpCTUFCamE2Q2hFdTk1dERaYm9rVDJNeXNISWgzRTVUQ1VWZlBoQ1Y3WHFTZFZJTG9ESnNGal9fMGN0bWxXU09CNmZnYWt6Z3htRHc5MlBYazRuaDExSFE3eXpsWUdxWFVWU2Z4UmR5ZmlrWGF0cWViSEJwWE5EZUE?oc=5",
+      "title": "Southeast Asia is hungry for AI — and the money isn't just in subscriptions - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLVB4S0phOUtJdGN2X19yWURkaERESTRPcWh1cWl1ZkVHV2pfRFdkX2Uyanl3UzZqaEtGdzJWSkhYVzJUWXd4cjBIUjg2Q0xMYkVid2xUeFpHUGVidGFtQzVPd3JRbUZnS0p4c2IxTC1QSFFMYkJtcTh2bkRZTHZTOUU3bjZzQWvSAYwBQVVfeXFMT0JDb0pVVFRsRDQ3NlQ2VmMyVlRoMEY5UUV1R1lpY1hvaFM5dTY2bVgyYlhQYTFLdWJJQ01OWXNFRXZvWW0yQk5MbEV2VVZ3bXVGT3NZamxOVXdJMlpIQjdIYUhrdHRNaXpwVm1vU1pGallBRW5qRzZwNkV3ZXloZDhxdXlNelVpb1lnQlg?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPejZZc2o5M0F3dHFxcFZJOXlrUzEybjQzVU1rOW93Z29JelpCTUFCamE2Q2hFdTk1dERaYm9rVDJNeXNISWgzRTVUQ1VWZlBoQ1Y3WHFTZFZJTG9ESnNGal…",
-      "pubDate": "2026-10-21T15:56:29.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOLVB4S0phOUtJdGN2X19yWURkaERESTRPcWh1cWl1ZkVHV2pfRFdkX2Uyanl3UzZqaEtGdzJWSkhYVzJUWXd4cjBIUjg2Q0xMYkVid2xUeFpHUGVidGFtQz…",
+      "pubDate": "2026-10-22T01:22:00.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1792598026000",
+      "id": "google-news-ai-1792631363000",
       "region": "abroad",
-      "title": "Fiserv taps AI for retail rethink - Payments Dive",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa2czVE9BSExRM0NuNEdLeVNBR0FUeXVhdXdSNDVXbi11YWs0ai01SWttdXBZcDl6Zzh6aEtyZXh2MG9abFhOWDczc2M1dk1BYU1OSFc0VUFPWXZkU3RDM2I1bU9EN2NQbFQ0WHV3b1c4RHkzd0F1Q2V3VlNjb0wyTW1SeGZEdW8?oc=5",
+      "title": "Tracking AI’s Real-Time Footprint On The Labor Market - Stanford HAI",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUWNCSndGWUpRNVlWYmpnZUN6QWhTX0h1Rkk5V3NqWWFEVFc3cEIzT0s3VEVKOS02YTlaakdPZjVPdkZ6VGk4M1FEMmxvMTRvV2Fha253R01QcXducGd6cjc5a0pSZW9RWVBwYlhhVF9OQUxMQ2pudnFTMW5zdmtBNzFCS1gzLUJSa2c?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPa2czVE9BSExRM0NuNEdLeVNBR0FUeXVhdXdSNDVXbi11YWs0ai01SWttdXBZcDl6Zzh6aEtyZXh2MG9abFhOWDczc2M1dk1BYU1OSFc0VUFPWXZkU3RDM2…",
-      "pubDate": "2026-10-21T15:53:46.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNUWNCSndGWUpRNVlWYmpnZUN6QWhTX0h1Rkk5V3NqWWFEVFc3cEIzT0s3VEVKOS02YTlaakdPZjVPdkZ6VGk4M1FEMmxvMTRvV2Fha253R01QcXducGd6cj…",
+      "pubDate": "2026-10-22T01:09:23.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1792594935000",
+      "id": "techcrunch-ai-1792623082000",
       "region": "abroad",
-      "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
-      "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
-      "source": "Wired AI",
-      "summary": "At Nvidia’s GTC in Berlin, Huang unveiled their new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
-      "pubDate": "2026-10-21T15:02:15.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1792592779000",
-      "region": "abroad",
-      "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
-      "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
-      "source": "Wired AI",
-      "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire co…",
-      "pubDate": "2026-10-21T14:26:19.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1792591200000",
-      "region": "abroad",
-      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-21T14:00:00.000Z",
+      "pubDate": "2026-10-21T22:51:22.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1792622390000",
+      "region": "abroad",
+      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+      "url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+      "source": "Wired AI",
+      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+      "pubDate": "2026-10-21T22:39:50.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1792617380000",
+      "region": "abroad",
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-21T21:16:20.000Z",
       "isFallback": false
     }
   ]
