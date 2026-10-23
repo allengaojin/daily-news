@@ -1,28 +1,38 @@
 {
   "meta": {
-    "date": "2026-10-22",
-    "updatedAt": "2026-10-22T15:55:02.569Z",
+    "date": "2026-10-23",
+    "updatedAt": "2026-10-23T01:37:34.103Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1792684093000",
+      "id": "it之家-1792719001000",
       "region": "domestic",
-      "title": "极米记得 AI 记忆手环 L1 上架：两种形态自由切换，全天候 AI 录音",
-      "url": "https://www.ithome.com/1/016/753.htm",
+      "title": "AI 智能体的“说明书”转为社区共治：Anthropic 捐赠 Agent Skills 开放标准",
+      "url": "https://www.ithome.com/1/016/811.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"df20\">IT之家 10 月 22 日消息，极米记得 AI 记忆手环 L1 今日上架，提供黑色、米色配色，售价信息暂未公布。</p><p data-vmark=\"6fa4\">据介绍，该产品支持两种形态自由切换，腕上是手环，胸前是吊坠；全天候 AI 录音，所有记忆，自动记录并整理；基于你个人记忆的 AI 对话，发生过的事它都知道…",
-      "pubDate": "2026-10-22T15:48:13.000Z",
+      "summary": "<p data-vmark=\"b69e\">IT之家 10 月 23 日消息，Anthropic 昨日（10 月 22 日）发布公告，宣布向 Linux 基金会旗下的 Agentic AI Foundation（AAIF）组织捐赠 Agent Skills 开放标准，<strong>让其从单一公司项目转为社区共治的 AI 智能体能力标准。</strong></…",
+      "pubDate": "2026-10-23T01:30:01.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1792683491000",
+      "id": "it之家-1792717715000",
       "region": "domestic",
-      "title": "黑石集团总裁反驳 AI 泡沫论，称需求呈“抛物线式”增长",
-      "url": "https://www.ithome.com/1/016/752.htm",
+      "title": "TrendForce 预测：2027 年服务器 CPU 出货有望增长超 40%，Arm 指令集可拿下三成份额",
+      "url": "https://www.ithome.com/1/016/801.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"59a4\">IT之家 10 月 22 日消息，据彭博社今日消息，黑石集团总裁乔恩 · 格雷（Jon Gray）发话，反驳亿万富豪肯 · 格里芬前几天关于 AI 存在泡沫的说法。</p><p style=\"text-align: center;\" data-vmark=\"683e\"><img src=\"https://img.it…",
-      "pubDate": "2026-10-22T15:38:11.000Z",
+      "summary": "<p data-vmark=\"f597\">IT之家 10 月 23 日消息，TrendForce（集邦）昨日发布预测，认为服务器 CPU 出货有望在 2026、2027 两年分别增长 31% 和超 40%。这得益于代理式人工智能工作负载对 CPU : 加速器需求比例的提升。</p><table align=\"center\"><tbody><tr class=…",
+      "pubDate": "2026-10-23T01:08:35.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "少数派-1792714832000",
+      "region": "domestic",
+      "title": "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
+      "url": "https://sspai.com/post/117104",
+      "source": "少数派",
+      "summary": "少数派的近期动态和少数派一起，在海口明日公园来一场创造之约吧。活动详情iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章终于吃到了那颗梦寐以求的小药丸：我的A ...<a href=\"https://sspai.com/post/117104\" target=\"_blank\">查看全文</a>",
+      "pubDate": "2026-10-23T00:20:32.000Z",
       "isFallback": false
     },
     {
@@ -44,67 +54,57 @@
       "summary": "",
       "pubDate": "2026-10-22T07:14:48.000Z",
       "isFallback": false
-    },
-    {
-      "id": "量子位-1792653074000",
-      "region": "domestic",
-      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
-      "url": "https://www.qbitai.com/2026/10/504832.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-10-22T07:11:14.000Z",
-      "isFallback": false
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1792683994000",
+      "id": "google-news-ai-1792719226000",
       "region": "abroad",
-      "title": "The biggest wealth giveaway in modern history aims to transform the world - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTjdJeGY2WFh6cFJhaHZvRUNDVHlaSV9MNEFqVDdMeW9La2xVRldWaE1UcWVadkNaVVcyTmp6b0tIaDEwVm9NN1p1dVU3SzdMNHVzdThHbkg4a0Q5YU5yZmZ2SVY5QkxOUW03bjQ1VEhMdmVsdC02S0d1RjRBQ0Q4b3oxNlZ3VV9Pc01Vb1hrQ0VKUmRLMWF0MEZKeERFbnVXWXMzV1VrUGtwVTY2WW92Mmdn?oc=5",
+      "title": "Cal Poly Unveils $3 Million ‘AI Factory’ Supercomputer to Help Drive Student Innovation - News Channel 3-12",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNekU2V3FlanFNZVVRTk5aaXNnV1dQaGZVSXJDWnJ6QTBSSjktRWRQVHBta0k4R1cyazNSWGJOUFJFYUY4Q1BiNUVxcnhWTHJENFQwT24wVkJYUERnU2JNVDdOWHZoS05lOExsTUVkdmdOWUF0QUxDWXJCdk1fb25kUjJiUXBtWW5laG9Sb2c1QXpnTXhJU25MMXVSSmxYQkRkUzRkX3hVdlZvbkY1WkZwZElfbkoya0drcHpqSFc3WWUtZnNDMU1B?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPTjdJeGY2WFh6cFJhaHZvRUNDVHlaSV9MNEFqVDdMeW9La2xVRldWaE1UcWVadkNaVVcyTmp6b0tIaDEwVm9NN1p1dVU3SzdMNHVzdThHbkg4a0Q5YU5yZm…",
-      "pubDate": "2026-10-22T15:46:34.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNekU2V3FlanFNZVVRTk5aaXNnV1dQaGZVSXJDWnJ6QTBSSjktRWRQVHBta0k4R1cyazNSWGJOUFJFYUY4Q1BiNUVxcnhWTHJENFQwT24wVkJYUERnU2JNVD…",
+      "pubDate": "2026-10-23T01:33:46.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1792683916000",
+      "id": "google-news-ai-1792717200000",
       "region": "abroad",
-      "title": "Rush to Patch AI-Discovered Software Vulnerability that Could Impact 70% of Websites - Broadband Breakfast",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcGpRMG9pRHpTSXFnY2dnZ09pTF8zTUQtVlBZbXRGR1hja0huaGI2WjRwbVRJOFF3cTRlR3EtZ1FBSVZTWjNEMTJsWXdWOHJEMFRmbW5kZGJRZGxnVmpnUTJkeXFzN2dwLTRpdkdfaTZFNl9DM01FMVcyeWFQZ0pyVldOV2FzTkNYaWdXU01CSXB0aW0yT0lnekR2QlBPWDIwY0d4WnNDbXl6cEJkVzFTZHNxVHNfZw?oc=5",
+      "title": "What It Really Takes to Build a One-Person Company With AI - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOODZnelc1bm96QklqR2tMUWREMldTbmZ2RDhBOF9iQldyQWlYRHdHSFVzUEo4Wi1odTNVNGx0bjlhUUlRRklDQzkwejdZbUp0Nmppa1d6ajVPajJZekl1WjdDSENkdnJaWXZRcE43R2dfWUp3LWRqZmRfbmxRX1R2SExsZWNHem81YXpyYWU2TkpyS1dycG1zTE9YWThoLVMxTDZwdXFOOF8zanZhNGNJ?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPcGpRMG9pRHpTSXFnY2dnZ09pTF8zTUQtVlBZbXRGR1hja0huaGI2WjRwbVRJOFF3cTRlR3EtZ1FBSVZTWjNEMTJsWXdWOHJEMFRmbW5kZGJRZGxnVmpnUT…",
-      "pubDate": "2026-10-22T15:45:16.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOODZnelc1bm96QklqR2tMUWREMldTbmZ2RDhBOF9iQldyQWlYRHdHSFVzUEo4Wi1odTNVNGx0bjlhUUlRRklDQzkwejdZbUp0Nmppa1d6ajVPajJZekl1Wj…",
+      "pubDate": "2026-10-23T01:00:00.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1792681438000",
+      "id": "techcrunch-ai-1792716337000",
       "region": "abroad",
-      "title": "Spotify’s current AI bet is about being the music service that agents choose",
-      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-22T15:03:58.000Z",
+      "pubDate": "2026-10-23T00:45:37.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1792677206000",
+      "id": "techcrunch-ai-1792706904000",
       "region": "abroad",
-      "title": "Claude Duet app is Anthropic’s bet on agents",
-      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-22T13:53:26.000Z",
+      "pubDate": "2026-10-22T22:08:24.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1792674000000",
+      "id": "mit-tech-review-ai-1792703849000",
       "region": "abroad",
-      "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
-      "url": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
-      "source": "Wired AI",
-      "summary": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
-      "pubDate": "2026-10-22T13:00:00.000Z",
+      "title": "Designing an AI serving harness built to last",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "source": "MIT Tech Review AI",
+      "summary": "",
+      "pubDate": "2026-10-22T21:17:29.000Z",
       "isFallback": false
     }
   ]
