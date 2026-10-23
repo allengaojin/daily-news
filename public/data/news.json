@@ -1,28 +1,38 @@
 {
   "meta": {
     "date": "2026-10-23",
-    "updatedAt": "2026-10-23T01:37:34.103Z",
+    "updatedAt": "2026-10-23T15:46:25.683Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1792719001000",
+      "id": "it之家-1792766624000",
       "region": "domestic",
-      "title": "AI 智能体的“说明书”转为社区共治：Anthropic 捐赠 Agent Skills 开放标准",
-      "url": "https://www.ithome.com/1/016/811.htm",
+      "title": "OpenAI 联合研究机构部署数千个 AI 智能体：32 分钟分析数百万个小鼠脑细胞，相当于人类数月时间",
+      "url": "https://www.ithome.com/1/017/274.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"b69e\">IT之家 10 月 23 日消息，Anthropic 昨日（10 月 22 日）发布公告，宣布向 Linux 基金会旗下的 Agentic AI Foundation（AAIF）组织捐赠 Agent Skills 开放标准，<strong>让其从单一公司项目转为社区共治的 AI 智能体能力标准。</strong></…",
-      "pubDate": "2026-10-23T01:30:01.000Z",
+      "summary": "<p data-vmark=\"ba7d\">IT之家 10 月 23 日消息，OpenAI 联合 PerturbAI 和斯克里普斯研究所（Scripps Research），利用数千个 AI 智能体分析数百万个小鼠脑细胞的生物学数据，整个分析过程仅耗时 32 分钟。</p><p data-vmark=\"8e59\">研究团队估计，如果由人类研究人员逐项分析实验结…",
+      "pubDate": "2026-10-23T14:43:44.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1792717715000",
+      "id": "it之家-1792753169000",
       "region": "domestic",
-      "title": "TrendForce 预测：2027 年服务器 CPU 出货有望增长超 40%，Arm 指令集可拿下三成份额",
-      "url": "https://www.ithome.com/1/016/801.htm",
+      "title": "iPhone 17 Pro 京东 7458 元国补直降，AirPods 5 限时 755 元探底继续",
+      "url": "https://www.ithome.com/1/017/214.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"f597\">IT之家 10 月 23 日消息，TrendForce（集邦）昨日发布预测，认为服务器 CPU 出货有望在 2026、2027 两年分别增长 31% 和超 40%。这得益于代理式人工智能工作负载对 CPU : 加速器需求比例的提升。</p><table align=\"center\"><tbody><tr class=…",
-      "pubDate": "2026-10-23T01:08:35.000Z",
+      "summary": "<p data-vmark=\"2d2c\">京东现已开启 iPhone 新品狂促，18 系列支持直降 300 元 + 以旧换新额外补贴 1000 元 + 再享 12 期免息：<a href=\"https://u.jd.com/4rlmBUt\" target=\"_blank\" data-wapurl=\"https://u.jd.com/41lxtjs\" data…",
+      "pubDate": "2026-10-23T10:59:29.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1792740951000",
+      "region": "domestic",
+      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+      "url": "https://www.qbitai.com/2026/10/504901.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-10-23T07:35:51.000Z",
       "isFallback": false
     },
     {
@@ -44,37 +54,37 @@
       "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/115437\" target=\"_blank\">查看全文</a>",
       "pubDate": "2026-10-22T09:10:03.000Z",
       "isFallback": false
-    },
-    {
-      "id": "量子位-1792653288000",
-      "region": "domestic",
-      "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
-      "url": "https://www.qbitai.com/2026/10/504841.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-10-22T07:14:48.000Z",
-      "isFallback": false
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1792719226000",
+      "id": "google-news-ai-1792770053000",
       "region": "abroad",
-      "title": "Cal Poly Unveils $3 Million ‘AI Factory’ Supercomputer to Help Drive Student Innovation - News Channel 3-12",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNekU2V3FlanFNZVVRTk5aaXNnV1dQaGZVSXJDWnJ6QTBSSjktRWRQVHBta0k4R1cyazNSWGJOUFJFYUY4Q1BiNUVxcnhWTHJENFQwT24wVkJYUERnU2JNVDdOWHZoS05lOExsTUVkdmdOWUF0QUxDWXJCdk1fb25kUjJiUXBtWW5laG9Sb2c1QXpnTXhJU25MMXVSSmxYQkRkUzRkX3hVdlZvbkY1WkZwZElfbkoya0drcHpqSFc3WWUtZnNDMU1B?oc=5",
+      "title": "Arundhati Roy: Artificial Intelligence is Capitalism’s Final Destination - Democracy Now!",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTVdFcDNjQ09Td0I0aWVMalc3QUJQNzNKSHJNVzJ0X0tMRHZJTDZwWnJYTTRPX3RvZFBRSGJxQkptZXY5eFFVQkxpWmNRN0U0Zkt5NHRjcFY4QUFmNlhqOHB2Z1dDVTNtT3c1UDVtbzBGYlVLU0x2dGlEcFc4UmJDb0NyQ2dwX3htZmJrektzdDFOTXBtWEE?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNekU2V3FlanFNZVVRTk5aaXNnV1dQaGZVSXJDWnJ6QTBSSjktRWRQVHBta0k4R1cyazNSWGJOUFJFYUY4Q1BiNUVxcnhWTHJENFQwT24wVkJYUERnU2JNVD…",
-      "pubDate": "2026-10-23T01:33:46.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOTVdFcDNjQ09Td0I0aWVMalc3QUJQNzNKSHJNVzJ0X0tMRHZJTDZwWnJYTTRPX3RvZFBRSGJxQkptZXY5eFFVQkxpWmNRN0U0Zkt5NHRjcFY4QUFmNlhqOH…",
+      "pubDate": "2026-10-23T15:40:53.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1792717200000",
+      "id": "google-news-ai-1792769820000",
       "region": "abroad",
-      "title": "What It Really Takes to Build a One-Person Company With AI - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOODZnelc1bm96QklqR2tMUWREMldTbmZ2RDhBOF9iQldyQWlYRHdHSFVzUEo4Wi1odTNVNGx0bjlhUUlRRklDQzkwejdZbUp0Nmppa1d6ajVPajJZekl1WjdDSENkdnJaWXZRcE43R2dfWUp3LWRqZmRfbmxRX1R2SExsZWNHem81YXpyYWU2TkpyS1dycG1zTE9YWThoLVMxTDZwdXFOOF8zanZhNGNJ?oc=5",
+      "title": "The Five Nine: How AT&T and GSMA are building AI for telecom networks - Fierce Network",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOay01bXp6UjhNR05kUkV5bkFnWXZHbzFWN21jM3V6LW1IV3ZJN1MyeW5UZmpocVFEUTFUUnNscjFodEZEWFl5eTF0YmhONldYblhxZ24zZDJrdFNxZ3FsajE5ZDhFZzBDNWpYTWc0cDhFWGJPMHU1R25HSmdSNHhzUWRQdVg4VmxSbjg2UGhsRm9vVnMxbHo3a0tTWWJjN3h0?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOODZnelc1bm96QklqR2tMUWREMldTbmZ2RDhBOF9iQldyQWlYRHdHSFVzUEo4Wi1odTNVNGx0bjlhUUlRRklDQzkwejdZbUp0Nmppa1d6ajVPajJZekl1Wj…",
-      "pubDate": "2026-10-23T01:00:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOay01bXp6UjhNR05kUkV5bkFnWXZHbzFWN21jM3V6LW1IV3ZJN1MyeW5UZmpocVFEUTFUUnNscjFodEZEWFl5eTF0YmhONldYblhxZ24zZDJrdFNxZ3Fsaj…",
+      "pubDate": "2026-10-23T15:37:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1792728000000",
+      "region": "abroad",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-23T04:00:00.000Z",
       "isFallback": false
     },
     {
@@ -85,16 +95,6 @@
       "source": "TechCrunch AI",
       "summary": "",
       "pubDate": "2026-10-23T00:45:37.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1792706904000",
-      "region": "abroad",
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-22T22:08:24.000Z",
       "isFallback": false
     },
     {
