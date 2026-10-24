@@ -1,28 +1,28 @@
 {
   "meta": {
     "date": "2026-10-24",
-    "updatedAt": "2026-10-24T01:41:36.041Z",
+    "updatedAt": "2026-10-24T14:38:14.638Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1792803577000",
+      "id": "it之家-1792851540000",
       "region": "domestic",
-      "title": "英国将砸 6 亿英镑应对潜在 AI 风险，还计划建 AI 生物安全实验室",
-      "url": "https://www.ithome.com/1/017/304.htm",
+      "title": "惠普星 Book Air 14 上架预约：酷睿 5 320、薯条标，国补价 4504.15 元",
+      "url": "https://www.ithome.com/1/017/510.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"6eb5\">IT之家 10 月 24 日消息，据路透社报道，当地时间 24 日，英国政府宣布将投入约 6 亿英镑<span class=\"exch-money-value\">（IT之家注：现汇率约合 53.6 亿元人民币）</span>，重点应对 AI 带来的公共卫生和安全风险。</p><p data-vmark=\"c379\">…",
-      "pubDate": "2026-10-24T00:59:37.000Z",
+      "summary": "<p data-vmark=\"c84e\">IT之家 10 月 24 日消息，惠普京东自营店新上架了一款星 Book Air 14 轻薄本电脑，提供星空蓝、烟灰银、牡丹粉、哈密瓜绿四种配色，京东首发价 5299 元，叠加国补后约为 4504.15 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.…",
+      "pubDate": "2026-10-24T14:19:00.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1792801471000",
+      "id": "it之家-1792850081000",
       "region": "domestic",
-      "title": "央视新闻谈 AI 魔改视频和二创区别：问题关键在“魔”，消解经典的同时也伤害文化根本",
-      "url": "https://www.ithome.com/1/017/298.htm",
+      "title": "铭凡 N5 Air NAS 主机 7640HS 款上市：5+3 盘位，0 + 64GB 售 2999 元",
+      "url": "https://www.ithome.com/1/017/509.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"ae84\">IT之家 10 月 24 日消息，据央视新闻今早报道，日前，部分重点网络视听平台公布了“AI 魔改”视频专项治理工作 9 月的处置情况，<a target=\"_blank\" href=\"https://www.ithome.com/1/012/701.htm\">共清理违规视频近 13000 条、处置违规账号 30 余…",
-      "pubDate": "2026-10-24T00:24:31.000Z",
+      "summary": "<p data-vmark=\"d830\">IT之家 10 月 24 日消息，MINSFORUM（铭凡）现已在中国大陆电商平台销售搭载 AMD 锐龙 5 7640HS 处理器的 N5 Air。这款 NAS 主机除处理器降级外与基于锐龙 7 255 的原版几乎一致。</p><p data-vmark=\"e366\" style=\"text-align: cente…",
+      "pubDate": "2026-10-24T13:54:41.000Z",
       "isFallback": false
     },
     {
@@ -58,23 +58,43 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1792804559000",
+      "id": "google-news-ai-1792852557000",
       "region": "abroad",
-      "title": "AI in Higher Education Internal Audit: 2026 Survey Results - EisnerAmper",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLTlHMGFhR004V3VCekR4Zm9uaVVkSDlHSXg4TV9pQWRMVUZTZzJoanlEWkY5dmd0eEIxVENxZEw5N3BKVmp4dGRBT3R0NnJDYTZndlJpTVk2RDZuTGtVZ0x5aUpSWTZpQTZKWWxOTFhvMjRIQi15R2JIS2FfbVJNaDktUnV4ejM5NXlXNUNzaGxiSDB3ckltc0YxMG9QR1pGSzI3TEln?oc=5",
+      "title": "AWS says its AI security agent fixes 89% of bugs — but there’s a catch - The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTnk4WGwyemZBZm5VWjZfOElWcEVwaVA3SG9BMWJWQlpxRTdPYWpXNTB3Q0M3dm5TQldLWUM5NzdJM19aT0ktaGNSSXpBTHF1YVYtZ0JGc1BrZ2VjTU12MDFpMDROWHMwbWJUSnRQbTUwWU9FUFdpaE1neTVHY2RITU95d3lUU2E2eTZpeWlpRWlKaGRZ?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNLTlHMGFhR004V3VCekR4Zm9uaVVkSDlHSXg4TV9pQWRMVUZTZzJoanlEWkY5dmd0eEIxVENxZEw5N3BKVmp4dGRBT3R0NnJDYTZndlJpTVk2RDZuTGtVZ0…",
-      "pubDate": "2026-10-24T01:15:59.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNTnk4WGwyemZBZm5VWjZfOElWcEVwaVA3SG9BMWJWQlpxRTdPYWpXNTB3Q0M3dm5TQldLWUM5NzdJM19aT0ktaGNSSXpBTHF1YVYtZ0JGc1BrZ2VjTU12MD…",
+      "pubDate": "2026-10-24T14:35:57.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1792804152000",
+      "id": "google-news-ai-1792852533000",
       "region": "abroad",
-      "title": "Oklahoma Local News Summit explores AI’s role in journalism - News On 6",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTGJlRldpRFJEdVE0bDhnOFpLQkhBNVlRVHhqWkJWel9pcUh4VThKYng3VHJpTkx4WGt4UkEtcVM5Z2l4TWdBYnlxLUN4NFZfb0ExWmJSaWdfWXZiS0J5c0loM3FnOGdtYkt6NnlGZnJHWTMxa1JLdVJ1Wm9VUVRyMkFNZ2laMzBEUzRvVFhMcDFnQm1lcUVZN2VYYTdEQnVQNGc?oc=5",
+      "title": "Anthropic Sued For Stealing Elvis Presley Music to Train AI: ‘Deeply Protective of These Iconic Songs’ - Billboard",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tQUZPNFFsYXJZcnJydGJWWldtMmJLZEF4QlpiVWtQeHVZY1UwdjJHOFRLMHEyS0FvR0pjZ0ZXZHdQQURfNDNuWXNMaHlnZUdjUUYzeHF1T2pscmtVUFhXYTdwUkE2NmdWaEY4RkdneUhHNXFUdzZVbG5kOA?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQTGJlRldpRFJEdVE0bDhnOFpLQkhBNVlRVHhqWkJWel9pcUh4VThKYng3VHJpTkx4WGt4UkEtcVM5Z2l4TWdBYnlxLUN4NFZfb0ExWmJSaWdfWXZiS0J5c0…",
-      "pubDate": "2026-10-24T01:09:12.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE8tQUZPNFFsYXJZcnJydGJWWldtMmJLZEF4QlpiVWtQeHVZY1UwdjJHOFRLMHEyS0FvR0pjZ0ZXZHdQQURfNDNuWXNMaHlnZUdjUUYzeHF1T2pscmtVUFhXYT…",
+      "pubDate": "2026-10-24T14:35:33.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1792850400000",
+      "region": "abroad",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-24T14:00:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1792843200000",
+      "region": "abroad",
+      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+      "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+      "source": "Wired AI",
+      "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+      "pubDate": "2026-10-24T12:00:00.000Z",
       "isFallback": false
     },
     {
@@ -85,26 +105,6 @@
       "source": "TechCrunch AI",
       "summary": "",
       "pubDate": "2026-10-23T23:05:49.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1792792759000",
-      "region": "abroad",
-      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-23T21:59:19.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "mit-tech-review-ai-1792703849000",
-      "region": "abroad",
-      "title": "Designing an AI serving harness built to last",
-      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-      "source": "MIT Tech Review AI",
-      "summary": "",
-      "pubDate": "2026-10-22T21:17:29.000Z",
       "isFallback": false
     }
   ]
