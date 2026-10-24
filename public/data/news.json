@@ -1,28 +1,28 @@
 {
   "meta": {
-    "date": "2026-10-23",
-    "updatedAt": "2026-10-23T15:46:25.683Z",
+    "date": "2026-10-24",
+    "updatedAt": "2026-10-24T01:41:36.041Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1792766624000",
+      "id": "it之家-1792803577000",
       "region": "domestic",
-      "title": "OpenAI 联合研究机构部署数千个 AI 智能体：32 分钟分析数百万个小鼠脑细胞，相当于人类数月时间",
-      "url": "https://www.ithome.com/1/017/274.htm",
+      "title": "英国将砸 6 亿英镑应对潜在 AI 风险，还计划建 AI 生物安全实验室",
+      "url": "https://www.ithome.com/1/017/304.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"ba7d\">IT之家 10 月 23 日消息，OpenAI 联合 PerturbAI 和斯克里普斯研究所（Scripps Research），利用数千个 AI 智能体分析数百万个小鼠脑细胞的生物学数据，整个分析过程仅耗时 32 分钟。</p><p data-vmark=\"8e59\">研究团队估计，如果由人类研究人员逐项分析实验结…",
-      "pubDate": "2026-10-23T14:43:44.000Z",
+      "summary": "<p data-vmark=\"6eb5\">IT之家 10 月 24 日消息，据路透社报道，当地时间 24 日，英国政府宣布将投入约 6 亿英镑<span class=\"exch-money-value\">（IT之家注：现汇率约合 53.6 亿元人民币）</span>，重点应对 AI 带来的公共卫生和安全风险。</p><p data-vmark=\"c379\">…",
+      "pubDate": "2026-10-24T00:59:37.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1792753169000",
+      "id": "it之家-1792801471000",
       "region": "domestic",
-      "title": "iPhone 17 Pro 京东 7458 元国补直降，AirPods 5 限时 755 元探底继续",
-      "url": "https://www.ithome.com/1/017/214.htm",
+      "title": "央视新闻谈 AI 魔改视频和二创区别：问题关键在“魔”，消解经典的同时也伤害文化根本",
+      "url": "https://www.ithome.com/1/017/298.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"2d2c\">京东现已开启 iPhone 新品狂促，18 系列支持直降 300 元 + 以旧换新额外补贴 1000 元 + 再享 12 期免息：<a href=\"https://u.jd.com/4rlmBUt\" target=\"_blank\" data-wapurl=\"https://u.jd.com/41lxtjs\" data…",
-      "pubDate": "2026-10-23T10:59:29.000Z",
+      "summary": "<p data-vmark=\"ae84\">IT之家 10 月 24 日消息，据央视新闻今早报道，日前，部分重点网络视听平台公布了“AI 魔改”视频专项治理工作 9 月的处置情况，<a target=\"_blank\" href=\"https://www.ithome.com/1/012/701.htm\">共清理违规视频近 13000 条、处置违规账号 30 余…",
+      "pubDate": "2026-10-24T00:24:31.000Z",
       "isFallback": false
     },
     {
@@ -58,43 +58,43 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1792770053000",
+      "id": "google-news-ai-1792804559000",
       "region": "abroad",
-      "title": "Arundhati Roy: Artificial Intelligence is Capitalism’s Final Destination - Democracy Now!",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTVdFcDNjQ09Td0I0aWVMalc3QUJQNzNKSHJNVzJ0X0tMRHZJTDZwWnJYTTRPX3RvZFBRSGJxQkptZXY5eFFVQkxpWmNRN0U0Zkt5NHRjcFY4QUFmNlhqOHB2Z1dDVTNtT3c1UDVtbzBGYlVLU0x2dGlEcFc4UmJDb0NyQ2dwX3htZmJrektzdDFOTXBtWEE?oc=5",
+      "title": "AI in Higher Education Internal Audit: 2026 Survey Results - EisnerAmper",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLTlHMGFhR004V3VCekR4Zm9uaVVkSDlHSXg4TV9pQWRMVUZTZzJoanlEWkY5dmd0eEIxVENxZEw5N3BKVmp4dGRBT3R0NnJDYTZndlJpTVk2RDZuTGtVZ0x5aUpSWTZpQTZKWWxOTFhvMjRIQi15R2JIS2FfbVJNaDktUnV4ejM5NXlXNUNzaGxiSDB3ckltc0YxMG9QR1pGSzI3TEln?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOTVdFcDNjQ09Td0I0aWVMalc3QUJQNzNKSHJNVzJ0X0tMRHZJTDZwWnJYTTRPX3RvZFBRSGJxQkptZXY5eFFVQkxpWmNRN0U0Zkt5NHRjcFY4QUFmNlhqOH…",
-      "pubDate": "2026-10-23T15:40:53.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNLTlHMGFhR004V3VCekR4Zm9uaVVkSDlHSXg4TV9pQWRMVUZTZzJoanlEWkY5dmd0eEIxVENxZEw5N3BKVmp4dGRBT3R0NnJDYTZndlJpTVk2RDZuTGtVZ0…",
+      "pubDate": "2026-10-24T01:15:59.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1792769820000",
+      "id": "google-news-ai-1792804152000",
       "region": "abroad",
-      "title": "The Five Nine: How AT&T and GSMA are building AI for telecom networks - Fierce Network",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOay01bXp6UjhNR05kUkV5bkFnWXZHbzFWN21jM3V6LW1IV3ZJN1MyeW5UZmpocVFEUTFUUnNscjFodEZEWFl5eTF0YmhONldYblhxZ24zZDJrdFNxZ3FsajE5ZDhFZzBDNWpYTWc0cDhFWGJPMHU1R25HSmdSNHhzUWRQdVg4VmxSbjg2UGhsRm9vVnMxbHo3a0tTWWJjN3h0?oc=5",
+      "title": "Oklahoma Local News Summit explores AI’s role in journalism - News On 6",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTGJlRldpRFJEdVE0bDhnOFpLQkhBNVlRVHhqWkJWel9pcUh4VThKYng3VHJpTkx4WGt4UkEtcVM5Z2l4TWdBYnlxLUN4NFZfb0ExWmJSaWdfWXZiS0J5c0loM3FnOGdtYkt6NnlGZnJHWTMxa1JLdVJ1Wm9VUVRyMkFNZ2laMzBEUzRvVFhMcDFnQm1lcUVZN2VYYTdEQnVQNGc?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOay01bXp6UjhNR05kUkV5bkFnWXZHbzFWN21jM3V6LW1IV3ZJN1MyeW5UZmpocVFEUTFUUnNscjFodEZEWFl5eTF0YmhONldYblhxZ24zZDJrdFNxZ3Fsaj…",
-      "pubDate": "2026-10-23T15:37:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQTGJlRldpRFJEdVE0bDhnOFpLQkhBNVlRVHhqWkJWel9pcUh4VThKYng3VHJpTkx4WGt4UkEtcVM5Z2l4TWdBYnlxLUN4NFZfb0ExWmJSaWdfWXZiS0J5c0…",
+      "pubDate": "2026-10-24T01:09:12.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1792728000000",
+      "id": "techcrunch-ai-1792796749000",
       "region": "abroad",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-23T04:00:00.000Z",
+      "pubDate": "2026-10-23T23:05:49.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1792716337000",
+      "id": "techcrunch-ai-1792792759000",
       "region": "abroad",
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-23T00:45:37.000Z",
+      "pubDate": "2026-10-23T21:59:19.000Z",
       "isFallback": false
     },
     {
