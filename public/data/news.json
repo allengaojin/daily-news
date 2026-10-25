@@ -1,28 +1,28 @@
 {
   "meta": {
-    "date": "2026-10-24",
-    "updatedAt": "2026-10-24T14:38:14.638Z",
+    "date": "2026-10-25",
+    "updatedAt": "2026-10-25T01:17:10.900Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1792851540000",
+      "id": "it之家-1792888958000",
       "region": "domestic",
-      "title": "惠普星 Book Air 14 上架预约：酷睿 5 320、薯条标，国补价 4504.15 元",
-      "url": "https://www.ithome.com/1/017/510.htm",
+      "title": "澳国脚授权 AI 数字分身，运动员开启肖像权 AI 商业化",
+      "url": "https://www.ithome.com/1/017/542.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"c84e\">IT之家 10 月 24 日消息，惠普京东自营店新上架了一款星 Book Air 14 轻薄本电脑，提供星空蓝、烟灰银、牡丹粉、哈密瓜绿四种配色，京东首发价 5299 元，叠加国补后约为 4504.15 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.…",
-      "pubDate": "2026-10-24T14:19:00.000Z",
+      "summary": "<p data-vmark=\"493f\">IT之家 10 月 25 日消息，澳大利亚国家男子足球队球星走在宽敞的中庭里，目光直视镜头，足球鞋踩在光洁的混凝土地面上，脚步声在四周回荡。突然间，他变出四个数字分身，各自散开，再出现在全球不同场景当中。</p><p style=\"text-align: center;\" data-vmark=\"2986\"><img…",
+      "pubDate": "2026-10-25T00:42:38.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1792850081000",
+      "id": "it之家-1792883972000",
       "region": "domestic",
-      "title": "铭凡 N5 Air NAS 主机 7640HS 款上市：5+3 盘位，0 + 64GB 售 2999 元",
-      "url": "https://www.ithome.com/1/017/509.htm",
+      "title": "BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限",
+      "url": "https://www.ithome.com/1/017/527.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"d830\">IT之家 10 月 24 日消息，MINSFORUM（铭凡）现已在中国大陆电商平台销售搭载 AMD 锐龙 5 7640HS 处理器的 N5 Air。这款 NAS 主机除处理器降级外与基于锐龙 7 255 的原版几乎一致。</p><p data-vmark=\"e366\" style=\"text-align: cente…",
-      "pubDate": "2026-10-24T13:54:41.000Z",
+      "summary": "<p data-vmark=\"b327\">IT之家 10 月 25 日消息，英国广播公司（BBC）的《蓝色星球 3》纪录片打算保留那些不算完美的镜头，以此证明内容的真实性。该系列前作的标志性特点是画面精美、通透清晰，美得近乎不真实。而人工智能生成内容的一大破绽，就是画面过度精致、毫无瑕疵。为了避开这种观感，《蓝色星球 3》选择如实呈现，不刻意美化。</p><…",
+      "pubDate": "2026-10-24T23:19:32.000Z",
       "isFallback": false
     },
     {
@@ -58,33 +58,43 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1792852557000",
+      "id": "google-news-ai-1792889405000",
       "region": "abroad",
-      "title": "AWS says its AI security agent fixes 89% of bugs — but there’s a catch - The New Stack",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTnk4WGwyemZBZm5VWjZfOElWcEVwaVA3SG9BMWJWQlpxRTdPYWpXNTB3Q0M3dm5TQldLWUM5NzdJM19aT0ktaGNSSXpBTHF1YVYtZ0JGc1BrZ2VjTU12MDFpMDROWHMwbWJUSnRQbTUwWU9FUFdpaE1neTVHY2RITU95d3lUU2E2eTZpeWlpRWlKaGRZ?oc=5",
+      "title": "2 Warren Buffett Artificial Intelligence (AI) Stocks I'd Buy Right Now and Never Sell - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVEhBVVFDckZ0UXZnXzdCM1g5NUhkZS16eVVBd29xYmNLcWZmRmRfQkhDSEktdi1nZlhxRkFsaDdPWHVVRVNGUWRMTjlzeXBQUkNDNU4zdmtHZldtZ1Y3NTQtT1dfM19XQjFvUkRYaDdFbFdwdmhMdzhKc01oaDhTdTdzbHV1eThxQndtZ053OXJjcnNqeUo5OA?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNTnk4WGwyemZBZm5VWjZfOElWcEVwaVA3SG9BMWJWQlpxRTdPYWpXNTB3Q0M3dm5TQldLWUM5NzdJM19aT0ktaGNSSXpBTHF1YVYtZ0JGc1BrZ2VjTU12MD…",
-      "pubDate": "2026-10-24T14:35:57.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOVEhBVVFDckZ0UXZnXzdCM1g5NUhkZS16eVVBd29xYmNLcWZmRmRfQkhDSEktdi1nZlhxRkFsaDdPWHVVRVNGUWRMTjlzeXBQUkNDNU4zdmtHZldtZ1Y3NT…",
+      "pubDate": "2026-10-25T00:50:05.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1792852533000",
+      "id": "google-news-ai-1792888386000",
       "region": "abroad",
-      "title": "Anthropic Sued For Stealing Elvis Presley Music to Train AI: ‘Deeply Protective of These Iconic Songs’ - Billboard",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tQUZPNFFsYXJZcnJydGJWWldtMmJLZEF4QlpiVWtQeHVZY1UwdjJHOFRLMHEyS0FvR0pjZ0ZXZHdQQURfNDNuWXNMaHlnZUdjUUYzeHF1T2pscmtVUFhXYTdwUkE2NmdWaEY4RkdneUhHNXFUdzZVbG5kOA?oc=5",
+      "title": "A Timeline of Developments in AI Safety Since the Attack on Hugging Face - Broadband Breakfast",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX0tFWDNzS2t4dVBTZWhyejFMVHNwb05vTEJlQmFkRHl5M1UwSS1SZmVOYWNIMVFYdm51VG5fVEZxaWhZZ3R6MFF6UEc5VTBOem81UkFJRTRlanpmZl9XQzJ1SmM3ZzZqTGs5LXFORmVEQlZwME5wdDZFNzBOT29JRGVQaDdEQ194dW5LdUctQ3E3Y3E3U0tFTXpNbTUtdlFGSmNObEQ3bw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE8tQUZPNFFsYXJZcnJydGJWWldtMmJLZEF4QlpiVWtQeHVZY1UwdjJHOFRLMHEyS0FvR0pjZ0ZXZHdQQURfNDNuWXNMaHlnZUdjUUYzeHF1T2pscmtVUFhXYT…",
-      "pubDate": "2026-10-24T14:35:33.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQX0tFWDNzS2t4dVBTZWhyejFMVHNwb05vTEJlQmFkRHl5M1UwSS1SZmVOYWNIMVFYdm51VG5fVEZxaWhZZ3R6MFF6UEc5VTBOem81UkFJRTRlanpmZl9XQz…",
+      "pubDate": "2026-10-25T00:33:06.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1792850400000",
+      "id": "techcrunch-ai-1792868400000",
       "region": "abroad",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-24T14:00:00.000Z",
+      "pubDate": "2026-10-24T19:00:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1792857600000",
+      "region": "abroad",
+      "title": "Block’s new voice model sounds eerily human",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-24T16:00:00.000Z",
       "isFallback": false
     },
     {
@@ -95,16 +105,6 @@
       "source": "Wired AI",
       "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
       "pubDate": "2026-10-24T12:00:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1792796749000",
-      "region": "abroad",
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-23T23:05:49.000Z",
       "isFallback": false
     }
   ]
