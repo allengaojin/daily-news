@@ -1,48 +1,48 @@
 {
   "meta": {
     "date": "2026-10-27",
-    "updatedAt": "2026-10-26T17:26:23.563Z",
+    "updatedAt": "2026-10-27T02:09:23.814Z",
     "mode": "partial"
   },
   "domestic": [
     {
-      "id": "量子位-1793030791000",
+      "id": "it之家-1793066724000",
       "region": "domestic",
-      "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
-      "url": "https://www.qbitai.com/2026/10/505551.html",
+      "title": "蚂蚁灵光 2.0 发布：全新升级“能管事的 AI 助理”，突破单次对话限制",
+      "url": "https://www.ithome.com/1/018/252.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"5552\">IT之家 10 月 27 日消息，蚂蚁集团今日发布<strong>灵光 2.0</strong>，推动 AI 助理从被动响应指令、完成单次任务，向主动发现需求、持续管理事务的演进。</p><p data-vmark=\"41e2\" style=\"text-align: center;\"><img src=\"https:…",
+      "pubDate": "2026-10-27T02:05:24.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "it之家-1793066011000",
+      "region": "domestic",
+      "title": "塔塔通讯将在印度布设 1 万千米 AI 就绪型长途光纤，连接主要 AI 数据中心",
+      "url": "https://www.ithome.com/1/018/246.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"e481\">IT之家 10 月 27 日消息，Tata Communications（塔塔通讯）当地时间 26 日宣布拟斥资 4~4.5 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 26.74 ~ 30.08 亿元人民币）</span><strong>在印度建设一条连接关键人工智…",
+      "pubDate": "2026-10-27T01:53:31.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1792747301000",
+      "region": "domestic",
+      "title": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
+      "url": "https://www.qbitai.com/2026/10/505083.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-10-26T16:06:31.000Z",
+      "pubDate": "2026-10-23T09:21:41.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1793024546000",
+      "id": "量子位-1792746445000",
       "region": "domestic",
-      "title": "网易《逆水寒：新世界》将推“自拍模式”，可自定义动作、邀请 AI 门客 NPC 合照",
-      "url": "https://www.ithome.com/1/018/172.htm",
-      "source": "IT之家",
-      "summary": "<p data-vmark=\"6f9e\">IT之家 10 月 26 日消息，网易《逆水寒：新世界》首个大型资料片<a href=\"https://www.ithome.com/1/014/409.htm\" target=\"_blank\">【苗疆蛊事】将于 10 月 30 日正式开启</a>，将首次采用双线更新的框架。</p><p data-vmark=\"77…",
-      "pubDate": "2026-10-26T14:22:26.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "it之家-1793024351000",
-      "region": "domestic",
-      "title": "IPO 文件阐述 Anthropic 的野心：AI 有望解决过去几代人未能攻克的难题",
-      "url": "https://www.ithome.com/1/018/171.htm",
-      "source": "IT之家",
-      "summary": "<p data-vmark=\"1438\">IT之家 10 月 26 日消息，Anthropic 已向美国证券交易委员会（SEC）提交 S-1 注册文件，为纳斯达克上市做准备。这家 AI 公司早在今年 6 月就秘密递交了上市申请，此次公开的文件披露了更多细节。</p><p style=\"text-align: center;\" data-vmark=\"ba96…",
-      "pubDate": "2026-10-26T14:19:11.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1793007973000",
-      "region": "domestic",
-      "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
-      "url": "https://www.qbitai.com/2026/10/505539.html",
+      "title": "企业AI需要两个世界模型",
+      "url": "https://www.qbitai.com/2026/10/505032.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-10-26T09:46:13.000Z",
+      "pubDate": "2026-10-23T09:07:25.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1793035328000",
+      "id": "google-news-ai-1793066785000",
       "region": "abroad",
-      "title": "Schneider teams with HPE and Nvidia on industrial AI agents at the edge - Fierce Network",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeGczRDFGYmlNM3M3dU5aaUZ4OG5DeXM5NDdIa3A1VFZzbHRRNGJlVjMwNHhSbERZZVcwNG1tMlpFNzRnbHpYLWc0M0txbjRHMk1YZ3JMRkRlWGxPMThZRkZ3WUJ5Zk5nSGtuZ3o4cjc5ZFF2bGdQYV9Hd2lIT3FSS0tZeUhmbVU1dUNCeTM4ZEdTYWFrTlZqZw?oc=5",
+      "title": "Penn GSE launches hub for responsible AI use in education - The Daily Pennsylvanian",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ20yVnBWWVlncktoRUZYelo5d2lHT2g2WW1JY3NYbVpVdHoyZ2xBeFhLbW9jS0V2LXhIUHlvZFl0bl9TZ1ZNX0VscFpFT0JOLXpvUE5vMklIVkZlcE84QTQ2UUZ5WWRjYThWREwzNmVpUl9NNkJTNWZ4NGhrZDVjS2JxRUlQV0tmbTJ5RXJmc01kN2YzT2RGRkVYVkdsa01BT01JLVNB?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOeGczRDFGYmlNM3M3dU5aaUZ4OG5DeXM5NDdIa3A1VFZzbHRRNGJlVjMwNHhSbERZZVcwNG1tMlpFNzRnbHpYLWc0M0txbjRHMk1YZ3JMRkRlWGxPMThZRk…",
-      "pubDate": "2026-10-26T17:22:08.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ20yVnBWWVlncktoRUZYelo5d2lHT2g2WW1JY3NYbVpVdHoyZ2xBeFhLbW9jS0V2LXhIUHlvZFl0bl9TZ1ZNX0VscFpFT0JOLXpvUE5vMklIVkZlcE84QT…",
+      "pubDate": "2026-10-27T02:06:25.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1793034683000",
+      "id": "google-news-ai-1793065808000",
       "region": "abroad",
-      "title": "Cleveland Clinic and Dyania’s Work on AI in Clinical Trial Matching Earns 2026 Gartner Eye on Innovation Award - Cleveland Clinic Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOEM1UUR4RVpFbUttY2hFRmhUc1Flall5bHFHYkhJcXNad2dkNVQzbVdIbmdSaWlDZ0VnT0NqcWhadEZhTUR5T0dnU1REMHF5M3RyZ1VrRjBrUk1VbnFPXzJDWmNoa0xNdWRKV2lDOTJnNElsaXhSRDFrdE1VWXBPU2l4MUsyTVZPUWU0ODE1X2d3Q3JmSWZ2WUpndWktUlRMUUxlNmlucmVoZHBxZkE2SjBmTmhFR2w4NjFKSlYyTTVNM0VOdUVueGhBVDRrU1NDUEU2Y1F5d3VTbFJ4V1J5R1ZXMk5NT29vUFNrN0p3?oc=5",
+      "title": "South Korean lawmaker proposes AI-powered security system for DMZ - upi",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGZqMFNlMmlMcVVqb1Q2YXBaVVRUdVdUc0RhN1pRSmlGQkdGVHNrbEtzUXlES0ZKcEF2eDFvMmZucEZSZlpoR0R3OGcwSG00ZnlpRy1XVUgtSDBlN0V0WVEtY3hwQXdSZDA5dHBmcDI0VmgtQXZ0QTUyWGozeDNuSmdPUk9UQ0xkRDFoYXpqcGFRQ211cTZGeG9NeWpDU1dLcjJubnotVnpsUF9yelR3eWM1Sm56TXJ30gG-AUFVX3lxTE1yRFFaWmdHc0h5NmZ0QjlkemhKVEVwWEk0dHFMTUo1UGFQRDV4V1l1YUJaT0Z1eWdCV3pndm9FRU16Mk8tem9PNlpjZWxPNzZxOU5LNjhLUll2Y09XaGZGd3YtX0dRdENyZlYzUHNTd1h5NWYtcVpNd3ctUDdXZHJRTTZlSk5NdmhaNHdSRHZST0J3b2REdFhqQ2N0UlhydENUS1VLbVJPTGtLb0FiZDdZcklHdmdJbGxJNThNTVE?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOEM1UUR4RVpFbUttY2hFRmhUc1Flall5bHFHYkhJcXNad2dkNVQzbVdIbmdSaWlDZ0VnT0NqcWhadEZhTUR5T0dnU1REMHF5M3RyZ1VrRjBrUk1VbnFPXz…",
-      "pubDate": "2026-10-26T17:11:23.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGZqMFNlMmlMcVVqb1Q2YXBaVVRUdVdUc0RhN1pRSmlGQkdGVHNrbEtzUXlES0ZKcEF2eDFvMmZucEZSZlpoR0R3OGcwSG00ZnlpRy1XVUgtSDBlN0V0WV…",
+      "pubDate": "2026-10-27T01:50:08.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1793033382000",
+      "id": "techcrunch-ai-1793063541000",
       "region": "abroad",
-      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-26T16:49:42.000Z",
+      "pubDate": "2026-10-27T01:12:21.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1793033196000",
+      "id": "wired-ai-1793050035000",
       "region": "abroad",
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-26T16:46:36.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1793030515000",
-      "region": "abroad",
-      "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
-      "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+      "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+      "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
       "source": "Wired AI",
-      "summary": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
-      "pubDate": "2026-10-26T16:01:55.000Z",
+      "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
+      "pubDate": "2026-10-26T21:27:15.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "mit-tech-review-ai-1793036743000",
+      "region": "abroad",
+      "title": "Will the real Anthropic please stand up",
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "source": "MIT Tech Review AI",
+      "summary": "",
+      "pubDate": "2026-10-26T17:45:43.000Z",
       "isFallback": false
     }
   ]
