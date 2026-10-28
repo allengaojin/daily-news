@@ -1,28 +1,28 @@
 {
   "meta": {
     "date": "2026-10-28",
-    "updatedAt": "2026-10-27T16:43:39.002Z",
+    "updatedAt": "2026-10-28T02:22:59.734Z",
     "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1793115222000",
+      "id": "it之家-1793153396000",
       "region": "domestic",
-      "title": "ATK RS8 Air / Neo 电竞键盘发布：87 配列，到手价 299 元起",
-      "url": "https://www.ithome.com/1/018/697.htm",
+      "title": "谷歌更新 Android Bench 榜单：自家 Gemini 4 Argon 编程能力大幅落后于 Claude 与 GPT",
+      "url": "https://www.ithome.com/1/018/757.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"609d\">IT之家 10 月 27 日消息，ATK RS8 Air、RS8 Neo 系列 87 配列高性能电竞键盘今日发布，已开启定金预定，RS8 Air 到手价 349 元起，RS8 Neo 到手价 299 元起，11 月 3 日 21 点尾款支付。</p><p data-vmark=\"d432\" style=\"text-a…",
-      "pubDate": "2026-10-27T15:33:42.000Z",
+      "summary": "<p data-vmark=\"4e94\">IT之家 10 月 28 日消息，谷歌更新了用于评估 AI 模型安卓编程辅助能力的 Android Bench 榜单，Gemini 4 Argon 的成绩大幅落后于最新版 Claude 与 GPT 系列模型。</p><p data-vmark=\"6747\" style=\"text-align: center;\"><i…",
+      "pubDate": "2026-10-28T02:09:56.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1793114873000",
+      "id": "it之家-1793152864000",
       "region": "domestic",
-      "title": "Meta AI 负责人罗希特 · 帕特尔离职创业，打造微软 Office 替代方案 Ndoc",
-      "url": "https://www.ithome.com/1/018/696.htm",
+      "title": "OpenAI 公示 GPT-6.1 Terra 安全测试：整体风险下降，破坏性行为上升",
+      "url": "https://www.ithome.com/1/018/755.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"e9e9\">IT之家 10 月 27 日消息，据科技媒体 TechCrunch 今天报道，Meta 人工智能负责人罗希特 · 帕特尔（Rohit Patel）已经离开公司，他曾在 Meta 从事 AI 研发工作八年，并担任 Meta 超级智能实验室负责人。</p><p style=\"text-align: center;\" da…",
-      "pubDate": "2026-10-27T15:27:53.000Z",
+      "summary": "<p data-vmark=\"141c\">IT之家 10 月 28 日消息，科技媒体 bleepingcomputer 昨日（10 月 27 日）发布博文，报道称基于 OpenAI 最新公示的安全评估显示，新模型 GPT-6.1 Terra 在整体安全表现上优于部分早期模型，<strong>但在特定测试中出现了更多数据外泄、规避限制和破坏性操作等风险信号。<…",
+      "pubDate": "2026-10-28T02:01:04.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1793119330000",
+      "id": "google-news-ai-1793153733000",
       "region": "abroad",
-      "title": "Anthropic’s IPO Filing Raises Big Insurance Question: Who Insures AI Risk? - The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLW1UYjRNbVJzMmZ2WVV0dzhPVHp5ck0yR01lck5wS25JYmVvdDdYekFjMTluYjNKb094SUFuZ1lDMEt3WHQ1aDB2Yi1qN240Yl9RWEpOeEhGVGduM2EtZXNNUzJjLW1BY3gxWjd5MXBCSkI4RG5IZkRVc1VSTVdoVjBibVhvQzNGU1VRUEJIWnBsVkpwTGIzcUhQb29EUW9XcXpVdGVua9IBrAFBVV95cUxOS2U1Zjd1THlRVjFHdjUwTTJ1RWlNMzN6elYtNUxGemxkcGxhYWp5YTJzWHlNcUFKY19NUzNwRkFBeUNpYzdvXzVUa252QWQtOHdhblpiYS10NGxVWW15YjJHbFVXRGplQnN0NG9vbEcyMjN1d1NfQlE2TnltR3d4UVBReExNVTRyM0ZDWFJCTnpBckxseVUyRERPTnJpdDlzVktwdzlxTVJ5MGdJ?oc=5",
+      "title": "AI Enters The Matrix When Humans Are Behaving Mindlessly But Think They Are Being Mindful - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSzJpUXNweTU1RVd6ZDNoTmlZYWFOaDJQTGFmMXdNeXRuRlg4OEtlbER2ZU1uQXhZRlZMbU51eHZ4OW5hQ19fYnJMc2dfSXQwdklzZkR5aWlJZzBja1l5N2tMY3gtcEZuSFRvZUZDYXUxbG05UkIzaGdZT0x5QWJFbjMtMzhYM1hQRS1sdWl3UThoX2RUWnVDS2NwelU3czZEaXExNGJyOC1KajV6TzNPZkgyaUZzSkg0Sjk1TmpOVmkxRmhUWFA0SXotYVh4VTJvNks4Rm8wdGw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOLW1UYjRNbVJzMmZ2WVV0dzhPVHp5ck0yR01lck5wS25JYmVvdDdYekFjMTluYjNKb094SUFuZ1lDMEt3WHQ1aDB2Yi1qN240Yl9RWEpOeEhGVGduM2EtZX…",
-      "pubDate": "2026-10-27T16:42:10.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSzJpUXNweTU1RVd6ZDNoTmlZYWFOaDJQTGFmMXdNeXRuRlg4OEtlbER2ZU1uQXhZRlZMbU51eHZ4OW5hQ19fYnJMc2dfSXQwdklzZkR5aWlJZzBja1l5N2…",
+      "pubDate": "2026-10-28T02:15:33.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1793119260000",
+      "id": "google-news-ai-1793153618000",
       "region": "abroad",
-      "title": "Idaho man who used AI to turn teen's social media pictures into CSAM gets decade in prison - KBOI",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZUgybXJhRTQ5V1VESzNGS2Z3Z1FWNW5pWWR0bTNob1VYZ1AweElyZXpESUplV0x6M3pabjRvNWdleDFrX2c2LUR1c1g2d2tZY2ZROVlmak40RmFCczhBdWNyeUpmcHFiWno2U3VuUW5EU29mRFNrNVZwM1Y1aFo0QWRzSzBGZHhyRjRacHNGRW1Wa0liZlpqWXJJZkZHLVRZM1E?oc=5",
+      "title": "Oracle Cloud Acceleron adds AI-assisting networking enhancements - SDxCentral",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbTZrQlBENkhNRlliYThULVQtZ25VYVc1eHJGeDgwY3JLcEhPZy1pWFFidmNFZ1Zlb1ZaVkYxbU9VTXQtbElfY1hRMDB4R0tzNW1uS1c0dDI2bVUydVJiZmNvNUlfTE1JTlFMdkZwaHVKWmlkTDFjQ1JLM3pVVUFlbVhCaDlhTk9NZzlzYXRxZDFlaDVuTzBKUGNFR1ptdw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOZUgybXJhRTQ5V1VESzNGS2Z3Z1FWNW5pWWR0bTNob1VYZ1AweElyZXpESUplV0x6M3pabjRvNWdleDFrX2c2LUR1c1g2d2tZY2ZROVlmak40RmFCczhBdW…",
-      "pubDate": "2026-10-27T16:41:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPbTZrQlBENkhNRlliYThULVQtZ25VYVc1eHJGeDgwY3JLcEhPZy1pWFFidmNFZ1Zlb1ZaVkYxbU9VTXQtbElfY1hRMDB4R0tzNW1uS1c0dDI2bVUydVJiZm…",
+      "pubDate": "2026-10-28T02:13:38.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1793118657000",
+      "id": "techcrunch-ai-1793150128000",
       "region": "abroad",
-      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-27T16:30:57.000Z",
+      "pubDate": "2026-10-28T01:15:28.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1793113826000",
+      "id": "techcrunch-ai-1793144067000",
       "region": "abroad",
-      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
-      "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-27T23:34:27.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1793129944000",
+      "region": "abroad",
+      "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
+      "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
       "source": "Wired AI",
-      "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surroundin…",
-      "pubDate": "2026-10-27T15:10:26.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1793113149000",
-      "region": "abroad",
-      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-27T14:59:09.000Z",
+      "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI w…",
+      "pubDate": "2026-10-27T19:39:04.000Z",
       "isFallback": false
     }
   ]
