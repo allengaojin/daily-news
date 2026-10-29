@@ -1,28 +1,28 @@
 {
   "meta": {
     "date": "2026-10-29",
-    "updatedAt": "2026-10-28T17:12:05.813Z",
+    "updatedAt": "2026-10-29T02:30:30.632Z",
     "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1793207181000",
+      "id": "it之家-1793240327000",
       "region": "domestic",
-      "title": "Artificial Analysis Intelligence Index v5 基准上线，DeepSeek V4.1 Flash 1017 为 FrontierCode 2.0 开源模型最高成绩",
-      "url": "https://www.ithome.com/1/019/237.htm",
+      "title": "韩芯片创企 FuriosaAI 挑战英伟达：新一轮融资后估值翻两番至 29 亿美元",
+      "url": "https://www.ithome.com/1/019/329.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"42d8\">IT之家 10 月 29 日消息，Artificial Analysis 昨日发布了 Intelligence Index v5，这是该机构自 2026 年 1 月 v4 上线以来幅度最大的一次基准重构。</p><p data-vmark=\"8a50\">最直接的变化是，60% 的评测权重首次建立在私有测试集或隐藏答案…",
-      "pubDate": "2026-10-28T17:06:21.000Z",
+      "summary": "<p data-vmark=\"ce31\">IT之家 10 月 29 日消息，据彭博社 28 日报道，韩国 AI 芯片初创公司 FuriosaAI 完成新一轮融资，<strong>估值增至 29 亿美元</strong><span class=\"exch-money-value\">（IT之家注：现汇率约合 193.74 亿元人民币）</span>，接近此前的 …",
+      "pubDate": "2026-10-29T02:18:47.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1793202306000",
+      "id": "it之家-1793240312000",
       "region": "domestic",
-      "title": "亚马逊 AWS 与国际汽联达成新合作，让 AI 和云计算参与下一代 F1 赛车技术规则制定",
-      "url": "https://www.ithome.com/1/019/232.htm",
+      "title": "首次引入视觉理解，腾讯混元 Hy4 、Hy4 flash AI 模型即将发布",
+      "url": "https://www.ithome.com/1/019/328.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"1fb7\">IT之家 10 月 28 日消息，亚马逊云科技（AWS）今天宣布与国际汽车联合会（FIA）达成新合作，双方将利用云计算和 AI 技术，推动各级别赛车运动创新，包含基层赛车赛事至一级方程式赛车（F1）。</p><p style=\"text-align: center;\" data-vmark=\"b6d1\"><img s…",
-      "pubDate": "2026-10-28T15:45:06.000Z",
+      "summary": "<p data-vmark=\"157b\">IT之家 10 月 29 日消息，据科创板日报在腾讯全球数字生态大会上获悉，腾讯集团高级执行副总裁、云与智慧产业事业群 CEO 汤道生现场宣布，<strong>Hy4 即将发布</strong>。</p><p data-vmark=\"8ed8\">据介绍，相比 Hy4 preview，<strong>Hy4 实现了全面…",
+      "pubDate": "2026-10-29T02:18:32.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1793207461000",
+      "id": "google-news-ai-1793239860000",
       "region": "abroad",
-      "title": "AI finds its place in sustainable investment strategies: Morgan Stanley - ESG Dive",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaTUza2FOb3ZiY29HYnpybzRQTURwS3IxQ1czTFA1aGZXYmE5ZTlxWGhSUHhqMDhGTlkwd1AwRi12Umt2aXNtaG4teTFvTnJkOC1LR0JYbkJiaF9WZUVSODF6UXNtMk52ZlZYajdqU0s1U3didVZ3YTJFSmYtTFRkS0t0SmN2MlE5THludTFsOVFLalpCRXJDeE5CY0lKYko4TVZLTEl0R3FNVm9zVnRuMUtUdmc?oc=5",
+      "title": "2026 NH U.S. Senate Race: Pappas, Sununu debate guardrails for AI - WMUR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTWdOWW5SVlV5WFdNdmZXdUNpdFAwdVowdW05WXluV3NuSVotdS10VXNCY3pxcTZoTEllZUZzT0Rwek9zQlB1X1g1em9Qa2FHMlR5dHpxNTUyeTNvWVZPNVV4eFRkRFNscUFoM2FLeHRKeG1JVTRLMzZGSzg3VXo5d1l5S09HUmlPTFNBS0s2QQ?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOaTUza2FOb3ZiY29HYnpybzRQTURwS3IxQ1czTFA1aGZXYmE5ZTlxWGhSUHhqMDhGTlkwd1AwRi12Umt2aXNtaG4teTFvTnJkOC1LR0JYbkJiaF9WZUVSOD…",
-      "pubDate": "2026-10-28T17:11:01.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPTWdOWW5SVlV5WFdNdmZXdUNpdFAwdVowdW05WXluV3NuSVotdS10VXNCY3pxcTZoTEllZUZzT0Rwek9zQlB1X1g1em9Qa2FHMlR5dHpxNTUyeTNvWVZPNV…",
+      "pubDate": "2026-10-29T02:11:00.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1793207323000",
+      "id": "google-news-ai-1793239205000",
       "region": "abroad",
-      "title": "AI boom inflates U.S. goods trade deficit - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNzNZQ3lDNnFmVENKT2JGZmY2WmNxbnBWY2l4d0F2aWtXLXQ1cU5WLTVsZGs5c3E5blc3NFBOMHY2U3g1X1FvbDI1U3BnSTd1SXJKenN3OHFsYWI2dDFfQnNoVk1HaS1FTUdyMVVRcmZXMnQtZFZzUVJndTV6TGh1c0tRM1RBRXhPZFpFaTdwS1hza28z?oc=5",
+      "title": "Can an AI chatbot help women recognize heart disease? - Medical Xpress",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTbzd6X05kODdtMWgyVDVuOUtNZUJDY3J3Q1Q3TS12TVFENVpKVXhNR1pQcGxfa2JJSDhMdXZWT2FQUlp0OHY1VkFWWGNfbnpQY2lZc09LRXVHbWJzUmJrS3Z2OFdVVjQ5djlZT2g3LVhFUWltN0lSOGRndGxQLTA?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPNzNZQ3lDNnFmVENKT2JGZmY2WmNxbnBWY2l4d0F2aWtXLXQ1cU5WLTVsZGs5c3E5blc3NFBOMHY2U3g1X1FvbDI1U3BnSTd1SXJKenN3OHFsYWI2dDFfQn…",
-      "pubDate": "2026-10-28T17:08:43.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBTbzd6X05kODdtMWgyVDVuOUtNZUJDY3J3Q1Q3TS12TVFENVpKVXhNR1pQcGxfa2JJSDhMdXZWT2FQUlp0OHY1VkFWWGNfbnpQY2lZc09LRXVHbWJzUmJrS3…",
+      "pubDate": "2026-10-29T02:00:05.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1793206800000",
+      "id": "techcrunch-ai-1793224712000",
       "region": "abroad",
-      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-28T17:00:00.000Z",
+      "pubDate": "2026-10-28T21:58:32.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1793202832000",
+      "id": "techcrunch-ai-1793224117000",
       "region": "abroad",
-      "title": "AI execs may be too out of touch to build for the general public",
-      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-28T15:53:52.000Z",
+      "pubDate": "2026-10-28T21:48:37.000Z",
       "isFallback": false
     },
     {
-      "id": "mit-tech-review-ai-1793188800000",
+      "id": "mit-tech-review-ai-1793219522000",
       "region": "abroad",
-      "title": "Pairing industrial AI autonomy and human control",
-      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
       "source": "MIT Tech Review AI",
       "summary": "",
-      "pubDate": "2026-10-28T12:00:00.000Z",
+      "pubDate": "2026-10-28T20:32:02.000Z",
       "isFallback": false
     }
   ]
