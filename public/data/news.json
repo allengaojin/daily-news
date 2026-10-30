@@ -1,28 +1,28 @@
 {
   "meta": {
     "date": "2026-10-30",
-    "updatedAt": "2026-10-29T17:28:01.256Z",
+    "updatedAt": "2026-10-30T02:40:46.081Z",
     "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1793285272000",
+      "id": "it之家-1793327341000",
       "region": "domestic",
-      "title": "映泰推出无风扇边缘 AI 系统 MS-U320：酷睿 5 处理器 320，四 COM 口",
-      "url": "https://www.ithome.com/1/019/786.htm",
+      "title": "AI 推理引爆全球 NAND 需求：闪迪称“客户低估闪存容量需求”，长单排至 2030 年",
+      "url": "https://www.ithome.com/1/019/924.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"0a43\">IT之家 10 月 29 日消息，映泰 (BIOSTAR) 今日推出了无风扇边缘 AI 系统 EdgeComp MS-U320。其基于英特尔酷睿 5 处理器 320\"Wildcat Lake\"，可提供合计 40TOPS 的本地 AI 算力。</p><p data-vmark=\"0024\" style=\"text-al…",
-      "pubDate": "2026-10-29T14:47:52.000Z",
+      "summary": "<p data-vmark=\"646e\">IT之家 10 月 30 日消息，在 2027 财年第一财季（2026 年 7 月 4 日至 2026 年 10 月 2 日）财报电话会议上，闪迪（SanDisk）公司高管表示，AI 推理正在重塑 NAND 闪存市场的供需格局，客户“低估 NAND 闪存容量需求”。</p><p data-vmark=\"6797\">闪…",
+      "pubDate": "2026-10-30T02:29:01.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1793285165000",
+      "id": "it之家-1793326606000",
       "region": "domestic",
-      "title": "EA 裁员后办公室现状曝光：员工士气跌至谷底，管理层热衷于生成式 AI",
-      "url": "https://www.ithome.com/1/019/785.htm",
+      "title": "OpenAI 更新 AI 模型规范，将忠于人类意图作为核心准则",
+      "url": "https://www.ithome.com/1/019/898.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"68a2\">IT之家 10 月 29 日消息，据游戏媒体 EuroGamer 今天报道，EA 上周宣布在旗下多家工作室裁员 400 人、取消部分项目，较为知名的 BioWare 遭到关停。</p><p style=\"text-align: center;\" data-vmark=\"ffd8\"><img src=\"https://…",
-      "pubDate": "2026-10-29T14:46:05.000Z",
+      "summary": "<p data-vmark=\"c5f5\">IT之家 10 月 30 日消息，OpenAI 于当地时间周四更新了其模型规范（Model Spec）文档，这是一份用于明确其 AI 模型行为准则的公开路线图。随着 AI 系统能力持续增强，OpenAI 围绕五大核心价值对该框架进行了重构。</p><p style=\"text-align: center;\" data…",
+      "pubDate": "2026-10-30T02:16:46.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1793294630000",
+      "id": "google-news-ai-1793327504000",
       "region": "abroad",
-      "title": "What to consider if a company that made AI-related job cuts wants you back - WTOP News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcjRjVzBITk41VUZCR0RubnowaTRIM0RyQXVLOWh2Q3RfOVc0Mm9OOHJiemVfZHRSSUlPZ2hSR3NsQk1tSVpWd0ZvNVBZLTd0NDQzX3doenlZVU1YY0RXZW1sMHNRaUtPVHJobWd6c3lfU0hKb2hYWUE4RTNpek1Zdm1jV3hFWGFoNmhrNHdXd041aTAtUnQtaFVnUjFJZFR2YU1GME5QWi1abDgzNHc?oc=5",
+      "title": "The AI trust deficit: Why explainability, not more automation, is the CIO’s next priority - CIO",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdlBKNTc2RlJPaEhYNjQxUnJOTHQ2Zm5KOC1rc1E3WGV3dkZIMWVUcy0xQU9jYXkyMWVkb1JsSGgxdFlPR3dGZVRocVdrN3B5RkdJODlYZnVjR0xvdzdXel9jQ2FScXlWQkxYdDlONHVLakxlMzQ1endTVEZyMWdoOExaUFEyM1l6dmpnclpGOVdLZklnd3ZhWDZoVjAzUElqR2JsU3BRSWJxY1llZFNoU3F2cVJqR1BESWFzdnVKejlsX29R?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQcjRjVzBITk41VUZCR0RubnowaTRIM0RyQXVLOWh2Q3RfOVc0Mm9OOHJiemVfZHRSSUlPZ2hSR3NsQk1tSVpWd0ZvNVBZLTd0NDQzX3doenlZVU1YY0RXZW…",
-      "pubDate": "2026-10-29T17:23:50.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOdlBKNTc2RlJPaEhYNjQxUnJOTHQ2Zm5KOC1rc1E3WGV3dkZIMWVUcy0xQU9jYXkyMWVkb1JsSGgxdFlPR3dGZVRocVdrN3B5RkdJODlYZnVjR0xvdzdXel…",
+      "pubDate": "2026-10-30T02:31:44.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1793294530000",
+      "id": "google-news-ai-1793327170000",
       "region": "abroad",
-      "title": "Prediction: Wall Street’s Next AI Favorite May Not Be Nvidia - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHI0SHlPZE5LMGVKcXB6LXExODB4X2tjSXl1djVqQl9pd3Y3aU50SGk4WXkxQnFLdFlCRDJWY2ltSjlVZFFDWEdmak5pT3RJdUo1VXJmQ1hob0FKZVlqS093T2cyWFQwalNMNWhpSU1UQ0FrM2NNUjNhdDZTQlBJQURCTElDTHFnMW9tWTdqZkszSWVKRXFVNkllWVJEeVdCaGlMVg?oc=5",
+      "title": "AI rebounding will cost more: how employers can avoid it - Human Resources Director",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONzN5MkpkLUZESWlqOEkzalNGdm5QQ2NKeFd6S1JlOHNLREpmV3NaekZrSWdUaUY2RDMxekNobGhIVzBmeU1hcmVPRFNralF0TWpXMEJ5THFzaHBqTXRmRU5sVFoxd1lPZVpIWG56a0d4THJTd2lOT2tFdnBRMWRtUkw1U1Mtc21XNl9jTHFubko0SDhhZWJXd25fekpoNWpiVUF0TjREcC1fSDY1TG9tNkpyakV2SXFEM0Jhd1pn?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHI0SHlPZE5LMGVKcXB6LXExODB4X2tjSXl1djVqQl9pd3Y3aU50SGk4WXkxQnFLdFlCRDJWY2ltSjlVZFFDWEdmak5pT3RJdUo1VXJmQ1hob0FKZVlqS0…",
-      "pubDate": "2026-10-29T17:22:10.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxONzN5MkpkLUZESWlqOEkzalNGdm5QQ2NKeFd6S1JlOHNLREpmV3NaekZrSWdUaUY2RDMxekNobGhIVzBmeU1hcmVPRFNralF0TWpXMEJ5THFzaHBqTXRmRU…",
+      "pubDate": "2026-10-30T02:26:10.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1793292152000",
+      "id": "techcrunch-ai-1793323248000",
       "region": "abroad",
-      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-29T16:42:32.000Z",
+      "pubDate": "2026-10-30T01:20:48.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1793290860000",
+      "id": "techcrunch-ai-1793317342000",
       "region": "abroad",
-      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-10-29T16:21:00.000Z",
+      "pubDate": "2026-10-29T23:42:22.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1793286000000",
+      "id": "wired-ai-1793299183000",
       "region": "abroad",
-      "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
-      "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
       "source": "Wired AI",
-      "summary": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
-      "pubDate": "2026-10-29T15:00:00.000Z",
+      "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+      "pubDate": "2026-10-29T18:39:43.000Z",
       "isFallback": false
     }
   ]
