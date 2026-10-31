@@ -1,48 +1,48 @@
 {
   "meta": {
-    "date": "2026-10-31",
-    "updatedAt": "2026-10-31T02:30:02.952Z",
+    "date": "2026-11-01",
+    "updatedAt": "2026-10-31T16:09:51.869Z",
     "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1793408369000",
+      "id": "it之家-1793462160000",
       "region": "domestic",
-      "title": "揭露“女版乔布斯”骗局的人警告：AI 热潮或催生下一个 Theranos",
-      "url": "https://www.ithome.com/1/020/415.htm",
+      "title": "AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元",
+      "url": "https://www.ithome.com/1/020/632.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"ec87\">北京时间 10 月 31 日，曾参与揭露美国血液检测公司 Theranos 造假丑闻的泰勒 · 舒尔茨（Tyler Shultz）近日警告称，<strong>AI 投资热潮正在为下一个类似 Theranos 的骗局创造条件</strong>。</p><p data-vmark=\"aee5\" style=\"text-a…",
-      "pubDate": "2026-10-31T00:59:29.000Z",
+      "summary": "<p data-vmark=\"d306\" style=\"text-align: left;\">IT之家 10 月 31 日消息，据彭博社今天（31 日）凌晨报道，AI 基础设施建设仍将吸引巨额资金。Alphabet、Meta、微软、亚马逊和甲骨文五大科技巨头承诺，未来数年将在数据中心等领域投入超过 3 万亿美元<span class=\"exch-money-…",
+      "pubDate": "2026-10-31T15:56:00.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1793406815000",
+      "id": "it之家-1793458434000",
       "region": "domestic",
-      "title": "绝不为了 AI 而做 AI：苹果 CEO 特努斯产品宣言，AI 应隐身于体验",
-      "url": "https://www.ithome.com/1/020/409.htm",
+      "title": "鸿海董事长刘扬伟：预计未来数年攻下全球 AI 服务器半壁江山",
+      "url": "https://www.ithome.com/1/020/627.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"a362\">IT之家 10 月 31 日消息，《连线》（Wired）昨日（10 月 30 日）发布博文，采访了苹果现任首席执行官约翰 · 特努斯（John Ternus），<strong>并围绕着苹果公司产品未来发展方向、AI 领域发展等内容展开讨论。</strong></p><p data-vmark=\"1da3\">在产品方面…",
-      "pubDate": "2026-10-31T00:33:35.000Z",
+      "summary": "<p data-vmark=\"8d03\">IT之家 10 月 31 日消息，当地时间 30 日。据美国 CNBC 报道，鸿海计划进一步扩大 AI 服务器业务，并加大在美国的生产布局。董事长刘扬伟表示，AI 基础设施市场需求依然强劲，集团希望借此进一步提高市场份额。</p><p data-vmark=\"7016\">刘扬伟在接受采访时透露，公司目前占据全球约 4…",
+      "pubDate": "2026-10-31T14:53:54.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1793345471000",
+      "id": "量子位-1793423870000",
       "region": "domestic",
-      "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
-      "url": "https://www.qbitai.com/2026/10/506743.html",
+      "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
+      "url": "https://www.qbitai.com/2026/10/506884.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-10-30T07:31:11.000Z",
+      "pubDate": "2026-10-31T05:17:50.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1793339567000",
+      "id": "量子位-1793423479000",
       "region": "domestic",
-      "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
-      "url": "https://www.qbitai.com/2026/10/506686.html",
+      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+      "url": "https://www.qbitai.com/2026/10/506866.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-10-30T05:52:47.000Z",
+      "pubDate": "2026-10-31T05:11:19.000Z",
       "isFallback": false
     },
     {
@@ -58,23 +58,43 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1793413002000",
+      "id": "google-news-ai-1793462592000",
       "region": "abroad",
-      "title": "Clark Hosts AI Fireside Chat - thescarlet.org",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0UC10NlhVZVhnU2xzVjZXTWhNTjNNRFZ0N2tULTdWTjdVRnlsTWE0RUw2Q3VJVzNMYS0tQWNJSnB1VHFORGhxTnVucXVhRnl4VmNpSU1xUHJTMmk1TlFrQ2Z4ZlB1emJFa2tleHhyLVc?oc=5",
+      "title": "AI gets people into trouble in the backcountry - WyoFile",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JSmU1ZjVMZXg3U3UzTU5SMGJ1MXhOSVRORC1nNzl0T2VlenllbkFrdFRtZUtPNEE2TE1rak9RdXFGYWIxdFhpeWR4Tm8tWkY2WU9Pa25pS2FucHlGLWtSbUZhVFh4dFBCeDR1dHk5bFgySmFlQ0E?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB0UC10NlhVZVhnU2xzVjZXTWhNTjNNRFZ0N2tULTdWTjdVRnlsTWE0RUw2Q3VJVzNMYS0tQWNJSnB1VHFORGhxTnVucXVhRnl4VmNpSU1xUHJTMmk1TlFrQ2…",
-      "pubDate": "2026-10-31T02:16:42.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9JSmU1ZjVMZXg3U3UzTU5SMGJ1MXhOSVRORC1nNzl0T2VlenllbkFrdFRtZUtPNEE2TE1rak9RdXFGYWIxdFhpeWR4Tm8tWkY2WU9Pa25pS2FucHlGLWtSbU…",
+      "pubDate": "2026-10-31T16:03:12.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1793412937000",
+      "id": "google-news-ai-1793461920000",
       "region": "abroad",
-      "title": "The Great AI Rotation: Goldman Sachs Shows Wall Street's Old Economy Is Finding New Life - The Dark Side Of The Boom",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYk5fdWl4MzczWlVUbnlmS3JOdExOb2EzUFI2WnRmdW5ZWUx3Zm5aSGI5a2g3NDFSLWlWc21GQVFUdlZYTnp3YVVpNkF5cF93alBxNGw1NmRka0l3Y2R0dGl0elQzVGktcGNXTHd2VGZIVC1hQXhKRXczLVJqZGFlUnZ4Qlpydw?oc=5",
+      "title": "Better Start Hitting the Gym Finally Because AI Robots Already Are - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCbFEwRUhTUlRpdFF3QllQVW9mUndwMVJhbjBJYVFBUGZQUzhjUExOSjVJVGVKUHVNOV85ZnJZU1ZrdkpzdWNmNjV4cTNmZ0NHeTY2LVRVeXRHNDl6Vl9TM2FvaUllUFBUVzlsdG1hYw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNYk5fdWl4MzczWlVUbnlmS3JOdExOb2EzUFI2WnRmdW5ZWUx3Zm5aSGI5a2g3NDFSLWlWc21GQVFUdlZYTnp3YVVpNkF5cF93alBxNGw1NmRka0l3Y2R0dG…",
-      "pubDate": "2026-10-31T02:15:37.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBCbFEwRUhTUlRpdFF3QllQVW9mUndwMVJhbjBJYVFBUGZQUzhjUExOSjVJVGVKUHVNOV85ZnJZU1ZrdkpzdWNmNjV4cTNmZ0NHeTY2LVRVeXRHNDl6Vl9TM2…",
+      "pubDate": "2026-10-31T15:52:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1793448000000",
+      "region": "abroad",
+      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "source": "Wired AI",
+      "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions an…",
+      "pubDate": "2026-10-31T12:00:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1793442600000",
+      "region": "abroad",
+      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "source": "Wired AI",
+      "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+      "pubDate": "2026-10-31T10:30:00.000Z",
       "isFallback": false
     },
     {
@@ -85,26 +105,6 @@
       "source": "TechCrunch AI",
       "summary": "",
       "pubDate": "2026-10-31T01:20:05.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1793400973000",
-      "region": "abroad",
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-30T22:56:13.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1793395166000",
-      "region": "abroad",
-      "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
-      "source": "Wired AI",
-      "summary": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
-      "pubDate": "2026-10-30T21:19:26.000Z",
       "isFallback": false
     }
   ]
