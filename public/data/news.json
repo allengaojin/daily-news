@@ -1,28 +1,28 @@
 {
   "meta": {
     "date": "2026-11-01",
-    "updatedAt": "2026-10-31T16:09:51.869Z",
+    "updatedAt": "2026-11-01T02:19:51.883Z",
     "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1793462160000",
+      "id": "it之家-1793493635000",
       "region": "domestic",
-      "title": "AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元",
-      "url": "https://www.ithome.com/1/020/632.htm",
+      "title": "Roblox 平台 AI 游戏突破 7 万款，排名前 100 作品超 80% 使用 AI 辅助开发",
+      "url": "https://www.ithome.com/1/020/651.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"d306\" style=\"text-align: left;\">IT之家 10 月 31 日消息，据彭博社今天（31 日）凌晨报道，AI 基础设施建设仍将吸引巨额资金。Alphabet、Meta、微软、亚马逊和甲骨文五大科技巨头承诺，未来数年将在数据中心等领域投入超过 3 万亿美元<span class=\"exch-money-…",
-      "pubDate": "2026-10-31T15:56:00.000Z",
+      "summary": "<p data-vmark=\"3663\">IT之家 11 月 1 日消息，Roblox 在 2026 财年第三季度报告中透露，该平台内使用 Build 创建的 AI 游戏总数已超过 7 万款。<strong>9 月游玩时长排名前 100 游戏中</strong>，<strong>超 80% 使用 AI 辅助开发</strong>。</p><p style=\"…",
+      "pubDate": "2026-11-01T00:40:35.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1793458434000",
+      "id": "it之家-1793493108000",
       "region": "domestic",
-      "title": "鸿海董事长刘扬伟：预计未来数年攻下全球 AI 服务器半壁江山",
-      "url": "https://www.ithome.com/1/020/627.htm",
+      "title": "被 AI 假学生薅了 2 亿美元贷款羊毛，美国司法部紧急调查",
+      "url": "https://www.ithome.com/1/020/649.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"8d03\">IT之家 10 月 31 日消息，当地时间 30 日。据美国 CNBC 报道，鸿海计划进一步扩大 AI 服务器业务，并加大在美国的生产布局。董事长刘扬伟表示，AI 基础设施市场需求依然强劲，集团希望借此进一步提高市场份额。</p><p data-vmark=\"7016\">刘扬伟在接受采访时透露，公司目前占据全球约 4…",
-      "pubDate": "2026-10-31T14:53:54.000Z",
+      "summary": "<p data-vmark=\"0acf\">IT之家 11 月 1 日消息，美国司法部（DOJ）于当地时间 10 月 31 日公布了“Operation Ghostbusters”行动的结果，该行动主要是调查广泛的学生贷款欺诈行为。</p><p data-vmark=\"ff03\">据该机构称，不良分子使用被盗身份申请学生贷款，<strong>并利用人工智能完成…",
+      "pubDate": "2026-11-01T00:31:48.000Z",
       "isFallback": false
     },
     {
@@ -58,23 +58,43 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1793462592000",
+      "id": "google-news-ai-1793498311000",
       "region": "abroad",
-      "title": "AI gets people into trouble in the backcountry - WyoFile",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JSmU1ZjVMZXg3U3UzTU5SMGJ1MXhOSVRORC1nNzl0T2VlenllbkFrdFRtZUtPNEE2TE1rak9RdXFGYWIxdFhpeWR4Tm8tWkY2WU9Pa25pS2FucHlGLWtSbUZhVFh4dFBCeDR1dHk5bFgySmFlQ0E?oc=5",
+      "title": "AI Mode Ads Reach Australia in 10 Markets [2026] - tech-insider.org",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzNTRTdTN6eUxCbEZHLURCV1p3OFAyOFVXWGVhYzRBVUdmaGg0N2Y1NXNqZ0cybFFpQ0c2SVVRVnI0U19WbGt6OHM4amlEWnNiUC1mbmgzdkxDbnYwVlJ6dTAxV1JiZkk5bkxBRGdQYTQtbFlZdlY5SjNLdGk3Zw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9JSmU1ZjVMZXg3U3UzTU5SMGJ1MXhOSVRORC1nNzl0T2VlenllbkFrdFRtZUtPNEE2TE1rak9RdXFGYWIxdFhpeWR4Tm8tWkY2WU9Pa25pS2FucHlGLWtSbU…",
-      "pubDate": "2026-10-31T16:03:12.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFAzNTRTdTN6eUxCbEZHLURCV1p3OFAyOFVXWGVhYzRBVUdmaGg0N2Y1NXNqZ0cybFFpQ0c2SVVRVnI0U19WbGt6OHM4amlEWnNiUC1mbmgzdkxDbnYwVlJ6dT…",
+      "pubDate": "2026-11-01T01:58:31.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1793461920000",
+      "id": "google-news-ai-1793497931000",
       "region": "abroad",
-      "title": "Better Start Hitting the Gym Finally Because AI Robots Already Are - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCbFEwRUhTUlRpdFF3QllQVW9mUndwMVJhbjBJYVFBUGZQUzhjUExOSjVJVGVKUHVNOV85ZnJZU1ZrdkpzdWNmNjV4cTNmZ0NHeTY2LVRVeXRHNDl6Vl9TM2FvaUllUFBUVzlsdG1hYw?oc=5",
+      "title": "A new way to explore Japan with AI: Naviu AR Travel Companion for Japan Launches November 1 2026 - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSnpqRjg4U1Q5VHM4Z1NDWTVkOWNNSkJnNm5pdnFlOUEzSWdoMUNqUngzb1ZTX0c5VWdSY1gwTGRQVGNOWUE0eEM2TGxFR3RTWWRSSGVRa2s3dHZvQzlMNjlFcl8wUVZRbUstSUNRQ0dEaUY5YXBzN0xoWElPekl1dEtzTjM2SzhCeDNJTG5SbTlDVHZ1aHNPQlNoQ2xNalpfTTQwRmVtZkh0WU9wbWFKeTRZS0RoLWZzZGJYQlBjWmhHRmgxdXBOSDl6a3ZDc2tCMFJkSUpmN3FrV1RRYjRoMEZFWlFJZlVGQUp6RQ?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBCbFEwRUhTUlRpdFF3QllQVW9mUndwMVJhbjBJYVFBUGZQUzhjUExOSjVJVGVKUHVNOV85ZnJZU1ZrdkpzdWNmNjV4cTNmZ0NHeTY2LVRVeXRHNDl6Vl9TM2…",
-      "pubDate": "2026-10-31T15:52:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSnpqRjg4U1Q5VHM4Z1NDWTVkOWNNSkJnNm5pdnFlOUEzSWdoMUNqUngzb1ZTX0c5VWdSY1gwTGRQVGNOWUE0eEM2TGxFR3RTWWRSSGVRa2s3dHZvQzlMNj…",
+      "pubDate": "2026-11-01T01:52:11.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1793482860000",
+      "region": "abroad",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-31T21:41:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1793482567000",
+      "region": "abroad",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-10-31T21:36:07.000Z",
       "isFallback": false
     },
     {
@@ -85,26 +105,6 @@
       "source": "Wired AI",
       "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions an…",
       "pubDate": "2026-10-31T12:00:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1793442600000",
-      "region": "abroad",
-      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
-      "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
-      "source": "Wired AI",
-      "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
-      "pubDate": "2026-10-31T10:30:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1793409605000",
-      "region": "abroad",
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-31T01:20:05.000Z",
       "isFallback": false
     }
   ]
