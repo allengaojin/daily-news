@@ -1,48 +1,48 @@
 {
   "meta": {
-    "date": "2026-11-01",
-    "updatedAt": "2026-11-01T02:19:51.883Z",
+    "date": "2026-11-02",
+    "updatedAt": "2026-11-01T17:10:00.965Z",
     "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1793493635000",
+      "id": "it之家-1793542792000",
       "region": "domestic",
-      "title": "Roblox 平台 AI 游戏突破 7 万款，排名前 100 作品超 80% 使用 AI 辅助开发",
-      "url": "https://www.ithome.com/1/020/651.htm",
+      "title": "OpenAI、谷歌、微软和 Anthropic 联手推行 AI 数据抓取退出标准",
+      "url": "https://www.ithome.com/1/020/837.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"3663\">IT之家 11 月 1 日消息，Roblox 在 2026 财年第三季度报告中透露，该平台内使用 Build 创建的 AI 游戏总数已超过 7 万款。<strong>9 月游玩时长排名前 100 游戏中</strong>，<strong>超 80% 使用 AI 辅助开发</strong>。</p><p style=\"…",
-      "pubDate": "2026-11-01T00:40:35.000Z",
+      "summary": "<p data-vmark=\"01d9\">IT之家 11 月 1 日消息，OpenAI、谷歌、微软以及 Anthropic 近日宣布将采用一项新标准，内容发布方可以借助该标准选择拒绝 AI 抓取自家网站内容。借助这项管控机制，内容发布方可以一次性向多家 AI 企业统一申明自身针对 AI 模型训练的内容使用偏好，而不必为每家企业单独设置规则。</p><p da…",
+      "pubDate": "2026-11-01T14:19:52.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1793493108000",
+      "id": "量子位-1793539690000",
       "region": "domestic",
-      "title": "被 AI 假学生薅了 2 亿美元贷款羊毛，美国司法部紧急调查",
-      "url": "https://www.ithome.com/1/020/649.htm",
-      "source": "IT之家",
-      "summary": "<p data-vmark=\"0acf\">IT之家 11 月 1 日消息，美国司法部（DOJ）于当地时间 10 月 31 日公布了“Operation Ghostbusters”行动的结果，该行动主要是调查广泛的学生贷款欺诈行为。</p><p data-vmark=\"ff03\">据该机构称，不良分子使用被盗身份申请学生贷款，<strong>并利用人工智能完成…",
-      "pubDate": "2026-11-01T00:31:48.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1793423870000",
-      "region": "domestic",
-      "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
-      "url": "https://www.qbitai.com/2026/10/506884.html",
+      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+      "url": "https://www.qbitai.com/2026/11/507076.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-10-31T05:17:50.000Z",
+      "pubDate": "2026-11-01T13:28:10.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1793423479000",
+      "id": "量子位-1793538595000",
       "region": "domestic",
-      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
-      "url": "https://www.qbitai.com/2026/10/506866.html",
+      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+      "url": "https://www.qbitai.com/2026/11/507038.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-10-31T05:11:19.000Z",
+      "pubDate": "2026-11-01T13:09:55.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "it之家-1793529962000",
+      "region": "domestic",
+      "title": "工信部赛迪研究院：我国人工智能推理数据量首超训练数据量，截至 6 月日均词元调用量超 175 万亿",
+      "url": "https://www.ithome.com/1/020/809.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"110e\">IT之家 11 月 1 日消息，据央视新闻今日报道，中国电子信息产业发展研究院（简称“赛迪研究院”，英文缩写 CCID）昨日发布的《新域新质创新发展十大趋势》显示，<strong>我国人工智能推理数据量首次超过训练数据量</strong>，标志着我国人工智能从模型训练研发阶段迈入规模化产业应用阶段。</p><p da…",
+      "pubDate": "2026-11-01T10:46:02.000Z",
       "isFallback": false
     },
     {
@@ -58,23 +58,33 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1793498311000",
+      "id": "google-news-ai-1793552831000",
       "region": "abroad",
-      "title": "AI Mode Ads Reach Australia in 10 Markets [2026] - tech-insider.org",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzNTRTdTN6eUxCbEZHLURCV1p3OFAyOFVXWGVhYzRBVUdmaGg0N2Y1NXNqZ0cybFFpQ0c2SVVRVnI0U19WbGt6OHM4amlEWnNiUC1mbmgzdkxDbnYwVlJ6dTAxV1JiZkk5bkxBRGdQYTQtbFlZdlY5SjNLdGk3Zw?oc=5",
+      "title": "United Systems adds AI call tools for businesses - Herald-Whig",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVG0tTHVaQ3dMOHo0UlNBRlI2ZVJfLUhnMkg5aWNnYWN6d1E5MDEwaHA1dmdiak5GQ1RDTkJEcjJCeDZpcWhpOVRDdjRvNXNtTktxbk5TSkZEVXNNR3dESUpoNnZzdXdpUFBvdjgzdGk0TUEtRFBTYzBQS2Zkek1UdzN1dw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFAzNTRTdTN6eUxCbEZHLURCV1p3OFAyOFVXWGVhYzRBVUdmaGg0N2Y1NXNqZ0cybFFpQ0c2SVVRVnI0U19WbGt6OHM4amlEWnNiUC1mbmgzdkxDbnYwVlJ6dT…",
-      "pubDate": "2026-11-01T01:58:31.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQVG0tTHVaQ3dMOHo0UlNBRlI2ZVJfLUhnMkg5aWNnYWN6d1E5MDEwaHA1dmdiak5GQ1RDTkJEcjJCeDZpcWhpOVRDdjRvNXNtTktxbk5TSkZEVXNNR3dESU…",
+      "pubDate": "2026-11-01T17:07:11.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1793497931000",
+      "id": "google-news-ai-1793552702000",
       "region": "abroad",
-      "title": "A new way to explore Japan with AI: Naviu AR Travel Companion for Japan Launches November 1 2026 - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSnpqRjg4U1Q5VHM4Z1NDWTVkOWNNSkJnNm5pdnFlOUEzSWdoMUNqUngzb1ZTX0c5VWdSY1gwTGRQVGNOWUE0eEM2TGxFR3RTWWRSSGVRa2s3dHZvQzlMNjlFcl8wUVZRbUstSUNRQ0dEaUY5YXBzN0xoWElPekl1dEtzTjM2SzhCeDNJTG5SbTlDVHZ1aHNPQlNoQ2xNalpfTTQwRmVtZkh0WU9wbWFKeTRZS0RoLWZzZGJYQlBjWmhHRmgxdXBOSDl6a3ZDc2tCMFJkSUpmN3FrV1RRYjRoMEZFWlFJZlVGQUp6RQ?oc=5",
+      "title": "The No. 2 Stock of 2024 Wasn’t an AI Company – and the Pattern Is Repeating - InvestorPlace",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNktfZFk0QzFycUVINTFSOFo4d1VRb1pHMTZ6bFhkbk5pcFJzVUdTQ3VZTU1uQ3M2MEpMdnduamgwdHBGTFVHRjRJQjNXSDFreExZLW1YdFRESW5NbTZTd2lNS1p4R2JyRXlMcDk4aXZfbXdKdFE2M2VMLV8yTE9lcWhkcVdtakNncHc?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSnpqRjg4U1Q5VHM4Z1NDWTVkOWNNSkJnNm5pdnFlOUEzSWdoMUNqUngzb1ZTX0c5VWdSY1gwTGRQVGNOWUE0eEM2TGxFR3RTWWRSSGVRa2s3dHZvQzlMNj…",
-      "pubDate": "2026-11-01T01:52:11.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQNktfZFk0QzFycUVINTFSOFo4d1VRb1pHMTZ6bFhkbk5pcFJzVUdTQ3VZTU1uQ3M2MEpMdnduamgwdHBGTFVHRjRJQjNXSDFreExZLW1YdFRESW5NbTZTd2…",
+      "pubDate": "2026-11-01T17:05:02.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1793529000000",
+      "region": "abroad",
+      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+      "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+      "source": "Wired AI",
+      "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+      "pubDate": "2026-11-01T10:30:00.000Z",
       "isFallback": false
     },
     {
@@ -95,16 +105,6 @@
       "source": "TechCrunch AI",
       "summary": "",
       "pubDate": "2026-10-31T21:36:07.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1793448000000",
-      "region": "abroad",
-      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
-      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
-      "source": "Wired AI",
-      "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions an…",
-      "pubDate": "2026-10-31T12:00:00.000Z",
       "isFallback": false
     }
   ]
