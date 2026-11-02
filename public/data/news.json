@@ -1,18 +1,38 @@
 {
   "meta": {
     "date": "2026-11-02",
-    "updatedAt": "2026-11-01T17:10:00.965Z",
-    "mode": "partial"
+    "updatedAt": "2026-11-02T02:36:06.722Z",
+    "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1793542792000",
+      "id": "it之家-1793584977000",
       "region": "domestic",
-      "title": "OpenAI、谷歌、微软和 Anthropic 联手推行 AI 数据抓取退出标准",
-      "url": "https://www.ithome.com/1/020/837.htm",
+      "title": "优必选 Thinker-Sim 具身智能仿真平台发布，为机器人能力评测提供一站式体系",
+      "url": "https://www.ithome.com/1/020/888.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"01d9\">IT之家 11 月 1 日消息，OpenAI、谷歌、微软以及 Anthropic 近日宣布将采用一项新标准，内容发布方可以借助该标准选择拒绝 AI 抓取自家网站内容。借助这项管控机制，内容发布方可以一次性向多家 AI 企业统一申明自身针对 AI 模型训练的内容使用偏好，而不必为每家企业单独设置规则。</p><p da…",
-      "pubDate": "2026-11-01T14:19:52.000Z",
+      "summary": "<p data-vmark=\"0522\">IT之家 11 月 2 日消息，优必选科技今天发布具身智能仿真平台 Thinker-Sim，构建覆盖真实场景数字化、规模化仿真数据合成、机器人能力评测的一站式技术体系。<strong>让真实世界快速进入仿真</strong>，<strong>验证机器人能力</strong>。</p><p style=\"text-al…",
+      "pubDate": "2026-11-02T02:02:57.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "it之家-1793582318000",
+      "region": "domestic",
+      "title": "美团龙猫发布 LongCat-2.5 原生多模态 AI 模型：1.6T 参数，面向长程智能体任务",
+      "url": "https://www.ithome.com/1/020/873.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"8032\">IT之家 11 月 2 日消息，美团龙猫今日发布面向长程智能体任务的原生多模态模型 LongCat-2.5，<strong>模型总参数量为 1.6 万亿</strong>，每个 token 激活约 480 亿参数，在 LongCat-2.0 的基础上进一步强化原生视觉理解与智能体编程能力。</p><p data-vm…",
+      "pubDate": "2026-11-02T01:18:38.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "少数派-1793575365000",
+      "region": "domestic",
+      "title": "派早报：Apple 智能将随 iOS 27.3 登陆中国",
+      "url": "https://sspai.com/post/118191",
+      "source": "少数派",
+      "summary": "<p>Apple 智能将随 iOS 27.3 登陆中国</p><p>苹果对闪存的议价权受到压制</p><p>Claude Code 官方扩展被植入后门</p><p>美国 FCC 禁止中国实验室认证输美电子产品</p><p>百度网盘通过磁力计数据规避「摇一摇」广告权限</p><p>币安 63 亿美元资产被盗</p><p>看看就行的简讯</p><p>少数派的近期…",
+      "pubDate": "2026-11-01T23:22:45.000Z",
       "isFallback": false
     },
     {
@@ -34,47 +54,47 @@
       "summary": "",
       "pubDate": "2026-11-01T13:09:55.000Z",
       "isFallback": false
-    },
-    {
-      "id": "it之家-1793529962000",
-      "region": "domestic",
-      "title": "工信部赛迪研究院：我国人工智能推理数据量首超训练数据量，截至 6 月日均词元调用量超 175 万亿",
-      "url": "https://www.ithome.com/1/020/809.htm",
-      "source": "IT之家",
-      "summary": "<p data-vmark=\"110e\">IT之家 11 月 1 日消息，据央视新闻今日报道，中国电子信息产业发展研究院（简称“赛迪研究院”，英文缩写 CCID）昨日发布的《新域新质创新发展十大趋势》显示，<strong>我国人工智能推理数据量首次超过训练数据量</strong>，标志着我国人工智能从模型训练研发阶段迈入规模化产业应用阶段。</p><p da…",
-      "pubDate": "2026-11-01T10:46:02.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "mock-domestic-01",
-      "region": "domestic",
-      "title": "国内多家人工智能实验室发布新一代开源大模型，推理成本下降超六成",
-      "url": "https://www.jiqizhixin.com/",
-      "source": "机器之心",
-      "summary": "多家国内 AI 实验室联合发布新一代开源大模型系列，在多项基准测试中表现接近闭源旗舰模型，同时通过混合专家架构与推理优化，将单次推理成本降低超过 60%，引发开源社区广泛关注。",
-      "pubDate": "2026-08-10T06:00:00Z",
-      "isFallback": true
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1793552831000",
+      "id": "google-news-ai-1793586775000",
       "region": "abroad",
-      "title": "United Systems adds AI call tools for businesses - Herald-Whig",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVG0tTHVaQ3dMOHo0UlNBRlI2ZVJfLUhnMkg5aWNnYWN6d1E5MDEwaHA1dmdiak5GQ1RDTkJEcjJCeDZpcWhpOVRDdjRvNXNtTktxbk5TSkZEVXNNR3dESUpoNnZzdXdpUFBvdjgzdGk0TUEtRFBTYzBQS2Zkek1UdzN1dw?oc=5",
+      "title": "For China, Necessity Is the Mother of Automation and AI - https://dominotheory.com/",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMkxJUWE5TUpkV0cyNGxYMzVDRVNRNXlCcUJfazE3N3BxLVNwLW1TdWZGNU5qVXVoakFmRGFIeE5zRTlxblNCQWZjSDc1MXZ3alhBSDNneWphY2k0ZDBUUXUwM3d4S0x3Zl9ZYjB4UnRxSmxmNWVjR280SEJDUTJ2SlV0WFpqc0k?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQVG0tTHVaQ3dMOHo0UlNBRlI2ZVJfLUhnMkg5aWNnYWN6d1E5MDEwaHA1dmdiak5GQ1RDTkJEcjJCeDZpcWhpOVRDdjRvNXNtTktxbk5TSkZEVXNNR3dESU…",
-      "pubDate": "2026-11-01T17:07:11.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOMkxJUWE5TUpkV0cyNGxYMzVDRVNRNXlCcUJfazE3N3BxLVNwLW1TdWZGNU5qVXVoakFmRGFIeE5zRTlxblNCQWZjSDc1MXZ3alhBSDNneWphY2k0ZDBUUX…",
+      "pubDate": "2026-11-02T02:32:55.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1793552702000",
+      "id": "google-news-ai-1793586623000",
       "region": "abroad",
-      "title": "The No. 2 Stock of 2024 Wasn’t an AI Company – and the Pattern Is Repeating - InvestorPlace",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNktfZFk0QzFycUVINTFSOFo4d1VRb1pHMTZ6bFhkbk5pcFJzVUdTQ3VZTU1uQ3M2MEpMdnduamgwdHBGTFVHRjRJQjNXSDFreExZLW1YdFRESW5NbTZTd2lNS1p4R2JyRXlMcDk4aXZfbXdKdFE2M2VMLV8yTE9lcWhkcVdtakNncHc?oc=5",
+      "title": "AI Capex Hits $740B [2026]: Markets Doubt the Payoff - shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcnV4SUdlOG9zYjFXcENLTDV4SjFIVHdJMUdqcm5xUjFHMllIS094V0ttQzJacG1nTVFsSzVVV3htR0NrYTJXRDNMdUpHazVhaFlNT2dUSHlJUUlfWVpCYjIxR05IMDFQWkd1WnVrbzZWNm9CUHBXa1JsSHhMd3FBNWl3Mzg1WE11?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQNktfZFk0QzFycUVINTFSOFo4d1VRb1pHMTZ6bFhkbk5pcFJzVUdTQ3VZTU1uQ3M2MEpMdnduamgwdHBGTFVHRjRJQjNXSDFreExZLW1YdFRESW5NbTZTd2…",
-      "pubDate": "2026-11-01T17:05:02.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcnV4SUdlOG9zYjFXcENLTDV4SjFIVHdJMUdqcm5xUjFHMllIS094V0ttQzJacG1nTVFsSzVVV3htR0NrYTJXRDNMdUpHazVhaFlNT2dUSHlJUUlfWVpCYj…",
+      "pubDate": "2026-11-02T02:30:23.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1793570123000",
+      "region": "abroad",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-11-01T21:55:23.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1793566678000",
+      "region": "abroad",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-11-01T20:57:58.000Z",
       "isFallback": false
     },
     {
@@ -85,26 +105,6 @@
       "source": "Wired AI",
       "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
       "pubDate": "2026-11-01T10:30:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1793482860000",
-      "region": "abroad",
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-31T21:41:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1793482567000",
-      "region": "abroad",
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-10-31T21:36:07.000Z",
       "isFallback": false
     }
   ]
