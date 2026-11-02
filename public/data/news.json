@@ -1,110 +1,110 @@
 {
   "meta": {
-    "date": "2026-11-02",
-    "updatedAt": "2026-11-02T02:36:06.722Z",
+    "date": "2026-11-03",
+    "updatedAt": "2026-11-02T20:48:53.978Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1793584977000",
+      "id": "it之家-1793631729000",
       "region": "domestic",
-      "title": "优必选 Thinker-Sim 具身智能仿真平台发布，为机器人能力评测提供一站式体系",
-      "url": "https://www.ithome.com/1/020/888.htm",
+      "title": "Anthropic 第三季度营收 170 亿美元同比暴涨 11 倍，冲刺史上最大 IPO",
+      "url": "https://www.ithome.com/1/021/277.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"0522\">IT之家 11 月 2 日消息，优必选科技今天发布具身智能仿真平台 Thinker-Sim，构建覆盖真实场景数字化、规模化仿真数据合成、机器人能力评测的一站式技术体系。<strong>让真实世界快速进入仿真</strong>，<strong>验证机器人能力</strong>。</p><p style=\"text-al…",
-      "pubDate": "2026-11-02T02:02:57.000Z",
+      "summary": "<p data-vmark=\"277c\">IT之家 11 月 2 日消息，Anthropic PBC 披露，截至 9 月 30 日的第三季度营收接近 170 亿美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 1,132.35 亿元人民币）</span>，同比暴涨 11 倍，市场对这家 AI 实验室有望创下纪录的 …",
+      "pubDate": "2026-11-02T15:02:09.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1793582318000",
+      "id": "it之家-1793629312000",
       "region": "domestic",
-      "title": "美团龙猫发布 LongCat-2.5 原生多模态 AI 模型：1.6T 参数，面向长程智能体任务",
-      "url": "https://www.ithome.com/1/020/873.htm",
+      "title": "OpenAI CEO 奥尔特曼称个人电脑浪费内存遭全网声讨，马斯克也来补刀",
+      "url": "https://www.ithome.com/1/021/274.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"8032\">IT之家 11 月 2 日消息，美团龙猫今日发布面向长程智能体任务的原生多模态模型 LongCat-2.5，<strong>模型总参数量为 1.6 万亿</strong>，每个 token 激活约 480 亿参数，在 LongCat-2.0 的基础上进一步强化原生视觉理解与智能体编程能力。</p><p data-vm…",
-      "pubDate": "2026-11-02T01:18:38.000Z",
+      "summary": "<p data-vmark=\"40d6\">IT之家 11 月 2 日消息，萨姆 · 奥尔特曼近期关于内存的言论引发越来越多人反对，埃隆 · 马斯克也加入了这场声讨。</p><p style=\"text-align: center;\" data-vmark=\"4b88\"><img src=\"https://img.ithome.com/newsuploadfi…",
+      "pubDate": "2026-11-02T14:21:52.000Z",
       "isFallback": false
     },
     {
-      "id": "少数派-1793575365000",
+      "id": "量子位-1793626601000",
       "region": "domestic",
-      "title": "派早报：Apple 智能将随 iOS 27.3 登陆中国",
-      "url": "https://sspai.com/post/118191",
+      "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
+      "url": "https://www.qbitai.com/2026/11/507277.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-11-02T13:36:41.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1793605658000",
+      "region": "domestic",
+      "title": "从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信",
+      "url": "https://www.qbitai.com/2026/11/507260.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-11-02T07:47:38.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "少数派-1793602800000",
+      "region": "domestic",
+      "title": "TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验",
+      "url": "https://sspai.com/post/118122",
       "source": "少数派",
-      "summary": "<p>Apple 智能将随 iOS 27.3 登陆中国</p><p>苹果对闪存的议价权受到压制</p><p>Claude Code 官方扩展被植入后门</p><p>美国 FCC 禁止中国实验室认证输美电子产品</p><p>百度网盘通过磁力计数据规避「摇一摇」广告权限</p><p>币安 63 亿美元资产被盗</p><p>看看就行的简讯</p><p>少数派的近期…",
-      "pubDate": "2026-11-01T23:22:45.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1793539690000",
-      "region": "domestic",
-      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
-      "url": "https://www.qbitai.com/2026/11/507076.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-11-01T13:28:10.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1793538595000",
-      "region": "domestic",
-      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
-      "url": "https://www.qbitai.com/2026/11/507038.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-11-01T13:09:55.000Z",
+      "summary": "这篇文章是TDSStudio在少数派上的第34篇文章，依然是全平台首发。时隔两年，我们又回来写AirPods半入耳型号了。在26年的苹果秋季event上，AirPods5给我们最大的印象其实还是主动降 ...<a href=\"https://sspai.com/post/118122\" target=\"_blank\">查看全文</a>",
+      "pubDate": "2026-11-02T07:00:00.000Z",
       "isFallback": false
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1793586775000",
+      "id": "google-news-ai-1793652429000",
       "region": "abroad",
-      "title": "For China, Necessity Is the Mother of Automation and AI - https://dominotheory.com/",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMkxJUWE5TUpkV0cyNGxYMzVDRVNRNXlCcUJfazE3N3BxLVNwLW1TdWZGNU5qVXVoakFmRGFIeE5zRTlxblNCQWZjSDc1MXZ3alhBSDNneWphY2k0ZDBUUXUwM3d4S0x3Zl9ZYjB4UnRxSmxmNWVjR280SEJDUTJ2SlV0WFpqc0k?oc=5",
+      "title": "Marriott focuses on AI, loyalty as tech enhances experiences - CX Dive",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONUQ1MXNsVkpUNUJDemtQa2RfOThhU1F3bDViNFhqUnUxa0xGemw2U2h5UEthNEwtc1NfSEVDTUJRTWxWNExURjVDQkM0YzdDYXIwSklCcjVYX0lrOUoycWptQXcxY1hra2FYa3FXTTM5Szg5VTFMdExxdjBpVzBaWVJKS3JqU1V5YVB1S0NTUFpNMm03MDJuZGdJa19NMTZGQWRQcW1JVGo?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOMkxJUWE5TUpkV0cyNGxYMzVDRVNRNXlCcUJfazE3N3BxLVNwLW1TdWZGNU5qVXVoakFmRGFIeE5zRTlxblNCQWZjSDc1MXZ3alhBSDNneWphY2k0ZDBUUX…",
-      "pubDate": "2026-11-02T02:32:55.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxONUQ1MXNsVkpUNUJDemtQa2RfOThhU1F3bDViNFhqUnUxa0xGemw2U2h5UEthNEwtc1NfSEVDTUJRTWxWNExURjVDQkM0YzdDYXIwSklCcjVYX0lrOUoycW…",
+      "pubDate": "2026-11-02T20:47:09.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1793586623000",
+      "id": "google-news-ai-1793652250000",
       "region": "abroad",
-      "title": "AI Capex Hits $740B [2026]: Markets Doubt the Payoff - shattered.io",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcnV4SUdlOG9zYjFXcENLTDV4SjFIVHdJMUdqcm5xUjFHMllIS094V0ttQzJacG1nTVFsSzVVV3htR0NrYTJXRDNMdUpHazVhaFlNT2dUSHlJUUlfWVpCYjIxR05IMDFQWkd1WnVrbzZWNm9CUHBXa1JsSHhMd3FBNWl3Mzg1WE11?oc=5",
+      "title": "Ohio State hosts researchers, business leaders to share AI strategies - Ohio State News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMkNNMnJ2RUMwSW5KS1NyODY0Q2V2akNoZ21vTTVEVGc3Vms1bFA1bm90SVlCdzZjMTM3OV9Rbi16X3dJZFFDUC04WVViTE5ZTkZnRUJ3S3ZIU1JZOFpFX3VMMnZrVWJRbG1Td2FtcHRBdU1pNzR4dWNTaFJURkpVS3dxUU0yVzRCZk40ZmM1aE5Pc1Zv?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcnV4SUdlOG9zYjFXcENLTDV4SjFIVHdJMUdqcm5xUjFHMllIS094V0ttQzJacG1nTVFsSzVVV3htR0NrYTJXRDNMdUpHazVhaFlNT2dUSHlJUUlfWVpCYj…",
-      "pubDate": "2026-11-02T02:30:23.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOMkNNMnJ2RUMwSW5KS1NyODY0Q2V2akNoZ21vTTVEVGc3Vms1bFA1bm90SVlCdzZjMTM3OV9Rbi16X3dJZFFDUC04WVViTE5ZTkZnRUJ3S3ZIU1JZOFpFX3…",
+      "pubDate": "2026-11-02T20:44:10.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1793570123000",
+      "id": "techcrunch-ai-1793647157000",
       "region": "abroad",
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-01T21:55:23.000Z",
+      "pubDate": "2026-11-02T19:19:17.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1793566678000",
+      "id": "mit-tech-review-ai-1793638800000",
       "region": "abroad",
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "source": "MIT Tech Review AI",
+      "summary": "",
+      "pubDate": "2026-11-02T17:00:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1793637000000",
+      "region": "abroad",
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-01T20:57:58.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1793529000000",
-      "region": "abroad",
-      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
-      "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
-      "source": "Wired AI",
-      "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
-      "pubDate": "2026-11-01T10:30:00.000Z",
+      "pubDate": "2026-11-02T16:30:00.000Z",
       "isFallback": false
     }
   ]
