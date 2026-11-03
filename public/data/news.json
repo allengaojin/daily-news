@@ -1,48 +1,48 @@
 {
   "meta": {
     "date": "2026-11-03",
-    "updatedAt": "2026-11-02T20:48:53.978Z",
+    "updatedAt": "2026-11-03T03:57:09.126Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1793631729000",
+      "id": "it之家-1793677838000",
       "region": "domestic",
-      "title": "Anthropic 第三季度营收 170 亿美元同比暴涨 11 倍，冲刺史上最大 IPO",
-      "url": "https://www.ithome.com/1/021/277.htm",
+      "title": "男子用 AI 破解 AI 平台接口：400 多万个账号薅积分、偷算力卖钱，被判刑 3 年缓刑 3 年",
+      "url": "https://www.ithome.com/1/021/484.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"277c\">IT之家 11 月 2 日消息，Anthropic PBC 披露，截至 9 月 30 日的第三季度营收接近 170 亿美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 1,132.35 亿元人民币）</span>，同比暴涨 11 倍，市场对这家 AI 实验室有望创下纪录的 …",
-      "pubDate": "2026-11-02T15:02:09.000Z",
+      "summary": "<p data-vmark=\"497a\">IT之家 11 月 3 日消息，据上海法治报 11 月 2 日报道，上海市首例利用 AI 伪造签名、盗用大模型算力案于近日宣判。</p><p data-vmark=\"ea59\">2025 年 12 月，有技术基础的宗某某自学调用 AI 平台 API 接口的“教程”后，动起了“薅羊毛”的念头。他盯上了一家人工智能企业运…",
+      "pubDate": "2026-11-03T03:50:38.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1793629312000",
+      "id": "it之家-1793676484000",
       "region": "domestic",
-      "title": "OpenAI CEO 奥尔特曼称个人电脑浪费内存遭全网声讨，马斯克也来补刀",
-      "url": "https://www.ithome.com/1/021/274.htm",
+      "title": "AI 制药公司“同构实验室”总裁贾德伯格大胆预测：未来所有药物都将由 AI 设计",
+      "url": "https://www.ithome.com/1/021/477.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"40d6\">IT之家 11 月 2 日消息，萨姆 · 奥尔特曼近期关于内存的言论引发越来越多人反对，埃隆 · 马斯克也加入了这场声讨。</p><p style=\"text-align: center;\" data-vmark=\"4b88\"><img src=\"https://img.ithome.com/newsuploadfi…",
-      "pubDate": "2026-11-02T14:21:52.000Z",
+      "summary": "<p data-vmark=\"8ab9\">IT之家 11 月 3 日消息，据彭博社报道，人工智能制药公司同构实验室总裁马克斯 · 贾德伯格相信，<strong>未来所有药物都将由 AI 设计</strong>，区别只在于这一目标需要多久才能实现。“这一天肯定会到来。我毫不怀疑，未来所有药物都会由 AI 设计。我只是不希望大家被动等待，结果要过 20 年甚至 …",
+      "pubDate": "2026-11-03T03:28:04.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1793626601000",
+      "id": "量子位-1793671325000",
       "region": "domestic",
-      "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
-      "url": "https://www.qbitai.com/2026/11/507277.html",
+      "title": "B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相",
+      "url": "https://www.qbitai.com/2026/11/507339.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-11-02T13:36:41.000Z",
+      "pubDate": "2026-11-03T02:02:05.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1793605658000",
+      "id": "量子位-1793671050000",
       "region": "domestic",
-      "title": "从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信",
-      "url": "https://www.qbitai.com/2026/11/507260.html",
+      "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
+      "url": "https://www.qbitai.com/2026/11/507322.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-11-02T07:47:38.000Z",
+      "pubDate": "2026-11-03T01:57:30.000Z",
       "isFallback": false
     },
     {
@@ -58,33 +58,43 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1793652429000",
+      "id": "google-news-ai-1793677779000",
       "region": "abroad",
-      "title": "Marriott focuses on AI, loyalty as tech enhances experiences - CX Dive",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONUQ1MXNsVkpUNUJDemtQa2RfOThhU1F3bDViNFhqUnUxa0xGemw2U2h5UEthNEwtc1NfSEVDTUJRTWxWNExURjVDQkM0YzdDYXIwSklCcjVYX0lrOUoycWptQXcxY1hra2FYa3FXTTM5Szg5VTFMdExxdjBpVzBaWVJKS3JqU1V5YVB1S0NTUFpNMm03MDJuZGdJa19NMTZGQWRQcW1JVGo?oc=5",
+      "title": "Open AI lawsuit claims of child exploitation continues - NBC Montana",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZFE2ZUpiSUpwMDBSZ0sxMEJJZmFFLVNHTFRNR3NRUGhKdUItc3V1NWFvQWIzN1hXMnF3N3NRbjFVTFZfbW4xTHNyOFlYbkdMMnU4a3JLQ1NvNE9ZN2VfcGx4NlBLOEwzYVF5U0Y4dVlfaXdiS3Q3WmhzU0ctUnZNaWtnV3N2ay1aTHFSY3JMaUFSQQ?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxONUQ1MXNsVkpUNUJDemtQa2RfOThhU1F3bDViNFhqUnUxa0xGemw2U2h5UEthNEwtc1NfSEVDTUJRTWxWNExURjVDQkM0YzdDYXIwSklCcjVYX0lrOUoycW…",
-      "pubDate": "2026-11-02T20:47:09.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOZFE2ZUpiSUpwMDBSZ0sxMEJJZmFFLVNHTFRNR3NRUGhKdUItc3V1NWFvQWIzN1hXMnF3N3NRbjFVTFZfbW4xTHNyOFlYbkdMMnU4a3JLQ1NvNE9ZN2VfcG…",
+      "pubDate": "2026-11-03T03:49:39.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1793652250000",
+      "id": "google-news-ai-1793677147000",
       "region": "abroad",
-      "title": "Ohio State hosts researchers, business leaders to share AI strategies - Ohio State News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMkNNMnJ2RUMwSW5KS1NyODY0Q2V2akNoZ21vTTVEVGc3Vms1bFA1bm90SVlCdzZjMTM3OV9Rbi16X3dJZFFDUC04WVViTE5ZTkZnRUJ3S3ZIU1JZOFpFX3VMMnZrVWJRbG1Td2FtcHRBdU1pNzR4dWNTaFJURkpVS3dxUU0yVzRCZk40ZmM1aE5Pc1Zv?oc=5",
+      "title": "AI trade faces a key test of confidence in long-term fundamentals: Strategist - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNREdJTWFoZjJzTmJDNXE1OWI4Z3NNOHhDV2k0dmJaY05vUFRYSGdGLTJSdi01cUtKV09Mb2hEQkhMZ0w1ZlJxWXh1NGVUTG0tWE5TTmxSUnJNWThCcHc2QmJXYWhVcXo2Uk1xU1JSZFBrNlQtbUs5VGVReTk0SG1PR2Z0VnNxc2JYMXlsRlBMaFYxVnhZQ2ZMNFFVRnhiZ2ItVF9rOEtnRm1BNEJU?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOMkNNMnJ2RUMwSW5KS1NyODY0Q2V2akNoZ21vTTVEVGc3Vms1bFA1bm90SVlCdzZjMTM3OV9Rbi16X3dJZFFDUC04WVViTE5ZTkZnRUJ3S3ZIU1JZOFpFX3…",
-      "pubDate": "2026-11-02T20:44:10.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNREdJTWFoZjJzTmJDNXE1OWI4Z3NNOHhDV2k0dmJaY05vUFRYSGdGLTJSdi01cUtKV09Mb2hEQkhMZ0w1ZlJxWXh1NGVUTG0tWE5TTmxSUnJNWThCcHc2Qm…",
+      "pubDate": "2026-11-03T03:39:07.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1793647157000",
+      "id": "techcrunch-ai-1793676600000",
       "region": "abroad",
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-02T19:19:17.000Z",
+      "pubDate": "2026-11-03T03:30:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1793670592000",
+      "region": "abroad",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-11-03T01:49:52.000Z",
       "isFallback": false
     },
     {
@@ -95,16 +105,6 @@
       "source": "MIT Tech Review AI",
       "summary": "",
       "pubDate": "2026-11-02T17:00:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1793637000000",
-      "region": "abroad",
-      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-11-02T16:30:00.000Z",
       "isFallback": false
     }
   ]
