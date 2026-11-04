@@ -1,48 +1,28 @@
 {
   "meta": {
     "date": "2026-11-04",
-    "updatedAt": "2026-11-03T18:28:58.321Z",
-    "mode": "live"
+    "updatedAt": "2026-11-04T03:02:33.815Z",
+    "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1793726396000",
+      "id": "it之家-1793754750000",
       "region": "domestic",
-      "title": "提速抗癌药物研发：谷歌 Antigravity 上线“AI 炼丹师”，1 小时筛完数千种化合物",
-      "url": "https://www.ithome.com/1/021/858.htm",
+      "title": "曝字节将大面积限制员工在内部自费使用 Claude、Codex 等",
+      "url": "https://www.ithome.com/1/021/917.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"0000\">IT之家 11 月 4 日消息，谷歌 DeepMind 团队昨日（11 月 3 日）发布博文，宣布为 Google Antigravity 推出一套“化学信息学技能”（Cheminformatics Skills），<strong>帮助科研人员更快完成药物发现中的文献检索、分子分析、模型构建和新分子设计等工作。</s…",
-      "pubDate": "2026-11-03T17:19:56.000Z",
+      "summary": "<p data-vmark=\"af77\">IT之家 11 月 4 日消息，据大厂日爆 11 月 3 日爆料，字节迎来新规，<strong>将大面积限制 Claude、Codex 等个人账号的内部使用</strong>。</p><p data-vmark=\"1b4c\">爆料称，本月起，字节跳动将会对所有 L4 级别的代码仓库和飞书文档进行<strong>外部 …",
+      "pubDate": "2026-11-04T01:12:30.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1793722000000",
+      "id": "it之家-1793750432000",
       "region": "domestic",
-      "title": "英伟达称 AI 重塑芯片工厂：仿真提速最高 35 倍，工程师决策从数天缩至数分钟",
-      "url": "https://www.ithome.com/1/021/857.htm",
+      "title": "OpenAI 高管会议室发现“窃听”设备后，知情人士称员工多年不断反映安全漏洞",
+      "url": "https://www.ithome.com/1/021/892.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"0000\">IT之家 11 月 4 日消息，英伟达于 11 月 3 日发布文章称，人工智能正在推动半导体晶圆厂进入“AI 定义工厂”阶段：通过加速仿真、学习型物理模型、AI 智能体和数字孪生，<strong>正在显著提速芯片制造中的设计、测试与生产决策。</strong></p><p style=\"text-align: cen…",
-      "pubDate": "2026-11-03T16:06:40.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1793714231000",
-      "region": "domestic",
-      "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
-      "url": "https://www.qbitai.com/2026/11/507507.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-11-03T13:57:11.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1793710655000",
-      "region": "domestic",
-      "title": "智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池",
-      "url": "https://www.qbitai.com/2026/11/507473.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-11-03T12:57:35.000Z",
+      "summary": "<p data-vmark=\"6b7e\">IT之家 11 月 4 日消息，今年 10 月，OpenAI 在一间高管会议室发现了被人偷偷安装的录音设备。多名前员工得知消息后却不觉得意外。</p><p data-vmark=\"740d\">据路透社援引 5 名知情人士消息称，早在 2022 年底 ChatGPT 问世之前，就有员工对 OpenAI 的安全管理<st…",
+      "pubDate": "2026-11-04T00:00:32.000Z",
       "isFallback": false
     },
     {
@@ -54,47 +34,67 @@
       "summary": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。<a href=\"https://sspai.com/post/118317\" target=\"_blank\">查看全文</a>",
       "pubDate": "2026-11-03T07:12:54.000Z",
       "isFallback": false
+    },
+    {
+      "id": "少数派-1793602800000",
+      "region": "domestic",
+      "title": "TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验",
+      "url": "https://sspai.com/post/118122",
+      "source": "少数派",
+      "summary": "这篇文章是TDSStudio在少数派上的第34篇文章，依然是全平台首发。时隔两年，我们又回来写AirPods半入耳型号了。在26年的苹果秋季event上，AirPods5给我们最大的印象其实还是主动降 ...<a href=\"https://sspai.com/post/118122\" target=\"_blank\">查看全文</a>",
+      "pubDate": "2026-11-02T07:00:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "mock-domestic-01",
+      "region": "domestic",
+      "title": "国内多家人工智能实验室发布新一代开源大模型，推理成本下降超六成",
+      "url": "https://www.jiqizhixin.com/",
+      "source": "机器之心",
+      "summary": "多家国内 AI 实验室联合发布新一代开源大模型系列，在多项基准测试中表现接近闭源旗舰模型，同时通过混合专家架构与推理优化，将单次推理成本降低超过 60%，引发开源社区广泛关注。",
+      "pubDate": "2026-08-10T06:00:00Z",
+      "isFallback": true
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1793730006000",
+      "id": "google-news-ai-1793760996000",
       "region": "abroad",
-      "title": "Watch AI’s Future Earnings Potential - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcUpUYnpSTi14c3ppV3FLeVIyZnZ5THdGQ2xlay1JS1l2cEkzMlg4REcyLUFobTR6cVVhQVhCakVYY0RFLVZzY2h2OTZ4MG5yRUp4YXZ1X3RzUUhyUTVSUXJ6T3EteGxtSTJXa1YxekpNVS1MbFY2dXpNNE5kNWZlTHBLaVZYWjNPUFRvdmFJd2lZUE1rTERneg?oc=5",
+      "title": "In an AI world, cybersecurity requires human judgment - Miami’s Community News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORHRGWVVrY0thVnZKakJoS2lVZ1FhT0c3Q3pxNER3VHR0MjhTRGZEaWFBVGhTekZXa2h3ak9xM0Z5MVAyVk9hRUN2NnVTdzlkWFFMUzgwQW5KZm1TZWVyeXIyVnYwdkhXb0J2RmROTUJtdmFrUGJibU5qR3R1QVdzWUM1WW83T0J1RlVmdG03Z0YxS1Z2MnBpb0QyRzhJMjIzRUE?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQcUpUYnpSTi14c3ppV3FLeVIyZnZ5THdGQ2xlay1JS1l2cEkzMlg4REcyLUFobTR6cVVhQVhCakVYY0RFLVZzY2h2OTZ4MG5yRUp4YXZ1X3RzUUhyUTVSUX…",
-      "pubDate": "2026-11-03T18:20:06.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxORHRGWVVrY0thVnZKakJoS2lVZ1FhT0c3Q3pxNER3VHR0MjhTRGZEaWFBVGhTekZXa2h3ak9xM0Z5MVAyVk9hRUN2NnVTdzlkWFFMUzgwQW5KZm1TZWVyeX…",
+      "pubDate": "2026-11-04T02:56:36.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1793729741000",
+      "id": "google-news-ai-1793760862000",
       "region": "abroad",
-      "title": "Google researchers are fighting the company to tell the world what they know about AI - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYWNrdVBqZDE1MU5SRE1jMEI4Y3VLRnlkYmYteUhFRFRhbGp2UXZpa18tNmlsU3BqWWszRkc0UWl0WE5XbUlZSDBCTDl2R3psX1BCNTkyZUxjaFZuaVlVUU9iTWJoaWdIWGExRXZfSzdYdjIxTll1R010Nnhlb2ZtYktZU21HU1ZzRkhBcm5lb2c2ZnluOWdoMy13S2NqMDNpUVd6MFQ1M255RDdIT2VCTzN6d0ZTVWM?oc=5",
+      "title": "‘Slopaganda’ and Voting Advice: How AI is Shaping the Midterms - New York City News Service",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeDhBR19JRk5jNmI4Z1FlWERZMFZudzZfTmhsb25weTIwQzF5ZVR1aTI3ZW12eHU3MFpZNnZraFUyZkQ5a0ZvSElLUkhWX3U3QVJYVXZLcm5QQk02bVd4VC1HbEg2QlV2ejRiZWhBa0liNGktdGFDRjV4c1V2MkRyeWx2eDZUTWpzSnhvWkNxUWsyNE1FR0Q0QzhhTzRUTEYyREVsMzBmc1k?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQYWNrdVBqZDE1MU5SRE1jMEI4Y3VLRnlkYmYteUhFRFRhbGp2UXZpa18tNmlsU3BqWWszRkc0UWl0WE5XbUlZSDBCTDl2R3psX1BCNTkyZUxjaFZuaVlVUU…",
-      "pubDate": "2026-11-03T18:15:41.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeDhBR19JRk5jNmI4Z1FlWERZMFZudzZfTmhsb25weTIwQzF5ZVR1aTI3ZW12eHU3MFpZNnZraFUyZkQ5a0ZvSElLUkhWX3U3QVJYVXZLcm5QQk02bVd4VC…",
+      "pubDate": "2026-11-04T02:54:22.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1793725621000",
+      "id": "techcrunch-ai-1793745663000",
       "region": "abroad",
-      "title": "Anthropic is still grappling with the economics of compute",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-03T17:07:01.000Z",
+      "pubDate": "2026-11-03T22:41:03.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1793723434000",
+      "id": "techcrunch-ai-1793744393000",
       "region": "abroad",
-      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-03T16:30:34.000Z",
+      "pubDate": "2026-11-03T22:19:53.000Z",
       "isFallback": false
     },
     {
