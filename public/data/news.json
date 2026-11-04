@@ -1,110 +1,110 @@
 {
   "meta": {
-    "date": "2026-11-04",
-    "updatedAt": "2026-11-04T03:02:33.815Z",
-    "mode": "partial"
+    "date": "2026-11-05",
+    "updatedAt": "2026-11-04T18:41:23.945Z",
+    "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1793754750000",
+      "id": "量子位-1793808803000",
       "region": "domestic",
-      "title": "曝字节将大面积限制员工在内部自费使用 Claude、Codex 等",
-      "url": "https://www.ithome.com/1/021/917.htm",
+      "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
+      "url": "https://www.qbitai.com/2026/11/507647.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-11-04T16:13:23.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "it之家-1793805243000",
+      "region": "domestic",
+      "title": "连续 2 小时 40 分钟纯代码生成 66 秒动画，Anthropic 新旗舰 Fable 5.5 实测曝光",
+      "url": "https://www.ithome.com/1/022/468.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"af77\">IT之家 11 月 4 日消息，据大厂日爆 11 月 3 日爆料，字节迎来新规，<strong>将大面积限制 Claude、Codex 等个人账号的内部使用</strong>。</p><p data-vmark=\"1b4c\">爆料称，本月起，字节跳动将会对所有 L4 级别的代码仓库和飞书文档进行<strong>外部 …",
-      "pubDate": "2026-11-04T01:12:30.000Z",
+      "summary": "<p data-vmark=\"3a25\">北京时间 11 月 4 日消息，Anthropic 尚未正式发布的下一代旗舰模型 Claude Fable 5.5 近日在海外开发者社区引发关注。多名开发者在社交平台 X 上分享了据称来自该模型的早期测试结果。其中，一段完全通过编程生成的 66 秒动画短片尤为引人注目。测试者称，模型在没有调用图像或视频生成工具的情况…",
+      "pubDate": "2026-11-04T15:14:03.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1793750432000",
+      "id": "it之家-1793802030000",
       "region": "domestic",
-      "title": "OpenAI 高管会议室发现“窃听”设备后，知情人士称员工多年不断反映安全漏洞",
-      "url": "https://www.ithome.com/1/021/892.htm",
+      "title": "陶哲轩警告：人类把思考交给 AI，危险可能很快到来",
+      "url": "https://www.ithome.com/1/022/440.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"6b7e\">IT之家 11 月 4 日消息，今年 10 月，OpenAI 在一间高管会议室发现了被人偷偷安装的录音设备。多名前员工得知消息后却不觉得意外。</p><p data-vmark=\"740d\">据路透社援引 5 名知情人士消息称，早在 2022 年底 ChatGPT 问世之前，就有员工对 OpenAI 的安全管理<st…",
-      "pubDate": "2026-11-04T00:00:32.000Z",
+      "summary": "<p data-vmark=\"902c\">北京时间 11 月 4 日，菲尔兹奖得主、著名数学家陶哲轩（Terence Tao）近日对人类日益依赖人工智能发出警告。他担心，随着人们逐渐将思考和解决问题的过程交给 AI，人类正在失去对问题本身及其解决方案的理解，而这一趋势可能很快在现实世界中产生严重后果。</p><p data-vmark=\"9f0a\">这番言论…",
+      "pubDate": "2026-11-04T14:20:30.000Z",
       "isFallback": false
     },
     {
-      "id": "少数派-1793689974000",
+      "id": "少数派-1793795155000",
       "region": "domestic",
-      "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
-      "url": "https://sspai.com/post/118317",
+      "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
+      "url": "https://sspai.com/post/117713",
       "source": "少数派",
-      "summary": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。<a href=\"https://sspai.com/post/118317\" target=\"_blank\">查看全文</a>",
-      "pubDate": "2026-11-03T07:12:54.000Z",
+      "summary": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。<a href=\"https://sspai.com/post/117713\" target=\"_blank\">查看全文</a>",
+      "pubDate": "2026-11-04T12:25:55.000Z",
       "isFallback": false
     },
     {
-      "id": "少数派-1793602800000",
+      "id": "量子位-1793786918000",
       "region": "domestic",
-      "title": "TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验",
-      "url": "https://sspai.com/post/118122",
-      "source": "少数派",
-      "summary": "这篇文章是TDSStudio在少数派上的第34篇文章，依然是全平台首发。时隔两年，我们又回来写AirPods半入耳型号了。在26年的苹果秋季event上，AirPods5给我们最大的印象其实还是主动降 ...<a href=\"https://sspai.com/post/118122\" target=\"_blank\">查看全文</a>",
-      "pubDate": "2026-11-02T07:00:00.000Z",
+      "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+      "url": "https://www.qbitai.com/2026/11/507586.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-11-04T10:08:38.000Z",
       "isFallback": false
-    },
-    {
-      "id": "mock-domestic-01",
-      "region": "domestic",
-      "title": "国内多家人工智能实验室发布新一代开源大模型，推理成本下降超六成",
-      "url": "https://www.jiqizhixin.com/",
-      "source": "机器之心",
-      "summary": "多家国内 AI 实验室联合发布新一代开源大模型系列，在多项基准测试中表现接近闭源旗舰模型，同时通过混合专家架构与推理优化，将单次推理成本降低超过 60%，引发开源社区广泛关注。",
-      "pubDate": "2026-08-10T06:00:00Z",
-      "isFallback": true
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1793760996000",
+      "id": "google-news-ai-1793817416000",
       "region": "abroad",
-      "title": "In an AI world, cybersecurity requires human judgment - Miami’s Community News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORHRGWVVrY0thVnZKakJoS2lVZ1FhT0c3Q3pxNER3VHR0MjhTRGZEaWFBVGhTekZXa2h3ak9xM0Z5MVAyVk9hRUN2NnVTdzlkWFFMUzgwQW5KZm1TZWVyeXIyVnYwdkhXb0J2RmROTUJtdmFrUGJibU5qR3R1QVdzWUM1WW83T0J1RlVmdG03Z0YxS1Z2MnBpb0QyRzhJMjIzRUE?oc=5",
+      "title": "trust, training, and the future of law and medicine in the AI era - Stanford Medicine",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YQjVPVFlFY1JOZ3M4cDUzYTZNa1QyTm1VT3pIVk9sNjNKdTd1ZlljcVN0WXpVOHlkbnA1UWRITDI5MDgxSS1vS1dZVE1iY3dEejIyZHBFYnlSMWZSOFlwLVlRUGVPR1FpSEM0eGwyRzM2M0RMNnc?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxORHRGWVVrY0thVnZKakJoS2lVZ1FhT0c3Q3pxNER3VHR0MjhTRGZEaWFBVGhTekZXa2h3ak9xM0Z5MVAyVk9hRUN2NnVTdzlkWFFMUzgwQW5KZm1TZWVyeX…",
-      "pubDate": "2026-11-04T02:56:36.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1YQjVPVFlFY1JOZ3M4cDUzYTZNa1QyTm1VT3pIVk9sNjNKdTd1ZlljcVN0WXpVOHlkbnA1UWRITDI5MDgxSS1vS1dZVE1iY3dEejIyZHBFYnlSMWZSOFlwLV…",
+      "pubDate": "2026-11-04T18:36:56.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1793760862000",
+      "id": "google-news-ai-1793817077000",
       "region": "abroad",
-      "title": "‘Slopaganda’ and Voting Advice: How AI is Shaping the Midterms - New York City News Service",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeDhBR19JRk5jNmI4Z1FlWERZMFZudzZfTmhsb25weTIwQzF5ZVR1aTI3ZW12eHU3MFpZNnZraFUyZkQ5a0ZvSElLUkhWX3U3QVJYVXZLcm5QQk02bVd4VC1HbEg2QlV2ejRiZWhBa0liNGktdGFDRjV4c1V2MkRyeWx2eDZUTWpzSnhvWkNxUWsyNE1FR0Q0QzhhTzRUTEYyREVsMzBmc1k?oc=5",
+      "title": "Apple Is an AI Safe Haven—but Safety Isn’t Cheap - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTXB2Vm1NLVhnZGpidHJQanlpdzBaZjRWSmxBc1dMOWdWdXRIWlpPOWpLeHhTdGJPU1VFQnBzV05sUU1tcmdNSTZHZ1k1RDA0OXRiR0V4VDVGTHJNY2JuRHlhZGNBa08yaE5SSkhyWXJJYVVibUlReVdZQWJaRVVoMExkblVETW81bTc2QU43ZkFZTGZl?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeDhBR19JRk5jNmI4Z1FlWERZMFZudzZfTmhsb25weTIwQzF5ZVR1aTI3ZW12eHU3MFpZNnZraFUyZkQ5a0ZvSElLUkhWX3U3QVJYVXZLcm5QQk02bVd4VC…",
-      "pubDate": "2026-11-04T02:54:22.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPTXB2Vm1NLVhnZGpidHJQanlpdzBaZjRWSmxBc1dMOWdWdXRIWlpPOWpLeHhTdGJPU1VFQnBzV05sUU1tcmdNSTZHZ1k1RDA0OXRiR0V4VDVGTHJNY2JuRH…",
+      "pubDate": "2026-11-04T18:31:17.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1793745663000",
+      "id": "wired-ai-1793811377000",
       "region": "abroad",
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-11-03T22:41:03.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1793744393000",
-      "region": "abroad",
-      "title": "Data centers are turning to old jet engines as the wait for power grows",
-      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-11-03T22:19:53.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1793717108000",
-      "region": "abroad",
-      "title": "Here’s Why You Shouldn’t Use AI to Vote",
-      "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+      "title": "The Results Are In: Voters Hate Data Centers",
+      "url": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
       "source": "Wired AI",
-      "summary": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
-      "pubDate": "2026-11-03T14:45:08.000Z",
+      "summary": "From high-profile Senate races to local rezoning initiatives, data centers and their supporters did miserably on the ballot in the 2026 midterms.",
+      "pubDate": "2026-11-04T16:56:17.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1793811095000",
+      "region": "abroad",
+      "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+      "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-11-04T16:51:35.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1793809042000",
+      "region": "abroad",
+      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-11-04T16:17:22.000Z",
       "isFallback": false
     }
   ]
