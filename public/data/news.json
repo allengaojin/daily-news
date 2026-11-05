@@ -1,110 +1,110 @@
 {
   "meta": {
     "date": "2026-11-05",
-    "updatedAt": "2026-11-04T18:41:23.945Z",
+    "updatedAt": "2026-11-05T03:33:06.236Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "量子位-1793808803000",
+      "id": "it之家-1793849067000",
       "region": "domestic",
-      "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
-      "url": "https://www.qbitai.com/2026/11/507647.html",
+      "title": "AI 抢走产能，任天堂实体游戏卡带供应链告急",
+      "url": "https://www.ithome.com/1/022/574.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"9db5\">IT之家 11 月 5 日消息，科技媒体 Ars Technica 昨日（11 月 4 日）发布博文，报道称由于 AI 抢走产能，<strong>任天堂实体游戏卡带的核心零部件正遭遇罕见供应压力。</strong></p><p data-vmark=\"468b\">任天堂实体卡带的主要 ROM 存储芯片供应商旺宏电子（…",
+      "pubDate": "2026-11-05T03:24:27.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "it之家-1793848517000",
+      "region": "domestic",
+      "title": "Kimi Hosted Agents 托管智能体发布，将 Harness 作为云端服务提供",
+      "url": "https://www.ithome.com/1/022/572.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"507e\">IT之家 11 月 5 日消息，Kimi 今日宣布推出 <strong>Kimi Hosted Agents（托管智能体）</strong>，将支撑 Agent 运行的 Harness 作为云端服务提供（Harness as a Service）。</p><p data-vmark=\"b396\">企业和开发者无需自行…",
+      "pubDate": "2026-11-05T03:15:17.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1793844111000",
+      "region": "domestic",
+      "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+      "url": "https://www.qbitai.com/2026/11/507696.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-11-04T16:13:23.000Z",
+      "pubDate": "2026-11-05T02:01:51.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1793805243000",
+      "id": "量子位-1793843977000",
       "region": "domestic",
-      "title": "连续 2 小时 40 分钟纯代码生成 66 秒动画，Anthropic 新旗舰 Fable 5.5 实测曝光",
-      "url": "https://www.ithome.com/1/022/468.htm",
-      "source": "IT之家",
-      "summary": "<p data-vmark=\"3a25\">北京时间 11 月 4 日消息，Anthropic 尚未正式发布的下一代旗舰模型 Claude Fable 5.5 近日在海外开发者社区引发关注。多名开发者在社交平台 X 上分享了据称来自该模型的早期测试结果。其中，一段完全通过编程生成的 66 秒动画短片尤为引人注目。测试者称，模型在没有调用图像或视频生成工具的情况…",
-      "pubDate": "2026-11-04T15:14:03.000Z",
+      "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+      "url": "https://www.qbitai.com/2026/11/507707.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-11-05T01:59:37.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1793802030000",
+      "id": "少数派-1793837787000",
       "region": "domestic",
-      "title": "陶哲轩警告：人类把思考交给 AI，危险可能很快到来",
-      "url": "https://www.ithome.com/1/022/440.htm",
-      "source": "IT之家",
-      "summary": "<p data-vmark=\"902c\">北京时间 11 月 4 日，菲尔兹奖得主、著名数学家陶哲轩（Terence Tao）近日对人类日益依赖人工智能发出警告。他担心，随着人们逐渐将思考和解决问题的过程交给 AI，人类正在失去对问题本身及其解决方案的理解，而这一趋势可能很快在现实世界中产生严重后果。</p><p data-vmark=\"9f0a\">这番言论…",
-      "pubDate": "2026-11-04T14:20:30.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "少数派-1793795155000",
-      "region": "domestic",
-      "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
-      "url": "https://sspai.com/post/117713",
+      "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
+      "url": "https://sspai.com/post/118498",
       "source": "少数派",
-      "summary": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。<a href=\"https://sspai.com/post/117713\" target=\"_blank\">查看全文</a>",
-      "pubDate": "2026-11-04T12:25:55.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1793786918000",
-      "region": "domestic",
-      "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
-      "url": "https://www.qbitai.com/2026/11/507586.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-11-04T10:08:38.000Z",
+      "summary": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章国行Apple智能上手：这些功能已经 ...<a href=\"https://sspai.com/post/118498\" target=\"_blank\">查看全文</a>",
+      "pubDate": "2026-11-05T00:16:27.000Z",
       "isFallback": false
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1793817416000",
+      "id": "google-news-ai-1793848623000",
       "region": "abroad",
-      "title": "trust, training, and the future of law and medicine in the AI era - Stanford Medicine",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YQjVPVFlFY1JOZ3M4cDUzYTZNa1QyTm1VT3pIVk9sNjNKdTd1ZlljcVN0WXpVOHlkbnA1UWRITDI5MDgxSS1vS1dZVE1iY3dEejIyZHBFYnlSMWZSOFlwLVlRUGVPR1FpSEM0eGwyRzM2M0RMNnc?oc=5",
+      "title": "Financial Stability Board sets out 12 ‘sound practices’ for FS firms’ AI adoption - Compliance Week",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZUR6ZVBZbXZGOEdyZ0EtRDFBZkVybXozeERPLUU3NWkwQ0wwNVVmcTJORUs2cFRYR2pwMnNXUWM1TmdRc2Y2UHgtTGlwMTA4MmRmQjBQcUlsRmhMS0pqUC10enFfWmREUmJRY0djWWZHTW5OODVlTnRtWWx5cjJWVDNKeklxdy1BQ2Y4RXZrS2taM3B4YnJDTmR0T05fd3AxSXVFZ2hkQ3psVjJMOWs2amdUWXVLWGp2RXk4SzVuUk8taFB6QU9BOWdtZmhWN0U?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1YQjVPVFlFY1JOZ3M4cDUzYTZNa1QyTm1VT3pIVk9sNjNKdTd1ZlljcVN0WXpVOHlkbnA1UWRITDI5MDgxSS1vS1dZVE1iY3dEejIyZHBFYnlSMWZSOFlwLV…",
-      "pubDate": "2026-11-04T18:36:56.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPZUR6ZVBZbXZGOEdyZ0EtRDFBZkVybXozeERPLUU3NWkwQ0wwNVVmcTJORUs2cFRYR2pwMnNXUWM1TmdRc2Y2UHgtTGlwMTA4MmRmQjBQcUlsRmhMS0pqUC…",
+      "pubDate": "2026-11-05T03:17:03.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1793817077000",
+      "id": "google-news-ai-1793848410000",
       "region": "abroad",
-      "title": "Apple Is an AI Safe Haven—but Safety Isn’t Cheap - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTXB2Vm1NLVhnZGpidHJQanlpdzBaZjRWSmxBc1dMOWdWdXRIWlpPOWpLeHhTdGJPU1VFQnBzV05sUU1tcmdNSTZHZ1k1RDA0OXRiR0V4VDVGTHJNY2JuRHlhZGNBa08yaE5SSkhyWXJJYVVibUlReVdZQWJaRVVoMExkblVETW81bTc2QU43ZkFZTGZl?oc=5",
+      "title": "In an AI World, Cybersecurity Requires Human Judgment - Miami’s Community News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUlVyMEFLNWdQNWZJRjdxT2dHS3JQejhzdmhEbzBwUFZpQTFieF92Zm5yM0k5SHEwQTA2UWxiZUhCQlZFd2JHVkZub2V2Qm03czNkbE8xNmxqWDBmTHFIWUFrZlE5VmF2ZVNJLW9aOXNtNjFWY1hGVFd6RE1lU1ZNMHlUaVNpd2gzQmNYTHhfYkktVmhEcnJSajFXaGJ0ODRfT1h2WWZnRFk?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPTXB2Vm1NLVhnZGpidHJQanlpdzBaZjRWSmxBc1dMOWdWdXRIWlpPOWpLeHhTdGJPU1VFQnBzV05sUU1tcmdNSTZHZ1k1RDA0OXRiR0V4VDVGTHJNY2JuRH…",
-      "pubDate": "2026-11-04T18:31:17.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUlVyMEFLNWdQNWZJRjdxT2dHS3JQejhzdmhEbzBwUFZpQTFieF92Zm5yM0k5SHEwQTA2UWxiZUhCQlZFd2JHVkZub2V2Qm03czNkbE8xNmxqWDBmTHFIWU…",
+      "pubDate": "2026-11-05T03:13:30.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1793811377000",
+      "id": "techcrunch-ai-1793841982000",
       "region": "abroad",
-      "title": "The Results Are In: Voters Hate Data Centers",
-      "url": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-11-05T01:26:22.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1793840534000",
+      "region": "abroad",
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-11-05T01:02:14.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1793833994000",
+      "region": "abroad",
+      "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+      "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
       "source": "Wired AI",
-      "summary": "From high-profile Senate races to local rezoning initiatives, data centers and their supporters did miserably on the ballot in the 2026 midterms.",
-      "pubDate": "2026-11-04T16:56:17.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1793811095000",
-      "region": "abroad",
-      "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
-      "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-11-04T16:51:35.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1793809042000",
-      "region": "abroad",
-      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-11-04T16:17:22.000Z",
+      "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
+      "pubDate": "2026-11-04T23:13:14.000Z",
       "isFallback": false
     }
   ]
