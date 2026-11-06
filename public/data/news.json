@@ -1,110 +1,110 @@
 {
   "meta": {
-    "date": "2026-11-06",
-    "updatedAt": "2026-11-06T03:28:57.373Z",
+    "date": "2026-11-07",
+    "updatedAt": "2026-11-06T18:06:29.787Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1793935591000",
+      "id": "量子位-1793978516000",
       "region": "domestic",
-      "title": "微星推出冒险家 15 AI+ 2026 全能本：X7 358H + 15.6\" 16:9 屏幕",
-      "url": "https://www.ithome.com/1/023/200.htm",
-      "source": "IT之家",
-      "summary": "<p data-vmark=\"a0ee\">IT之家 11 月 6 日消息，微星 (MSI) 近日推出了全能笔记本电脑冒险家 15 AI+ 2026 (Venture 15 AI+ B3M)。这一型号基于英特尔酷睿 Ultra X7 处理器 358H，<strong>在同等级产品上很少见地采用了 16:9 的 15.6\" 屏幕</strong>。</p><p …",
-      "pubDate": "2026-11-06T03:26:31.000Z",
+      "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+      "url": "https://www.qbitai.com/2026/11/508184.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-11-06T15:21:56.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1793934474000",
+      "id": "it之家-1793977991000",
       "region": "domestic",
-      "title": "曹操出行成为中国移动首个打车生态合作伙伴，12580 一句话 AI 叫车",
-      "url": "https://www.ithome.com/1/023/172.htm",
+      "title": "OpenAI CEO 奥尔特曼警示：未来人类可能无法从 AI 手中夺回控制权",
+      "url": "https://www.ithome.com/1/023/596.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"43b1\">IT之家 11 月 6 日消息，在昨日的 2026 移动网络大会上，曹操出行正式宣布已接入中国移动 12580 个人智能助理，<strong>成为中国移动首个打车生态合作伙伴</strong>。</p><p data-vmark=\"21e7\">此次合作将结合曹操出行的合规运力调度、出行服务保障能力，以及中国移动 12…",
-      "pubDate": "2026-11-06T03:07:54.000Z",
+      "summary": "<p data-vmark=\"5abb\">IT之家 11 月 6 日消息，OpenAI 首席执行官萨姆 · 奥尔特曼（IT之家注：Sam Altman）最近出席 Raj Shamani 播客时表示，人工智能可能通过两种方式走向失控：一是人类逐步将控制权交给自主式 AI，二是某个人或实体垄断 AI 技术。</p><p style=\"text-align: ce…",
+      "pubDate": "2026-11-06T15:13:11.000Z",
       "isFallback": false
     },
     {
-      "id": "少数派-1793924679000",
+      "id": "it之家-1793977528000",
       "region": "domestic",
-      "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
-      "url": "https://sspai.com/post/118587",
+      "title": "最高投资 100 亿美元：SK 海力士设立美国 AI 投资子公司 Hyaico，崔泰源掌舵",
+      "url": "https://www.ithome.com/1/023/584.htm",
+      "source": "IT之家",
+      "summary": "<p data-vmark=\"084d\">IT之家 11 月 6 日消息，美国监管机构披露文件显示，SK 海力士已在美国成立 AI 投资子公司 Hyaico Corp，<strong>SK 集团会长崔泰源担任董事会主席</strong>。</p><p style=\"text-align: center;\" data-vmark=\"0bcc\"><img src…",
+      "pubDate": "2026-11-06T15:05:28.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1793957159000",
+      "region": "domestic",
+      "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+      "url": "https://www.qbitai.com/2026/11/508174.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-11-06T09:25:59.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "少数派-1793934413000",
+      "region": "domestic",
+      "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
+      "url": "https://sspai.com/post/118570",
       "source": "少数派",
-      "summary": "OpenAI 推出 Images 2.6 模型，Nothing CMF Speaker S/M 音箱国行上市等。<a href=\"https://sspai.com/post/118587\" target=\"_blank\">查看全文</a>",
-      "pubDate": "2026-11-06T00:24:39.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1793862913000",
-      "region": "domestic",
-      "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
-      "url": "https://www.qbitai.com/2026/11/507787.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-11-05T07:15:13.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1793862656000",
-      "region": "domestic",
-      "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
-      "url": "https://www.qbitai.com/2026/11/507782.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-11-05T07:10:56.000Z",
+      "summary": "M6 芯片提供了足够的性能保障，无论修图、视频剪辑还是运行入门级的 AI 大模型，它都能应对。在此基础上，你原本可能需要加在 Pro 级 SoC 上的预算就能省下来，花给内存或者硬盘。<a href=\"https://sspai.com/post/118570\" target=\"_blank\">查看全文</a>",
+      "pubDate": "2026-11-06T03:06:53.000Z",
       "isFallback": false
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1793935314000",
+      "id": "google-news-ai-1793988055000",
       "region": "abroad",
-      "title": "Changan Auto Deploys First Vision AI Adhesive Application Robot, Boosting Line Efficiency by 8% - Gasgoo",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMVN3cHBNdzJrWWZWeVNYR3d6MDVsa3dOdGxfaHN4SHd5ODZ3OUdKTUp6c05pVDVabFhrYnVMY2l0aFdNMVNLNV96ZGcyQWlWY0pyN21xd3hxenV6dzMwNEp5Q0lUa3N6aFJTZVBPUGNKV2draG5GeGlCMVhGQVZRSFVDT0FGUjVaQWprSkg5NWJxdmVUWDBHY0g1SWo4SklwbmNvdWY4dk9ncEtWdVlOR3NGVENJMzMtUkFNMEw2UVZwUE9jc3l4MGFPVG1uU2I0Zm5MNnZ0SmZMVEdueEktbUFVMmdpYlZKa2pV?oc=5",
+      "title": "Helen Holden Discusses AI’s Impact on Employment Litigation and Mediation - Spencer Fane",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRjBzU1pkWGQ2SE9zaGp4OGFjYWVDZGVUS1pFUHYzYnpqdmUtNFFKeGN4NnlRUUp3TEhiOTcwQVVnUEpOS2wyNE9Oc3g5SkI2cUdYWWRHdzFiNTRUWlpfcmtveHBzOTByVXVlczBobE1HZVFwN0RPSGtDaVNKRUFDRm9LWjF0ZHJyV0NvaFlKeTRERUhVVkJ4QXU2eTZiNHoxMDAyRnppQXVwb3VNQ2c?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMVN3cHBNdzJrWWZWeVNYR3d6MDVsa3dOdGxfaHN4SHd5ODZ3OUdKTUp6c05pVDVabFhrYnVMY2l0aFdNMVNLNV96ZGcyQWlWY0pyN21xd3hxenV6dzMwNE…",
-      "pubDate": "2026-11-06T03:21:54.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQRjBzU1pkWGQ2SE9zaGp4OGFjYWVDZGVUS1pFUHYzYnpqdmUtNFFKeGN4NnlRUUp3TEhiOTcwQVVnUEpOS2wyNE9Oc3g5SkI2cUdYWWRHdzFiNTRUWlpfcm…",
+      "pubDate": "2026-11-06T18:00:55.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1793934911000",
+      "id": "techcrunch-ai-1793988000000",
       "region": "abroad",
-      "title": "Michigan Medicine appoints first chief data and AI operations officer - The Michigan Daily",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQzROOGxYZjRSSk5qY3g2eVlZbFEtZEhqSmUyeVpsc01aNnJuVE5EcEJvOFlJZTFZaXJPcW9RdGhtOUtXY3Bud3J2QjcwcTFINmttRkFxMjg1TWNoWnVGVVQ3OVFjLXZuMlp4bDl0eVdVeHNrTEM0QmlYdkJMaGozZDZSaHlmbVRtOUVtMnA3N3JyRHhyUFBxQ09NWGxNdV9ETU9WTm85SXI5THdsWmt4RGk0ZTd0VDhUeEM2Ug?oc=5",
-      "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOQzROOGxYZjRSSk5qY3g2eVlZbFEtZEhqSmUyeVpsc01aNnJuVE5EcEJvOFlJZTFZaXJPcW9RdGhtOUtXY3Bud3J2QjcwcTFINmttRkFxMjg1TWNoWnVGVV…",
-      "pubDate": "2026-11-06T03:15:11.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1793918455000",
-      "region": "abroad",
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-05T22:40:55.000Z",
+      "pubDate": "2026-11-06T18:00:00.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1793914638000",
+      "id": "google-news-ai-1793987869000",
       "region": "abroad",
-      "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
-      "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+      "title": "AI data center backlash fuels votes for change and sharp stock market swings - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vSmJiTkZuazd3dXZqeklRa05qR0xwQkk1Rkp1MWhJTTVKRVNVZmdBTDNNR2lzR0Y5QUVKeHFtMUVjMHNlb2E0b29MREtLR0FnTGItTldSNmlEMXV5ZUFYc28yVlBtakxIWFNWdFhfd2NKWHBSeVE?oc=5",
+      "source": "Google News AI",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1vSmJiTkZuazd3dXZqeklRa05qR0xwQkk1Rkp1MWhJTTVKRVNVZmdBTDNNR2lzR0Y5QUVKeHFtMUVjMHNlb2E0b29MREtLR0FnTGItTldSNmlEMXV5ZUFYc2…",
+      "pubDate": "2026-11-06T17:57:49.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1793985832000",
+      "region": "abroad",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-11-06T17:23:52.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1793980800000",
+      "region": "abroad",
+      "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+      "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
       "source": "Wired AI",
-      "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
-      "pubDate": "2026-11-05T21:37:18.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1793908108000",
-      "region": "abroad",
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-11-05T19:48:28.000Z",
+      "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
+      "pubDate": "2026-11-06T16:00:00.000Z",
       "isFallback": false
     }
   ]
