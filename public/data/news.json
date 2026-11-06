@@ -1,28 +1,38 @@
 {
   "meta": {
     "date": "2026-11-06",
-    "updatedAt": "2026-11-05T18:49:23.982Z",
+    "updatedAt": "2026-11-06T03:28:57.373Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1793891509000",
+      "id": "it之家-1793935591000",
       "region": "domestic",
-      "title": "被网站“断粮”，Anthropic 首次掏钱买新闻内容授权",
-      "url": "https://www.ithome.com/1/023/015.htm",
+      "title": "微星推出冒险家 15 AI+ 2026 全能本：X7 358H + 15.6\" 16:9 屏幕",
+      "url": "https://www.ithome.com/1/023/200.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"7f89\">IT之家 11 月 5 日消息，Anthropic 在美国中期选举前夕，与一家新闻出版机构达成了首份内容授权协议。</p><p style=\"text-align: center;\" data-vmark=\"31fe\"><img src=\"https://img.ithome.com/newsuploadfiles/…",
-      "pubDate": "2026-11-05T15:11:49.000Z",
+      "summary": "<p data-vmark=\"a0ee\">IT之家 11 月 6 日消息，微星 (MSI) 近日推出了全能笔记本电脑冒险家 15 AI+ 2026 (Venture 15 AI+ B3M)。这一型号基于英特尔酷睿 Ultra X7 处理器 358H，<strong>在同等级产品上很少见地采用了 16:9 的 15.6\" 屏幕</strong>。</p><p …",
+      "pubDate": "2026-11-06T03:26:31.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1793890129000",
+      "id": "it之家-1793934474000",
       "region": "domestic",
-      "title": "DeepSeek Harness：日活跃用户达 154 万、日消耗 Token 约 92 万亿，将建设官方插件市场",
-      "url": "https://www.ithome.com/1/023/011.htm",
+      "title": "曹操出行成为中国移动首个打车生态合作伙伴，12580 一句话 AI 叫车",
+      "url": "https://www.ithome.com/1/023/172.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"a4db\">IT之家 11 月 5 日消息，DeepSeek Harness 官方今晚公布了 DeepSeek Harness 产品与社区的进展，并介绍了面向插件作者的支持计划。</p><p data-vmark=\"8a17\">8 月 13 日，DeepSeek Harness v0.1 版本上线；9 月 29 日，DeepSe…",
-      "pubDate": "2026-11-05T14:48:49.000Z",
+      "summary": "<p data-vmark=\"43b1\">IT之家 11 月 6 日消息，在昨日的 2026 移动网络大会上，曹操出行正式宣布已接入中国移动 12580 个人智能助理，<strong>成为中国移动首个打车生态合作伙伴</strong>。</p><p data-vmark=\"21e7\">此次合作将结合曹操出行的合规运力调度、出行服务保障能力，以及中国移动 12…",
+      "pubDate": "2026-11-06T03:07:54.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "少数派-1793924679000",
+      "region": "domestic",
+      "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
+      "url": "https://sspai.com/post/118587",
+      "source": "少数派",
+      "summary": "OpenAI 推出 Images 2.6 模型，Nothing CMF Speaker S/M 音箱国行上市等。<a href=\"https://sspai.com/post/118587\" target=\"_blank\">查看全文</a>",
+      "pubDate": "2026-11-06T00:24:39.000Z",
       "isFallback": false
     },
     {
@@ -44,67 +54,57 @@
       "summary": "",
       "pubDate": "2026-11-05T07:10:56.000Z",
       "isFallback": false
-    },
-    {
-      "id": "少数派-1793837787000",
-      "region": "domestic",
-      "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
-      "url": "https://sspai.com/post/118498",
-      "source": "少数派",
-      "summary": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章国行Apple智能上手：这些功能已经 ...<a href=\"https://sspai.com/post/118498\" target=\"_blank\">查看全文</a>",
-      "pubDate": "2026-11-05T00:16:27.000Z",
-      "isFallback": false
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1793904120000",
+      "id": "google-news-ai-1793935314000",
       "region": "abroad",
-      "title": "OCC: banks need strong controls when delegating to AI agents - American Banker",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaEY1T08zSHN3LXRaU0xxcXlqNHQwOVFBOGg0VzRpa2hPUlViNEhkMk0tTUhtR01sTTBoQnFHaDRVSmhyNVRPcWtNWUtuMXQ2cjE1RjEtQTY5VGxEWDZNRnkycU5FTDRnTlBLaUZRX2RkaVpDZG9va3dLc3JoQjYwZVZ2UWpOVm9mVXZlMHUxcXhibVk1QV9vZmlyZw?oc=5",
+      "title": "Changan Auto Deploys First Vision AI Adhesive Application Robot, Boosting Line Efficiency by 8% - Gasgoo",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMVN3cHBNdzJrWWZWeVNYR3d6MDVsa3dOdGxfaHN4SHd5ODZ3OUdKTUp6c05pVDVabFhrYnVMY2l0aFdNMVNLNV96ZGcyQWlWY0pyN21xd3hxenV6dzMwNEp5Q0lUa3N6aFJTZVBPUGNKV2draG5GeGlCMVhGQVZRSFVDT0FGUjVaQWprSkg5NWJxdmVUWDBHY0g1SWo4SklwbmNvdWY4dk9ncEtWdVlOR3NGVENJMzMtUkFNMEw2UVZwUE9jc3l4MGFPVG1uU2I0Zm5MNnZ0SmZMVEdueEktbUFVMmdpYlZKa2pV?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPaEY1T08zSHN3LXRaU0xxcXlqNHQwOVFBOGg0VzRpa2hPUlViNEhkMk0tTUhtR01sTTBoQnFHaDRVSmhyNVRPcWtNWUtuMXQ2cjE1RjEtQTY5VGxEWDZNRn…",
-      "pubDate": "2026-11-05T18:42:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMVN3cHBNdzJrWWZWeVNYR3d6MDVsa3dOdGxfaHN4SHd5ODZ3OUdKTUp6c05pVDVabFhrYnVMY2l0aFdNMVNLNV96ZGcyQWlWY0pyN21xd3hxenV6dzMwNE…",
+      "pubDate": "2026-11-06T03:21:54.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1793904013000",
+      "id": "google-news-ai-1793934911000",
       "region": "abroad",
-      "title": "Nasdaq enters correction as AI stocks sink after midterm elections - InvestmentNews",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlN5Z3pPRlNLYWhmeHhIbUNaZWNMQjBod1NKWDZaSU9WTlEwWUozNUp0ZGN2Yy1hdUJzRUh4SDE1eDY0aHBrWWpoREI5ZUdLREFuaUZvcEN2MHNXeVEySTNBR200WERYTlFMclNac2JlSFY5ZmN6UjlTei1RMndITU1KcDlQb3IzazZqTmJjVGsyM2J6TktzTVhHRkRtU2NWdGpkc3YzVDBpcWp5SmczeF9ySQ?oc=5",
+      "title": "Michigan Medicine appoints first chief data and AI operations officer - The Michigan Daily",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQzROOGxYZjRSSk5qY3g2eVlZbFEtZEhqSmUyeVpsc01aNnJuVE5EcEJvOFlJZTFZaXJPcW9RdGhtOUtXY3Bud3J2QjcwcTFINmttRkFxMjg1TWNoWnVGVVQ3OVFjLXZuMlp4bDl0eVdVeHNrTEM0QmlYdkJMaGozZDZSaHlmbVRtOUVtMnA3N3JyRHhyUFBxQ09NWGxNdV9ETU9WTm85SXI5THdsWmt4RGk0ZTd0VDhUeEM2Ug?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlN5Z3pPRlNLYWhmeHhIbUNaZWNMQjBod1NKWDZaSU9WTlEwWUozNUp0ZGN2Yy1hdUJzRUh4SDE1eDY0aHBrWWpoREI5ZUdLREFuaUZvcEN2MHNXeVEyST…",
-      "pubDate": "2026-11-05T18:40:13.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOQzROOGxYZjRSSk5qY3g2eVlZbFEtZEhqSmUyeVpsc01aNnJuVE5EcEJvOFlJZTFZaXJPcW9RdGhtOUtXY3Bud3J2QjcwcTFINmttRkFxMjg1TWNoWnVGVV…",
+      "pubDate": "2026-11-06T03:15:11.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1793901747000",
+      "id": "techcrunch-ai-1793918455000",
       "region": "abroad",
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-05T18:02:27.000Z",
+      "pubDate": "2026-11-05T22:40:55.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1793901600000",
+      "id": "wired-ai-1793914638000",
       "region": "abroad",
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-11-05T18:00:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1793896017000",
-      "region": "abroad",
-      "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
-      "url": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
+      "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+      "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
       "source": "Wired AI",
-      "summary": "Alexis Ohanian is trying to figure out what’s next for user-generated content now that so much of the internet is “compromised.”",
-      "pubDate": "2026-11-05T16:26:57.000Z",
+      "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
+      "pubDate": "2026-11-05T21:37:18.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1793908108000",
+      "region": "abroad",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-11-05T19:48:28.000Z",
       "isFallback": false
     }
   ]
