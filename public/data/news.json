@@ -1,48 +1,48 @@
 {
   "meta": {
-    "date": "2026-11-07",
-    "updatedAt": "2026-11-07T02:54:19.975Z",
+    "date": "2026-11-08",
+    "updatedAt": "2026-11-07T16:53:47.408Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1794018470000",
+      "id": "it之家-1794063462000",
       "region": "domestic",
-      "title": "AI 热潮撞上资源争议，微软荷兰在建数据中心遭抗议",
-      "url": "https://www.ithome.com/1/023/650.htm",
+      "title": "Claude Max 订阅套餐使用额度被指“虚标”，Anthropic 辩词未获法官采纳",
+      "url": "https://www.ithome.com/1/023/824.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"50ba\">IT之家 11 月 7 日消息，路透社最新发布博文，<strong>报道称荷兰当地时间昨日（11 月 6 日）百余名活动人士聚集并闯入微软在建的数据中心工地，抗议 AI 基建扩张。</strong></p><p style=\"text-align: center;\" data-vmark=\"97f2\"><img sr…",
-      "pubDate": "2026-11-07T02:27:50.000Z",
+      "summary": "<p data-vmark=\"b9ea\">IT之家 11 月 7 日消息，美国联邦治安法官谢文辉（Alex Tse）裁定，Anthropic 必须继续应对 Claude Max 套餐使用额度涉嫌误导消费者的主要指控。据 Courthouse News 报道，谢文辉周五驳回了案件中的其他几项诉求。</p><p data-vmark=\"e23c\">Anthrop…",
+      "pubDate": "2026-11-07T14:57:42.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1794015408000",
+      "id": "it之家-1794063443000",
       "region": "domestic",
-      "title": "“史上最大 IPO”遇挑战：Anthropic 上市估值存分歧，1.5 万亿美元仍被嫌贵",
-      "url": "https://www.ithome.com/1/023/640.htm",
+      "title": "GitHub 推出新 Git 存储架构：内部测试单个代码仓库支持 5000 个智能体同时协作，每秒处理 7200 次推送",
+      "url": "https://www.ithome.com/1/023/823.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"24d9\">IT之家 11 月 7 日消息，路透社昨日（11 月 6 日）发布博文，报道称 AI 公司 Anthropic 的首次公开募股（IPO）计划面临投资者估值质疑，<strong>部分投资者认为 1.5 万亿美元<span class=\"exch-money-value\">（现汇率约合 10.03 万亿元人民币）</sp…",
-      "pubDate": "2026-11-07T01:36:48.000Z",
+      "summary": "<p data-vmark=\"9c50\">IT之家 11 月 7 日消息，当地时间 11 月 5 日，GitHub 发布博文，称上周在 GitHub Universe 大会上，正式公布了全新的 Git 存储架构，代号“Rubicon”。</p><p style=\"text-align: center;\" data-vmark=\"1537\"><img src=…",
+      "pubDate": "2026-11-07T14:57:23.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1793978516000",
+      "id": "量子位-1794027677000",
       "region": "domestic",
-      "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
-      "url": "https://www.qbitai.com/2026/11/508184.html",
+      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+      "url": "https://www.qbitai.com/2026/11/508264.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-11-06T15:21:56.000Z",
+      "pubDate": "2026-11-07T05:01:17.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1793957159000",
+      "id": "量子位-1794023035000",
       "region": "domestic",
-      "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
-      "url": "https://www.qbitai.com/2026/11/508174.html",
+      "title": "AGENTS.MD，危险危险危险！！！",
+      "url": "https://www.qbitai.com/2026/11/508244.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-11-06T09:25:59.000Z",
+      "pubDate": "2026-11-07T03:43:55.000Z",
       "isFallback": false
     },
     {
@@ -58,23 +58,33 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1794019600000",
+      "id": "google-news-ai-1794070200000",
       "region": "abroad",
-      "title": "LA Council seeks citywide data privacy policy amid AI, ALRP tech - Los Angeles Daily News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd3VUZmkyWXk3WEQ3d2tzbDRBYkFzQWVCUFlVZGVzTFgwLUZjQlRZY2owekIzNWRkU1pJSDFZd04xY05kdm5DZzdsUS04NjNUSE9pT3lmRUU4eW5jbkJ2b3ZKT3RYVl9BMGdTR3NHcFhYRlMtdVBQLTdZZ0hqSUJPajVMZlJEWXJaaE15bENhMy1iWFlVdENIb3RtZVNTejgwMFdB?oc=5",
+      "title": "Remember When Bosses Were Forcing Their Workers to Use AI? They're Now Realizing They Made a Huge Mistake - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRTV1TDl2LWVJQ2ZNblR4WHU4eHpsZXh2MVJ5dzc1QXBRRTZNYVBlTWRrSHdVVGF1WEotZDFtYVN5RFdfUUtsWmRIUU83eEZzbDIyNzNTOTNELUx0Sl9IMlBGMDZxQkJLUGJhRnI2b1JlUGszNG81RDNvV2Q0ZklyQw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNd3VUZmkyWXk3WEQ3d2tzbDRBYkFzQWVCUFlVZGVzTFgwLUZjQlRZY2owekIzNWRkU1pJSDFZd04xY05kdm5DZzdsUS04NjNUSE9pT3lmRUU4eW5jbkJ2b3…",
-      "pubDate": "2026-11-07T02:46:40.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQRTV1TDl2LWVJQ2ZNblR4WHU4eHpsZXh2MVJ5dzc1QXBRRTZNYVBlTWRrSHdVVGF1WEotZDFtYVN5RFdfUUtsWmRIUU83eEZzbDIyNzNTOTNELUx0Sl9IMl…",
+      "pubDate": "2026-11-07T16:50:00.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1794019162000",
+      "id": "google-news-ai-1794070114000",
       "region": "abroad",
-      "title": "The Fingerprint Brief - The Conversationalist",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPM2hsWWtYeVBQZzJMQUNhNHhhTnN2eVU0RzlGbnl4amxZNjNINDRiUGg5TUZFRE1IbWNFS2VoUzNnN0hfeWNxbTlQRlNfWEp6dzdWQXAyVUo5UXRjR1ZNY2ZWNVZJUk11WUhoazhkdnNEY3VKWC1MUnJ0eV90VGVWMGhGY1NiYTMzSHVlU0l3eHJrLTRDcVBpbDF5YjRYZzRIYkNJYUtuVUhQZnhPYktKeUJHOFNaYUpTYWFnVV9TTi1IVlp1ZzJPUTM1bFR5SHZ1N2xaOVlRcXVtU3E5Y0V4bzByN0M0M3RtbjlLN25INUhSNjV5NkdIWFpHWQ?oc=5",
+      "title": "World Media Summit AI: 500 Delegates Adopt Beijing Consensus - teleSUR English",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ldWhlMU51YVdNTk1IWjlFLTBMMjRZb2lMY2YzQVdEVXJzdnZ0OXh4NnNYb1VfM1FSYkpfdkNtQUpYWU9wd0pJb2dERERwNkZvOXZuUURJRG5pamk2Q1g5TDhPZw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPM2hsWWtYeVBQZzJMQUNhNHhhTnN2eVU0RzlGbnl4amxZNjNINDRiUGg5TUZFRE1IbWNFS2VoUzNnN0hfeWNxbTlQRlNfWEp6dzdWQXAyVUo5UXRjR1ZNY2…",
-      "pubDate": "2026-11-07T02:39:22.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ldWhlMU51YVdNTk1IWjlFLTBMMjRZb2lMY2YzQVdEVXJzdnZ0OXh4NnNYb1VfM1FSYkpfdkNtQUpYWU9wd0pJb2dERERwNkZvOXZuUURJRG5pamk2Q1g5TD…",
+      "pubDate": "2026-11-07T16:48:34.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1794049200000",
+      "region": "abroad",
+      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "source": "Wired AI",
+      "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
+      "pubDate": "2026-11-07T11:00:00.000Z",
       "isFallback": false
     },
     {
@@ -95,16 +105,6 @@
       "source": "TechCrunch AI",
       "summary": "",
       "pubDate": "2026-11-06T22:53:46.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1793990623000",
-      "region": "abroad",
-      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-      "source": "Wired AI",
-      "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, …",
-      "pubDate": "2026-11-06T18:43:43.000Z",
       "isFallback": false
     }
   ]
