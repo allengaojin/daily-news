@@ -1,28 +1,28 @@
 {
   "meta": {
     "date": "2026-11-08",
-    "updatedAt": "2026-11-07T16:53:47.408Z",
+    "updatedAt": "2026-11-08T02:33:38.283Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1794063462000",
+      "id": "it之家-1794100220000",
       "region": "domestic",
-      "title": "Claude Max 订阅套餐使用额度被指“虚标”，Anthropic 辩词未获法官采纳",
-      "url": "https://www.ithome.com/1/023/824.htm",
+      "title": "芝加哥大学教授：AI 时代数学人才招聘将更看重研究愿景与表达能力",
+      "url": "https://www.ithome.com/1/023/859.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"b9ea\">IT之家 11 月 7 日消息，美国联邦治安法官谢文辉（Alex Tse）裁定，Anthropic 必须继续应对 Claude Max 套餐使用额度涉嫌误导消费者的主要指控。据 Courthouse News 报道，谢文辉周五驳回了案件中的其他几项诉求。</p><p data-vmark=\"e23c\">Anthrop…",
-      "pubDate": "2026-11-07T14:57:42.000Z",
+      "summary": "<p data-vmark=\"696d\">IT之家 11 月 8 日消息，人工智能正在降低数学研究取得突破的门槛，但这也意味着，学术界可能需要重新审视人才招聘方式。芝加哥大学一位知名数学教授认为，未来招聘数学研究人员时，个人交流能力和清晰表达研究构想的能力将变得更加重要。</p><p style=\"text-align: center;\" data-vmar…",
+      "pubDate": "2026-11-08T01:10:20.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1794063443000",
+      "id": "it之家-1794098644000",
       "region": "domestic",
-      "title": "GitHub 推出新 Git 存储架构：内部测试单个代码仓库支持 5000 个智能体同时协作，每秒处理 7200 次推送",
-      "url": "https://www.ithome.com/1/023/823.htm",
+      "title": "消息称 Anthropic 仍在推进上市：最多募资 1000 亿美元，“史上最大 IPO”或有变数",
+      "url": "https://www.ithome.com/1/023/854.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"9c50\">IT之家 11 月 7 日消息，当地时间 11 月 5 日，GitHub 发布博文，称上周在 GitHub Universe 大会上，正式公布了全新的 Git 存储架构，代号“Rubicon”。</p><p style=\"text-align: center;\" data-vmark=\"1537\"><img src=…",
-      "pubDate": "2026-11-07T14:57:23.000Z",
+      "summary": "<p data-vmark=\"d22d\">IT之家 11 月 8 日消息，据《金融时报》昨天报道，尽管美国科技股近期遭遇剧烈波动，Anthropic 仍在推进上市计划。这家来自美国的人工智能初创企业，已经做好接受低于乐观预期估值的准备。</p><p style=\"text-align: center;\" data-vmark=\"bf03\"><img src=…",
+      "pubDate": "2026-11-08T00:44:04.000Z",
       "isFallback": false
     },
     {
@@ -58,23 +58,43 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1794070200000",
+      "id": "google-news-ai-1794105039000",
       "region": "abroad",
-      "title": "Remember When Bosses Were Forcing Their Workers to Use AI? They're Now Realizing They Made a Huge Mistake - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRTV1TDl2LWVJQ2ZNblR4WHU4eHpsZXh2MVJ5dzc1QXBRRTZNYVBlTWRrSHdVVGF1WEotZDFtYVN5RFdfUUtsWmRIUU83eEZzbDIyNzNTOTNELUx0Sl9IMlBGMDZxQkJLUGJhRnI2b1JlUGszNG81RDNvV2Q0ZklyQw?oc=5",
+      "title": "Defining the True Cost of Clinical AI Beyond Vendor Bills - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbmFWelNpNlRpdm9fQW96S2JwaWNJaHkzU0hrYlFPUXpuMS0zSF9hQ2ROcVR4YnprNXpRWENmU2RKNXEybFNtLW1sQTNNTkFGVW9kQ2Q5U0pSTU00YlVjWXFhQ3QwVjlYd3k5dmRERnFlbVBYMzFUdUxJTUt1RFJCbVAxTjh4VHoyMkE?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQRTV1TDl2LWVJQ2ZNblR4WHU4eHpsZXh2MVJ5dzc1QXBRRTZNYVBlTWRrSHdVVGF1WEotZDFtYVN5RFdfUUtsWmRIUU83eEZzbDIyNzNTOTNELUx0Sl9IMl…",
-      "pubDate": "2026-11-07T16:50:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPbmFWelNpNlRpdm9fQW96S2JwaWNJaHkzU0hrYlFPUXpuMS0zSF9hQ2ROcVR4YnprNXpRWENmU2RKNXEybFNtLW1sQTNNTkFGVW9kQ2Q5U0pSTU00YlVjWX…",
+      "pubDate": "2026-11-08T02:30:39.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1794070114000",
+      "id": "google-news-ai-1794104313000",
       "region": "abroad",
-      "title": "World Media Summit AI: 500 Delegates Adopt Beijing Consensus - teleSUR English",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ldWhlMU51YVdNTk1IWjlFLTBMMjRZb2lMY2YzQVdEVXJzdnZ0OXh4NnNYb1VfM1FSYkpfdkNtQUpYWU9wd0pJb2dERERwNkZvOXZuUURJRG5pamk2Q1g5TDhPZw?oc=5",
+      "title": "Generative Artificial Intelligence Tools Accelerate Design Tasks but Diminish Creative Autonomy - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZGtJZmtuVC0wcGI2amZhWWJsSXFDNmVvaG5wUEZVU3o2bktxU3FuNTE0ZXlfenZhS3YzNGRWY3I4VnoyaDdVVURXZTJHcl9FY1puNGM5VG9XZ1pIamdWRjF0RUVGRDZDRnI4dUZ4UTdUTjI5YjZyQVZiM2hBLXR6ZHdqa3lPU3VJTGNYM3oxVUE0cGk0VkZHLUpfeFRWd2dCX0d6ZFBFRTZ2VFhOeTVGR0F1RDN1ajl6OWVOQw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ldWhlMU51YVdNTk1IWjlFLTBMMjRZb2lMY2YzQVdEVXJzdnZ0OXh4NnNYb1VfM1FSYkpfdkNtQUpYWU9wd0pJb2dERERwNkZvOXZuUURJRG5pamk2Q1g5TD…",
-      "pubDate": "2026-11-07T16:48:34.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOZGtJZmtuVC0wcGI2amZhWWJsSXFDNmVvaG5wUEZVU3o2bktxU3FuNTE0ZXlfenZhS3YzNGRWY3I4VnoyaDdVVURXZTJHcl9FY1puNGM5VG9XZ1pIamdWRj…",
+      "pubDate": "2026-11-08T02:18:33.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1794089242000",
+      "region": "abroad",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-11-07T22:07:22.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1794086228000",
+      "region": "abroad",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-11-07T21:17:08.000Z",
       "isFallback": false
     },
     {
@@ -85,26 +105,6 @@
       "source": "Wired AI",
       "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
       "pubDate": "2026-11-07T11:00:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1794015628000",
-      "region": "abroad",
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-11-07T01:40:28.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1794005626000",
-      "region": "abroad",
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-11-06T22:53:46.000Z",
       "isFallback": false
     }
   ]
