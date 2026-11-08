@@ -1,48 +1,48 @@
 {
   "meta": {
-    "date": "2026-11-08",
-    "updatedAt": "2026-11-08T02:33:38.283Z",
+    "date": "2026-11-09",
+    "updatedAt": "2026-11-08T17:07:13.363Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1794100220000",
+      "id": "it之家-1794152825000",
       "region": "domestic",
-      "title": "芝加哥大学教授：AI 时代数学人才招聘将更看重研究愿景与表达能力",
-      "url": "https://www.ithome.com/1/023/859.htm",
+      "title": "古尔曼称苹果 Siri AI 团队或迎大调整，工程副总裁罗克韦尔考虑明年走人",
+      "url": "https://www.ithome.com/1/024/014.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"696d\">IT之家 11 月 8 日消息，人工智能正在降低数学研究取得突破的门槛，但这也意味着，学术界可能需要重新审视人才招聘方式。芝加哥大学一位知名数学教授认为，未来招聘数学研究人员时，个人交流能力和清晰表达研究构想的能力将变得更加重要。</p><p style=\"text-align: center;\" data-vmar…",
-      "pubDate": "2026-11-08T01:10:20.000Z",
+      "summary": "<p data-vmark=\"5c43\">IT之家 11 月 8 日消息，彭博社记者马克 · 古尔曼在今晚更新的《Power On》时事通讯中爆料，曾主导 Vision Pro 头显开发、同时负责新版 Siri AI 项目的迈克 · 罗克韦尔，仍在认真考虑<strong>离开现有岗位</strong>。</p><p data-vmark=\"d1a7\">古尔曼…",
+      "pubDate": "2026-11-08T15:47:05.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1794098644000",
+      "id": "it之家-1794152213000",
       "region": "domestic",
-      "title": "消息称 Anthropic 仍在推进上市：最多募资 1000 亿美元，“史上最大 IPO”或有变数",
-      "url": "https://www.ithome.com/1/023/854.htm",
+      "title": "古尔曼称苹果 CEO 特努斯“上任三把火”，敦促软件主管费德里吉大胆搞 AI",
+      "url": "https://www.ithome.com/1/024/013.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"d22d\">IT之家 11 月 8 日消息，据《金融时报》昨天报道，尽管美国科技股近期遭遇剧烈波动，Anthropic 仍在推进上市计划。这家来自美国的人工智能初创企业，已经做好接受低于乐观预期估值的准备。</p><p style=\"text-align: center;\" data-vmark=\"bf03\"><img src=…",
-      "pubDate": "2026-11-08T00:44:04.000Z",
+      "summary": "<p data-vmark=\"bff0\">IT之家 11 月 8 日消息，彭博社记者马克 · 古尔曼在今天（8 日）晚间更新的《Power On》时事通讯中披露，苹果新任 CEO 约翰 · 特努斯敦促软件工程主管克雷格 · 费德里吉加快 AI 业务发展，采取更大胆的策略，目标是将 Siri 升级为能够<strong>自主替用户完成任务的 AI 智能体</st…",
+      "pubDate": "2026-11-08T15:36:53.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1794027677000",
+      "id": "量子位-1794110995000",
       "region": "domestic",
-      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
-      "url": "https://www.qbitai.com/2026/11/508264.html",
+      "title": "资本正在撤离“世界模型”",
+      "url": "https://www.qbitai.com/2026/11/508466.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-11-07T05:01:17.000Z",
+      "pubDate": "2026-11-08T04:09:55.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1794023035000",
+      "id": "量子位-1794044336000",
       "region": "domestic",
-      "title": "AGENTS.MD，危险危险危险！！！",
-      "url": "https://www.qbitai.com/2026/11/508244.html",
+      "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+      "url": "https://www.qbitai.com/2026/11/508449.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-11-07T03:43:55.000Z",
+      "pubDate": "2026-11-07T09:38:56.000Z",
       "isFallback": false
     },
     {
@@ -58,23 +58,43 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1794105039000",
+      "id": "google-news-ai-1794157463000",
       "region": "abroad",
-      "title": "Defining the True Cost of Clinical AI Beyond Vendor Bills - Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbmFWelNpNlRpdm9fQW96S2JwaWNJaHkzU0hrYlFPUXpuMS0zSF9hQ2ROcVR4YnprNXpRWENmU2RKNXEybFNtLW1sQTNNTkFGVW9kQ2Q5U0pSTU00YlVjWXFhQ3QwVjlYd3k5dmRERnFlbVBYMzFUdUxJTUt1RFJCbVAxTjh4VHoyMkE?oc=5",
+      "title": "3 Stocks to Buy for an AI Chip Recovery - InvestorPlace",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsYVVtTmN4czRhbFhrTnY2TDFhTEpyRlZDNVdYNC1XZGR4dlp2OXRSR0w1V1FnVk8yc2tzQWNlTzJfOERiWEpyNk1GTFRVdVNlc2haaUJPZzdHR2gyanB5aGxqWklOXzR0cnc0aGljWXc4Zw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPbmFWelNpNlRpdm9fQW96S2JwaWNJaHkzU0hrYlFPUXpuMS0zSF9hQ2ROcVR4YnprNXpRWENmU2RKNXEybFNtLW1sQTNNTkFGVW9kQ2Q5U0pSTU00YlVjWX…",
-      "pubDate": "2026-11-08T02:30:39.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBsYVVtTmN4czRhbFhrTnY2TDFhTEpyRlZDNVdYNC1XZGR4dlp2OXRSR0w1V1FnVk8yc2tzQWNlTzJfOERiWEpyNk1GTFRVdVNlc2haaUJPZzdHR2gyanB5aG…",
+      "pubDate": "2026-11-08T17:04:23.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1794104313000",
+      "id": "google-news-ai-1794157230000",
       "region": "abroad",
-      "title": "Generative Artificial Intelligence Tools Accelerate Design Tasks but Diminish Creative Autonomy - Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZGtJZmtuVC0wcGI2amZhWWJsSXFDNmVvaG5wUEZVU3o2bktxU3FuNTE0ZXlfenZhS3YzNGRWY3I4VnoyaDdVVURXZTJHcl9FY1puNGM5VG9XZ1pIamdWRjF0RUVGRDZDRnI4dUZ4UTdUTjI5YjZyQVZiM2hBLXR6ZHdqa3lPU3VJTGNYM3oxVUE0cGk0VkZHLUpfeFRWd2dCX0d6ZFBFRTZ2VFhOeTVGR0F1RDN1ajl6OWVOQw?oc=5",
+      "title": "Moving from AI adoption to an AI operating model: How Docusign engineering went beyond tool rollout - The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwb3NtSVI2R0MxaWQtYnhKcWN0a01iMXhlQnJJb0dtd0FpQ2hrc29FNnppdFFkSFZna0x3MFQyOFZtNU9aeDh5Rjk5ZGg5ZlhkRjJOSWd6UFRVc25NM0VicHFWeFFXMlE?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOZGtJZmtuVC0wcGI2amZhWWJsSXFDNmVvaG5wUEZVU3o2bktxU3FuNTE0ZXlfenZhS3YzNGRWY3I4VnoyaDdVVURXZTJHcl9FY1puNGM5VG9XZ1pIamdWRj…",
-      "pubDate": "2026-11-08T02:18:33.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwb3NtSVI2R0MxaWQtYnhKcWN0a01iMXhlQnJJb0dtd0FpQ2hrc29FNnppdFFkSFZna0x3MFQyOFZtNU9aeDh5Rjk5ZGg5ZlhkRjJOSWd6UFRVc25NM0VicH…",
+      "pubDate": "2026-11-08T17:00:30.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1794139200000",
+      "region": "abroad",
+      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+      "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+      "source": "Wired AI",
+      "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+      "pubDate": "2026-11-08T12:00:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1794132000000",
+      "region": "abroad",
+      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+      "source": "Wired AI",
+      "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+      "pubDate": "2026-11-08T10:00:00.000Z",
       "isFallback": false
     },
     {
@@ -85,26 +105,6 @@
       "source": "TechCrunch AI",
       "summary": "",
       "pubDate": "2026-11-07T22:07:22.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1794086228000",
-      "region": "abroad",
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-11-07T21:17:08.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1794049200000",
-      "region": "abroad",
-      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
-      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
-      "source": "Wired AI",
-      "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
-      "pubDate": "2026-11-07T11:00:00.000Z",
       "isFallback": false
     }
   ]
