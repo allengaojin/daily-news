@@ -1,28 +1,28 @@
 {
   "meta": {
     "date": "2026-11-09",
-    "updatedAt": "2026-11-08T17:07:13.363Z",
+    "updatedAt": "2026-11-09T02:44:03.459Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1794152825000",
+      "id": "it之家-1794192198000",
       "region": "domestic",
-      "title": "古尔曼称苹果 Siri AI 团队或迎大调整，工程副总裁罗克韦尔考虑明年走人",
-      "url": "https://www.ithome.com/1/024/014.htm",
+      "title": "特朗普称 AI 风险可控，但不介意设置监管护栏",
+      "url": "https://www.ithome.com/1/024/071.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"5c43\">IT之家 11 月 8 日消息，彭博社记者马克 · 古尔曼在今晚更新的《Power On》时事通讯中爆料，曾主导 Vision Pro 头显开发、同时负责新版 Siri AI 项目的迈克 · 罗克韦尔，仍在认真考虑<strong>离开现有岗位</strong>。</p><p data-vmark=\"d1a7\">古尔曼…",
-      "pubDate": "2026-11-08T15:47:05.000Z",
+      "summary": "<p data-vmark=\"b59d\">IT之家 11 月 9 日消息，据路透社今日报道，美国总统唐纳德 · 特朗普表示，AI 带来的风险是可控的，但其对监管措施持开放态度，<strong>他“不介意设置护栏”</strong>。</p><p data-vmark=\"239c\">当被问及美国是否应该接受 AI 的风险时，特朗普表示这些危险是可控的，并表示愿…",
+      "pubDate": "2026-11-09T02:43:18.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1794152213000",
+      "id": "it之家-1794191949000",
       "region": "domestic",
-      "title": "古尔曼称苹果 CEO 特努斯“上任三把火”，敦促软件主管费德里吉大胆搞 AI",
-      "url": "https://www.ithome.com/1/024/013.htm",
+      "title": "LG AI 研究院宣布对外免费开放 K-EXAONE 2.5 模型 API",
+      "url": "https://www.ithome.com/1/024/069.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"bff0\">IT之家 11 月 8 日消息，彭博社记者马克 · 古尔曼在今天（8 日）晚间更新的《Power On》时事通讯中披露，苹果新任 CEO 约翰 · 特努斯敦促软件工程主管克雷格 · 费德里吉加快 AI 业务发展，采取更大胆的策略，目标是将 Siri 升级为能够<strong>自主替用户完成任务的 AI 智能体</st…",
-      "pubDate": "2026-11-08T15:36:53.000Z",
+      "summary": "<p data-vmark=\"5559\">IT之家 11 月 9 日消息，LG AI 研究院韩国当地时间今日宣布，<strong>对外免费开放其 K-EXAONE 2.5 模型的 API</strong>。包括开发者、企业、研究机构在内任何用户，可无需付费地将 K-EXAONE 2.5 应用于服务开发和研究。</p><p data-vmark=\"bfed\" …",
+      "pubDate": "2026-11-09T02:39:09.000Z",
       "isFallback": false
     },
     {
@@ -58,23 +58,33 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1794157463000",
+      "id": "google-news-ai-1794192063000",
       "region": "abroad",
-      "title": "3 Stocks to Buy for an AI Chip Recovery - InvestorPlace",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsYVVtTmN4czRhbFhrTnY2TDFhTEpyRlZDNVdYNC1XZGR4dlp2OXRSR0w1V1FnVk8yc2tzQWNlTzJfOERiWEpyNk1GTFRVdVNlc2haaUJPZzdHR2gyanB5aGxqWklOXzR0cnc0aGljWXc4Zw?oc=5",
+      "title": "Annihilation or regulation: Path for superintelligent AI - Law.asia",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wMVc5RFhxU2pmSWlWYmoyWWM0a1ZTRlk0WXk3MUU0WVFYcmJDYmUzMlA4ejFZTUo1YnRUcXl2LXBpMGRYcXhKWmRtY2kydXkzTV9EVFpnOTlkcUJIbElSZ3NOWmdvQVk?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBsYVVtTmN4czRhbFhrTnY2TDFhTEpyRlZDNVdYNC1XZGR4dlp2OXRSR0w1V1FnVk8yc2tzQWNlTzJfOERiWEpyNk1GTFRVdVNlc2haaUJPZzdHR2gyanB5aG…",
-      "pubDate": "2026-11-08T17:04:23.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wMVc5RFhxU2pmSWlWYmoyWWM0a1ZTRlk0WXk3MUU0WVFYcmJDYmUzMlA4ejFZTUo1YnRUcXl2LXBpMGRYcXhKWmRtY2kydXkzTV9EVFpnOTlkcUJIbElSZ3…",
+      "pubDate": "2026-11-09T02:41:03.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1794157230000",
+      "id": "google-news-ai-1794191597000",
       "region": "abroad",
-      "title": "Moving from AI adoption to an AI operating model: How Docusign engineering went beyond tool rollout - The New Stack",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwb3NtSVI2R0MxaWQtYnhKcWN0a01iMXhlQnJJb0dtd0FpQ2hrc29FNnppdFFkSFZna0x3MFQyOFZtNU9aeDh5Rjk5ZGg5ZlhkRjJOSWd6UFRVc25NM0VicHFWeFFXMlE?oc=5",
+      "title": "Watch UBS CEO: Midterms Creating Uncertainty for AI Buildout - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzZaUG1VNmp4Zkx0ZVZzNjcwbFJyZW5TSS0tUV9jQzFsbVVZZEFZcFE0QWVxX2tLOUY3M3ltbzNqQURxQURWcm1qQk1fUF9mbmt3cE12azdzX2FKZnN1aHV6T1llR3BuUkdtN0RDVEI4ZTQxX1dMbm5VUkVjM2tuMTdQbzVnd2FnTzVQMy1GQUVmLU03UzRjWW5ienZWNmxocG5SNU1wdmZzTVI0?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwb3NtSVI2R0MxaWQtYnhKcWN0a01iMXhlQnJJb0dtd0FpQ2hrc29FNnppdFFkSFZna0x3MFQyOFZtNU9aeDh5Rjk5ZGg5ZlhkRjJOSWd6UFRVc25NM0VicH…",
-      "pubDate": "2026-11-08T17:00:30.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzZaUG1VNmp4Zkx0ZVZzNjcwbFJyZW5TSS0tUV9jQzFsbVVZZEFZcFE0QWVxX2tLOUY3M3ltbzNqQURxQURWcm1qQk1fUF9mbmt3cE12azdzX2FKZnN1aH…",
+      "pubDate": "2026-11-09T02:33:17.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1794171611000",
+      "region": "abroad",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-11-08T21:00:11.000Z",
       "isFallback": false
     },
     {
@@ -95,16 +105,6 @@
       "source": "Wired AI",
       "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
       "pubDate": "2026-11-08T10:00:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1794089242000",
-      "region": "abroad",
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-11-07T22:07:22.000Z",
       "isFallback": false
     }
   ]
