@@ -1,48 +1,48 @@
 {
   "meta": {
-    "date": "2026-11-10",
-    "updatedAt": "2026-11-10T04:40:25.537Z",
+    "date": "2026-11-11",
+    "updatedAt": "2026-11-10T18:42:30.973Z",
     "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1794285202000",
+      "id": "it之家-1794323841000",
       "region": "domestic",
-      "title": "陈建斌谈 AI 替代：不好的演员在任何时代都会失业，好演员永远不会失业",
-      "url": "https://www.ithome.com/1/024/750.htm",
+      "title": "高盛预计 Anthropic 2030 年营收突破 6000 亿美元，并跻身全球营收最高企业之列",
+      "url": "https://www.ithome.com/1/025/190.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"58d3\">IT之家 11 月 10 日消息，据新浪电影今日报道，演员陈建斌今日在金鸡电影论坛 · 编导演论坛上发言：<strong>不好的演员在任何时代都会失业，好演员永远不会失业</strong>。</p><p data-vmark=\"395c\">陈建斌表示：很多人说 AI 出现以后，演员会失业，我个人一直以来都秉持着一个观…",
-      "pubDate": "2026-11-10T04:33:22.000Z",
+      "summary": "<p data-vmark=\"cec4\">IT之家 11 月 10 日消息，据英国《金融时报》今天（10 日）晚间报道，作为 Anthropic 上市牵头投行的高盛，对 Anthropic 的未来给出了乐观预测：营收到 2030 年将<strong>突破 6,000 亿美元</strong><span class=\"exch-money-value\">（IT…",
+      "pubDate": "2026-11-10T15:17:21.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1794284499000",
+      "id": "it之家-1794321034000",
       "region": "domestic",
-      "title": "原今日头条 CEO 陈林首次公开承认离职，筹备 AI 教育创业",
-      "url": "https://www.ithome.com/1/024/748.htm",
+      "title": "消息称苹果计划明年上半年为 iPad Air 换用 OLED 面板，预计仍为 60Hz 刷新率",
+      "url": "https://www.ithome.com/1/025/179.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"6ec7\">IT之家 11 月 10 日消息，原今日头条 CEO 陈林昨日在个人公众号发表文章《我为什么还要做教育？》，谈到离职字节、筹备 AI 教育创业等事。</p><p data-vmark=\"c490\">IT之家注意到，陈林在公众号简介中写着“小鹿爱学（银河智学）创始人，曾任今日头条 CEO，大力教育 CEO”。<stro…",
-      "pubDate": "2026-11-10T04:21:39.000Z",
+      "summary": "<p data-vmark=\"8d6b\">IT之家 11 月 10 日消息，据外媒 DigiTimes 报道，苹果计划于 2027 年（明年）上半年为 iPad Air 换用 OLED 面板。</p><p data-vmark=\"3da3\">据报道，新款 iPad Air 预计将采用与 OLED iPad mini 相同的单层 OLED 发光结构，以及低温多…",
+      "pubDate": "2026-11-10T14:30:34.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1794214640000",
+      "id": "量子位-1794299605000",
       "region": "domestic",
-      "title": "“AI毁了我的计算机学位”",
-      "url": "https://www.qbitai.com/2026/11/508706.html",
+      "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
+      "url": "https://www.qbitai.com/2026/11/509017.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-11-09T08:57:20.000Z",
+      "pubDate": "2026-11-10T08:33:25.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1794213840000",
+      "id": "量子位-1794297465000",
       "region": "domestic",
-      "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
-      "url": "https://www.qbitai.com/2026/11/507843.html",
+      "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+      "url": "https://www.qbitai.com/2026/11/508996.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-11-09T08:44:00.000Z",
+      "pubDate": "2026-11-10T07:57:45.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1794284818000",
+      "id": "google-news-ai-1794336018000",
       "region": "abroad",
-      "title": "South Portland School Board votes down proposed ban on generative AI - WGME",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVEdvS1FXTlZwWTVmQUNXcktqcm9TX2dPZGdvcEtsdGtlUWFKaXdCZmNnNFNqQVdjQkQ2aWQwSE9tX3c1WWRuc1dKTUpXRnJORS1RQ0ZYTlNNMldsemc2Rno5bko3TmZaV01RTEI5Tnk3dlJ4b1p4eDJCV2daZnJKX2dlekotdDVJdGhMUURiQV91bjdPQ0I4UjlfYlRTVHZMWEZ0dGVkUGlkbndzUFhQSXdkckdwWnEyS3BwNFYta0dudXFkUl90ME00a3E5M21GUlJNai1Lc0tnZVk?oc=5",
+      "title": "AI, computer graphics and wave optics combine for more realistic holographic VR/AR displays - Tech Xplore",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObmNYVERobUJoR2lCNktKNl9YeTdHdGNLOW9RU0p6aTh2S2c1bi1hTzRTYzd5Rkt2SDdDWGZJZmdNNTJJWFFNajI3X3FJNzJwWU9BazU0VmlhZXUzOEFTVlRRMmRRd3U2NGptMHZwak5iT3E1WHNiS1NCVnBMb01uSE1vYw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVEdvS1FXTlZwWTVmQUNXcktqcm9TX2dPZGdvcEtsdGtlUWFKaXdCZmNnNFNqQVdjQkQ2aWQwSE9tX3c1WWRuc1dKTUpXRnJORS1RQ0ZYTlNNMldsemc2Rn…",
-      "pubDate": "2026-11-10T04:26:58.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxObmNYVERobUJoR2lCNktKNl9YeTdHdGNLOW9RU0p6aTh2S2c1bi1hTzRTYzd5Rkt2SDdDWGZJZmdNNTJJWFFNajI3X3FJNzJwWU9BazU0VmlhZXUzOEFTVl…",
+      "pubDate": "2026-11-10T18:40:18.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1794284583000",
+      "id": "google-news-ai-1794335579000",
       "region": "abroad",
-      "title": "Day 0 Update #603 – Terabytes of AI Slop - SmashPad",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SV3ZiOUx5M0FGamlYejlSazFVcThYdFNuWHA3VHNHYUNSYkRZdmRORjNHT0t6Z0JFaENKakQzXzJCUDh5NWpqWmlid2xJQ1JOUHhWb3U0SHhvZTF0TFVodWZ3aEprRXptMlZ4TUZiSWJuZ1lKcGc?oc=5",
+      "title": "Fiserv’s Clover Adds AI Tools to Help Small Businesses Reach eCommerce Shoppers - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHBDZ0FET0VOLXJSTGFORy1SZzU3NDdSOXROTUdzUjNuVlV5ZmtrZlkyWlBrQzdPUFhRV2pIaUZzaG5UMTl0OGNMQ18yMmY4eDF3RFJTX05FSzh3czV0cnpUN0tRM2thd3A0Uk45NlVRQkdqamZ4SlJoamNfNGhjeHM5N1lsYWt2Y055MzliQm43S3M1aW1mZ2UxRVp1azBWUEJ1VkVLbm96Q01FeGJ5X2VR?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1SV3ZiOUx5M0FGamlYejlSazFVcThYdFNuWHA3VHNHYUNSYkRZdmRORjNHT0t6Z0JFaENKakQzXzJCUDh5NWpqWmlid2xJQ1JOUHhWb3U0SHhvZTF0TFVodW…",
-      "pubDate": "2026-11-10T04:23:03.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHBDZ0FET0VOLXJSTGFORy1SZzU3NDdSOXROTUdzUjNuVlV5ZmtrZlkyWlBrQzdPUFhRV2pIaUZzaG5UMTl0OGNMQ18yMmY4eDF3RFJTX05FSzh3czV0cn…",
+      "pubDate": "2026-11-10T18:32:59.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1794274032000",
+      "id": "techcrunch-ai-1794331800000",
       "region": "abroad",
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-10T01:27:12.000Z",
+      "pubDate": "2026-11-10T17:30:00.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1794269899000",
+      "id": "techcrunch-ai-1794330259000",
       "region": "abroad",
-      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
-      "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-11-10T17:04:19.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1794319200000",
+      "region": "abroad",
+      "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+      "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
       "source": "Wired AI",
-      "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
-      "pubDate": "2026-11-10T00:18:19.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1794266917000",
-      "region": "abroad",
-      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-11-09T23:28:37.000Z",
+      "summary": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
+      "pubDate": "2026-11-10T14:00:00.000Z",
       "isFallback": false
     }
   ]
