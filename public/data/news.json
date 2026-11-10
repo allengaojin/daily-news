@@ -1,28 +1,28 @@
 {
   "meta": {
     "date": "2026-11-10",
-    "updatedAt": "2026-11-09T21:29:13.243Z",
+    "updatedAt": "2026-11-10T04:40:25.537Z",
     "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1794234769000",
+      "id": "it之家-1794285202000",
       "region": "domestic",
-      "title": "美国知名风险投资家科斯拉看好 AI 重塑互联网：能让网站“有生命”",
-      "url": "https://www.ithome.com/1/024/559.htm",
+      "title": "陈建斌谈 AI 替代：不好的演员在任何时代都会失业，好演员永远不会失业",
+      "url": "https://www.ithome.com/1/024/750.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"4b0c\">IT之家 11 月 9 日消息，据《商业内幕》今天（9）日晚间报道，美国知名亿万富翁风险投资家维诺德 · 科斯拉认为，<strong>所有访客看到相同网页的时代即将过去</strong>。他最新投资的 AI 初创公司 Coframe 希望借助 AI 重塑互联网，为每位访客提供量身定制的网页。“AI 让高度个性化定制成…",
-      "pubDate": "2026-11-09T14:32:49.000Z",
+      "summary": "<p data-vmark=\"58d3\">IT之家 11 月 10 日消息，据新浪电影今日报道，演员陈建斌今日在金鸡电影论坛 · 编导演论坛上发言：<strong>不好的演员在任何时代都会失业，好演员永远不会失业</strong>。</p><p data-vmark=\"395c\">陈建斌表示：很多人说 AI 出现以后，演员会失业，我个人一直以来都秉持着一个观…",
+      "pubDate": "2026-11-10T04:33:22.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1794233798000",
+      "id": "it之家-1794284499000",
       "region": "domestic",
-      "title": "美团龙猫开源 LongCat-2.5 模型：总参数 1.6 万亿，支持百万上下文",
-      "url": "https://www.ithome.com/1/024/556.htm",
+      "title": "原今日头条 CEO 陈林首次公开承认离职，筹备 AI 教育创业",
+      "url": "https://www.ithome.com/1/024/748.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"acf0\">IT之家 11 月 9 日消息，11 月 2 日，美团龙猫发布面向长程智能体任务的<a href=\"https://www.ithome.com/1/020/873.htm\" target=\"_blank\">原生多模态模型 LongCat-2.5</a>。随后来到今天（9 日），美团宣布该模型<strong>正式开源…",
-      "pubDate": "2026-11-09T14:16:38.000Z",
+      "summary": "<p data-vmark=\"6ec7\">IT之家 11 月 10 日消息，原今日头条 CEO 陈林昨日在个人公众号发表文章《我为什么还要做教育？》，谈到离职字节、筹备 AI 教育创业等事。</p><p data-vmark=\"c490\">IT之家注意到，陈林在公众号简介中写着“小鹿爱学（银河智学）创始人，曾任今日头条 CEO，大力教育 CEO”。<stro…",
+      "pubDate": "2026-11-10T04:21:39.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1794259507000",
+      "id": "google-news-ai-1794284818000",
       "region": "abroad",
-      "title": "Pennsylvania Enacts Artificial Intelligence Deceptive Advertising Act - Inside Global Tech",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWkdkZV9VSXBwSFlaYTVqWDczM0pxc3lvQW1ySHQ3bzExZDBDWjk0X1JOOWFPRm8xMEYyRmNFYnNMZ2NER18xV1A3WUpkTUhFTW5uaVhMSTlXSlF5U0FrNXpoRTQ2bVpSTjdrM3IyeFNMR2ZvMWtqSUgzeFJDeGc1d2xnck5aZG5NZmYzWjFhSlRzazFabWM5WlpfX3dpZTZkOGNrcGFSaDBQRXY0dWFkekFFU0o?oc=5",
+      "title": "South Portland School Board votes down proposed ban on generative AI - WGME",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVEdvS1FXTlZwWTVmQUNXcktqcm9TX2dPZGdvcEtsdGtlUWFKaXdCZmNnNFNqQVdjQkQ2aWQwSE9tX3c1WWRuc1dKTUpXRnJORS1RQ0ZYTlNNMldsemc2Rno5bko3TmZaV01RTEI5Tnk3dlJ4b1p4eDJCV2daZnJKX2dlekotdDVJdGhMUURiQV91bjdPQ0I4UjlfYlRTVHZMWEZ0dGVkUGlkbndzUFhQSXdkckdwWnEyS3BwNFYta0dudXFkUl90ME00a3E5M21GUlJNai1Lc0tnZVk?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNWkdkZV9VSXBwSFlaYTVqWDczM0pxc3lvQW1ySHQ3bzExZDBDWjk0X1JOOWFPRm8xMEYyRmNFYnNMZ2NER18xV1A3WUpkTUhFTW5uaVhMSTlXSlF5U0FrNX…",
-      "pubDate": "2026-11-09T21:25:07.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVEdvS1FXTlZwWTVmQUNXcktqcm9TX2dPZGdvcEtsdGtlUWFKaXdCZmNnNFNqQVdjQkQ2aWQwSE9tX3c1WWRuc1dKTUpXRnJORS1RQ0ZYTlNNMldsemc2Rn…",
+      "pubDate": "2026-11-10T04:26:58.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1794259243000",
+      "id": "google-news-ai-1794284583000",
       "region": "abroad",
-      "title": "CBP, Commerce Apply AI to Advance IT Modernization - ExecutiveGov",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUzRWdUxZMzRmRnM3ajhfbDl4LXVVMEhBU1ktVWlzNXdWNzEwVDM1amhZZ29JajkyZFotUW8zUjVmcHNDUWR3VHlxcUhGeVdadWRCeE1wZXhjaFNqWHBOMWNxdC1XLTY0YU4weUttb2hfV2U3M25QV3NZV2ZsUTdpczB1cl8?oc=5",
+      "title": "Day 0 Update #603 – Terabytes of AI Slop - SmashPad",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SV3ZiOUx5M0FGamlYejlSazFVcThYdFNuWHA3VHNHYUNSYkRZdmRORjNHT0t6Z0JFaENKakQzXzJCUDh5NWpqWmlid2xJQ1JOUHhWb3U0SHhvZTF0TFVodWZ3aEprRXptMlZ4TUZiSWJuZ1lKcGc?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQUzRWdUxZMzRmRnM3ajhfbDl4LXVVMEhBU1ktVWlzNXdWNzEwVDM1amhZZ29JajkyZFotUW8zUjVmcHNDUWR3VHlxcUhGeVdadWRCeE1wZXhjaFNqWHBOMW…",
-      "pubDate": "2026-11-09T21:20:43.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1SV3ZiOUx5M0FGamlYejlSazFVcThYdFNuWHA3VHNHYUNSYkRZdmRORjNHT0t6Z0JFaENKakQzXzJCUDh5NWpqWmlid2xJQ1JOUHhWb3U0SHhvZTF0TFVodW…",
+      "pubDate": "2026-11-10T04:23:03.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1794254946000",
+      "id": "techcrunch-ai-1794274032000",
       "region": "abroad",
-      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-09T20:09:06.000Z",
+      "pubDate": "2026-11-10T01:27:12.000Z",
       "isFallback": false
     },
     {
-      "id": "mit-tech-review-ai-1794252933000",
+      "id": "wired-ai-1794269899000",
       "region": "abroad",
-      "title": "The backlash about data centers might really just be about electricity",
-      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-      "source": "MIT Tech Review AI",
-      "summary": "",
-      "pubDate": "2026-11-09T19:35:33.000Z",
+      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+      "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+      "source": "Wired AI",
+      "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+      "pubDate": "2026-11-10T00:18:19.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1794252291000",
+      "id": "techcrunch-ai-1794266917000",
       "region": "abroad",
-      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-09T19:24:51.000Z",
+      "pubDate": "2026-11-09T23:28:37.000Z",
       "isFallback": false
     }
   ]
