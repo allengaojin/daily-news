@@ -1,28 +1,38 @@
 {
   "meta": {
     "date": "2026-11-11",
-    "updatedAt": "2026-11-10T18:42:30.973Z",
-    "mode": "partial"
+    "updatedAt": "2026-11-11T02:51:08.446Z",
+    "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1794323841000",
+      "id": "it之家-1794364259000",
       "region": "domestic",
-      "title": "高盛预计 Anthropic 2030 年营收突破 6000 亿美元，并跻身全球营收最高企业之列",
-      "url": "https://www.ithome.com/1/025/190.htm",
+      "title": "AMD 推出企业级 AI 辅助编程平台 Instinct Coder 355，支持本地运行 GLM-5.3",
+      "url": "https://www.ithome.com/1/025/305.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"cec4\">IT之家 11 月 10 日消息，据英国《金融时报》今天（10 日）晚间报道，作为 Anthropic 上市牵头投行的高盛，对 Anthropic 的未来给出了乐观预测：营收到 2030 年将<strong>突破 6,000 亿美元</strong><span class=\"exch-money-value\">（IT…",
-      "pubDate": "2026-11-10T15:17:21.000Z",
+      "summary": "<p data-vmark=\"dc62\">IT之家 11 月 11 日消息，AMD 当地时间本月 9 日宣布携手 Spectro Cloud 推出企业级 AI 辅助编程平台 Instinct Coder 355。该系统支持 GLM-5.3 推理部署，<strong>可在本地实现前沿模型 98% 的性能</strong>。</p><p style=\"text-…",
+      "pubDate": "2026-11-11T02:30:59.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1794321034000",
+      "id": "it之家-1794363029000",
       "region": "domestic",
-      "title": "消息称苹果计划明年上半年为 iPad Air 换用 OLED 面板，预计仍为 60Hz 刷新率",
-      "url": "https://www.ithome.com/1/025/179.htm",
+      "title": "阿里全新一代千问大模型 Qwen4 即将发布，预览版已首发上线",
+      "url": "https://www.ithome.com/1/025/301.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"8d6b\">IT之家 11 月 10 日消息，据外媒 DigiTimes 报道，苹果计划于 2027 年（明年）上半年为 iPad Air 换用 OLED 面板。</p><p data-vmark=\"3da3\">据报道，新款 iPad Air 预计将采用与 OLED iPad mini 相同的单层 OLED 发光结构，以及低温多…",
-      "pubDate": "2026-11-10T14:30:34.000Z",
+      "summary": "<p data-vmark=\"4c0f\">IT之家 11 月 11 日消息，阿里巴巴今日官宣，<strong>全新一代千问大模型 Qwen4 即将发布</strong>：知识理解更深入，世界感知更立体，Coding 与 Agentic 能力持续进阶。</p><p data-vmark=\"8dc4\">现在，<strong>Qwen4-Max 预览版已首发上线阿…",
+      "pubDate": "2026-11-11T02:10:29.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "少数派-1794356794000",
+      "region": "domestic",
+      "title": "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
+      "url": "https://sspai.com/post/118905",
+      "source": "少数派",
+      "summary": "卫星导航基准站网安全国标发布，影目召回 4701 副 AIR3 眼镜等。<a href=\"https://sspai.com/post/118905\" target=\"_blank\">查看全文</a>",
+      "pubDate": "2026-11-11T00:26:34.000Z",
       "isFallback": false
     },
     {
@@ -44,57 +54,47 @@
       "summary": "",
       "pubDate": "2026-11-10T07:57:45.000Z",
       "isFallback": false
-    },
-    {
-      "id": "mock-domestic-01",
-      "region": "domestic",
-      "title": "国内多家人工智能实验室发布新一代开源大模型，推理成本下降超六成",
-      "url": "https://www.jiqizhixin.com/",
-      "source": "机器之心",
-      "summary": "多家国内 AI 实验室联合发布新一代开源大模型系列，在多项基准测试中表现接近闭源旗舰模型，同时通过混合专家架构与推理优化，将单次推理成本降低超过 60%，引发开源社区广泛关注。",
-      "pubDate": "2026-08-10T06:00:00Z",
-      "isFallback": true
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1794336018000",
+      "id": "google-news-ai-1794365259000",
       "region": "abroad",
-      "title": "AI, computer graphics and wave optics combine for more realistic holographic VR/AR displays - Tech Xplore",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObmNYVERobUJoR2lCNktKNl9YeTdHdGNLOW9RU0p6aTh2S2c1bi1hTzRTYzd5Rkt2SDdDWGZJZmdNNTJJWFFNajI3X3FJNzJwWU9BazU0VmlhZXUzOEFTVlRRMmRRd3U2NGptMHZwak5iT3E1WHNiS1NCVnBMb01uSE1vYw?oc=5",
+      "title": "‘VisionQuest’ Turns AI Into Something Emotional, Complicated, and Honestly Kinda Terrifying - Cosmopolitan",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdE8zUUZxTm8zdE5pYVg3TDNnS1JPM3ZYSWtWc2xGV2FkejA2b2NJMjR5QnBnS3RwSkZZcWh2UXJORmpwdXREc1BIdXFCQlpGMmQxbHFUb1R4RG56UW1jc2trVXBhaDhTM2J4NE1QTWRKclJoaEtXeHN5TjVFTTVpYXhsOERvRUhxVGtZNGlPc3V4b1lOb3RnaWR5ekEzZw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxObmNYVERobUJoR2lCNktKNl9YeTdHdGNLOW9RU0p6aTh2S2c1bi1hTzRTYzd5Rkt2SDdDWGZJZmdNNTJJWFFNajI3X3FJNzJwWU9BazU0VmlhZXUzOEFTVl…",
-      "pubDate": "2026-11-10T18:40:18.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOdE8zUUZxTm8zdE5pYVg3TDNnS1JPM3ZYSWtWc2xGV2FkejA2b2NJMjR5QnBnS3RwSkZZcWh2UXJORmpwdXREc1BIdXFCQlpGMmQxbHFUb1R4RG56UW1jc2…",
+      "pubDate": "2026-11-11T02:47:39.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1794335579000",
+      "id": "google-news-ai-1794364200000",
       "region": "abroad",
-      "title": "Fiserv’s Clover Adds AI Tools to Help Small Businesses Reach eCommerce Shoppers - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHBDZ0FET0VOLXJSTGFORy1SZzU3NDdSOXROTUdzUjNuVlV5ZmtrZlkyWlBrQzdPUFhRV2pIaUZzaG5UMTl0OGNMQ18yMmY4eDF3RFJTX05FSzh3czV0cnpUN0tRM2thd3A0Uk45NlVRQkdqamZ4SlJoamNfNGhjeHM5N1lsYWt2Y055MzliQm43S3M1aW1mZ2UxRVp1azBWUEJ1VkVLbm96Q01FeGJ5X2VR?oc=5",
+      "title": "Georgia students raise privacy concerns over AI smart glasses - WSB-TV",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbUIzcDBka1EtUFFncVZQQXNrQU16TEFDTlMwczJOSFNFa3E4ZUNxRnVfSTlMTzAwUXpsTEs2a1RjUzBjYlQwWFhocFhlemhMMEE4TE9lZ2FrSkdmUGI4UlJMTGpOa2ZnRGFwOFV0TDlsbmlTbU5Yc0s0UERQeWttdDRRT0dhelZ3RGZUQk1SN3loRGRocDByekJqdHlZc1RJOWNCdWE2SUFmdjRneGd2U1VzejFEblJqSEhYTkdjRdIB0wFBVV95cUxPOGlERGxVazBtYU9pTWFkUmNqc0RLMXNtam9fdzVPMVpxU1NrM3M2RG50NDFMNmJ0VEJvRHVYN0U1RTV0ZzVId1g4d1FKY2o4UDRUeGtLUzRTcndkSDdBYmtldDg2LUZZZlEwVWExZDlHN1NlcHA2d2dmXzZwSGhhSTJrZ2pFbEFlaWpYTS1zb25rNHJTRFdKN2dnTV9DWXhyd1FlT0Ftc0xhcnhRcnlKMW9kZXJoVmVuZHcxaGxVRHp0VnhaTlR2dXJyRGhtRHh0MGFN?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHBDZ0FET0VOLXJSTGFORy1SZzU3NDdSOXROTUdzUjNuVlV5ZmtrZlkyWlBrQzdPUFhRV2pIaUZzaG5UMTl0OGNMQ18yMmY4eDF3RFJTX05FSzh3czV0cn…",
-      "pubDate": "2026-11-10T18:32:59.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQbUIzcDBka1EtUFFncVZQQXNrQU16TEFDTlMwczJOSFNFa3E4ZUNxRnVfSTlMTzAwUXpsTEs2a1RjUzBjYlQwWFhocFhlemhMMEE4TE9lZ2FrSkdmUGI4Ul…",
+      "pubDate": "2026-11-11T02:30:00.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1794331800000",
+      "id": "techcrunch-ai-1794344932000",
       "region": "abroad",
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-10T17:30:00.000Z",
+      "pubDate": "2026-11-10T21:08:52.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1794330259000",
+      "id": "techcrunch-ai-1794343933000",
       "region": "abroad",
-      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-10T17:04:19.000Z",
+      "pubDate": "2026-11-10T20:52:13.000Z",
       "isFallback": false
     },
     {
