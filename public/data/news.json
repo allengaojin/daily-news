@@ -1,28 +1,28 @@
 {
   "meta": {
     "date": "2026-11-12",
-    "updatedAt": "2026-11-11T18:44:25.191Z",
+    "updatedAt": "2026-11-12T03:54:06.866Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1794407525000",
+      "id": "it之家-1794455195000",
       "region": "domestic",
-      "title": "Adobe 公布四项 AI 实验项目：照片秒变 3D 场景，还能通过聊天设计 AI 角色",
-      "url": "https://www.ithome.com/1/025/815.htm",
+      "title": "百度昆仑芯 M300 明年推出，2028 年发布基于全新 N 架构的多颗芯片",
+      "url": "https://www.ithome.com/1/025/971.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"6184\">IT之家 11 月 11 日消息，每年举办的 Adobe MAX 大会上，Adobe 展示的最令人印象深刻的技术之一，往往是那些仍处于实验阶段、尚未正式推出的创新功能。今天，该公司公布了最新一批实验项目：它们能够将普通图片转换为可探索的 3D 场景，通过与 AI 角色对话来设计角色形象，还能让照片编辑变成简单的复制粘…",
-      "pubDate": "2026-11-11T14:32:05.000Z",
+      "summary": "<p data-vmark=\"350c\">IT之家 11 月 12 日现场消息，在今日（11 月 12 日）举办的百度世界 2026 开幕式上，百度创始人李彦宏在谈及 AI 芯片时表示，过去 AI 算力需求主要以训练为主，而现在是训练与推理并重的格局，尤其是智能体应用的规模化，带动了推理计算需求的大爆发。“我们相信，<strong>推理将成为 AI 芯片长期…",
+      "pubDate": "2026-11-12T03:46:35.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1794406011000",
+      "id": "it之家-1794454561000",
       "region": "domestic",
-      "title": "DeepL 推出旗下最逼真语音 AI 翻译模型 Aure，实时复现说话者语气起伏、情绪流转等",
-      "url": "https://www.ithome.com/1/025/810.htm",
+      "title": "Mac 版 ChatGPT 新增“财务”入口：让 AI 替你管账、查消费、盯投资",
+      "url": "https://www.ithome.com/1/025/934.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"a57a\">IT之家 11 月 11 日消息，当地时间 11 月 11 日，DeepL 推出语音 AI 翻译模型 Aure，<strong>官方称这是其迄今最具动态感、表现最逼真的语音 AI（Voice AI）模型</strong>，不过该模型暂不支持中文。</p><p data-vmark=\"ff41\">据介绍，作为 Deep…",
-      "pubDate": "2026-11-11T14:06:51.000Z",
+      "summary": "<p data-vmark=\"f091\">IT之家 11 月 12 日消息，OpenAI 今天（11 月 12 日）在 X 平台发布推文，宣布 ChatGPT Finances 功能正式扩展至 Mac 桌面应用。用户更新 ChatGPT 应用后，<strong>即可在侧边栏的“财务”入口连接银行、信用卡及投资账户，直接在 macOS 上查看余额、分析消费、管…",
+      "pubDate": "2026-11-12T03:36:01.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1794422228000",
+      "id": "google-news-ai-1794455204000",
       "region": "abroad",
-      "title": "Databricks Doubles Down on AI Products, Opens New 235,000-Square-Foot San Francisco Headquarters - Databricks",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ2tpWmlmbjZDZWRWM0FqLWNIaTdZWkx3cldDckhWNWhuancxMkVsbVZBaG1uTDFHbjdyUnRQc0lYOE15Y3o3U2FtY0xTNmdaV3dIalFWYXc4N1VseW42OU9CdGY4LWNKUjVYNXE1TnVsUVkxNXAyS1hKSTdFSm0ydWFUNnhsT2pRaDhIdER2RTVDQ2lHY29kdVFTbUlUckpqa2JUdTN2WS04OW51QlZLMVYtamdpOGFPQ2lxV2EwZUw?oc=5",
+      "title": "United Airlines Bans AI Bots From Booking Flights Under New Rules - Law Commentary",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVW9vaVZqcnVnZFJHdEN5T2tBWDIwNnpLVUZ4RGRxSXhWZjhkTVJKaUVmMEs1UlNnTjhDTExjRlpUSjlrZVpKVWk4UGo2aDhHWnZNZzlmeDBRcDRYREFXbGdiN3RmN3JMZTl5S2czZWRObS1vR2RYTVhRQ0pMeUk1U2k1TERIT29FOGZB?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ2tpWmlmbjZDZWRWM0FqLWNIaTdZWkx3cldDckhWNWhuancxMkVsbVZBaG1uTDFHbjdyUnRQc0lYOE15Y3o3U2FtY0xTNmdaV3dIalFWYXc4N1VseW42OU…",
-      "pubDate": "2026-11-11T18:37:08.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVW9vaVZqcnVnZFJHdEN5T2tBWDIwNnpLVUZ4RGRxSXhWZjhkTVJKaUVmMEs1UlNnTjhDTExjRlpUSjlrZVpKVWk4UGo2aDhHWnZNZzlmeDBRcDRYREFXbG…",
+      "pubDate": "2026-11-12T03:46:44.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1794421844000",
+      "id": "google-news-ai-1794454901000",
       "region": "abroad",
-      "title": "Creator Sabotages AI Job Interviews in Hilarious Videos - X",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vUjRSLW9Lc3dmWXh4bTR2WnRmQThzYnlsczdscWltMkVHaC10WUY0WjFNWklIMmgxRTBiU2V6TC1YYWZTZDFPYWRWbF8zRmNycFlMWWFzYw?oc=5",
+      "title": "KPMG scale trusted enterprise AI in Thailand through Microsoft Copilot and Microsoft Agent 365 - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSXFtTlZoQ0IyMFU2M0REX24yN3FWYVppZnBHM3A3bHF5TVphWFp0X254WHc4Z3N6V2EzT1BSX1Q1ci1mekQxdkp5ZFJXLWZKSm00OWpmVVRuUC1vOU5FYzJTUWZWZkhIWkstOVpOUmc4WkVXSnNDc0tyRHhDQW1fVEhjcXBYel9JWDZ3TktyeXQzTUNEZnNPbjB5TDV0T1ZmRWwzTHNaWHF5Y015aTB1Uy1xSEl4M1BLVXpXdjBFR3oyaTI2aElYamQ1RUd2OE1jdGR3Tm1MQnRqeW5XVnc?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vUjRSLW9Lc3dmWXh4bTR2WnRmQThzYnlsczdscWltMkVHaC10WUY0WjFNWklIMmgxRTBiU2V6TC1YYWZTZDFPYWRWbF8zRmNycFlMWWFzYw?oc=5\" targe…",
-      "pubDate": "2026-11-11T18:30:44.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSXFtTlZoQ0IyMFU2M0REX24yN3FWYVppZnBHM3A3bHF5TVphWFp0X254WHc4Z3N6V2EzT1BSX1Q1ci1mekQxdkp5ZFJXLWZKSm00OWpmVVRuUC1vOU5FYz…",
+      "pubDate": "2026-11-12T03:41:41.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1794416400000",
+      "id": "techcrunch-ai-1794453190000",
       "region": "abroad",
-      "title": "A Startup Wants to Fight AI Bioweapons With AI",
-      "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-11-12T03:13:10.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1794441000000",
+      "region": "abroad",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-11-11T23:50:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1794426954000",
+      "region": "abroad",
+      "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
       "source": "Wired AI",
-      "summary": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
-      "pubDate": "2026-11-11T17:00:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1794413767000",
-      "region": "abroad",
-      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
-      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-11-11T16:16:07.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1794413684000",
-      "region": "abroad",
-      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-11-11T16:14:44.000Z",
+      "summary": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+      "pubDate": "2026-11-11T19:55:54.000Z",
       "isFallback": false
     }
   ]
