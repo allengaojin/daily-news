@@ -1,48 +1,48 @@
 {
   "meta": {
-    "date": "2026-11-12",
-    "updatedAt": "2026-11-12T03:54:06.866Z",
+    "date": "2026-11-13",
+    "updatedAt": "2026-11-12T18:58:54.894Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1794455195000",
+      "id": "it之家-1794507437000",
       "region": "domestic",
-      "title": "百度昆仑芯 M300 明年推出，2028 年发布基于全新 N 架构的多颗芯片",
-      "url": "https://www.ithome.com/1/025/971.htm",
+      "title": "谷歌发布 Gemini 4 Hydrogen 模型：主打日常编程与智能体工作流，百万 Token 输入 1.5 美元",
+      "url": "https://www.ithome.com/1/026/446.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"350c\">IT之家 11 月 12 日现场消息，在今日（11 月 12 日）举办的百度世界 2026 开幕式上，百度创始人李彦宏在谈及 AI 芯片时表示，过去 AI 算力需求主要以训练为主，而现在是训练与推理并重的格局，尤其是智能体应用的规模化，带动了推理计算需求的大爆发。“我们相信，<strong>推理将成为 AI 芯片长期…",
-      "pubDate": "2026-11-12T03:46:35.000Z",
+      "summary": "<p data-vmark=\"0000\">IT之家 11 月 13 日消息，谷歌正式推出 <strong>Gemini 4 Hydrogen</strong> 模型，主打快速执行与高效运行，面向日常编码和智能体工作流场景，将 Gemini 4 系列能力全面下放至所有层级用户。</p><p data-vmark=\"0001\" style=\"text-align…",
+      "pubDate": "2026-11-12T18:17:17.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1794454561000",
+      "id": "it之家-1794497685000",
       "region": "domestic",
-      "title": "Mac 版 ChatGPT 新增“财务”入口：让 AI 替你管账、查消费、盯投资",
-      "url": "https://www.ithome.com/1/025/934.htm",
+      "title": "黄仁勋辞任英伟达 CEO 重创全球 AI 概念股，AMD、博通逆势上涨",
+      "url": "https://www.ithome.com/1/026/437.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"f091\">IT之家 11 月 12 日消息，OpenAI 今天（11 月 12 日）在 X 平台发布推文，宣布 ChatGPT Finances 功能正式扩展至 Mac 桌面应用。用户更新 ChatGPT 应用后，<strong>即可在侧边栏的“财务”入口连接银行、信用卡及投资账户，直接在 macOS 上查看余额、分析消费、管…",
-      "pubDate": "2026-11-12T03:36:01.000Z",
+      "summary": "<p data-vmark=\"ee4b\">IT之家 11 月 12 日消息，据路透社报道，黄仁勋因婚外情丑闻持续发酵而辞去英伟达 CEO，引发<strong>全球 AI 概念股周四大跌</strong>。</p><p data-vmark=\"6637\">英伟达领导层突遭变动，也让原本就面临融资和监管压力的 AI 行业增添了新的风险。</p><p data-v…",
+      "pubDate": "2026-11-12T15:34:45.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1794379286000",
+      "id": "量子位-1794483380000",
       "region": "domestic",
-      "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
-      "url": "https://www.qbitai.com/2026/11/509146.html",
+      "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
+      "url": "https://www.qbitai.com/2026/11/509440.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-11-11T06:41:26.000Z",
+      "pubDate": "2026-11-12T11:36:20.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1794378423000",
+      "id": "量子位-1794480333000",
       "region": "domestic",
-      "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
-      "url": "https://www.qbitai.com/2026/11/509088.html",
+      "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+      "url": "https://www.qbitai.com/2026/11/509404.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-11-11T06:27:03.000Z",
+      "pubDate": "2026-11-12T10:45:33.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1794455204000",
+      "id": "google-news-ai-1794509775000",
       "region": "abroad",
-      "title": "United Airlines Bans AI Bots From Booking Flights Under New Rules - Law Commentary",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVW9vaVZqcnVnZFJHdEN5T2tBWDIwNnpLVUZ4RGRxSXhWZjhkTVJKaUVmMEs1UlNnTjhDTExjRlpUSjlrZVpKVWk4UGo2aDhHWnZNZzlmeDBRcDRYREFXbGdiN3RmN3JMZTl5S2czZWRObS1vR2RYTVhRQ0pMeUk1U2k1TERIT29FOGZB?oc=5",
+      "title": "Constant Contact Launches AI Marketing Product for Small Businesses - CPA Practice Advisor",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaFZiSWlEQk80MFIyYl96RlMtdkpBYWRuSHJzZU82TWpvd0xZMEZVekRsdTlQd0c5amg1WXF1Y1E3MVBrT2ZLaHR3SFRmOGlndlNnQm5EMlRXZUpwV1hxSC1IQnBrQVpqSnFhZGo4UExOTUU4Qzl4aVZiaElLSlQwV25EMnBLeV81bjNLSlphc1NkVFZTQTBCSkhrQ3ZuczBuNXhaSkcxWTFXUkNRa3lrRzBfLWR6SkJwOU80T2h3?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVW9vaVZqcnVnZFJHdEN5T2tBWDIwNnpLVUZ4RGRxSXhWZjhkTVJKaUVmMEs1UlNnTjhDTExjRlpUSjlrZVpKVWk4UGo2aDhHWnZNZzlmeDBRcDRYREFXbG…",
-      "pubDate": "2026-11-12T03:46:44.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNaFZiSWlEQk80MFIyYl96RlMtdkpBYWRuSHJzZU82TWpvd0xZMEZVekRsdTlQd0c5amg1WXF1Y1E3MVBrT2ZLaHR3SFRmOGlndlNnQm5EMlRXZUpwV1hxSC…",
+      "pubDate": "2026-11-12T18:56:15.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1794454901000",
+      "id": "google-news-ai-1794509582000",
       "region": "abroad",
-      "title": "KPMG scale trusted enterprise AI in Thailand through Microsoft Copilot and Microsoft Agent 365 - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSXFtTlZoQ0IyMFU2M0REX24yN3FWYVppZnBHM3A3bHF5TVphWFp0X254WHc4Z3N6V2EzT1BSX1Q1ci1mekQxdkp5ZFJXLWZKSm00OWpmVVRuUC1vOU5FYzJTUWZWZkhIWkstOVpOUmc4WkVXSnNDc0tyRHhDQW1fVEhjcXBYel9JWDZ3TktyeXQzTUNEZnNPbjB5TDV0T1ZmRWwzTHNaWHF5Y015aTB1Uy1xSEl4M1BLVXpXdjBFR3oyaTI2aElYamQ1RUd2OE1jdGR3Tm1MQnRqeW5XVnc?oc=5",
+      "title": "Higher-Income Parents Use AI More and Encourage Their Children to Do the Same - RAND",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PRzlkTEhtc1d0V19iajRwUXRYTkRfN1RGZnNnNzhNMFZGaDQ5WDMzc1NCTlRYazEyd2Nta2Y4Tkk0dE41dmEwZ1Nud2lLMkFybTdWand4WHlVN01oNnZqX3AxM3BnUlBR?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSXFtTlZoQ0IyMFU2M0REX24yN3FWYVppZnBHM3A3bHF5TVphWFp0X254WHc4Z3N6V2EzT1BSX1Q1ci1mekQxdkp5ZFJXLWZKSm00OWpmVVRuUC1vOU5FYz…",
-      "pubDate": "2026-11-12T03:41:41.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PRzlkTEhtc1d0V19iajRwUXRYTkRfN1RGZnNnNzhNMFZGaDQ5WDMzc1NCTlRYazEyd2Nta2Y4Tkk0dE41dmEwZ1Nud2lLMkFybTdWand4WHlVN01oNnZqX3…",
+      "pubDate": "2026-11-12T18:53:02.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1794453190000",
+      "id": "techcrunch-ai-1794508763000",
       "region": "abroad",
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-12T03:13:10.000Z",
+      "pubDate": "2026-11-12T18:39:23.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1794441000000",
+      "id": "wired-ai-1794506741000",
       "region": "abroad",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-11-11T23:50:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1794426954000",
-      "region": "abroad",
-      "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
-      "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+      "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
+      "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
       "source": "Wired AI",
-      "summary": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
-      "pubDate": "2026-11-11T19:55:54.000Z",
+      "summary": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize.",
+      "pubDate": "2026-11-12T18:05:41.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1794506355000",
+      "region": "abroad",
+      "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
+      "url": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
+      "source": "Wired AI",
+      "summary": "Since the scandal involving an alleged Chinese spy began, Nvidia has lost an eye-watering sum from its market value.",
+      "pubDate": "2026-11-12T17:59:15.000Z",
       "isFallback": false
     }
   ]
