@@ -1,28 +1,28 @@
 {
   "meta": {
     "date": "2026-11-13",
-    "updatedAt": "2026-11-12T18:58:54.894Z",
-    "mode": "live"
+    "updatedAt": "2026-11-13T03:27:08.424Z",
+    "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1794507437000",
+      "id": "it之家-1794538653000",
       "region": "domestic",
-      "title": "谷歌发布 Gemini 4 Hydrogen 模型：主打日常编程与智能体工作流，百万 Token 输入 1.5 美元",
-      "url": "https://www.ithome.com/1/026/446.htm",
+      "title": "阿里巴巴虾米 App 关停五年后以 AI 形态回归：“Happy 系列”快乐虾米正式上线，会员每月 30 元起",
+      "url": "https://www.ithome.com/1/026/551.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"0000\">IT之家 11 月 13 日消息，谷歌正式推出 <strong>Gemini 4 Hydrogen</strong> 模型，主打快速执行与高效运行，面向日常编码和智能体工作流场景，将 Gemini 4 系列能力全面下放至所有层级用户。</p><p data-vmark=\"0001\" style=\"text-align…",
-      "pubDate": "2026-11-12T18:17:17.000Z",
+      "summary": "<p data-vmark=\"470b\">IT之家 11 月 13 日消息，阿里巴巴旗下 AI 音乐创作平台快乐虾米（HappyShrimp）正式上线 iOS 与 Android 平台，登陆苹果 App Store 及各大安卓应用商店，目前 App Store 已经更新到 0.2.14 版本。</p><blockquote><h3 data-vmark=\"c…",
+      "pubDate": "2026-11-13T02:57:33.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1794497685000",
+      "id": "it之家-1794538568000",
       "region": "domestic",
-      "title": "黄仁勋辞任英伟达 CEO 重创全球 AI 概念股，AMD、博通逆势上涨",
-      "url": "https://www.ithome.com/1/026/437.htm",
+      "title": "Axelera AI 公布数据中心级 AIPU 芯片 Titania 架构，2027Q3 投产",
+      "url": "https://www.ithome.com/1/026/544.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"ee4b\">IT之家 11 月 12 日消息，据路透社报道，黄仁勋因婚外情丑闻持续发酵而辞去英伟达 CEO，引发<strong>全球 AI 概念股周四大跌</strong>。</p><p data-vmark=\"6637\">英伟达领导层突遭变动，也让原本就面临融资和监管压力的 AI 行业增添了新的风险。</p><p data-v…",
-      "pubDate": "2026-11-12T15:34:45.000Z",
+      "summary": "<p data-vmark=\"b5ff\" style=\"text-align: justify;\">IT之家 11 月 13 日消息，荷兰芯片初创企业 Axelera AI 当地时间 12 日<strong>公布了其第三代 AIPU 芯片 Titania 的架构</strong>。其瞄准数据中心推理市场，预计 2027 年第 3 季度量产，已获得超 3 亿美…",
+      "pubDate": "2026-11-13T02:56:08.000Z",
       "isFallback": false
     },
     {
@@ -46,65 +46,65 @@
       "isFallback": false
     },
     {
-      "id": "少数派-1794356794000",
+      "id": "mock-domestic-01",
       "region": "domestic",
-      "title": "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
-      "url": "https://sspai.com/post/118905",
-      "source": "少数派",
-      "summary": "卫星导航基准站网安全国标发布，影目召回 4701 副 AIR3 眼镜等。<a href=\"https://sspai.com/post/118905\" target=\"_blank\">查看全文</a>",
-      "pubDate": "2026-11-11T00:26:34.000Z",
-      "isFallback": false
+      "title": "国内多家人工智能实验室发布新一代开源大模型，推理成本下降超六成",
+      "url": "https://www.jiqizhixin.com/",
+      "source": "机器之心",
+      "summary": "多家国内 AI 实验室联合发布新一代开源大模型系列，在多项基准测试中表现接近闭源旗舰模型，同时通过混合专家架构与推理优化，将单次推理成本降低超过 60%，引发开源社区广泛关注。",
+      "pubDate": "2026-08-10T06:00:00Z",
+      "isFallback": true
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1794509775000",
+      "id": "google-news-ai-1794539898000",
       "region": "abroad",
-      "title": "Constant Contact Launches AI Marketing Product for Small Businesses - CPA Practice Advisor",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaFZiSWlEQk80MFIyYl96RlMtdkpBYWRuSHJzZU82TWpvd0xZMEZVekRsdTlQd0c5amg1WXF1Y1E3MVBrT2ZLaHR3SFRmOGlndlNnQm5EMlRXZUpwV1hxSC1IQnBrQVpqSnFhZGo4UExOTUU4Qzl4aVZiaElLSlQwV25EMnBLeV81bjNLSlphc1NkVFZTQTBCSkhrQ3ZuczBuNXhaSkcxWTFXUkNRa3lrRzBfLWR6SkJwOU80T2h3?oc=5",
+      "title": "Heidi Partners With Samsung Medical Center to Adapt Clinical AI for South Korea - BioPharma APAC",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUUN1SzdUUmU5M0V6R2toVnFEZk5PRUhQWjJJTmVaajREc2M2emd3NHhBM3pDSzJiV3h1S0Fob19HS2x3a0hEaXpXTk9rNENkN2NLRFNjeHRKZ3BFSzJCdzZCOHg0WVFsU1ZUTE1tWGpHZGZBNGdkQ2pSX01RV1VQMHhHREl3Vzc3TExsNUVOUkh1a1JKWVdUNFBjbGlBM3dlTXhyUkRMVXBqM3hIcmJYNDFINHdwdXE4cHRaMTRNa1o?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNaFZiSWlEQk80MFIyYl96RlMtdkpBYWRuSHJzZU82TWpvd0xZMEZVekRsdTlQd0c5amg1WXF1Y1E3MVBrT2ZLaHR3SFRmOGlndlNnQm5EMlRXZUpwV1hxSC…",
-      "pubDate": "2026-11-12T18:56:15.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUUN1SzdUUmU5M0V6R2toVnFEZk5PRUhQWjJJTmVaajREc2M2emd3NHhBM3pDSzJiV3h1S0Fob19HS2x3a0hEaXpXTk9rNENkN2NLRFNjeHRKZ3BFSzJCdz…",
+      "pubDate": "2026-11-13T03:18:18.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1794509582000",
+      "id": "google-news-ai-1794539537000",
       "region": "abroad",
-      "title": "Higher-Income Parents Use AI More and Encourage Their Children to Do the Same - RAND",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PRzlkTEhtc1d0V19iajRwUXRYTkRfN1RGZnNnNzhNMFZGaDQ5WDMzc1NCTlRYazEyd2Nta2Y4Tkk0dE41dmEwZ1Nud2lLMkFybTdWand4WHlVN01oNnZqX3AxM3BnUlBR?oc=5",
+      "title": "Jefferies sees 107% upside in this AI-focused semiconductor stock - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM1RzRFExM0hxdmhXTWpNc2VuX3FpdUlBYlBCUUt4Tk1SbGpPSG1Cc3JoendKVlFzSXBzMVI0dnlpbFNDR3MxMHFQTVNWVl9qc0RNTnROYnpMdTIyUEFka0VZTnhsSFMwd0JrdE1KRWJWTExGNTBySmRRZmN3elNNcFBDdWM4enY4cGozekJyVl9vYlZVLU44?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PRzlkTEhtc1d0V19iajRwUXRYTkRfN1RGZnNnNzhNMFZGaDQ5WDMzc1NCTlRYazEyd2Nta2Y4Tkk0dE41dmEwZ1Nud2lLMkFybTdWand4WHlVN01oNnZqX3…",
-      "pubDate": "2026-11-12T18:53:02.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQM1RzRFExM0hxdmhXTWpNc2VuX3FpdUlBYlBCUUt4Tk1SbGpPSG1Cc3JoendKVlFzSXBzMVI0dnlpbFNDR3MxMHFQTVNWVl9qc0RNTnROYnpMdTIyUEFka0…",
+      "pubDate": "2026-11-13T03:12:17.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1794508763000",
+      "id": "techcrunch-ai-1794523371000",
       "region": "abroad",
-      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-12T18:39:23.000Z",
+      "pubDate": "2026-11-12T22:42:51.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1794506741000",
+      "id": "wired-ai-1794522583000",
       "region": "abroad",
-      "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
-      "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
+      "title": "Silicon Valley Is Still Defending Jensen Huang",
+      "url": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
       "source": "Wired AI",
-      "summary": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize.",
-      "pubDate": "2026-11-12T18:05:41.000Z",
+      "summary": "Nvidia employees and tech insiders never thought the chip king would lose his job. Despite his sudden resignation, many of them are still in denial.",
+      "pubDate": "2026-11-12T22:29:43.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1794506355000",
+      "id": "techcrunch-ai-1794522148000",
       "region": "abroad",
-      "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
-      "url": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
-      "source": "Wired AI",
-      "summary": "Since the scandal involving an alleged Chinese spy began, Nvidia has lost an eye-watering sum from its market value.",
-      "pubDate": "2026-11-12T17:59:15.000Z",
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-11-12T22:22:28.000Z",
       "isFallback": false
     }
   ]
