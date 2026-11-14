@@ -1,28 +1,28 @@
 {
   "meta": {
     "date": "2026-11-14",
-    "updatedAt": "2026-11-13T18:34:58.740Z",
+    "updatedAt": "2026-11-14T03:23:05.074Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1794584948000",
+      "id": "it之家-1794622303000",
       "region": "domestic",
-      "title": "让智能体帮你购物，OpenAI 推出支付功能 ChatGPT Wallet",
-      "url": "https://www.ithome.com/1/026/994.htm",
+      "title": "苹果推送 tvOS 27.2.1 更新，第二 / 第三代 Apple TV 4K 新增 Siri AI 支持",
+      "url": "https://www.ithome.com/1/027/052.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"c121\" style=\"text-align: start;\">IT之家 11 月 13 日消息，OpenAI 今天（13 日）宣布推出支付功能 ChatGPT Wallet，让旗下 dot AI 智能体代替用户购物。</p><p data-vmark=\"1ae0\" style=\"text-align: start;\">Cha…",
-      "pubDate": "2026-11-13T15:49:08.000Z",
+      "summary": "<p data-vmark=\"7a5a\">IT之家 11 月 14 日消息，科技媒体 MacRumors 今天（11 月 14 日）发布博文，报道称苹果已推送 tvOS 27.2.1 以及 HomePod Software 27.2.1，内部开发代号均为 24K157。</p><p data-vmark=\"eead\">本次 tvOS 27.2.1 更新最大的…",
+      "pubDate": "2026-11-14T02:11:43.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1794581942000",
+      "id": "it之家-1794621511000",
       "region": "domestic",
-      "title": "索尼：PS5 超分技术 QSSR 即将登陆《漫威蜘蛛侠 2》《ARC Raiders》等作品",
-      "url": "https://www.ithome.com/1/026/967.htm",
+      "title": "实现“躺平式办公”：Mac 版 Perplexity 上线“AI 队友”，组建你的全天候数字员工",
+      "url": "https://www.ithome.com/1/027/050.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"9586\">IT之家 11 月 13 日消息，索尼 PlayStation 今天（13 日）晚间宣布，PS5 超分技术 QSSR 即将登陆<strong>《漫威蜘蛛侠 2》《控制：共振》《THE FINALS》《ARC Raiders》</strong>等作品，相关游戏更新将在未来几周内陆续推出。</p><p data-vmar…",
-      "pubDate": "2026-11-13T14:59:02.000Z",
+      "summary": "<p data-vmark=\"c219\">IT之家 11 月 14 日消息，Perplexity 今天（11 月 14 日）发布公告，邀请付费 Max 订阅用户，在 Mac 平台版 Perplexity 应用上体验 AI 智能体功能“队友”（Teammates）。<strong>该功能此前仅支持 iOS 和网页端，如今进一步覆盖桌面办公场景。</strong…",
+      "pubDate": "2026-11-14T01:58:31.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1794594674000",
+      "id": "google-news-ai-1794626401000",
       "region": "abroad",
-      "title": "People are turning to AI for financial assistance - WRAL",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc0dRY09KOWNiVzJ2cktsc25EYWF1cDVTOXd0NC03RTBkNU5DUlFnbGZ2eDVPSW9fSXp2QmVNRkVhdXFkOWhIbE1heENQSldUUnFCS3d5VTVEY05nUDNGOFFvOWtTVV8yb2YtSmZEaTZkWm96Mi1ydDBMamxBS3BPcklHX0J2RnpmRV93?oc=5",
+      "title": "Researchers trial AI coach for diabetes - Medical Xpress",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ybmlQY1BpRXRNenhNQVA5SWZvNVdCTkdKcjZPTGlwX3pGRDRoMng4MDBGN05wa0cxNS1MRG9hbmgwY05zdzZTZVdSVFlJMTBvWlFFM09YeFlsbng2NG4tajBGN1lLRm9lNjNPTlpR?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc0dRY09KOWNiVzJ2cktsc25EYWF1cDVTOXd0NC03RTBkNU5DUlFnbGZ2eDVPSW9fSXp2QmVNRkVhdXFkOWhIbE1heENQSldUUnFCS3d5VTVEY05nUDNGOF…",
-      "pubDate": "2026-11-13T18:31:14.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5ybmlQY1BpRXRNenhNQVA5SWZvNVdCTkdKcjZPTGlwX3pGRDRoMng4MDBGN05wa0cxNS1MRG9hbmgwY05zdzZTZVdSVFlJMTBvWlFFM09YeFlsbng2NG4taj…",
+      "pubDate": "2026-11-14T03:20:01.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1794594448000",
+      "id": "google-news-ai-1794625875000",
       "region": "abroad",
-      "title": "TE Connectivity to Invest $60M to Make Hyperscale AI Data Center Components in U.S. - Industrial Equipment News",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMGxnWkNuOEIxd2hOd28xSy1Cc25SdnpURXJCcElCR2NHVzJyRjhyQUNCZ3Z2RGZPV1FUVVFJOUNyRjZjbTV3TnpNa1huUDNRTnNDdFh4a0g5bjh2QTdKcDU0UGhOVXh6UjJ6VFdsSi04T0ZoeGJleHFyU05xRnIzbG4xa0dycHpKcmVVdWNRX2tpUFY1S2xLTS1yTWIxLW05S29FRDZvVENtVVdxdE9mYjBMQ0pwdkZoM2xMeG1wTzVGZVdRT0ZnaXFkVGxjQmVyY1pieg?oc=5",
+      "title": "Is the nationwide ground stop related to the FAA's new air traffic AI? - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oVXE3ZmF0WkYzN2R6MUdURzFzSTNqY3VmNEc0bDNlTm1sUGJ5TGhFd3JFVENkNFVGNWh1bWVBR0JMSGVJUHJMWGZGWmdlbFdxYkd2T0lHZG40YW1ySDYyUFNielR4cjduWmxodXhvT1IwMzA?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMGxnWkNuOEIxd2hOd28xSy1Cc25SdnpURXJCcElCR2NHVzJyRjhyQUNCZ3Z2RGZPV1FUVVFJOUNyRjZjbTV3TnpNa1huUDNRTnNDdFh4a0g5bjh2QTdKcD…",
-      "pubDate": "2026-11-13T18:27:28.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9oVXE3ZmF0WkYzN2R6MUdURzFzSTNqY3VmNEc0bDNlTm1sUGJ5TGhFd3JFVENkNFVGNWh1bWVBR0JMSGVJUHJMWGZGWmdlbFdxYkd2T0lHZG40YW1ySDYyUF…",
+      "pubDate": "2026-11-14T03:11:15.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1794585612000",
+      "id": "techcrunch-ai-1794609780000",
       "region": "abroad",
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-13T16:00:12.000Z",
+      "pubDate": "2026-11-13T22:43:00.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1794585600000",
+      "id": "techcrunch-ai-1794598677000",
       "region": "abroad",
-      "title": "Jensen Huang and the End of the Founder Fairy Tale",
-      "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-11-13T19:37:57.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1794596937000",
+      "region": "abroad",
+      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+      "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
       "source": "Wired AI",
-      "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
-      "pubDate": "2026-11-13T16:00:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1794585480000",
-      "region": "abroad",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-11-13T15:58:00.000Z",
+      "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
+      "pubDate": "2026-11-13T19:08:57.000Z",
       "isFallback": false
     }
   ]
