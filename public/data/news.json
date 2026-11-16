@@ -1,28 +1,28 @@
 {
   "meta": {
     "date": "2026-11-16",
-    "updatedAt": "2026-11-15T17:49:33.710Z",
+    "updatedAt": "2026-11-16T02:51:09.089Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1794750171000",
+      "id": "it之家-1794794589000",
       "region": "domestic",
-      "title": "韩国税务师考试头名 AI 作弊曝光后，政府全面调查今年国家资格考试",
-      "url": "https://www.ithome.com/1/027/453.htm",
+      "title": "腾讯总办号召 AI 时代再创业，官方公布原文",
+      "url": "https://www.ithome.com/1/027/509.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"8bfb\">IT之家 11 月 15 日消息，据韩联社今日报道，由于税务师考试第一名考生存在利用人工智能进行作弊的行为被曝光，韩国政府决定对今年所有国家资格考试进行全面调查，以打击此类作弊行为。</p><p data-vmark=\"13fe\">报道称，劳动部和相关机构决定对在第 63 届税务师考试中发现有 AI 作弊行为的第一名…",
-      "pubDate": "2026-11-15T13:42:51.000Z",
+      "summary": "<p data-vmark=\"e9c7\">IT之家 11 月 16 日消息，11 月 16 日，腾讯文化发布《总办号召 AI 时代再创业，“心态归零”》一文，谈到了引发舆论热议的腾讯司庆讲话内容。</p><p data-vmark=\"a9bd\">腾讯文化表示，公司 28 岁生日这天，把一年一度的总办 LinkTime 做成了一档特别的播客 —— 和总办们坐在…",
+      "pubDate": "2026-11-16T02:03:09.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1794748614000",
+      "id": "it之家-1794794008000",
       "region": "domestic",
-      "title": "开源盘古模型 openPangu-2.1-Pro 上线华为云，围绕 Agent 开发、AI 编码、推理优化方向能力升级",
-      "url": "https://www.ithome.com/1/027/450.htm",
+      "title": "华为小艺 AI 会员正式上线：体验版赠送 200 积分、49 元起含 1000 积分，Work 订阅用户可 0 元升级",
+      "url": "https://www.ithome.com/1/027/506.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"047b\">IT之家 11 月 15 日消息，华为云今日宣布，华为云 MaaS 模型即服务平台正式上线开源盘古模型 openPangu-2.1-Pro。</p><p data-vmark=\"58b2\">该模型围绕 <strong>Agent 开发、AI 编码和推理优化</strong>三大方向进行能力升级，在深度研究、鸿蒙系统操…",
-      "pubDate": "2026-11-15T13:16:54.000Z",
+      "summary": "<p data-vmark=\"6ced\">IT之家 11 月 16 日消息，华为官方刚刚宣布小艺 AI 订阅服务正式上线，支持多场景高阶 AI 能力，开通即享 50GB 起云空间。</p><p data-vmark=\"046a\">此前分散在“小艺 Work”等产品线中的付费能力，被整合进一套三级会员权益体系，用户可在小艺设置页面直接查看 AI 积分余额、消耗…",
+      "pubDate": "2026-11-16T01:53:28.000Z",
       "isFallback": false
     },
     {
@@ -58,23 +58,43 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1794764863000",
+      "id": "google-news-ai-1794797398000",
       "region": "abroad",
-      "title": "US and allies sign accord to protect AI supply chains from China - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeVM3Y2hkVkZKUTFFcUhkRUJlX3pWbFBGZlZ6QW1tMjJTUUZ5WUgtS0lWMmh5V3YweURabUtma0pDeTBNM0M1cTYtUkQwcDhrODFmM0RPdmoxYzNZYldpdmxKN0ROTVNmMFhOZ3dpVFpnQ2VSUkRyOWtnaG9udTNpbTdRemg?oc=5",
+      "title": "Larson: AI’s math breakthroughs are a warning — pause the AI race now - Brown Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQXJoVlRhZWp4bWZISVZSUkJ6QlVpTk5QS3ZycFlCNVQ0Y1FwYkxfNUNsbHRYbENnV3NvdGJ4S2Rud3NveG15WGh2UW9DYnBmelJpaFduRk9xRzlMdWZXRWV5eHNaQ2R1Zk52c3ZLcWdjWWtfRlZ4UlhRd3l0c2FvN1RyMnptcEFGZDFGSEtvclpEREtRYngwN3M5c1Z6cTU0U2dlallhWkR1Q3MxX3Yydm81N1hLUQ?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPeVM3Y2hkVkZKUTFFcUhkRUJlX3pWbFBGZlZ6QW1tMjJTUUZ5WUgtS0lWMmh5V3YweURabUtma0pDeTBNM0M1cTYtUkQwcDhrODFmM0RPdmoxYzNZYldpdm…",
-      "pubDate": "2026-11-15T17:47:43.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPQXJoVlRhZWp4bWZISVZSUkJ6QlVpTk5QS3ZycFlCNVQ0Y1FwYkxfNUNsbHRYbENnV3NvdGJ4S2Rud3NveG15WGh2UW9DYnBmelJpaFduRk9xRzlMdWZXRW…",
+      "pubDate": "2026-11-16T02:49:58.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1794764077000",
+      "id": "google-news-ai-1794797382000",
       "region": "abroad",
-      "title": "Governed Knowledge: The Key to AI-Driven Supply Chains - Supply & Demand Chain Executive",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS3NMdWViZThRUUd5b2pycDRqNXhZOUdVMnVURkU4b0JyOHZDQlBXRkl4X1RKZGJxVHZta1FoV0RRVWI1cV9aTEhqbVlHb3dJUzhLT0pvVE5OZkhOOTFUYzRiMjEzMDEtcjdHc2VKbnhxOWhCazRjeHowYmRqNDNBSXN4MHlDQ1dkTWhEWXlIZFN5UUZyZUxOaFJUNFd4a2RydVJKRFc3Z2xseW43MFl5S0NHM3dXUTBzN2RUYkh5LVliRUNxOXc0a1h6TzM5ZFpIQzNZ?oc=5",
+      "title": "The Case for Distillation Regulation in the AI Race - Brown Political Review",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbVJLb2p5dXJQSHBKMnktSUVteWZkQnBrUmVtNks4RGVrMmxvMWlQaFBnVUF2ZHdXT0ZGZWFVeEdvaHZIRVc4LWFPR0hOSHpjdHJWS0M5Y3paU0x2TU1rLTVMVmE5cmsybGR5cEJ5XzNKZXc0bzNVcEZUYVQ5V2Fvcml5eFR1c1FRN09NZGtMVWFYaG1lem0tV1FVUHVFX2p3V2YzY0ozYXhVazNhVE9FZERmYm1GNGxPaDFWODZmS0w5azZ5RzF4M0VlOA?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS3NMdWViZThRUUd5b2pycDRqNXhZOUdVMnVURkU4b0JyOHZDQlBXRkl4X1RKZGJxVHZta1FoV0RRVWI1cV9aTEhqbVlHb3dJUzhLT0pvVE5OZkhOOTFUYz…",
-      "pubDate": "2026-11-15T17:34:37.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQbVJLb2p5dXJQSHBKMnktSUVteWZkQnBrUmVtNks4RGVrMmxvMWlQaFBnVUF2ZHdXT0ZGZWFVeEdvaHZIRVc4LWFPR0hOSHpjdHJWS0M5Y3paU0x2TU1rLT…",
+      "pubDate": "2026-11-16T02:49:42.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1794792600000",
+      "region": "abroad",
+      "title": "Apple launches new app to study how people use AI for health",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-11-16T01:30:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1794785400000",
+      "region": "abroad",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-11-15T23:30:00.000Z",
       "isFallback": false
     },
     {
@@ -85,26 +105,6 @@
       "source": "Wired AI",
       "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
       "pubDate": "2026-11-15T12:00:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1794740400000",
-      "region": "abroad",
-      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
-      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-      "source": "Wired AI",
-      "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
-      "pubDate": "2026-11-15T11:00:00.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1794701287000",
-      "region": "abroad",
-      "title": "Where was Nvidia’s security team?",
-      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-11-15T00:08:07.000Z",
       "isFallback": false
     }
   ]
