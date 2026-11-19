@@ -1,48 +1,48 @@
 {
   "meta": {
     "date": "2026-11-19",
-    "updatedAt": "2026-11-18T19:26:16.127Z",
+    "updatedAt": "2026-11-19T04:15:26.397Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1795022446000",
+      "id": "it之家-1795059772000",
       "region": "domestic",
-      "title": "华为 WATCH Air 真机曝光：方形设计、钛金属表体，消息称续航可达 5 天",
-      "url": "https://www.ithome.com/1/029/127.htm",
+      "title": "英伟达回应“黄仁勋离任会打乱 AI 芯片供货”疑虑：需求仍强劲，产品按计划推进",
+      "url": "https://www.ithome.com/1/029/234.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"336a\">IT之家 11 月 19 日消息，华为 WATCH Air 真机谍照已在各大平台曝光。画面显示，新表至少提供两种表带款式可选，包括运动硅胶表带和金属米兰尼斯表带。</p><p style=\"text-align: center;\" data-vmark=\"ef99\"><img src=\"https://img.ith…",
-      "pubDate": "2026-11-18T17:20:46.000Z",
+      "summary": "<p data-vmark=\"f5a3\">IT之家 11 月 19 日消息，行业媒体 Digitimes 今天（11 月 19 日）发布博文，报道称在最新财报电话会议上，针对“换帅是否会打乱 AI 芯片供货”疑虑，<strong>英伟达临时首席执行官科莱特 · 克雷斯（Colette Kress）表示，公司业务照常开展。</strong></p><p dat…",
+      "pubDate": "2026-11-19T03:42:52.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1795016159000",
+      "id": "it之家-1795057865000",
       "region": "domestic",
-      "title": "消息称 Anthropic 考虑扩大 IPO 规模，散户认购意向接近千亿美元",
-      "url": "https://www.ithome.com/1/029/121.htm",
+      "title": "最高 853.33% 提升：《GTA 6》PS5 Pro 画面经 AI 加持，帧率飙到 286 FPS",
+      "url": "https://www.ithome.com/1/029/200.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"4797\">IT之家 11 月 18 日消息，北京时间今天（18 日）晚间，据美国 CNBC 援引知情人士消息称，Anthropic 考虑扩大 IPO 发行规模，并可能将发行价定在<strong>远高于 80 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 534.4 元人民币）</s…",
-      "pubDate": "2026-11-18T15:35:59.000Z",
+      "summary": "<p data-vmark=\"bc0b\">IT之家 11 月 19 日消息，游戏媒体 GameGPU 昨日（11 月 18 日）发布博文，测试将索尼 PS5 Pro 的 4K 输出信号接入外置采集卡，<strong>再由 PC 处理后，《侠盗猎车手 VI》（GTA 6）游戏帧率从原生 30 FPS 提升至约 262~286 FPS，提升 773.33%~85…",
+      "pubDate": "2026-11-19T03:11:05.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1794994915000",
+      "id": "量子位-1795057305000",
       "region": "domestic",
-      "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
-      "url": "https://www.qbitai.com/2026/11/510922.html",
+      "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+      "url": "https://www.qbitai.com/2026/11/511071.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-11-18T09:41:55.000Z",
+      "pubDate": "2026-11-19T03:01:45.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1794988409000",
+      "id": "量子位-1795048000000",
       "region": "domestic",
-      "title": "GPT-6.2难产！OpenAI怕了",
-      "url": "https://www.qbitai.com/2026/11/510914.html",
+      "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+      "url": "https://www.qbitai.com/2026/11/510947.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-11-18T07:53:29.000Z",
+      "pubDate": "2026-11-19T00:26:40.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1795029845000",
+      "id": "google-news-ai-1795060910000",
       "region": "abroad",
-      "title": "Lawmakers call on White House to develop defensive AI cyber systems - The Record from Recorded Future News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zUkw3Rm82dklVNGxMc1dfYkFSOU5MVFB2UUdTVDFZYVRlSEY3akVvODlfN21ORk10dkJCSVZMaVRmaTA4RDdFUTRXclQ0UUI0WUcyX2F5QQ?oc=5",
+      "title": "The world embraced the AI boom. Now many are having regrets. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSmdqUFBoSVBSLWN0bkV5azZKaHkyd2JEblNSaDJ6eFgzUFFYalNIYVdSRkVZZ2hLN2JUQ3pYNVRxeThNcFpKZG9uS1RHR2xfNEVRMWFUd0thaEt0MHdRSWFUaVBkNi00UzlYSGRNNnlESE5PWndjby1iU245WE11d0dsbnh4X1FfbnZldm92OWVTei1kWW5rSXExRUdVeFpBazVHRTNCNy1zOEZfbXRJMnBQZ0JCdw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zUkw3Rm82dklVNGxMc1dfYkFSOU5MVFB2UUdTVDFZYVRlSEY3akVvODlfN21ORk10dkJCSVZMaVRmaTA4RDdFUTRXclQ0UUI0WUcyX2F5QQ?oc=5\" targe…",
-      "pubDate": "2026-11-18T19:24:05.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPSmdqUFBoSVBSLWN0bkV5azZKaHkyd2JEblNSaDJ6eFgzUFFYalNIYVdSRkVZZ2hLN2JUQ3pYNVRxeThNcFpKZG9uS1RHR2xfNEVRMWFUd0thaEt0MHdRSW…",
+      "pubDate": "2026-11-19T04:01:50.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1795029540000",
+      "id": "google-news-ai-1795060903000",
       "region": "abroad",
-      "title": "AI workflow automation: 3 monday.com Elevate insights - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNTJRQWo4VmdvQm1rVzIwbmxEUUJMX2xQTFEyUGZseEZ2RHRRaF8zaHhDVXYzV1V4ODNQaXZGSzUyOFFxbEp0UmQxQVZsS1A2QU1xTkNuM2dFVWVXbEtKUFN6TVE0RkFaVUp0UXpmVWtHQ0VxR054TVRpU1F3Z0tab3EwbE5vN0tpQ2ZkRXluNWFLcTBzMG0tZFJuSTVpSENRdThXRDhsSE9JbFdSUk1xaGlDdzduMjNHT29ZeXdmZWZLOWdrT0Zqd25zVHphakxLUzhR?oc=5",
+      "title": "What’s Worth Learning in an AI World? - The Santa Barbara Independent",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0JTVGRuc2xoaFVSZ2FVY3BkVmZMNE12WDZQalhvdmdwVXlxdVZwTEFQVy1oT2xTaVpMMDZTb01jX3ZxX2hwNkNzVVFIeWJNTDk1eGdKVGt1dlZoZDR3MGhIV3hQM1ZOeklZb0E5QURmcmI4dFJ5V2dJU2ZZSmtxYg?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNTJRQWo4VmdvQm1rVzIwbmxEUUJMX2xQTFEyUGZseEZ2RHRRaF8zaHhDVXYzV1V4ODNQaXZGSzUyOFFxbEp0UmQxQVZsS1A2QU1xTkNuM2dFVWVXbEtKUF…",
-      "pubDate": "2026-11-18T19:19:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0JTVGRuc2xoaFVSZ2FVY3BkVmZMNE12WDZQalhvdmdwVXlxdVZwTEFQVy1oT2xTaVpMMDZTb01jX3ZxX2hwNkNzVVFIeWJNTDk1eGdKVGt1dlZoZDR3MG…",
+      "pubDate": "2026-11-19T04:01:43.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1795025045000",
+      "id": "techcrunch-ai-1795048976000",
       "region": "abroad",
-      "title": "Google’s AI feature in Search gets its own incognito mode",
-      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-18T18:04:05.000Z",
+      "pubDate": "2026-11-19T00:42:56.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1795023187000",
+      "id": "techcrunch-ai-1795045500000",
       "region": "abroad",
-      "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
-      "url": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-11-18T23:45:00.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1795040183000",
+      "region": "abroad",
+      "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
+      "url": "https://www.wired.com/story/guys-really-we-got-this/",
       "source": "Wired AI",
-      "summary": "Interim CEO Collette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
-      "pubDate": "2026-11-18T17:33:07.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1795023130000",
-      "region": "abroad",
-      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
-      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-11-18T17:32:10.000Z",
+      "summary": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
+      "pubDate": "2026-11-18T22:16:23.000Z",
       "isFallback": false
     }
   ]
