@@ -1,38 +1,48 @@
 {
   "meta": {
-    "date": "2026-11-20",
-    "updatedAt": "2026-11-20T04:01:55.082Z",
+    "date": "2026-11-21",
+    "updatedAt": "2026-11-20T19:09:08.134Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1795145230000",
+      "id": "it之家-1795189066000",
       "region": "domestic",
-      "title": "三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码",
-      "url": "https://www.ithome.com/1/029/833.htm",
+      "title": "AI 攻克黎曼猜想？Anthropic 数学家宣称已与 Claude 合作完成证明",
+      "url": "https://www.ithome.com/1/030/278.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"defc\">IT之家 11 月 20 日消息，科技媒体 SammyGuru 昨日（11 月 19 日）报道，<strong>称三星正在积极推进自研 Gauss 系列 AI 模型，在 One UI 9.5 首个 Beta 测试版中，发现了 Gauss 4 E2B 模型踪迹。</strong></p><p data-vmark=\"b…",
-      "pubDate": "2026-11-20T03:27:10.000Z",
+      "summary": "<p data-vmark=\"0113\">IT之家 11 月 20 日消息，据《科学美国人》报道，当地时间 20 日，Anthropic 数学家莱文特 · 阿尔波格宣称，自己与 AI 模型 Claude 合作，攻克了数学界最著名的难题之一 —— 黎曼猜想。</p><p data-vmark=\"c1ae\">阿尔波格在个人网站发表声明称：“我相信，<strong…",
+      "pubDate": "2026-11-20T15:37:46.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1795144283000",
+      "id": "it之家-1795189046000",
       "region": "domestic",
-      "title": "三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能",
-      "url": "https://www.ithome.com/1/029/826.htm",
+      "title": "明基 AK900ST AI 高尔夫投影机发售：6000lm 亮度、短焦镜头设计，52999 元",
+      "url": "https://www.ithome.com/1/030/277.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"b33c\">IT之家 11 月 20 日消息，科技媒体 sammyguru 昨日（11 月 19 日）发布博文，通过挖掘 One UI 9.5 首个 Beta 测试版，发现了三星安卓笔记本的更多线索，<strong>有望适配智能简报 Now Brief、主动建议功能 Now Nudge 等 AI 功能。</strong></p>…",
-      "pubDate": "2026-11-20T03:11:23.000Z",
+      "summary": "<p data-vmark=\"dd0a\">IT之家 11 月 20 日消息，明基旗下 AK900ST“AI 高尔夫投影机”现已在京东发售，该产品专为高尔夫模拟及多场景娱乐打造，定价为 52999 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/o1REKUg\" target=\"_bla…",
+      "pubDate": "2026-11-20T15:37:26.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1795136858000",
+      "id": "量子位-1795161898000",
       "region": "domestic",
-      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
-      "url": "https://www.qbitai.com/2026/11/511426.html",
+      "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+      "url": "https://www.qbitai.com/2026/11/511610.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-11-20T01:07:38.000Z",
+      "pubDate": "2026-11-20T08:04:58.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1795155366000",
+      "region": "domestic",
+      "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
+      "url": "https://www.qbitai.com/2026/11/511603.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-11-20T06:16:06.000Z",
       "isFallback": false
     },
     {
@@ -44,67 +54,57 @@
       "summary": "Google Play 将强制要求应用适配折叠屏，微软宣布 Microsoft To Do 将于明年 6 月全面停用等。<a href=\"https://sspai.com/post/119311\" target=\"_blank\">查看全文</a>",
       "pubDate": "2026-11-20T00:34:31.000Z",
       "isFallback": false
-    },
-    {
-      "id": "量子位-1795077790000",
-      "region": "domestic",
-      "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
-      "url": "https://www.qbitai.com/2026/11/511258.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-11-19T08:43:10.000Z",
-      "isFallback": false
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1795146627000",
+      "id": "google-news-ai-1795201617000",
       "region": "abroad",
-      "title": "California Proposes AI 'Kill Switch' and Mandatory Safety Oversight - Law Commentary",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOEJ3cUVSY1E2dkFCak5MWUR3YVRpeXl4cXp1VWlwanFWb0tLY0o3NVhGZWl4dkVLelkwNkpaUGhuanZwZS1TQ3FrVUZmbl9sVnl1X0ZzSVFOTU9wcWNLYWhrS1VuRk9yckFrbGlieF9QZXNFZUd1LWdoSTFNOV94Qm4wd3FoZllLU19jSk1TeGhORGdsT0E?oc=5",
+      "title": "House Advances Bill to Track Artificial Intelligence in Jobs - Legis1",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aN0ZScUJQZGQ1RE9fX09MZTM2dUNhakFDUFdacDIyQ0Z2ZWktaFd3ZzZsc1FyZUszRnRxU2NyQTdXZXRsWGk3SzJ6Z1o4YnNOQ09YTEM1LUJLWnV2ZDQ3cDl6bWo3Wm1tak9vRS1tLXRJT3JMUm5V?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNOEJ3cUVSY1E2dkFCak5MWUR3YVRpeXl4cXp1VWlwanFWb0tLY0o3NVhGZWl4dkVLelkwNkpaUGhuanZwZS1TQ3FrVUZmbl9sVnl1X0ZzSVFOTU9wcWNLYW…",
-      "pubDate": "2026-11-20T03:50:27.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1aN0ZScUJQZGQ1RE9fX09MZTM2dUNhakFDUFdacDIyQ0Z2ZWktaFd3ZzZsc1FyZUszRnRxU2NyQTdXZXRsWGk3SzJ6Z1o4YnNOQ09YTEM1LUJLWnV2ZDQ3cD…",
+      "pubDate": "2026-11-20T19:06:57.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1795146368000",
+      "id": "google-news-ai-1795201574000",
       "region": "abroad",
-      "title": "Asia shares drop on AI worries, echoing Wall Street's decline despite the strong Anthropic debut - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDFuQ2FwRnFGN25xaHdfM0hYd2ppck1KX0ZJYjNuZHhMeTZCVHI5UDZGLXNudjFTMWJaRUtTei0xT2Y4VV9jYUY0aHM4dDhnUHd1WUNNalpEUlNOdFJZNlBhNE5jVzZlRHhvSkJoRkpUTW8wN0dhLU1vYy1EOTNBRzJWOXJ6UDlhNktrZDZyZVZZdXc5cEVBaUtyZWU5QdIBowFBVV95cUxQZXFBbDV1VHI0QXVmUHNFb3hRTkdYYWtUcWJ5Uk1jeUcxcmw1ZTJSQi1JR2k0MFFJQ2FHU3FOVWV3NElzNVJIMXRFVEU5SS1uUW1xYzA4VEhJektfV0g2d293N0x1SmZLWmcwQmRTRDNJcjRIN2RWczVzVTJzNDN3U3Jxd3l2OW8tRFBXMXlMQVFWMkJNcnZCb0txN2ZzbEc0VmRF?oc=5",
+      "title": "Can AI help scientists identify promising drug candidates? - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzVkJrREJfWEZLdktLTUZSRjJqcXYtNnhURkNWWHhzZmZ2bF9nRW1OSWFkOXNOamRpSVRhRS1YYWlYYVlHS3poRE9NU3VKU0lnYWF5VGJ1R3FoVDg2WEI4?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPMDFuQ2FwRnFGN25xaHdfM0hYd2ppck1KX0ZJYjNuZHhMeTZCVHI5UDZGLXNudjFTMWJaRUtTei0xT2Y4VV9jYUY0aHM4dDhnUHd1WUNNalpEUlNOdFJZNl…",
-      "pubDate": "2026-11-20T03:46:08.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzVkJrREJfWEZLdktLTUZSRjJqcXYtNnhURkNWWHhzZmZ2bF9nRW1OSWFkOXNOamRpSVRhRS1YYWlYYVlHS3poRE9NU3VKU0lnYWF5VGJ1R3FoVDg2WEI4?o…",
+      "pubDate": "2026-11-20T19:06:14.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1795136161000",
+      "id": "mit-tech-review-ai-1795198515000",
       "region": "abroad",
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Tech Review AI",
+      "summary": "",
+      "pubDate": "2026-11-20T18:15:15.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1795196401000",
+      "region": "abroad",
+      "title": "Chips can survive the space environment — can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-20T00:56:01.000Z",
+      "pubDate": "2026-11-20T17:40:01.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1795135430000",
+      "id": "techcrunch-ai-1795186544000",
       "region": "abroad",
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-20T00:43:50.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1795125421000",
-      "region": "abroad",
-      "title": "What’s With All These Outages?",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
-      "source": "Wired AI",
-      "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jen…",
-      "pubDate": "2026-11-19T21:57:01.000Z",
+      "pubDate": "2026-11-20T14:55:44.000Z",
       "isFallback": false
     }
   ]
