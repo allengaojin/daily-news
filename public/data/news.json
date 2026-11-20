@@ -1,28 +1,48 @@
 {
   "meta": {
     "date": "2026-11-20",
-    "updatedAt": "2026-11-19T19:31:17.020Z",
+    "updatedAt": "2026-11-20T04:01:55.082Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1795103453000",
+      "id": "it之家-1795145230000",
       "region": "domestic",
-      "title": "Anthropic 完成史上最大规模 IPO，上市估值达 1.5 万亿美元",
-      "url": "https://www.ithome.com/1/029/708.htm",
+      "title": "三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码",
+      "url": "https://www.ithome.com/1/029/833.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"1c60\">IT之家 11 月 19 日消息，北京时间今天（19 日）深夜，AI 初创企业 Anthropic 正式登陆美股，以 813 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 5,431.47 亿元人民币）</span>的募资额创下 IPO 历史纪录。</p><p data…",
-      "pubDate": "2026-11-19T15:50:53.000Z",
+      "summary": "<p data-vmark=\"defc\">IT之家 11 月 20 日消息，科技媒体 SammyGuru 昨日（11 月 19 日）报道，<strong>称三星正在积极推进自研 Gauss 系列 AI 模型，在 One UI 9.5 首个 Beta 测试版中，发现了 Gauss 4 E2B 模型踪迹。</strong></p><p data-vmark=\"b…",
+      "pubDate": "2026-11-20T03:27:10.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1795101444000",
+      "id": "it之家-1795144283000",
       "region": "domestic",
-      "title": "Nothing 首款 AI 设备外观流出：无屏设计，形似录音笔",
-      "url": "https://www.ithome.com/1/029/705.htm",
+      "title": "三星安卓笔记本再曝细节：让 App 适配键鼠操作，整合手机端 AI 技能",
+      "url": "https://www.ithome.com/1/029/826.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"a7da\">IT之家 11 月 19 日消息，瑞典 EDM 组合 Swedish House Mafia 成员 Sebastian Ingrosso 最近在 X 平台发文，分享一款神秘设备并 @nothing。</p><p data-vmark=\"6272\" style=\"text-align: center;\"><img sr…",
-      "pubDate": "2026-11-19T15:17:24.000Z",
+      "summary": "<p data-vmark=\"b33c\">IT之家 11 月 20 日消息，科技媒体 sammyguru 昨日（11 月 19 日）发布博文，通过挖掘 One UI 9.5 首个 Beta 测试版，发现了三星安卓笔记本的更多线索，<strong>有望适配智能简报 Now Brief、主动建议功能 Now Nudge 等 AI 功能。</strong></p>…",
+      "pubDate": "2026-11-20T03:11:23.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1795136858000",
+      "region": "domestic",
+      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+      "url": "https://www.qbitai.com/2026/11/511426.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-11-20T01:07:38.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "少数派-1795134871000",
+      "region": "domestic",
+      "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
+      "url": "https://sspai.com/post/119311",
+      "source": "少数派",
+      "summary": "Google Play 将强制要求应用适配折叠屏，微软宣布 Microsoft To Do 将于明年 6 月全面停用等。<a href=\"https://sspai.com/post/119311\" target=\"_blank\">查看全文</a>",
+      "pubDate": "2026-11-20T00:34:31.000Z",
       "isFallback": false
     },
     {
@@ -34,77 +54,57 @@
       "summary": "",
       "pubDate": "2026-11-19T08:43:10.000Z",
       "isFallback": false
-    },
-    {
-      "id": "量子位-1795076310000",
-      "region": "domestic",
-      "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
-      "url": "https://www.qbitai.com/2026/11/511180.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-11-19T08:18:30.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "少数派-1794984870000",
-      "region": "domestic",
-      "title": "App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑",
-      "url": "https://sspai.com/post/118732",
-      "source": "少数派",
-      "summary": "转头移动光标，歪头点击，开口说指令。不用摄像头，也不用另外戴什么设备。<a href=\"https://sspai.com/post/118732\" target=\"_blank\">查看全文</a>",
-      "pubDate": "2026-11-18T06:54:30.000Z",
-      "isFallback": false
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1795116595000",
+      "id": "google-news-ai-1795146627000",
       "region": "abroad",
-      "title": "Arizona Opens Criminal Investigation Into OpenAI For Alleged Rogue AI Agents Infiltrating Banks - Law Commentary",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT2d0VER1Sk1lQ21PODQzUDJQUExyNnpUanZBYTZ0NjZNTUFOeFlvR2xNbC1FNDNaWkZreHFKVHdaaER6YkxJc1M4SHhXOFhOc3RDdXQ1ekMxLVE0dzVIazZkYmkwUGtISC1sbEdEQTFwUlBjWW1kV1pQM1Fwei1qakJQMlU0R0p6a1FXdUI1enluN1JCczhRT19wd21xeUE?oc=5",
+      "title": "California Proposes AI 'Kill Switch' and Mandatory Safety Oversight - Law Commentary",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOEJ3cUVSY1E2dkFCak5MWUR3YVRpeXl4cXp1VWlwanFWb0tLY0o3NVhGZWl4dkVLelkwNkpaUGhuanZwZS1TQ3FrVUZmbl9sVnl1X0ZzSVFOTU9wcWNLYWhrS1VuRk9yckFrbGlieF9QZXNFZUd1LWdoSTFNOV94Qm4wd3FoZllLU19jSk1TeGhORGdsT0E?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQT2d0VER1Sk1lQ21PODQzUDJQUExyNnpUanZBYTZ0NjZNTUFOeFlvR2xNbC1FNDNaWkZreHFKVHdaaER6YkxJc1M4SHhXOFhOc3RDdXQ1ekMxLVE0dzVIaz…",
-      "pubDate": "2026-11-19T19:29:55.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNOEJ3cUVSY1E2dkFCak5MWUR3YVRpeXl4cXp1VWlwanFWb0tLY0o3NVhGZWl4dkVLelkwNkpaUGhuanZwZS1TQ3FrVUZmbl9sVnl1X0ZzSVFOTU9wcWNLYW…",
+      "pubDate": "2026-11-20T03:50:27.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1795116153000",
+      "id": "google-news-ai-1795146368000",
       "region": "abroad",
-      "title": "Nuveen Launches AI Bond ETF as Big Tech Borrowing Climbs - ETF Database",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOWRMWXMxbzNIYlhmN004bnB4bU5xTUJQbjc1ZVBfaEs0UE5LZWFPdlkta1NBZzRSbFVfdWctSXBGOWstejhPYWc0SFMteEQ3Y2lCeC0tYWR6d3l0bmNCdC1CU1N3UUhZV2xvRGY0c3ZFX2RHcHhTOGdWaDFNWjB3NXBwWXByaWg1WndnVDI4WENGbnk3NXBvX21rNktCZw?oc=5",
+      "title": "Asia shares drop on AI worries, echoing Wall Street's decline despite the strong Anthropic debut - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDFuQ2FwRnFGN25xaHdfM0hYd2ppck1KX0ZJYjNuZHhMeTZCVHI5UDZGLXNudjFTMWJaRUtTei0xT2Y4VV9jYUY0aHM4dDhnUHd1WUNNalpEUlNOdFJZNlBhNE5jVzZlRHhvSkJoRkpUTW8wN0dhLU1vYy1EOTNBRzJWOXJ6UDlhNktrZDZyZVZZdXc5cEVBaUtyZWU5QdIBowFBVV95cUxQZXFBbDV1VHI0QXVmUHNFb3hRTkdYYWtUcWJ5Uk1jeUcxcmw1ZTJSQi1JR2k0MFFJQ2FHU3FOVWV3NElzNVJIMXRFVEU5SS1uUW1xYzA4VEhJektfV0g2d293N0x1SmZLWmcwQmRTRDNJcjRIN2RWczVzVTJzNDN3U3Jxd3l2OW8tRFBXMXlMQVFWMkJNcnZCb0txN2ZzbEc0VmRF?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOOWRMWXMxbzNIYlhmN004bnB4bU5xTUJQbjc1ZVBfaEs0UE5LZWFPdlkta1NBZzRSbFVfdWctSXBGOWstejhPYWc0SFMteEQ3Y2lCeC0tYWR6d3l0bmNCdC…",
-      "pubDate": "2026-11-19T19:22:33.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPMDFuQ2FwRnFGN25xaHdfM0hYd2ppck1KX0ZJYjNuZHhMeTZCVHI5UDZGLXNudjFTMWJaRUtTei0xT2Y4VV9jYUY0aHM4dDhnUHd1WUNNalpEUlNOdFJZNl…",
+      "pubDate": "2026-11-20T03:46:08.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1795115445000",
+      "id": "techcrunch-ai-1795136161000",
       "region": "abroad",
-      "title": "Anthropic’s IPO could deliver $156 billion to charity",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-19T19:10:45.000Z",
+      "pubDate": "2026-11-20T00:56:01.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1795111751000",
+      "id": "techcrunch-ai-1795135430000",
       "region": "abroad",
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-19T18:09:11.000Z",
+      "pubDate": "2026-11-20T00:43:50.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1795107600000",
+      "id": "wired-ai-1795125421000",
       "region": "abroad",
-      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-      "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+      "title": "What’s With All These Outages?",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
       "source": "Wired AI",
-      "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
-      "pubDate": "2026-11-19T17:00:00.000Z",
+      "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jen…",
+      "pubDate": "2026-11-19T21:57:01.000Z",
       "isFallback": false
     }
   ]
