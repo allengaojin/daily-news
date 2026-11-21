@@ -1,28 +1,28 @@
 {
   "meta": {
     "date": "2026-11-21",
-    "updatedAt": "2026-11-20T19:09:08.134Z",
+    "updatedAt": "2026-11-21T04:01:51.479Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1795189066000",
+      "id": "it之家-1795231475000",
       "region": "domestic",
-      "title": "AI 攻克黎曼猜想？Anthropic 数学家宣称已与 Claude 合作完成证明",
-      "url": "https://www.ithome.com/1/030/278.htm",
+      "title": "腾讯混元姚顺雨团队：Hy4 仍有很大改进空间，计划训练更大规模模型",
+      "url": "https://www.ithome.com/1/030/338.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"0113\">IT之家 11 月 20 日消息，据《科学美国人》报道，当地时间 20 日，Anthropic 数学家莱文特 · 阿尔波格宣称，自己与 AI 模型 Claude 合作，攻克了数学界最著名的难题之一 —— 黎曼猜想。</p><p data-vmark=\"c1ae\">阿尔波格在个人网站发表声明称：“我相信，<strong…",
-      "pubDate": "2026-11-20T15:37:46.000Z",
+      "summary": "<p data-vmark=\"738b\">IT之家 11 月 21 日消息，11 月 21 日凌晨，腾讯首席 AI 科学家、混元大模型负责人姚顺雨和团队成员，在 Reddit 进行了一场持续 120 分钟的 AMA，回答全球开发者关于混元的“任何问题”。</p><p data-vmark=\"d183\">问答环节，有人询问：字节跳动、Kimi 等似乎都在往 3…",
+      "pubDate": "2026-11-21T03:24:35.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1795189046000",
+      "id": "it之家-1795229960000",
       "region": "domestic",
-      "title": "明基 AK900ST AI 高尔夫投影机发售：6000lm 亮度、短焦镜头设计，52999 元",
-      "url": "https://www.ithome.com/1/030/277.htm",
+      "title": "拯救爆满的“下载”文件夹：微软 Win11 将推 AI 整理神器，授权后可查找 / 分类 / 移动 / 重命名文件",
+      "url": "https://www.ithome.com/1/030/333.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"dd0a\">IT之家 11 月 20 日消息，明基旗下 AK900ST“AI 高尔夫投影机”现已在京东发售，该产品专为高尔夫模拟及多场景娱乐打造，定价为 52999 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/o1REKUg\" target=\"_bla…",
-      "pubDate": "2026-11-20T15:37:26.000Z",
+      "summary": "<p data-vmark=\"0c4d\">IT之家 11 月 21 日消息，科技媒体 Windows Latest 昨日（11 月 20 日）发布博文，报道称在 Ignite 2026 活动中，微软展示 Copilot“本地文件操作”功能，<strong>在征得用户授权后可以查找、分类、移动或重命名本地文件。</strong></p><p data-vmar…",
+      "pubDate": "2026-11-21T02:59:20.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1795201617000",
+      "id": "google-news-ai-1795232901000",
       "region": "abroad",
-      "title": "House Advances Bill to Track Artificial Intelligence in Jobs - Legis1",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aN0ZScUJQZGQ1RE9fX09MZTM2dUNhakFDUFdacDIyQ0Z2ZWktaFd3ZzZsc1FyZUszRnRxU2NyQTdXZXRsWGk3SzJ6Z1o4YnNOQ09YTEM1LUJLWnV2ZDQ3cDl6bWo3Wm1tak9vRS1tLXRJT3JMUm5V?oc=5",
+      "title": "Using AI, mathematician claims to have solved one of math’s great mysteries - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWnR2Ny1uWG1YVUdRQmI2QlEyUkFoalhFZFp3Rng1ZWVlRVR4SHVzaHFnRnZuNWFfRmM5YkpVNFJCSmNHWFk2WDJia1lfOG1mYVY5MHZjY2F1d05XMlhHRUVlVklvc2RiWUR4aURGLWh4MGJMZWFsOW1Obm0taDVHek54Tk1GckZpYl80QXRncVNIbmxLdHlWUkZqMGJfSktFQ0hFV1VJWVQzZDZjbHN6Z3I0LS1aVGNJTElMZ2QzWHo2QQ?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1aN0ZScUJQZGQ1RE9fX09MZTM2dUNhakFDUFdacDIyQ0Z2ZWktaFd3ZzZsc1FyZUszRnRxU2NyQTdXZXRsWGk3SzJ6Z1o4YnNOQ09YTEM1LUJLWnV2ZDQ3cD…",
-      "pubDate": "2026-11-20T19:06:57.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWnR2Ny1uWG1YVUdRQmI2QlEyUkFoalhFZFp3Rng1ZWVlRVR4SHVzaHFnRnZuNWFfRmM5YkpVNFJCSmNHWFk2WDJia1lfOG1mYVY5MHZjY2F1d05XMlhHRU…",
+      "pubDate": "2026-11-21T03:48:21.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1795201574000",
+      "id": "google-news-ai-1795231560000",
       "region": "abroad",
-      "title": "Can AI help scientists identify promising drug candidates? - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzVkJrREJfWEZLdktLTUZSRjJqcXYtNnhURkNWWHhzZmZ2bF9nRW1OSWFkOXNOamRpSVRhRS1YYWlYYVlHS3poRE9NU3VKU0lnYWF5VGJ1R3FoVDg2WEI4?oc=5",
+      "title": "Spanish Fort lawyer drops appeal of sanctions over AI-generated fake case citations - fox10tv.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdExWWWtGcG9jMWxJOU0wQ0loMVF5ank5R0QtUDFfR2JjMk8zMUFFUmxjbVFRcHJhd09pWmFiNEdoSExBVTJ0Nk1YRjNWNGV2SFJQU0ExU19udlpBanRHVkRzaEh6d3h2TmtqSUFOMkU2TElIdWFrRS1RTi1rdGF6eVlPbDBEcGxZVERIdkFEUWJpOGlmQndCeHF1R2pHZnhxR2pxLUdQZWhPRmRHbGEyNWRvX00zS1VxNm84bFM2QQ?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzVkJrREJfWEZLdktLTUZSRjJqcXYtNnhURkNWWHhzZmZ2bF9nRW1OSWFkOXNOamRpSVRhRS1YYWlYYVlHS3poRE9NU3VKU0lnYWF5VGJ1R3FoVDg2WEI4?o…",
-      "pubDate": "2026-11-20T19:06:14.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOdExWWWtGcG9jMWxJOU0wQ0loMVF5ank5R0QtUDFfR2JjMk8zMUFFUmxjbVFRcHJhd09pWmFiNEdoSExBVTJ0Nk1YRjNWNGV2SFJQU0ExU19udlpBanRHVk…",
+      "pubDate": "2026-11-21T03:26:00.000Z",
       "isFallback": false
     },
     {
-      "id": "mit-tech-review-ai-1795198515000",
+      "id": "wired-ai-1795217042000",
       "region": "abroad",
-      "title": "The most misunderstood graph in AI just got a major update",
-      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-      "source": "MIT Tech Review AI",
-      "summary": "",
-      "pubDate": "2026-11-20T18:15:15.000Z",
+      "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+      "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+      "source": "Wired AI",
+      "summary": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the mem…",
+      "pubDate": "2026-11-20T23:24:02.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1795196401000",
+      "id": "techcrunch-ai-1795204421000",
       "region": "abroad",
-      "title": "Chips can survive the space environment — can their financing?",
-      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-20T17:40:01.000Z",
+      "pubDate": "2026-11-20T19:53:41.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1795186544000",
+      "id": "wired-ai-1795204341000",
       "region": "abroad",
-      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-11-20T14:55:44.000Z",
+      "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+      "source": "Wired AI",
+      "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’…",
+      "pubDate": "2026-11-20T19:52:21.000Z",
       "isFallback": false
     }
   ]
