@@ -1,48 +1,48 @@
 {
   "meta": {
-    "date": "2026-11-22",
-    "updatedAt": "2026-11-22T03:16:50.831Z",
+    "date": "2026-11-23",
+    "updatedAt": "2026-11-22T18:34:10.158Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1795314710000",
+      "id": "it之家-1795360555000",
       "region": "domestic",
-      "title": "Anthropic 数学家 AI 攻克黎曼猜想？Lean 社区通过核验，数十人报告代码库编译正确",
-      "url": "https://www.ithome.com/1/030/547.htm",
+      "title": "美国初创企业公布 AI 自研 CPU 架构 Frostbite，能效是传统处理器的 4.59 倍",
+      "url": "https://www.ithome.com/1/030/717.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"0827\">IT之家 11 月 22 日消息，11 月 21 日，Lean 与 Mathlib 社区发布联合声明，称莱文特・阿尔波格（Levent Alpöge）以 Lean 库形式给出的黎曼猜想证明已经通过核验，<strong>该证明的代码约 1700 万行</strong>。（IT 之家注：Lean 是交互式定理证明器，可逐…",
-      "pubDate": "2026-11-22T02:31:50.000Z",
+      "summary": "<p data-vmark=\"4f91\">IT之家 11 月 22 日消息，美国加利福尼亚州帕洛阿尔托的初创公司 Architect Labs 在一篇研究博客中宣布，其人工智能系统已经自主发现、设计并验证了一款名为 Frostbite 的通用 CPU。这款处理器采用全新的指令集，从底层开始重新设计，试图摆脱传统 CPU 的部分架构限制。</p><p styl…",
+      "pubDate": "2026-11-22T15:15:55.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1795311730000",
+      "id": "it之家-1795357457000",
       "region": "domestic",
-      "title": "试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评",
-      "url": "https://www.ithome.com/1/030/540.htm",
+      "title": "Oracle：已确保履行与 OpenAI 合同全部所需资金",
+      "url": "https://www.ithome.com/1/030/715.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"45b0\">IT之家 11 月 22 日消息，11 月 21 日晚，国家中医药管理局中医师资格认证中心通过官方公众号发布声明称，该中心从未公开历年真题，未与任何大模型企业合作，亦未开展测评。</p><p data-vmark=\"f5cf\">声明称，中心从未以任何形式向社会公开、发布或出售中医类别医师资格考试历年试题（含真题、原题…",
-      "pubDate": "2026-11-22T01:42:10.000Z",
+      "summary": "<p data-vmark=\"dfea\">IT之家 11 月 22 日消息，Oracle（甲骨文）当地时间本月 20 日表示，<strong>该企业已在本月初筹集到了履行与 OpenAI 交易的全部所需资金</strong>，与供应商进行的任何进一步私下讨论仅为补充选项。</p><p data-vmark=\"a0a0\" style=\"text-align: …",
+      "pubDate": "2026-11-22T14:24:17.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1795242959000",
+      "id": "量子位-1795328507000",
       "region": "domestic",
-      "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
-      "url": "https://www.qbitai.com/2026/11/511779.html",
+      "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+      "url": "https://www.qbitai.com/2026/11/511904.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-11-21T06:35:59.000Z",
+      "pubDate": "2026-11-22T06:21:47.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1795242751000",
+      "id": "量子位-1795327434000",
       "region": "domestic",
-      "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
-      "url": "https://www.qbitai.com/2026/11/511570.html",
+      "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+      "url": "https://www.qbitai.com/2026/11/511870.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-11-21T06:32:31.000Z",
+      "pubDate": "2026-11-22T06:03:54.000Z",
       "isFallback": false
     },
     {
@@ -58,23 +58,43 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1795317000000",
+      "id": "google-news-ai-1795371882000",
       "region": "abroad",
-      "title": "MIT panel challenges how mathematicians earn credit in the AI era - Superpower Daily",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWndUZ0FUWlB4NHV2bktvZWJpZnY0NG5sNHY3WTFWMmo3b2dVaUNfVml0TjBNMnZBRFVGNU1MMkZCcWFuWlJ2NEIwc2hyN2FidjVhektDRmk0b0lUTXFmSnpqdVh3bjFXT2pFbzROal9hSEVuM2tReUN2Zk9KcFIzS1p5WHVhTTdQNHY1VlFpTVlmNWpLY0lCZWlBV25TUUN6?oc=5",
+      "title": "Signal Is Blocking AI Agents From Reading Your Screen - Security Affairs",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOXlLaURHYWlxOG1ZWmNrRXppRUYxY1A4aG50dnFNTTZvMWNRbmRqSjZBYlpaNWdEbFpVaXAtbXlKSXpsRmlBSTRqdm0xR2IybzdBazh1QjBvVVZManNFdzFMY0JvaXRnZzlmYW5OREJseUxlTERDaFZKT0QxM0RGRU16d0dkeW5vSGtVcThQLVR0UkN4YXUtVEJWYU7SAaIBQVVfeXFMT0ViVkJhek9LWXlFM2FhVUxEYmFodlhNS2xTMG1OOG9VTndjMDJVSDhIZ1pSRW5fNU5ab3U5NVA5aEJwd2ZRbHhLa1JYYlBWRmhSVE1pcm5oV2F2cUZSUmpWdFpmMlZSM3FtQ2ZLTmctMVZhdEVpTVpVN3FyWlZYaGdEUS1YZkY0Z3NQOU1NanpkUHlXUWxIQTYwNXRIZ2xkdTVB?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQWndUZ0FUWlB4NHV2bktvZWJpZnY0NG5sNHY3WTFWMmo3b2dVaUNfVml0TjBNMnZBRFVGNU1MMkZCcWFuWlJ2NEIwc2hyN2FidjVhektDRmk0b0lUTXFmSn…",
-      "pubDate": "2026-11-22T03:10:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNOXlLaURHYWlxOG1ZWmNrRXppRUYxY1A4aG50dnFNTTZvMWNRbmRqSjZBYlpaNWdEbFpVaXAtbXlKSXpsRmlBSTRqdm0xR2IybzdBazh1QjBvVVZManNFdz…",
+      "pubDate": "2026-11-22T18:24:42.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1795316400000",
+      "id": "google-news-ai-1795371866000",
       "region": "abroad",
-      "title": "Fullmetal Alchemist Director Says Generative AI Is Failing to Deliver on Its Biggest Promise - Comic Book Resources",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONE1mTlFRa1pRNFhvbkVsS1NKZWZpMXRGQ0tFVzRDRW5hWTVoMk9PaUEyUW0xYTE3SDNyZDEyOTlkeWFoMUUtUW1BQVBNTm9PeHQ1YVh6ODFfa1FOdUNIc3VFbS1CeG1wREtpV2VQX1cyV0RFS2VWdkdEbWNNd3g0RDl3?oc=5",
+      "title": "The Week Ahead: PCE in Focus After AI Sell-Off in Holiday-Shortened Week - FXEmpire",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObVExWGRGR2JubE9DTGVtOXFDUDZBak1rMjBaTmpXb2JSYXFkZ21jM0NXWEJ2bkZQRHd2bXZxR2V0TWlvbGhuZVZQd0x0NTFKTG9VZll5LVBlQzZyM01vWVhkaDROUTVCOWxuUnJEamxOWXByZEMycEFtWjVNR1Q0cEVabDBCVlgyZzdGRTFhak13djE2RjFkck5fN1lucUJqXzBnRnNQMVM4ZENVLU92bDcxR1FBU0llVnd1N2liNA?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxONE1mTlFRa1pRNFhvbkVsS1NKZWZpMXRGQ0tFVzRDRW5hWTVoMk9PaUEyUW0xYTE3SDNyZDEyOTlkeWFoMUUtUW1BQVBNTm9PeHQ1YVh6ODFfa1FOdUNIc3…",
-      "pubDate": "2026-11-22T03:00:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxObVExWGRGR2JubE9DTGVtOXFDUDZBak1rMjBaTmpXb2JSYXFkZ21jM0NXWEJ2bkZQRHd2bXZxR2V0TWlvbGhuZVZQd0x0NTFKTG9VZll5LVBlQzZyM01vWV…",
+      "pubDate": "2026-11-22T18:24:26.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1795370923000",
+      "region": "abroad",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-11-22T18:08:43.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "wired-ai-1795345200000",
+      "region": "abroad",
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "source": "Wired AI",
+      "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+      "pubDate": "2026-11-22T11:00:00.000Z",
       "isFallback": false
     },
     {
@@ -85,26 +105,6 @@
       "source": "TechCrunch AI",
       "summary": "",
       "pubDate": "2026-11-21T21:37:10.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1795295262000",
-      "region": "abroad",
-      "title": "A tale of two Nvidias",
-      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-11-21T21:07:42.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1795266000000",
-      "region": "abroad",
-      "title": "The Outages Are Just Getting Started",
-      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
-      "source": "Wired AI",
-      "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
-      "pubDate": "2026-11-21T13:00:00.000Z",
       "isFallback": false
     }
   ]
