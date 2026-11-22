@@ -1,28 +1,28 @@
 {
   "meta": {
     "date": "2026-11-22",
-    "updatedAt": "2026-11-21T18:03:20.433Z",
+    "updatedAt": "2026-11-22T03:16:50.831Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1795271195000",
+      "id": "it之家-1795314710000",
       "region": "domestic",
-      "title": "韩国总统李在明：速度在 AI 竞赛中至关重要",
-      "url": "https://www.ithome.com/1/030/506.htm",
+      "title": "Anthropic 数学家 AI 攻克黎曼猜想？Lean 社区通过核验，数十人报告代码库编译正确",
+      "url": "https://www.ithome.com/1/030/547.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"130d\">IT之家 11 月 21 日消息，据路透社报道，当地时间 21 日，韩国总统李在明前往韩国东南部城市蔚山，视察当地一座在建数据中心，并敦促韩国加快在全球 AI 竞赛中的步伐。“<strong>全世界都在竞相角逐，速度至关重要</strong>。”</p><p data-vmark=\"166d\">数据中心是芯片需求的重…",
-      "pubDate": "2026-11-21T14:26:35.000Z",
+      "summary": "<p data-vmark=\"0827\">IT之家 11 月 22 日消息，11 月 21 日，Lean 与 Mathlib 社区发布联合声明，称莱文特・阿尔波格（Levent Alpöge）以 Lean 库形式给出的黎曼猜想证明已经通过核验，<strong>该证明的代码约 1700 万行</strong>。（IT 之家注：Lean 是交互式定理证明器，可逐…",
+      "pubDate": "2026-11-22T02:31:50.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1795261387000",
+      "id": "it之家-1795311730000",
       "region": "domestic",
-      "title": "前英特尔 CEO 基辛格：随着 AI 需要“一万倍的效率飞跃”，渐进式芯片性能提升无法满足",
-      "url": "https://www.ithome.com/1/030/464.htm",
+      "title": "试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评",
+      "url": "https://www.ithome.com/1/030/540.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"6157\">IT之家 11 月 21 日消息，据 Wccftech 报道，前英特尔首席执行官帕特 · 基辛格（Pat Gelsinger）表示，随着人工智能需要“<strong>10,000 倍的效率飞跃</strong>”，渐进式的芯片增益将无法满足需求，他同时否认了摩尔定律已走向终结。</p><p data-vmark=\"d…",
-      "pubDate": "2026-11-21T11:43:07.000Z",
+      "summary": "<p data-vmark=\"45b0\">IT之家 11 月 22 日消息，11 月 21 日晚，国家中医药管理局中医师资格认证中心通过官方公众号发布声明称，该中心从未公开历年真题，未与任何大模型企业合作，亦未开展测评。</p><p data-vmark=\"f5cf\">声明称，中心从未以任何形式向社会公开、发布或出售中医类别医师资格考试历年试题（含真题、原题…",
+      "pubDate": "2026-11-22T01:42:10.000Z",
       "isFallback": false
     },
     {
@@ -58,43 +58,43 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1795283520000",
+      "id": "google-news-ai-1795317000000",
       "region": "abroad",
-      "title": "We’ve Found the Only Good AI Chatbot: One So Tiny It Fits on a Single MS-DOS Floppy Disk - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53MzU2cm80aFk3SWZwbXlFQUVKTmFRTEtXbjFjN3pPMmRNeEpZbUM2ODlvX1lCNlNCeVpYNWU1Sl9zUWJZLWdXQ2xRajRmQjFKYmMtekJBUmNadWtIdzFDbjAwQmNIdjFUZTBpNHZnaDZhcUk?oc=5",
+      "title": "MIT panel challenges how mathematicians earn credit in the AI era - Superpower Daily",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWndUZ0FUWlB4NHV2bktvZWJpZnY0NG5sNHY3WTFWMmo3b2dVaUNfVml0TjBNMnZBRFVGNU1MMkZCcWFuWlJ2NEIwc2hyN2FidjVhektDRmk0b0lUTXFmSnpqdVh3bjFXT2pFbzROal9hSEVuM2tReUN2Zk9KcFIzS1p5WHVhTTdQNHY1VlFpTVlmNWpLY0lCZWlBV25TUUN6?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE53MzU2cm80aFk3SWZwbXlFQUVKTmFRTEtXbjFjN3pPMmRNeEpZbUM2ODlvX1lCNlNCeVpYNWU1Sl9zUWJZLWdXQ2xRajRmQjFKYmMtekJBUmNadWtIdzFDbj…",
-      "pubDate": "2026-11-21T17:52:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQWndUZ0FUWlB4NHV2bktvZWJpZnY0NG5sNHY3WTFWMmo3b2dVaUNfVml0TjBNMnZBRFVGNU1MMkZCcWFuWlJ2NEIwc2hyN2FidjVhektDRmk0b0lUTXFmSn…",
+      "pubDate": "2026-11-22T03:10:00.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1795283400000",
+      "id": "google-news-ai-1795316400000",
       "region": "abroad",
-      "title": "Sovereign AI: Where control becomes an architectural requirement - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQl9YcVI5cDJMWHFMMDRoWFNOVEdiX2FLQTQ3YkRrbmRhc2gzSFZHR3pEcjFGSXdsRF9BdXRtLXZsM1Z1bHM1d2hfcjhsWUtNblhLLWFQLWpnX25YV3FWdnNFaS1BZzV1NzBub2VlaW1FaXNCTWVyVktFRnA2QTcwRWRqc1Z4dzc3UHdUdTFTZXQ1ZjJ5ai1PaEk5eVdaeXVmalE?oc=5",
+      "title": "Fullmetal Alchemist Director Says Generative AI Is Failing to Deliver on Its Biggest Promise - Comic Book Resources",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONE1mTlFRa1pRNFhvbkVsS1NKZWZpMXRGQ0tFVzRDRW5hWTVoMk9PaUEyUW0xYTE3SDNyZDEyOTlkeWFoMUUtUW1BQVBNTm9PeHQ1YVh6ODFfa1FOdUNIc3VFbS1CeG1wREtpV2VQX1cyV0RFS2VWdkdEbWNNd3g0RDl3?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPQl9YcVI5cDJMWHFMMDRoWFNOVEdiX2FLQTQ3YkRrbmRhc2gzSFZHR3pEcjFGSXdsRF9BdXRtLXZsM1Z1bHM1d2hfcjhsWUtNblhLLWFQLWpnX25YV3FWdn…",
-      "pubDate": "2026-11-21T17:50:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxONE1mTlFRa1pRNFhvbkVsS1NKZWZpMXRGQ0tFVzRDRW5hWTVoMk9PaUEyUW0xYTE3SDNyZDEyOTlkeWFoMUUtUW1BQVBNTm9PeHQ1YVh6ODFfa1FOdUNIc3…",
+      "pubDate": "2026-11-22T03:00:00.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1795280400000",
+      "id": "techcrunch-ai-1795297030000",
       "region": "abroad",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-21T17:00:00.000Z",
+      "pubDate": "2026-11-21T21:37:10.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1795276800000",
+      "id": "techcrunch-ai-1795295262000",
       "region": "abroad",
-      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "title": "A tale of two Nvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-21T16:00:00.000Z",
+      "pubDate": "2026-11-21T21:07:42.000Z",
       "isFallback": false
     },
     {
