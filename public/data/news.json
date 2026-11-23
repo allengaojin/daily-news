@@ -1,28 +1,48 @@
 {
   "meta": {
-    "date": "2026-11-23",
-    "updatedAt": "2026-11-23T03:47:00.950Z",
+    "date": "2026-11-24",
+    "updatedAt": "2026-11-23T22:43:47.161Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1795403339000",
+      "id": "it之家-1795473441000",
       "region": "domestic",
-      "title": "蚂蚁阿福发布全新 AI 健康手环“福环”和 AI 健康戒指“福戒”",
-      "url": "https://www.ithome.com/1/030/788.htm",
+      "title": "最高提速 290 倍：谷歌让 AI 智能体“开会”优化量子算法，缓解计算资源瓶颈",
+      "url": "https://www.ithome.com/1/031/232.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"c5ee\">IT之家 11 月 23 日现场消息，在今日的蚂蚁阿福医疗健康生态大会上，蚂蚁阿福带来了两款全新的 AI 健康硬件 ——</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"afac\">AI 健康手环 · 福环</p></li><li><p data-vmark…",
-      "pubDate": "2026-11-23T03:08:59.000Z",
+      "summary": "<p data-vmark=\"0000\">IT之家 11 月 24 日消息，谷歌 DeepMind 团队携手谷歌 Quantum AI 团队于昨日（11 月 23 日）发布联合研究成果，<strong>利用多组 Gemini 4 智能体协同工作，并结合形式化数学验证工具 Lean，成功优化了多项量子算法，降低部分量子计算任务的资源需求。</strong></…",
+      "pubDate": "2026-11-23T22:37:21.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1795402614000",
+      "id": "it之家-1795440440000",
       "region": "domestic",
-      "title": "蚂蚁百灵医疗健康大模型宣布开源，最轻量版一台笔记本就能部署",
-      "url": "https://www.ithome.com/1/030/784.htm",
+      "title": "《生化危机》之父三上真司：希望 AI 彻底消失",
+      "url": "https://www.ithome.com/1/031/204.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"6fc9\">IT之家 11 月 23 日现场消息，在今日的蚂蚁阿福医疗健康生态大会上，<strong>蚂蚁百灵医疗健康大模型宣布全面开源</strong>。</p><p style=\"text-align: center;\" data-vmark=\"f4fe\"><img src=\"https://img.ithome.com/n…",
-      "pubDate": "2026-11-23T02:56:54.000Z",
+      "summary": "<p data-vmark=\"a9a9\">IT之家 11 月 23 日消息，今年 3 月底，《生化危机》和《恐龙危机》系列导演三上真司（Shinji Mikami）正式宣布，其创立的游戏工作室 Unbound 已与《剑星》开发商 Shift Up 达成合作，将共同发行他的下一款游戏。11 月 20 日，三上真司与 Shift Up 首席执行官金亨泰（Kim …",
+      "pubDate": "2026-11-23T13:27:20.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1795431675000",
+      "region": "domestic",
+      "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
+      "url": "https://www.qbitai.com/2026/11/512195.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-11-23T11:01:15.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "量子位-1795425008000",
+      "region": "domestic",
+      "title": "XROGO郑随兵：机器人不能只在视频里，终究要进入工厂“真干活”",
+      "url": "https://www.qbitai.com/2026/11/512179.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-11-23T09:10:08.000Z",
       "isFallback": false
     },
     {
@@ -34,77 +54,57 @@
       "summary": "<p>Anthropic 研究员宣称用 Claude 证明黎曼猜想</p><p>OpenAI 公布反蒸馏举措</p><p>黄仁勋据称将攻击下属作为管理方式</p><p>GTA 6 首日销售额近 40 亿美元</p><p>特斯拉升级 FSD，推出实景渲染功能</p><p>AMD 股票被做空</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>…",
       "pubDate": "2026-11-22T23:34:27.000Z",
       "isFallback": false
-    },
-    {
-      "id": "量子位-1795328507000",
-      "region": "domestic",
-      "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
-      "url": "https://www.qbitai.com/2026/11/511904.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-11-22T06:21:47.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1795327434000",
-      "region": "domestic",
-      "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
-      "url": "https://www.qbitai.com/2026/11/511870.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-11-22T06:03:54.000Z",
-      "isFallback": false
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1795404977000",
+      "id": "google-news-ai-1795473755000",
       "region": "abroad",
-      "title": "Sausalito develops AI-powered 'Storm-Ready Home Planner' to help residents with flood preparedness - ABC7 Bay Area",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQUhfZ29fVW96MjhsTkdrMDNfY2F1Y1BsRXZtSEFGY1B5eHJqSHNWc3UzemNsbmtPZGtNZGdvQlZVRlpnaU9CWnNsN3NaOTBjZXNVOWNILTE0MklTUkhUYm5GMlF3LW9la0RIZldLNHpsaENiTXZDdzdYMWZQTUhtNFFVS1pCYVR4ZmRfNEFoeXJSTjVqQ3BUX0p5Sk9URDdMSTRWWXplbTdkQTdmeTBtaGhSNzBCVzRoczhpbkZkVEZya1FLQ05WWUJGOEhDQTVFYVc4cXV5Tmw?oc=5",
+      "title": "How the CrowdStrike-Zscaler Deal Will Secure Autonomous AI - BankInfoSecurity",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMGlQZEhnQWtTdXo0akRIWlV3UTJwNjYxbXZ4Q2pocFhlRFJkeXlsZ2p6S2J1NkZVTDVrcDd5MW1yamhyakZyYkhkaVk4cmdhQU5FWXNLLW1YMUM2NlhzWngyWlFKT0kzYmdzZ1M3THp1TS1ya1FSQ0VIVmNCNFp4RlNwTkFQMzZCT2hxTERmU2pDa0l0MDdsNTNHcw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQUhfZ29fVW96MjhsTkdrMDNfY2F1Y1BsRXZtSEFGY1B5eHJqSHNWc3UzemNsbmtPZGtNZGdvQlZVRlpnaU9CWnNsN3NaOTBjZXNVOWNILTE0MklTUkhUYm…",
-      "pubDate": "2026-11-23T03:36:17.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNMGlQZEhnQWtTdXo0akRIWlV3UTJwNjYxbXZ4Q2pocFhlRFJkeXlsZ2p6S2J1NkZVTDVrcDd5MW1yamhyakZyYkhkaVk4cmdhQU5FWXNLLW1YMUM2NlhzWn…",
+      "pubDate": "2026-11-23T22:42:35.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1795404900000",
+      "id": "google-news-ai-1795473082000",
       "region": "abroad",
-      "title": "Crude Oil Futures Extend Losses as AI Selloff Spills Over; Ship Attacks Near Hormuz Provide Support - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01UC1KVldLM2xldEpScTZvZ3pQZkNoTnlMSFNuaTZRWW1sdjlvMDUzeGJpSlFvUUQ2VXRFTXFaQnhzUF83S0JRQ1RHNXo1anplcTM4X0VrdjlQVVVpMk1zWU5LZzZzM1JlVHFwSG1SbjRreENYWWc?oc=5",
+      "title": "World AI Cooperation Organization: A Timeline | Blogs | Nov 23, 2026 - Information Technology and Innovation Foundation",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02dlE5YUdzbGF2eHd4SUZzWjV1M0oyLVBTTFlxakdvT1M4ZkxuWFBjUGFMLUF5eDVrTWl6ZmZFNG1nbDJUSXNLQkdTbTN3blU5T0d6R2ctVDBNY1BZRzF2Y3ZsUzNpZkU?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE01UC1KVldLM2xldEpScTZvZ3pQZkNoTnlMSFNuaTZRWW1sdjlvMDUzeGJpSlFvUUQ2VXRFTXFaQnhzUF83S0JRQ1RHNXo1anplcTM4X0VrdjlQVVVpMk1zWU…",
-      "pubDate": "2026-11-23T03:35:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02dlE5YUdzbGF2eHd4SUZzWjV1M0oyLVBTTFlxakdvT1M4ZkxuWFBjUGFMLUF5eDVrTWl6ZmZFNG1nbDJUSXNLQkdTbTN3blU5T0d6R2ctVDBNY1BZRzF2Y3…",
+      "pubDate": "2026-11-23T22:31:22.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1795397153000",
+      "id": "techcrunch-ai-1795471550000",
       "region": "abroad",
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-23T01:25:53.000Z",
+      "pubDate": "2026-11-23T22:05:50.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1795382047000",
+      "id": "techcrunch-ai-1795471325000",
       "region": "abroad",
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-22T21:14:07.000Z",
+      "pubDate": "2026-11-23T22:02:05.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1795345200000",
+      "id": "wired-ai-1795456376000",
       "region": "abroad",
-      "title": "Banks Have Had It Up to Here With Your AI Agent",
-      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+      "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
       "source": "Wired AI",
-      "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
-      "pubDate": "2026-11-22T11:00:00.000Z",
+      "summary": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
+      "pubDate": "2026-11-23T17:52:56.000Z",
       "isFallback": false
     }
   ]
