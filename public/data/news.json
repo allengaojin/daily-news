@@ -1,48 +1,48 @@
 {
   "meta": {
-    "date": "2026-11-24",
-    "updatedAt": "2026-11-24T06:59:07.768Z",
+    "date": "2026-11-25",
+    "updatedAt": "2026-11-24T21:21:41.521Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1795501226000",
+      "id": "it之家-1795531109000",
       "region": "domestic",
-      "title": "AI 钓鱼邮件会“自我进化”：TheMailer 曝光，不断升级文案直到骗过垃圾邮件过滤器",
-      "url": "https://www.ithome.com/1/031/482.htm",
+      "title": "华为折叠机外屏伴随式 AI 新交互将至，Mate X8 升级 HarmonyOS 7.0.0.135 可用",
+      "url": "https://www.ithome.com/1/031/886.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"bf05\">IT之家 11 月 24 日消息，科技媒体 TechRadar 今天（11 月 24 日）发布博文，报道称暗网论坛近期正传播名为 TheMailer 的 AI 网络钓鱼工具，<strong>结合多种商用大模型与自动化邮件测试、个性化定制和反复改写能力，让攻击者持续调整诈骗邮件，直到其成功绕过收件方的垃圾邮件过滤器。<…",
-      "pubDate": "2026-11-24T06:20:26.000Z",
+      "summary": "<p data-vmark=\"f174\">IT之家 11 月 24 日消息，华为今日下午正式发布了 Mate X8 大折旗舰手机，并带来了小艺伴随式 AI。</p><p data-vmark=\"73ec\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/…",
+      "pubDate": "2026-11-24T14:38:29.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1795500497000",
+      "id": "it之家-1795529700000",
       "region": "domestic",
-      "title": "微软总裁史密斯示警：AI 加速修补漏洞，未来数月全球恐出现更多技术故障",
-      "url": "https://www.ithome.com/1/031/479.htm",
+      "title": "东擎发布基于英特尔酷睿 Ultra X7 处理器 358H 的整合式物理 AI 开发平台",
+      "url": "https://www.ithome.com/1/031/880.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"062a\">IT之家 11 月 24 日消息，微软总裁布拉德 · 史密斯（Brad Smith）于 11 月 22 日发布警告，表示未来数月全球技术故障风险将持续处于高位，<strong>AI 在加速漏洞发现的同时，也放大了快速更新带来的不稳定风险。</strong></p><p data-vmark=\"9d70\">IT之家援引…",
-      "pubDate": "2026-11-24T06:08:17.000Z",
+      "summary": "<p data-vmark=\"1dc7\">IT之家 11 月 24 日消息，东擎 (ASRock Industrial) 今日宣布携手 Intel（英特尔），推出基于酷睿 Ultra X7 处理器 358H 的整合式物理 AI 开发平台 RBK-100。</p><p data-vmark=\"0008\">RBK-100 是一款 Robotics-in-a-Bo…",
+      "pubDate": "2026-11-24T14:15:00.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1795491228000",
+      "id": "量子位-1795503149000",
       "region": "domestic",
-      "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
-      "url": "https://www.qbitai.com/2026/11/512329.html",
+      "title": "Google Cloud 出海峰会报名开启",
+      "url": "https://www.qbitai.com/2026/11/512370.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-11-24T03:33:48.000Z",
+      "pubDate": "2026-11-24T06:52:29.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1795490472000",
+      "id": "量子位-1795502106000",
       "region": "domestic",
-      "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
-      "url": "https://www.qbitai.com/2026/11/512305.html",
+      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+      "url": "https://www.qbitai.com/2026/11/512362.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-11-24T03:21:12.000Z",
+      "pubDate": "2026-11-24T06:35:06.000Z",
       "isFallback": false
     },
     {
@@ -58,53 +58,53 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1795502949000",
+      "id": "techcrunch-ai-1795555192000",
       "region": "abroad",
-      "title": "A Political Pact Cannot Put Brakes on Global AI Cooperation - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DbnQ4TWFzQzhGbmNoVkZKVTd1ZmgxUkdEalRHY09mQVdob0NuVnJrQnBuZlV3ZVZhLUl1RWFoQVVtTzg1cVF2Qk1CV3NzTDVqeEYyVWE4QlpyV25UOEM2S2l4RlUzRS1KQm1VUzlmLU9XU0o5?oc=5",
-      "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5DbnQ4TWFzQzhGbmNoVkZKVTd1ZmgxUkdEalRHY09mQVdob0NuVnJrQnBuZlV3ZVZhLUl1RWFoQVVtTzg1cVF2Qk1CV3NzTDVqeEYyVWE4QlpyV25UOEM2S2…",
-      "pubDate": "2026-11-24T06:49:09.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "google-news-ai-1795502216000",
-      "region": "abroad",
-      "title": "‘Trump put’ revived the AI trade. What’s this investor’s next big bet? - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHBuZF9wdFVNOThUM3V3eVh0dF9vODJvMElybzRnMDNnQTdnWjY3XzJKVW1YOGdxaUphMVpNUktHdGZ0X29oX2VUakFDVUZpS0E0SzBUOU9mMVNRRTFoMk43dG5PSTFUUHhraWZDY3gwOEhBY0NoNThBR211eDFndy1NZURhV0FERDNBUF9jc19tSGplWkZ1ckVqYzNKUi1MR1JWdG5SdU5rTms?oc=5",
-      "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHBuZF9wdFVNOThUM3V3eVh0dF9vODJvMElybzRnMDNnQTdnWjY3XzJKVW1YOGdxaUphMVpNUktHdGZ0X29oX2VUakFDVUZpS0E0SzBUOU9mMVNRRTFoMk…",
-      "pubDate": "2026-11-24T06:36:56.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1795471550000",
-      "region": "abroad",
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-23T22:05:50.000Z",
+      "pubDate": "2026-11-24T21:19:52.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1795471325000",
+      "id": "google-news-ai-1795555018000",
       "region": "abroad",
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "title": "Dell reports $54.9B revenue, fueled by booming AI server demand - Austin American-Statesman",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUJLcnFyd3NLTUpnLTFjYjdTalJ4TW5OUnNfZFMwT3pLbE5IYnBQOGJEdm12cEVBb0x1VWU5LUZHYk9jNUg4aVc3d3M0TFo5UFpNNjNRNnFNMk1JbDZWcWxHUVVRQXdHRS02T2JiekYxMzZOd2lCSGgwNmhUVE1NU3VsUXhGSW1UX3NqSHVvcDN0aVhfSGc?oc=5",
+      "source": "Google News AI",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUJLcnFyd3NLTUpnLTFjYjdTalJ4TW5OUnNfZFMwT3pLbE5IYnBQOGJEdm12cEVBb0x1VWU5LUZHYk9jNUg4aVc3d3M0TFo5UFpNNjNRNnFNMk1JbDZWcW…",
+      "pubDate": "2026-11-24T21:16:58.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "google-news-ai-1795554701000",
+      "region": "abroad",
+      "title": "Dell lifts annual forecasts after record quarter on surging AI server demand - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZG1EVmJTYUpyMnJPVzlHNE9xZFZpYmZHdkZBOTgtSllCbnRLQnNuUWtLNktuYXJqZms4Tl85T2I2dU41UmEzTWpPY0Z6TU5uaVJJZWZxLXhVcWxSa0h6cUh5bkpSdk9VdDN5QlIzb3hSLUhRV0FaM2FrVzlkUDJoN2FaeUxKOEhlN2RsZ1VoUUUwNHdTcWp6cV9BNE90ejFEVWRTcWtnbW9XV1A0VEhnSDRhMWVhbkFia1E?oc=5",
+      "source": "Google News AI",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOZG1EVmJTYUpyMnJPVzlHNE9xZFZpYmZHdkZBOTgtSllCbnRLQnNuUWtLNktuYXJqZms4Tl85T2I2dU41UmEzTWpPY0Z6TU5uaVJJZWZxLXhVcWxSa0h6cU…",
+      "pubDate": "2026-11-24T21:11:41.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1795545042000",
+      "region": "abroad",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-23T22:02:05.000Z",
+      "pubDate": "2026-11-24T18:30:42.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1795456376000",
+      "id": "wired-ai-1795542293000",
       "region": "abroad",
-      "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
-      "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+      "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+      "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
       "source": "Wired AI",
-      "summary": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
-      "pubDate": "2026-11-23T17:52:56.000Z",
+      "summary": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.",
+      "pubDate": "2026-11-24T17:44:53.000Z",
       "isFallback": false
     }
   ]
