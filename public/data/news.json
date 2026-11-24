@@ -1,48 +1,48 @@
 {
   "meta": {
     "date": "2026-11-24",
-    "updatedAt": "2026-11-23T22:43:47.161Z",
+    "updatedAt": "2026-11-24T06:59:07.768Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1795473441000",
+      "id": "it之家-1795501226000",
       "region": "domestic",
-      "title": "最高提速 290 倍：谷歌让 AI 智能体“开会”优化量子算法，缓解计算资源瓶颈",
-      "url": "https://www.ithome.com/1/031/232.htm",
+      "title": "AI 钓鱼邮件会“自我进化”：TheMailer 曝光，不断升级文案直到骗过垃圾邮件过滤器",
+      "url": "https://www.ithome.com/1/031/482.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"0000\">IT之家 11 月 24 日消息，谷歌 DeepMind 团队携手谷歌 Quantum AI 团队于昨日（11 月 23 日）发布联合研究成果，<strong>利用多组 Gemini 4 智能体协同工作，并结合形式化数学验证工具 Lean，成功优化了多项量子算法，降低部分量子计算任务的资源需求。</strong></…",
-      "pubDate": "2026-11-23T22:37:21.000Z",
+      "summary": "<p data-vmark=\"bf05\">IT之家 11 月 24 日消息，科技媒体 TechRadar 今天（11 月 24 日）发布博文，报道称暗网论坛近期正传播名为 TheMailer 的 AI 网络钓鱼工具，<strong>结合多种商用大模型与自动化邮件测试、个性化定制和反复改写能力，让攻击者持续调整诈骗邮件，直到其成功绕过收件方的垃圾邮件过滤器。<…",
+      "pubDate": "2026-11-24T06:20:26.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1795440440000",
+      "id": "it之家-1795500497000",
       "region": "domestic",
-      "title": "《生化危机》之父三上真司：希望 AI 彻底消失",
-      "url": "https://www.ithome.com/1/031/204.htm",
+      "title": "微软总裁史密斯示警：AI 加速修补漏洞，未来数月全球恐出现更多技术故障",
+      "url": "https://www.ithome.com/1/031/479.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"a9a9\">IT之家 11 月 23 日消息，今年 3 月底，《生化危机》和《恐龙危机》系列导演三上真司（Shinji Mikami）正式宣布，其创立的游戏工作室 Unbound 已与《剑星》开发商 Shift Up 达成合作，将共同发行他的下一款游戏。11 月 20 日，三上真司与 Shift Up 首席执行官金亨泰（Kim …",
-      "pubDate": "2026-11-23T13:27:20.000Z",
+      "summary": "<p data-vmark=\"062a\">IT之家 11 月 24 日消息，微软总裁布拉德 · 史密斯（Brad Smith）于 11 月 22 日发布警告，表示未来数月全球技术故障风险将持续处于高位，<strong>AI 在加速漏洞发现的同时，也放大了快速更新带来的不稳定风险。</strong></p><p data-vmark=\"9d70\">IT之家援引…",
+      "pubDate": "2026-11-24T06:08:17.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1795431675000",
+      "id": "量子位-1795491228000",
       "region": "domestic",
-      "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
-      "url": "https://www.qbitai.com/2026/11/512195.html",
+      "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
+      "url": "https://www.qbitai.com/2026/11/512329.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-11-23T11:01:15.000Z",
+      "pubDate": "2026-11-24T03:33:48.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1795425008000",
+      "id": "量子位-1795490472000",
       "region": "domestic",
-      "title": "XROGO郑随兵：机器人不能只在视频里，终究要进入工厂“真干活”",
-      "url": "https://www.qbitai.com/2026/11/512179.html",
+      "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+      "url": "https://www.qbitai.com/2026/11/512305.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-11-23T09:10:08.000Z",
+      "pubDate": "2026-11-24T03:21:12.000Z",
       "isFallback": false
     },
     {
@@ -58,23 +58,23 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1795473755000",
+      "id": "google-news-ai-1795502949000",
       "region": "abroad",
-      "title": "How the CrowdStrike-Zscaler Deal Will Secure Autonomous AI - BankInfoSecurity",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMGlQZEhnQWtTdXo0akRIWlV3UTJwNjYxbXZ4Q2pocFhlRFJkeXlsZ2p6S2J1NkZVTDVrcDd5MW1yamhyakZyYkhkaVk4cmdhQU5FWXNLLW1YMUM2NlhzWngyWlFKT0kzYmdzZ1M3THp1TS1ya1FSQ0VIVmNCNFp4RlNwTkFQMzZCT2hxTERmU2pDa0l0MDdsNTNHcw?oc=5",
+      "title": "A Political Pact Cannot Put Brakes on Global AI Cooperation - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DbnQ4TWFzQzhGbmNoVkZKVTd1ZmgxUkdEalRHY09mQVdob0NuVnJrQnBuZlV3ZVZhLUl1RWFoQVVtTzg1cVF2Qk1CV3NzTDVqeEYyVWE4QlpyV25UOEM2S2l4RlUzRS1KQm1VUzlmLU9XU0o5?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNMGlQZEhnQWtTdXo0akRIWlV3UTJwNjYxbXZ4Q2pocFhlRFJkeXlsZ2p6S2J1NkZVTDVrcDd5MW1yamhyakZyYkhkaVk4cmdhQU5FWXNLLW1YMUM2NlhzWn…",
-      "pubDate": "2026-11-23T22:42:35.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5DbnQ4TWFzQzhGbmNoVkZKVTd1ZmgxUkdEalRHY09mQVdob0NuVnJrQnBuZlV3ZVZhLUl1RWFoQVVtTzg1cVF2Qk1CV3NzTDVqeEYyVWE4QlpyV25UOEM2S2…",
+      "pubDate": "2026-11-24T06:49:09.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1795473082000",
+      "id": "google-news-ai-1795502216000",
       "region": "abroad",
-      "title": "World AI Cooperation Organization: A Timeline | Blogs | Nov 23, 2026 - Information Technology and Innovation Foundation",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02dlE5YUdzbGF2eHd4SUZzWjV1M0oyLVBTTFlxakdvT1M4ZkxuWFBjUGFMLUF5eDVrTWl6ZmZFNG1nbDJUSXNLQkdTbTN3blU5T0d6R2ctVDBNY1BZRzF2Y3ZsUzNpZkU?oc=5",
+      "title": "‘Trump put’ revived the AI trade. What’s this investor’s next big bet? - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHBuZF9wdFVNOThUM3V3eVh0dF9vODJvMElybzRnMDNnQTdnWjY3XzJKVW1YOGdxaUphMVpNUktHdGZ0X29oX2VUakFDVUZpS0E0SzBUOU9mMVNRRTFoMk43dG5PSTFUUHhraWZDY3gwOEhBY0NoNThBR211eDFndy1NZURhV0FERDNBUF9jc19tSGplWkZ1ckVqYzNKUi1MR1JWdG5SdU5rTms?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02dlE5YUdzbGF2eHd4SUZzWjV1M0oyLVBTTFlxakdvT1M4ZkxuWFBjUGFMLUF5eDVrTWl6ZmZFNG1nbDJUSXNLQkdTbTN3blU5T0d6R2ctVDBNY1BZRzF2Y3…",
-      "pubDate": "2026-11-23T22:31:22.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHBuZF9wdFVNOThUM3V3eVh0dF9vODJvMElybzRnMDNnQTdnWjY3XzJKVW1YOGdxaUphMVpNUktHdGZ0X29oX2VUakFDVUZpS0E0SzBUOU9mMVNRRTFoMk…",
+      "pubDate": "2026-11-24T06:36:56.000Z",
       "isFallback": false
     },
     {
