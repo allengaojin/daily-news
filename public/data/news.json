@@ -1,28 +1,28 @@
 {
   "meta": {
     "date": "2026-11-25",
-    "updatedAt": "2026-11-24T21:21:41.521Z",
-    "mode": "live"
+    "updatedAt": "2026-11-25T05:29:25.946Z",
+    "mode": "partial"
   },
   "domestic": [
     {
-      "id": "it之家-1795531109000",
+      "id": "it之家-1795581209000",
       "region": "domestic",
-      "title": "华为折叠机外屏伴随式 AI 新交互将至，Mate X8 升级 HarmonyOS 7.0.0.135 可用",
-      "url": "https://www.ithome.com/1/031/886.htm",
+      "title": "高盛：美国数据中心建设热潮有望持续至 2028 年，推高电力与天然气需求",
+      "url": "https://www.ithome.com/1/032/089.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"f174\">IT之家 11 月 24 日消息，华为今日下午正式发布了 Mate X8 大折旗舰手机，并带来了小艺伴随式 AI。</p><p data-vmark=\"73ec\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/…",
-      "pubDate": "2026-11-24T14:38:29.000Z",
+      "summary": "<p data-vmark=\"b04f\">IT之家 11 月 25 日消息，据智通财经报道，高盛集团表示，受人工智能热潮推动，<strong>美国数据中心电力容量的强劲增长态势有望持续至 2028 年。</strong>随着数据中心在数量、规模及电力密度方面的不断提升，这将对电力和天然气需求构成上行风险。</p><p data-vmark=\"e4d4\">该行…",
+      "pubDate": "2026-11-25T04:33:29.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1795529700000",
+      "id": "it之家-1795579698000",
       "region": "domestic",
-      "title": "东擎发布基于英特尔酷睿 Ultra X7 处理器 358H 的整合式物理 AI 开发平台",
-      "url": "https://www.ithome.com/1/031/880.htm",
+      "title": "AI 泡沫要来了？教授称英伟达像郁金香和 NFT",
+      "url": "https://www.ithome.com/1/032/058.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"1dc7\">IT之家 11 月 24 日消息，东擎 (ASRock Industrial) 今日宣布携手 Intel（英特尔），推出基于酷睿 Ultra X7 处理器 358H 的整合式物理 AI 开发平台 RBK-100。</p><p data-vmark=\"0008\">RBK-100 是一款 Robotics-in-a-Bo…",
-      "pubDate": "2026-11-24T14:15:00.000Z",
+      "summary": "<p data-vmark=\"1997\">IT之家 11 月 25 日消息，科技媒体 Business Insider 昨日（11 月 24 日）发布博文，针对英伟达公司股价剧烈震荡，密歇根大学罗斯商学院教授埃里克 · 戈登（Erik Gordon）认为其估值像 17 世纪荷兰“郁金香狂热”、以及疫情期间的 Bored Ape NFT 热潮。</p><p d…",
+      "pubDate": "2026-11-25T04:08:18.000Z",
       "isFallback": false
     },
     {
@@ -46,65 +46,65 @@
       "isFallback": false
     },
     {
-      "id": "少数派-1795390467000",
+      "id": "mock-domestic-01",
       "region": "domestic",
-      "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
-      "url": "https://sspai.com/post/119418",
-      "source": "少数派",
-      "summary": "<p>Anthropic 研究员宣称用 Claude 证明黎曼猜想</p><p>OpenAI 公布反蒸馏举措</p><p>黄仁勋据称将攻击下属作为管理方式</p><p>GTA 6 首日销售额近 40 亿美元</p><p>特斯拉升级 FSD，推出实景渲染功能</p><p>AMD 股票被做空</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>…",
-      "pubDate": "2026-11-22T23:34:27.000Z",
-      "isFallback": false
+      "title": "国内多家人工智能实验室发布新一代开源大模型，推理成本下降超六成",
+      "url": "https://www.jiqizhixin.com/",
+      "source": "机器之心",
+      "summary": "多家国内 AI 实验室联合发布新一代开源大模型系列，在多项基准测试中表现接近闭源旗舰模型，同时通过混合专家架构与推理优化，将单次推理成本降低超过 60%，引发开源社区广泛关注。",
+      "pubDate": "2026-08-10T06:00:00Z",
+      "isFallback": true
     }
   ],
   "abroad": [
     {
-      "id": "techcrunch-ai-1795555192000",
+      "id": "google-news-ai-1795584138000",
       "region": "abroad",
-      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "title": "EverBee Launches Ferza, Bringing Agentic AI to Transform the Way Businesses Operate - markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaE9oTFdXSzF5eXdEcFgxUjdRSmc5VnREaVloZ1M5MTByeVdSSDhBYnZ5U2JKMW16aFh0V2tfai1sckMyMWJRQU1nanZESk5jTEktUWw5d00taXFYZHJFeFBPWjloRnA2NzBPQ0xGZGNPWWZoa2o0QnBxT3RwTnhJRnphM3pzMjhrUWtfNEtKY2hYSTUtVjhWclZad3JqTV9mV0h4d1JRZnhPOC1Ta3FCZEpMQ3FyRExNMENDMTkyNEViUkZIanNvUEN5aTFxck92TnFBRnpmcUk?oc=5",
+      "source": "Google News AI",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaE9oTFdXSzF5eXdEcFgxUjdRSmc5VnREaVloZ1M5MTByeVdSSDhBYnZ5U2JKMW16aFh0V2tfai1sckMyMWJRQU1nanZESk5jTEktUWw5d00taXFYZHJFeF…",
+      "pubDate": "2026-11-25T05:22:18.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "google-news-ai-1795583979000",
+      "region": "abroad",
+      "title": "Maple Raises $5.3 Million Seed To Build Privacy-Focused Cloud AI Agent: 5 outlets compared - NewsCord",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTWd3TWFReVVOQUxyU3VnTThUQkxyUjNIVUtWU0tPRm91bmdkVmVkV0NUUXdzcm1vNzY5UUFpVkN5Z2FDRnozVW5pRldnY1dDWDhBaWVoa1MxMkxqTkFDcTIycFBPYnlORDUzN1RDODU3blllaTU2dGtmQmZ1LW5nOV9qY2ZqSVB6X01xZ05aZEc0bjZ1S04wSTIxc1FmeENKcGxubUNkLXJfdU1DUnVqVVJ5WGJMT29tY29ZcXp1WER5OVRJVW1UTnkwdWVIaExRc1BjTmtPZGd0Zw?oc=5",
+      "source": "Google News AI",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTWd3TWFReVVOQUxyU3VnTThUQkxyUjNIVUtWU0tPRm91bmdkVmVkV0NUUXdzcm1vNzY5UUFpVkN5Z2FDRnozVW5pRldnY1dDWDhBaWVoa1MxMkxqTkFDcT…",
+      "pubDate": "2026-11-25T05:19:39.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1795565522000",
+      "region": "abroad",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-24T21:19:52.000Z",
+      "pubDate": "2026-11-25T00:12:02.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1795555018000",
+      "id": "wired-ai-1795563544000",
       "region": "abroad",
-      "title": "Dell reports $54.9B revenue, fueled by booming AI server demand - Austin American-Statesman",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUJLcnFyd3NLTUpnLTFjYjdTalJ4TW5OUnNfZFMwT3pLbE5IYnBQOGJEdm12cEVBb0x1VWU5LUZHYk9jNUg4aVc3d3M0TFo5UFpNNjNRNnFNMk1JbDZWcWxHUVVRQXdHRS02T2JiekYxMzZOd2lCSGgwNmhUVE1NU3VsUXhGSW1UX3NqSHVvcDN0aVhfSGc?oc=5",
-      "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUJLcnFyd3NLTUpnLTFjYjdTalJ4TW5OUnNfZFMwT3pLbE5IYnBQOGJEdm12cEVBb0x1VWU5LUZHYk9jNUg4aVc3d3M0TFo5UFpNNjNRNnFNMk1JbDZWcW…",
-      "pubDate": "2026-11-24T21:16:58.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "google-news-ai-1795554701000",
-      "region": "abroad",
-      "title": "Dell lifts annual forecasts after record quarter on surging AI server demand - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZG1EVmJTYUpyMnJPVzlHNE9xZFZpYmZHdkZBOTgtSllCbnRLQnNuUWtLNktuYXJqZms4Tl85T2I2dU41UmEzTWpPY0Z6TU5uaVJJZWZxLXhVcWxSa0h6cUh5bkpSdk9VdDN5QlIzb3hSLUhRV0FaM2FrVzlkUDJoN2FaeUxKOEhlN2RsZ1VoUUUwNHdTcWp6cV9BNE90ejFEVWRTcWtnbW9XV1A0VEhnSDRhMWVhbkFia1E?oc=5",
-      "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOZG1EVmJTYUpyMnJPVzlHNE9xZFZpYmZHdkZBOTgtSllCbnRLQnNuUWtLNktuYXJqZms4Tl85T2I2dU41UmEzTWpPY0Z6TU5uaVJJZWZxLXhVcWxSa0h6cU…",
-      "pubDate": "2026-11-24T21:11:41.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1795545042000",
-      "region": "abroad",
-      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-      "source": "TechCrunch AI",
-      "summary": "",
-      "pubDate": "2026-11-24T18:30:42.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "wired-ai-1795542293000",
-      "region": "abroad",
-      "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
-      "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+      "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+      "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
       "source": "Wired AI",
-      "summary": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.",
-      "pubDate": "2026-11-24T17:44:53.000Z",
+      "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy exp…",
+      "pubDate": "2026-11-24T23:39:04.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1795559272000",
+      "region": "abroad",
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "source": "TechCrunch AI",
+      "summary": "",
+      "pubDate": "2026-11-24T22:27:52.000Z",
       "isFallback": false
     }
   ]
