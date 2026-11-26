@@ -1,110 +1,110 @@
 {
   "meta": {
-    "date": "2026-11-26",
-    "updatedAt": "2026-11-26T05:10:21.822Z",
+    "date": "2026-11-27",
+    "updatedAt": "2026-11-26T20:15:04.599Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1795665030000",
+      "id": "it之家-1795706696000",
       "region": "domestic",
-      "title": "降幅约 20%~35%：报告称马斯克 SpaceX 降价出租 AI 算力",
-      "url": "https://www.ithome.com/1/032/716.htm",
+      "title": "瑞士发生五起 AI 智能体网络攻击，电力供水通信系统遭入侵",
+      "url": "https://www.ithome.com/1/033/131.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"ff12\">IT之家 11 月 26 日消息，行业研究机构 SemiAnalysis 昨日（11 月 25 日）发布报告，<strong>称全球首富埃隆 · 马斯克（Elon Musk）旗下 SpaceX 公司正在下调其 AI 计算资源的租赁价格，其重要客户 Anthropic 是否续签约 5 万台 H200 GPU 的计算合同…",
-      "pubDate": "2026-11-26T03:50:30.000Z",
+      "summary": "<p data-vmark=\"4883\">IT之家 11 月 26 日消息，据路透社报道，瑞士联邦网络安全局（BACS）周四通报，过去几天瑞士发生五起网络攻击，攻击者使用 AI 智能体针对企业以及关键基础设施运营方发起入侵。</p><p style=\"text-align: center;\" data-vmark=\"7674\"><img src=\"https…",
+      "pubDate": "2026-11-26T15:24:56.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1795664864000",
+      "id": "it之家-1795705089000",
       "region": "domestic",
-      "title": "中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考",
-      "url": "https://www.ithome.com/1/032/714.htm",
+      "title": "腾讯用 AI 挑战药物研发领域前沿难题：成果登 Nature，在减重降糖、肿瘤免疫方向完成验证",
+      "url": "https://www.ithome.com/1/033/125.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"1202\">IT之家 11 月 26 日消息，据央视新闻今日报道，由我国专家牵头制定的人工智能训练数据质量国际标准（ISO / IEC 5259-4:2024）<span class=\"color-00269a\"><strong>已被欧洲相关机构采纳，成为 30 余个欧洲国家人工智能合规评估的重要技术参考</strong></s…",
-      "pubDate": "2026-11-26T03:47:44.000Z",
+      "summary": "<p data-vmark=\"d30d\">IT之家 11 月 26 日消息，腾讯今日宣布，11 月 25 日，腾讯生命科学实验室的一项 AI for Science 研究成果，正式以第一单位登上《Nature》主刊。</p><p data-vmark=\"896f\">据介绍，<strong>腾讯用 AI 挑战了药物研发领域的一个前沿难题：高活性双靶点治疗性多肽…",
+      "pubDate": "2026-11-26T14:58:09.000Z",
       "isFallback": false
     },
     {
-      "id": "量子位-1795663415000",
+      "id": "量子位-1795701361000",
       "region": "domestic",
-      "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
-      "url": "https://www.qbitai.com/2026/11/512897.html",
+      "title": "381个AI直播冲刺证明P=NP！把GitHub干崩了",
+      "url": "https://www.qbitai.com/2026/11/513021.html",
       "source": "量子位",
       "summary": "",
-      "pubDate": "2026-11-26T03:23:35.000Z",
+      "pubDate": "2026-11-26T13:56:01.000Z",
       "isFallback": false
     },
     {
-      "id": "少数派-1795662833000",
+      "id": "量子位-1795696748000",
       "region": "domestic",
-      "title": "我用AI做了一张两千年的中国历史地图",
-      "url": "https://sspai.com/post/117510",
+      "title": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用",
+      "url": "https://www.qbitai.com/2026/11/512981.html",
+      "source": "量子位",
+      "summary": "",
+      "pubDate": "2026-11-26T12:39:08.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "少数派-1795685400000",
+      "region": "domestic",
+      "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
+      "url": "https://sspai.com/post/116773",
       "source": "少数派",
-      "summary": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。<a href=\"https://sspai.com/post/117510\" target=\"_blank\">查看全文</a>",
-      "pubDate": "2026-11-26T03:13:53.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "量子位-1795662796000",
-      "region": "domestic",
-      "title": "沈向洋刚讲了好多AI非共识啊",
-      "url": "https://www.qbitai.com/2026/11/512840.html",
-      "source": "量子位",
-      "summary": "",
-      "pubDate": "2026-11-26T03:13:16.000Z",
+      "summary": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。<a href=\"https://sspai.com/post/116773\" target=\"_blank\">查看全文</a>",
+      "pubDate": "2026-11-26T09:30:00.000Z",
       "isFallback": false
     }
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1795669614000",
+      "id": "techcrunch-ai-1795723434000",
       "region": "abroad",
-      "title": "Vote in STAT’s 2026 AI Prognosis Bingo - STAT",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9STFludFZCN1A0T3Y2cGRUbHhFZzVrWjBmSTc0T0dockVJcDd6cFhhRFZZOGl5Z2t2WWlNZWJ2VDhoRm5aOGZsX2xEZEdvXzU1SV9zVWd5SWNJNlVTaU9MVUZ3RUJIQ1Rx?oc=5",
-      "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9STFludFZCN1A0T3Y2cGRUbHhFZzVrWjBmSTc0T0dockVJcDd6cFhhRFZZOGl5Z2t2WWlNZWJ2VDhoRm5aOGZsX2xEZEdvXzU1SV9zVWd5SWNJNlVTaU9MVU…",
-      "pubDate": "2026-11-26T05:06:54.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "google-news-ai-1795669475000",
-      "region": "abroad",
-      "title": "Common Sense Media warns parents against AI toys for young kids this holiday season - mycbs4.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVm5CUm1RNnh5VHVZVkVGQ2pieDUyRHNtWWZUa255UTRfNnJ6Ml9seDJWX1pfa21nMlI3c0V4aHl1MTR5SVdOT0pJdEM2RWItcHUzTHBJdXk1Yy04ck0yUlpEQ2ZiTWJ2VkZyaGR5OE1CSklGMDV0UzQydTNVbXZrUlptN2dIbnk1Z2NzN1NVeUVBNlNzYThyUnRpZEhHdVF3TkJvajNFX3dpTW4wOEZpckJVcWN1THFKYzNveHFfa2xHeExwZ29aNVRsajd2cWtFSklSRm04d2djUQ?oc=5",
-      "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVm5CUm1RNnh5VHVZVkVGQ2pieDUyRHNtWWZUa255UTRfNnJ6Ml9seDJWX1pfa21nMlI3c0V4aHl1MTR5SVdOT0pJdEM2RWItcHUzTHBJdXk1Yy04ck0yUl…",
-      "pubDate": "2026-11-26T05:04:35.000Z",
-      "isFallback": false
-    },
-    {
-      "id": "techcrunch-ai-1795646672000",
-      "region": "abroad",
-      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-25T22:44:32.000Z",
+      "pubDate": "2026-11-26T20:03:54.000Z",
       "isFallback": false
     },
     {
-      "id": "techcrunch-ai-1795637007000",
+      "id": "google-news-ai-1795723275000",
       "region": "abroad",
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "title": "'King is back': Nvidia boss's return sparks fresh AI deepfake deluge - France 24",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWXJ3Z2N2R2FhM3M0Y0Q5OFFGX2R6dVRIZzdVRklxVGk2amJBSVJxZHRTa2VHajlWQTd1b0xJMWxpWk1jUWd5dDdhOEo4NnVLa1dVYmZLUkhzWWtpemRHZjQ2M3l0R0tfcGVaVVRQbXBmTGtBZHB4QkJtOGp2TVJWdmQtaWNzaE9YSW5ObmFuOGlURjQ5eTdCTGg5QUVxSjVjUldzTE8wYlhscERMZU5qemR3?oc=5",
+      "source": "Google News AI",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOWXJ3Z2N2R2FhM3M0Y0Q5OFFGX2R6dVRIZzdVRklxVGk2amJBSVJxZHRTa2VHajlWQTd1b0xJMWxpWk1jUWd5dDdhOEo4NnVLa1dVYmZLUkhzWWtpemRHZj…",
+      "pubDate": "2026-11-26T20:01:15.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "google-news-ai-1795722597000",
+      "region": "abroad",
+      "title": "AI data center energy demand: Why efficiency alone won’t bend the curve - Arcadis",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMDgxNl93Qk1zUmdmbWdncEFKU1l0MjBBZkF6cDVVekZCQVB2QkFIY1YteTM3ZmFJSlRzbXJsaDFNaEwyeUp0UG5SeVpzdHNIUkR1RFp4R1dKZFlNYWp5TmdKb2N5TWFGVU55a0JCTnRtRmFZcl9vSEd3bW0tdVVWLTAzcHptbVN5TUhibGFYcExDdHAxeEJ3?oc=5",
+      "source": "Google News AI",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOMDgxNl93Qk1zUmdmbWdncEFKU1l0MjBBZkF6cDVVekZCQVB2QkFIY1YteTM3ZmFJSlRzbXJsaDFNaEwyeUp0UG5SeVpzdHNIUkR1RFp4R1dKZFlNYWp5Tm…",
+      "pubDate": "2026-11-26T19:49:57.000Z",
+      "isFallback": false
+    },
+    {
+      "id": "techcrunch-ai-1795708800000",
+      "region": "abroad",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
       "source": "TechCrunch AI",
       "summary": "",
-      "pubDate": "2026-11-25T20:03:27.000Z",
+      "pubDate": "2026-11-26T16:00:00.000Z",
       "isFallback": false
     },
     {
-      "id": "wired-ai-1795606200000",
+      "id": "wired-ai-1795690287000",
       "region": "abroad",
-      "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
-      "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+      "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+      "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
       "source": "Wired AI",
-      "summary": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
-      "pubDate": "2026-11-25T11:30:00.000Z",
+      "summary": "The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tues…",
+      "pubDate": "2026-11-26T10:51:27.000Z",
       "isFallback": false
     }
   ]
