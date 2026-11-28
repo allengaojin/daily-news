@@ -1,28 +1,28 @@
 {
   "meta": {
     "date": "2026-11-28",
-    "updatedAt": "2026-11-27T20:01:46.927Z",
+    "updatedAt": "2026-11-28T04:46:13.688Z",
     "mode": "live"
   },
   "domestic": [
     {
-      "id": "it之家-1795790926000",
+      "id": "it之家-1795836142000",
       "region": "domestic",
-      "title": "华擎推出旗舰一体式液冷 Taichi AQUA 360 LCD：引入分体式设计",
-      "url": "https://www.ithome.com/1/033/769.htm",
+      "title": "“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据",
+      "url": "https://www.ithome.com/1/033/824.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"ccda\">IT之家 11 月 27 日消息，华擎 (ASRock) 今日宣布推出旗舰级处理器液冷散热器 Taichi AQUA 360 LCD。该型号总体上来看属于一体式 (AIO) 类型，但又具备一些分体式的特质。</p><p data-vmark=\"4948\" style=\"text-align: center;\"><im…",
-      "pubDate": "2026-11-27T14:48:46.000Z",
+      "summary": "<p data-vmark=\"3bcb\">IT之家 11 月 28 日消息，当地时间 26 日，据《财富》杂志报道，托尼 · 法德尔透露，萨姆 · 奥尔特曼曾邀请苹果前设计主管乔纳森 · 艾夫为 OpenAI 打造一款实体设备，原因是 OpenAI <strong>无法从运行其 AI 服务的 iPhone 中取得所需数据</strong>。</p><p da…",
+      "pubDate": "2026-11-28T03:22:22.000Z",
       "isFallback": false
     },
     {
-      "id": "it之家-1795788710000",
+      "id": "it之家-1795835903000",
       "region": "domestic",
-      "title": "防考生利用 AI 作弊，韩国学校抢购金属探测器",
-      "url": "https://www.ithome.com/1/033/763.htm",
+      "title": "Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能",
+      "url": "https://www.ithome.com/1/033/822.htm",
       "source": "IT之家",
-      "summary": "<p data-vmark=\"5e9f\">IT之家 11 月 27 日消息，据央视新闻报道，为防范考生利用人工智能（AI）设备作弊，韩国教育部近日发布新规，要求所有参加校内考试的学生须在考试前后<strong>接受金属探测器检查</strong>。各地学校加紧采购金属探测器，导致供不应求。</p><p data-vmark=\"9da8\">报道提到，一家生产便…",
-      "pubDate": "2026-11-27T14:11:50.000Z",
+      "summary": "<p data-vmark=\"9daf\">IT之家 11 月 28 日消息，科技媒体 Android Authority 昨日（11 月 27 日）发布博文，<strong>通过挖掘 One UI 9.5 首个 Beta 测试版代码，发现了关联“20271”的 36 项 Galaxy AI 功能，预估将成为 Galaxy S27 系列手机独占 AI 功能。<…",
+      "pubDate": "2026-11-28T03:18:23.000Z",
       "isFallback": false
     },
     {
@@ -58,23 +58,23 @@
   ],
   "abroad": [
     {
-      "id": "google-news-ai-1795809180000",
+      "id": "google-news-ai-1795839602000",
       "region": "abroad",
-      "title": "ChatGPT AI Predicts What $500 in Dogecoin Could Be Worth by 2028 - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZktpb25mVUJCbHYtM2lsNnlZTlNLbHV3SUdiNF9tZkhRQ3F2ZTFuSUR3ZG5pOFNLbGZIbmpDazBhNjAyRU9COEUzcWZ5UlNaam9NeUdmM2gyaW1ydjJidVJycjBhelhjTXRPSDZxZUd2YkcybmlYU0FDc0IwS0o3UTV1NFZ3ZzFXanlZRFVDLUdMaGU1dUxNVk04NE40R2I3SmttR2pSRklqVTZheW4zZWUzSkVoM3dBWkl4Y0g5cw?oc=5",
+      "title": "Researchers explore the use of AI and smart sensors to improve food safety quickly, affordably - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UbWc3dzZFQm91M1NzR2lYejZtWGJIaFBqN2Z3X3NvLVp4cnJ5Z3BFekxKWE91UGpDbnJyU2dfRE0yT1VLSS1CTEFOTC1EUl9PSnZzaHh0N2lVSXNvbzR1ZE5yRjItMDJESGFNbjhXWk85dw?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNZktpb25mVUJCbHYtM2lsNnlZTlNLbHV3SUdiNF9tZkhRQ3F2ZTFuSUR3ZG5pOFNLbGZIbmpDazBhNjAyRU9COEUzcWZ5UlNaam9NeUdmM2gyaW1ydjJidV…",
-      "pubDate": "2026-11-27T19:53:00.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5UbWc3dzZFQm91M1NzR2lYejZtWGJIaFBqN2Z3X3NvLVp4cnJ5Z3BFekxKWE91UGpDbnJyU2dfRE0yT1VLSS1CTEFOTC1EUl9PSnZzaHh0N2lVSXNvbzR1ZE…",
+      "pubDate": "2026-11-28T04:20:02.000Z",
       "isFallback": false
     },
     {
-      "id": "google-news-ai-1795809144000",
+      "id": "google-news-ai-1795838749000",
       "region": "abroad",
-      "title": "Poland signs $300m deal with Palantir for AI-powered battlefield software platform - Notes From Poland",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFJrMWVaZWFXSmQzb2pxQ1Y0UHZIOHU4REdVT2hEVDFhTUw0bEJJVERuWVFvRTlOcFQxXzc1LTF4YWlTbkVjUzBHOGVLal9BMkVla0Viek54MENkYnhva09HbUM4MHNEY3hfdWZLT0tlb0VBcGRaeFNEb2o0UWxrRGZxRHoxcGs3NHJvWXI1TEdzbmNwU0RGbzhNdGd2akt1MVJqbHdHY1BRMi1YS1RLX1o1MVFTWVEwWEY4N2V3?oc=5",
+      "title": "AI Is Saving Workers Time. So Why Might They Be Working More? - Inc.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY2VtWGZ2N3gtMl9fS3RJdEJhUkM3ZEdIelprYzdpTC1qTzVMMkR0eHR2N2xpM2QyVVBlUE5JdGJncGZNYTRuWFJxUkt1M3JoNllZdk9COHNfYXRYWHpaMlJxajFHbGdxUU44Y1k3X1E2V2dzQWU3QmRjMkw4SW9seVZYbThhZWJ5czZyUHY5bE9YWV9EbU12elV1bWYxUWpTRVo4?oc=5",
       "source": "Google News AI",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFJrMWVaZWFXSmQzb2pxQ1Y0UHZIOHU4REdVT2hEVDFhTUw0bEJJVERuWVFvRTlOcFQxXzc1LTF4YWlTbkVjUzBHOGVLal9BMkVla0Viek54MENkYnhva0…",
-      "pubDate": "2026-11-27T19:52:24.000Z",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNY2VtWGZ2N3gtMl9fS3RJdEJhUkM3ZEdIelprYzdpTC1qTzVMMkR0eHR2N2xpM2QyVVBlUE5JdGJncGZNYTRuWFJxUkt1M3JoNllZdk9COHNfYXRYWHpaMl…",
+      "pubDate": "2026-11-28T04:05:49.000Z",
       "isFallback": false
     },
     {
